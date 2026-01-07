@@ -11,10 +11,14 @@
             "id": "69c22b8830262ff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intuitive Eating/Intuitive Eating, Chapter 1, Foreword & Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intuitive Eating, Chapter 1, Foreword & Introduction"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intuitive Eating/Intuitive Eating, Chapter 1, Foreword & Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Intuitive Eating, Chapter 1, Foreword & Introduction"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intuitive Eating/Intuitive Eating, Chapter 1, Foreword & Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Intuitive Eating, Chapter 1, Foreword & Introduction"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Intuitive Eating/Intuitive Eating, Chapter 1, Foreword & Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Intuitive Eating, Chapter 1, Foreword & Introduction"
             }
           },
           {
@@ -187,6 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37137cff043763b6",
-  "lastOpenFiles": []
+  "active": "69c22b8830262ff4",
+  "lastOpenFiles": [
+    "Images for Embedding/LLC_Witches_of_Oz.pdf",
+    "Images for Embedding/LLC_Transphoria.pdf",
+    "Images for Embedding/IronWidow_Context.tif",
+    "Images for Embedding/Intuitive Eating, Summary of Eater Styles 2.jpg",
+    "Images for Embedding/Intuitive Eating, Summary of Eater Styles 2 1.jpg",
+    "Images for Embedding/Intuitive Eating, Summary of Eater Styles 1.jpg",
+    "Images for Embedding/Intuitive Eating, Summary of Eater Styles 1 1.jpg",
+    "Images for Embedding/Intuitive Eating Assessment Scale 3.jpg",
+    "Images for Embedding/Intuitive Eating Assessment Scale 3 1.jpg",
+    "Images for Embedding/Intuitive Eating Assessment Scale 2.jpg",
+    "Images for Embedding/Intuitive Eating Assessment Scale 2 1.jpg",
+    "Images for Embedding/Intuitive Eating Assessment Scale 1.jpg",
+    "Images for Embedding/Intuitive Eating Assessment Scale 1 1.jpg",
+    "Images for Embedding",
+    "New folder",
+    "Trans Femme Futures/Trans Femme Futures, Chapter 2.md",
+    "Trans Femme Futures/Trans Femme Futures, Chapter 1 & Introduction.md",
+    "Trans Femme Futures",
+    "The Body Is Not an Apology/The Body Is Not an Apology, Chapter 1, Foreword & Prologue.md",
+    "The Body Is Not an Apology",
+    "Los Cuatros Acuerdos/Los Cuatros Acuerdos.md",
+    "Los Cuatros Acuerdos",
+    "Intuitive Eating/Intuitive Eating, Chapter 5.md",
+    "Intuitive Eating/Intuitive Eating, Chapter 4.md",
+    "Intuitive Eating/Intuitive Eating, Chapter 3.md",
+    "Intuitive Eating/Intuitive Eating, Chapter 2.md",
+    "Intuitive Eating/Intuitive Eating, Chapter 1, Foreword & Introduction.md",
+    "Intuitive Eating"
+  ]
 }
