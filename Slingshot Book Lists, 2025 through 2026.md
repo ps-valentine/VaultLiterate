@@ -1,0 +1,95 @@
+**Notes on the List**
+- Books are listed in reverse-chronological order.
+- If a book is included on more than one of Slingshot's annual lists, I only include the most recent mention (and they *do* repeat).
+- I've often included subtitles where the Slingshot Collective did not, presumably for space reasons. I'm a sucker for subtitles and we're not limited by space here!
+- If I've noted "available online" next to a listing, that indicates that a.) I was having a difficult time sourcing a printed book and b.) that the listing appears to have been primarily (or initially) released online.
+- I've identified university presses, as I understand these books can be more difficult to obtain for regular bookstores. I've also identified AK Press because I love them very much.
+- The below listing isn't actually a book, it's a scientific article! Where possible, I will include information on the journal they came from; I've also stylized peer-reviewed/scientific articles differently, with "quotations" instead of *italics*.
+	- "Conjunctural Mapping of People's Park" (2024) by Gregory Woolston & Katharyne Mitchell from *Annals of the American Association of Geographers*
+- **2026/01/07:** I do plan to expand this list to include the recommendations from Slingshot planners from prior years!
+### **2026, Food for Thought Book List**
+#### **Nonfiction**
+- *Let This Radicalize You* (2023) by Kelly Hayes & Mariame Kaba
+- *Delay, Deny, Defend* by (2025) Jay M. Feinman
+- *The Dawn of Everything: A New History of Humanity* (2023) by David Graeber & David Wengrow
+- *Homage to Catalonia* (1938) by George Orwell
+- *The Politics of Nonviolent Action* (1973) by Gene Sharp
+- *The Solutions Are Already Here: Strategies for Ecological Revolution from Below* (2022) by Peter Gelderloos
+- *Settler Cannabis: From Gold Rush to Green Rush in Indigenous Northern California* (2023) by Kaitlin Reed, from University of Washington Press
+- *All We Can Save* (2021) by Ayana Elizabeth Johnson & Katharine K. Wilkinson
+- *Simple Sabotage Field Manual* (1944; declassified in 2008) by the U.S. Office of Strategic Services (which would later become the CIA)
+- *Bound for Glory* (1943) by Woody Guthrie
+- *A Continuous Struggle: the Revolutionary Life of Martin Sostre* (2025) by Garrett Felber, from AK Press
+- *In Defense of Looting: A Riotous History of Uncivil Action* (2020) by Vicky Osterweil
+- *Slow Down: A Degrowth Communist Manifesto* (2024) by Kōhei Saitō
+- *Countering Dispossession, Reclaiming Land: A Social Movement Ethnography* (2024) by David E Gilbert, from University of California Press
+- *Riot. Strike. Riot.: The New Era of Uprisings* (2019) by Joshua Clover
+- *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins* (2021) by Anna (Lowenhaupt) Tsing, from Princeton University Press
+- *Blessed Is the Flame* (2016) by Serafinski; available online
+- *The Legacy of Luna* (2001) by Julia Butterfly Hill
+- *Fear of Black Consciousness* (2023) by Lewis R. Gordon
+- *Grievance: in Fragments* (2024) by Grant Farred
+- *The DIY Occupation Guide (2024 Update)* by anonymous contributors; available online
+- *Against the Vortex: Zargoz and Degrowth Utopias in the Seventies and Today* (2024) by Anthony Galluzzo
+- *The Politics of All: Thomas Jefferson and Radical Democracy* (2024) by Dean Caivano
+- *Environmental Warfare in Gaza: Colonial Violence and New Landscapes of Resistance* (2024) by Shourideh C. Molavi
+- *A Mass Conspiracy to Feed People: Food Not Bombs and the World-Class Waste of Global Cities* (2021) by David Boarder Giles, from Duke University Press
+- *The Capital Order: How Economists Invented Austerity and Paved the Way to Fascism* by Clara E. Mattei
+- *Arts of Living on a Damaged Planet* (2017) by Anna Lowenhaupt Tsing, Nils Bubandt, Elaine Gan & Heather Anne Swanson, from University of Minnesota Press
+- *Imperial San Francisco* (1999) by Gray Brechin, from University of California Press
+#### **Fiction**
+- *Country of Ghosts* (2021) by Margaret Killjoy, from AK Press
+- *The Dispossessed* (1974) by Ursula K. Le Guin
+- *The Ministry for the Future* (2021) by Kim Stanley Robinson
+- *This Is How You Lose the Time War* (2020) by Amal El-Mohtar & Max Gladstone
+- *Inferno* (1321) by Dante Alighieri
+- *The Faggots & Their Friends Between Revolutions* (1977) by Larry Mitchell
+- *Trouble on Triton: An Ambiguous Heterotopia* (1976) by Samuel R. Delaney, from Wesleyan University Press
+- *Babel, or the Necessity of Violence* (2022) by R.F. Kuang
+- *Sand Catcher* (2024) by Omar Khalifah
+- *Rojava: A Novel of Kurdish Freedom* (2024) by Sharam Qawami
+- *The Fifth Sacred Thing* (1994) by Starhawk
+### **2025, Books for Our Late Stage Capitalistic, Genocidal Times**
+#### **Nonfiction**
+- *The Congo from Leopold to Kabila: A People's History* (2002) by Georges Nzongola-Ntalaja
+- *Sudan's Unfinished Democracy: The Promise and Betrayal of a People's Revolution* (2022) by Raga Makawi, Willow Berridge, Justin Lynch & Alex de Waal; from Oxford University Press
+- *The Hundred Years' War on Palestine* (2021) by Rashid Khalidi
+- *Rest is Resistance: A Manifesto* (2022) by Tricia Hersey
+- *Black Liturgies* (2024) by Cole Arthur Riley
+- *How to Stay Sane in an Age of Division* (2020) by Elif Shafak
+- *Active Hope: How to Face the Mess We're in with Unexpected Resilience and Creative Power* (2012) by Joanna Macy & Chris Johnstone
+- "Conjunctural Mapping of People's Park" (2024) by Gregory Woolston & Katharyne Mitchell from *Annals of the American Association of Geographers*
+- *How Europe Underdeveloped Africa* (2018) by Walter Rodney
+- *Down to Earth: Politics in the New Climatic Regime* (2018) by Bruno Latour
+- *Sand Talk: How Indigenous Thinking Can Save the World* (2021) by Tyson Yunkaporta
+- *In the Wake: On Blackness and Being* (2016) by Christina Sharpe, from Duke University Press
+- *Seeing like a State* (1999) by James C. Scott, from Yale University Press
+- *Pollution is Colonialism* (2021) by Max Liboiron, from Duke University Press
+- *Caliban and the Witch: Women, the Body and Primitive Accumulation* (2004) by Silvia Federici
+- *How Fascism Works: The Politics of Us and Them* (2020) by Jason Stanley
+- *Mutual Aid: Building Solidarity During this Crisis (and the Next)* (2020) by Dean Spade
+- *Inflamed: Deep Medicine and the Anatomy of Injustice* (2022) by Rupa Marya & Raj Patel
+- *Red Skin, White Masks: Rejecting the Colonial Politics of Recognition* (2014) by Glen Sean Coulthard, from University of Minnesota Press
+- *From Urbanization to Cities: The Politics of Democratic Municipalism* (2022) by Murray Bookchin, from AK Press
+- *Recollections of My Life as a Woman* (2002) by Diane Di Prima
+- *Anarchist Popular Power, Dissident Labor and Armed Struggle in Uruguay, 1956-76* (2023) by Troy Andreas Araiza Kokinis, from AK Press
+- *Our Beloved Kin: A New History of King Phillip's War* (2019) by Lisa Brooks, from Yale University Press
+- *Whites, Jews, and Us: Toward a Politics of Revolutionary Love* (2017) by Houria Bouteldja
+- *The Ghetto Fights: Warsaw, 1941-43* (1990) by Marek Edelmann
+- *Urban Indigenous Youth Reframing Two-Spirit* (2021) by Marie Laing
+- *Conflict is Not Abuse: Overstating Harm, Community Responsibility and the Duty of Repair* (2016) by Sarah Schulman
+#### **Fiction**
+- *Always Coming Home* (1985) by Ursula K. Le Guin
+- *The Blue Clerk: Ars Poetica in 59 Versos* (2022) by Dionne Brand, from Duke University Press
+- *Paul Takes the Form of a Mortal Girl* (2019) by Andrea Lawlor
+- *Noor* (2022) by Nnedi Okorafor
+- *A Psalm for the Wild-Built: A Monk and Robot Book* (2021) by Becky Chambers
+- *The World We Make (A Sequel)* (2023) by N.K. Jemisin
+- *Hijab Butch Blues: A Memoir* (2024) by Lamya H.
+- *Everything for Everyone: An Oral History of the New York Commune, 2052-2072* (2022) by M.E. O'Brien & Eman Abdelhadi
+- *Begin the World Over* (2022) by Kung Li Sun, from AK Press
+- *Radicalized: Four Tales of Our Present Moment* (2020) by Cory Doctorow
+# Author(s) Tags
+#AlexdeWaal #AmalEl-Mohtar #AndreaLawlor #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrunoLatour #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #CIA #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidWengrow #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EmanAbdelhadi #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HouriaBouteldja #JamesCScott #JasonStanley #JayMFeinman #JoannaMarcy #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KellyHayes #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurrayBookchin #NKJemisin #NilsBubandt #NnediOkorafor #OmarKhalifah #PeterGelderloos #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RupaMarya #SamuelRDelaney #SarahSchulman #Serafinski #SharamQawami #ShouridehCMolavi #SilviaFederici #Starhawk #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WillowBerridge #WoodyGuthrie
+# Other Tags
+#/1321 #/1938 #/1943 #/1944 #/1973 #/1974 #/1976 #/1977 #/1985 #/1990 #/1994 #/1999 #/2001 #/2002 #/2004 #/2008 #/2012 #/2014 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #OxfordUniversity/Press #Palestine #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofMinnesota/Press #UniversityofWashington/Press #WesleyanUniversity/Press #YaleUniversity/Press
