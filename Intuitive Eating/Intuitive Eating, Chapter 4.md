@@ -25,4 +25,4 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 #### Principle 10: Honor Your Health – Gentle Nutrition
 - "Make food choices that honor your health and taste buds while making you feel good. Remember that you don't have to eat perfectly to be healthy. You will not suddenly get a nutrient deficiency or become unhealthy from one snack, one meal, or one day of eating. It's what you eat consistently over time that matters. Progress, not perfection, is what counts." (54)
 # Tags
-#dietbacklash #dietculture  #exercise #gentlenutrition #interoceptiveawareness #IntuitiveEating #movement
+#dietbacklash #dietculture  #exercise #gentlenutrition #interoceptiveawareness #IntuitiveEating #movement #sensoryawareness 

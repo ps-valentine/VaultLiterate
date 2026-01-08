@@ -1,4 +1,10 @@
 .obsidian/plugins/
+/.obsidian/plugins/
+.obsidian/plugins/obsidian-tasks-plugin/
+/.obsidian/plugins/obsidian-tasks-plugin/
 .obsidian/workspace.json
+/.obsidian/workspace.json
 .obsidian/workspace-mobile.json
+/.obsidian/workspace-/mobile.json
 .trash/
+/.trash/
