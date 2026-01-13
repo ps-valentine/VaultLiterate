@@ -1,7 +1,6 @@
 # Intuitive Eating
 by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 ### Intuitive Eating, Chapter 2: Hitting Diet Bottom 
-
 #### Symptoms of Diet Backlash
 - "***Diet backlash*** is the cumulative side effect of dieting (or some type of food restriction for the purpose of shrinking your body) -- it can be short term or chronic, depending on how long a person has been dieting." (19)
 - Other symptoms of diet backlash include...
