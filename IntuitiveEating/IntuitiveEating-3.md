@@ -36,12 +36,12 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed. 
 ##### Eat-Healthy-or-Die Messages.
 - "A 2015 Harris Poll of more than two thousands Americans found that nearly eight out of ten women and seven out of ten men in the United States suffer from food guilt." (40)
 #### Summary of Eater Styles 
-![[Intuitive Eating, Summary of Eater Styles 1 1.jpg]]
-![[Intuitive Eating, Summary of Eater Styles 2 1.jpg]]
+![[IE-EatingStyles1.jpg]]
+![[IE-EatingStyles2.jpg]]
 
 #### Intuitive Eating Assessment Scale
-![[Intuitive Eating Assessment Scale 1 1.jpg]]
-![[Intuitive Eating Assessment Scale 2 1.jpg]]
-![[Intuitive Eating Assessment Scale 3 1.jpg]]
+![[IE-AssessmentScale1.jpg]]
+![[IE-AssessmentScale2.jpg]]
+![[IE-AssessmentScale3.jpg]]
 # Tags
 #baby-ledweaning #childrearing #eatingpersonalities #foodguilt #IntuitiveEating
