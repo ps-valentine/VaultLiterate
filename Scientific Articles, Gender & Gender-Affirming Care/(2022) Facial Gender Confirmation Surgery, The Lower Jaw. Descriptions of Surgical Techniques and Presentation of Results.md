@@ -1,5 +1,0 @@
-Simon, Daniel, Luis Capitán, Carlos Bailón, et al. “Facial Gender Confirmation Surgery: The Lower Jaw. Descriptions of Surgical Techniques and Presentation of Results.” Plastic and Reconstructive Surgery 149, no. 4 (2022): 755e-766e, [https://journals.lww.com/plasreconsurg/fulltext/2022/04000/facial_gender_confirmation_surgery__the_lower_jaw_.37.aspx](https://journals.lww.com/plasreconsurg/fulltext/2022/04000/facial_gender_confirmation_surgery__the_lower_jaw_.37.aspx). 
-
-An overview of ‘lower-third’ FGCS procedures, focused on transfeminine patients with some minimal discussion of masculinizing procedures. Includes extensive operative photographs, a useful jaw surgery chart with 3D CT scans, before & after photographs, and an assessment of patient satisfaction and self-perceived femininity. Also, some discussion of surgical imaging & guides that are useful in FGCS.
-# Tags
-#/2022 #facialfeminizationsurgery #facialmasculinizationsurgery #FFS #FMS #GAS #gender-affirmingsurgery #imaging/CT #imaging/surgicalphotography #jawcontouring #PlasticandReconstructiveSurgery #scientificarticles #surgicaltechnique #treatmentefficacy/self-reported
