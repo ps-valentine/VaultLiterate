@@ -1,4 +1,4 @@
-**Notes on the List**
+#### **Notes on the List**
 - Recommendations are listed in reverse-chronological order.
 - If a book is included on more than one of Slingshot's annual lists, I only include the most recent mention (and they *do* repeat).
 - I've often included subtitles where the Slingshot Collective did not, presumably for space reasons. I'm a sucker for subtitles and we're not limited by space here!
@@ -91,41 +91,41 @@
 - *Radicalized: Four Tales of Our Present Moment* (2020) by Cory Doctorow
 ### **2024, books they want to burn**
 #### **Nonfiction**
-- *Close to the Knives* by David Wojnarowicz
-- *The Invention of Women* by Oyèrónkẹ́ Oyěwùmí
-- *Social Anarchism or Lifestyle Anarchism* by Murray Bookchin
-- *Black Spartacus: The Epic Life of Toussaint Louverture* by Sudhir Hazareesingh
-- *The Transgender Issue: An Argument for Justice* by Shon Faye
-- *Building the Population Bomb* by Emily Klancher Merchant
-- *The Intersectional Environmentalists* by Leah Thomas
-- *Side-Show: Kissinger, Nixon, and the Destruction of Cambodia* by William Shawcross
-- *Blood in the Water: The Attica Prison Uprising and Its Legacy* by Ann Thompson
-- *It Came from the Closet: Queer Reflections on Horror* by Joe Vallese
-- *Fight Like Hell* by Kim Kelly
-- *Corporate RockSucks: The Rise & Fall of SST Records* by Jim Ruland
-- *DIY House Shows and Music Venues in the US* by David Verbuc
-- *Hungry for Peace* by Keith McHenry
-- *The Left Bank: Writers, Artists, and Politics from the Popular Front to the Cold War* by Herbert R. Lottman
-- *A Punk House in the Deep South: The Oral History of 309* by Aaron Cometbus & Scott Satterwhite
-- *I Hate This Part of Texas* by John Gerkin
-- *Invisible Child* by Andrea Elliot
-- *Pirate Enlightenment, or the Real Libertalia* by David Graeber
-- *Captive Genders: Trans Embodiment and the Prison Industrial Complex* by Eric Stanley & Nat Smithers
+- *Close to the Knives: A Memoir of Disintegration* (1991) by David Wojnarowicz
+- *The Invention of Women: Making an African Sense of Western Gender Discourses* (1997) by Oyèrónkẹ́ Oyěwùmí from University of Minnesota Press
+- *Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm* (2001) by Murray Bookchin from AK Press
+- *Black Spartacus: The Epic Life of Toussaint Louverture* (2021) by Sudhir Hazareesingh
+- *The Transgender Issue: Trans Justice Is Justice for All* (2022) by Shon Faye
+- *Building the Population Bomb* (2021) by Emily Klancher Merchant
+- *The Intersectional Environmentalist: How to Dismantle Systems of Oppression to Protect People + Planet* (2022) by Leah Thomas
+- *Side-Show: Kissinger, Nixon, and the Destruction of Cambodia* (2002) by William Shawcross
+- *Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy* (2017) by Ann Thompson
+- *It Came from the Closet: Queer Reflections on Horror* (2022) edited by Joe Vallese
+- *Fight Like Hell: The Untold History of American Labor* (2023) by Kim Kelly
+- *Corporate Rock Sucks: The Rise & Fall of SST Records* (2023) by Jim Ruland
+- *DIY House Shows and Music Venues in the US: Ethnographic Explorations of Place and Community* (2023) by David Verbuc
+- *Hungry for Peace: How You Can Help End Poverty and War with Food Not Bombs* (2012) by Keith McHenry
+- *The Left Bank: Writers, Artists, and Politics from the Popular Front to the Cold War* (1998) by Herbert R. Lottman from University of Chicago Press
+- *A Punk House in the Deep South: The Oral History of 309* (2021) by Aaron Cometbus & Scott Satterwhite from University Press of Florida
+- *I Hate This Part of Texas* (2006) by John Gerkin
+- *Invisible Child: Poverty, Survival & Hope in an American City* (2022) by Andrea Elliot
+- *Pirate Enlightenment, or the Real Libertalia* (2024) by David Graeber
+- *Captive Genders: Trans Embodiment and the Prison Industrial Complex* (2015) by Eric Stanley & Nat Smithers from AK Press
 #### **Fiction**
-- *No Gods, No Monsters* by Cadwell Turnbull
-- *We Won't Be Here Tomorrow* by Margaret Killjoy
-- *The Only Good Indians* by Stephen Graham Jones
-- *The Futurological Congress* by Stanislaw Lem
-- *The Heart Is a Lonely Hunter* by Carson McCullers
-- *Ruin* by Cara Hoffman
-- *Wild Thorns* by Sahar Khalifeh
+- *No Gods, No Monsters* (2022) by Cadwell Turnbull
+- *We Won't Be Here Tomorrow* (2022) by Margaret Killjoy from AK Press
+- *The Only Good Indians: A Novel* (2020) by Stephen Graham Jones
+- *The Futurological Congress: From the Memoirs of Ijon Tichy* (1985) by Stanislaw Lem
+- *The Heart Is a Lonely Hunter* (1940) by Carson McCullers
+- *Ruin* (2022) by Cara Hoffman
+- *Wild Thorns* (1976) by Sahar Khalifeh; originally published in Arabic
 ##### Poetry
-- *Bread and Circus* by Airea D. Matthews
-- *Oh, you thought this was a date?* by C. Russell Price
-- *Cruel Fiction* by Wendy Trevino
-- *The Book of the Dead* by Muriel Rukeyser
-- *Patriarchy Blues* by Rena Priest
+- *Bread and Circus* (2024) by Airea D. Matthews
+- *Oh, you thought this was a date?: Apocalypse Poems* (2022) by C. Russell Price from Northwestern University Press
+- *Cruel Fiction* (2018) by Wendy Trevino
+- *The Book of the Dead* (1938) by Muriel Rukeyser
+- *Patriarchy Blues* (2017) by Rena Priest
 # Author(s) Tags
 #AaronCometbus #AireaDMatthews #AlexdeWaal #AmalEl-Mohtar #AndreaElliot #AndreaLawlor #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrunoLatour #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EmanAbdelhadi #EmilyKlancherMerchant #EricStanley #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HerbertRLottman #HouriaBouteldja #JamesCScott #JasonStanley #JayMFeinman #JimRuland #JoannaMarcy #JoeVallese #JohnGerkin #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahThomas #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterGelderloos #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RenaPriest #RupaMarya #SaharKhalifeh #SamuelRDelaney #SarahSchulman #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
 # Other Tags
-#/1321 #/1938 #/1943 #/1944 #/1973 #/1974 #/1976 #/1977 #/1985 #/1990 #/1994 #/1999 #/2001 #/2002 #/2004 #/2008 #/2012 #/2014 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #OxfordUniversity/Press #Palestine #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofMinnesota/Press #UniversityofWashington/Press #WesleyanUniversity/Press #YaleUniversity/Press
+#/1321 #/1938 #/1940 #/1943 #/1944 #/1973 #/1974 #/1976 #/1977 #/1985 #/1990 #/1991 #/1994 #/1997 #/1998 #/1999 #/2001 #/2002 #/2004 #/2006 #/2008 #/2012 #/2014 #/2015 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #NorthwesternUniversity/Press #OxfordUniversity/Press #Palestine #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofChicago/Press #UniversityofFlorida/Press #UniversityofMinnesota/Press #UniversityofMissouri/Press #UniversityofWashington/Press #UniversityPressofFlorida #WesleyanUniversity/Press #YaleUniversity/Press #zines
