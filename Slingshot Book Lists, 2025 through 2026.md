@@ -89,7 +89,43 @@
 - *Everything for Everyone: An Oral History of the New York Commune, 2052-2072* (2022) by M.E. O'Brien & Eman Abdelhadi
 - *Begin the World Over* (2022) by Kung Li Sun, from AK Press
 - *Radicalized: Four Tales of Our Present Moment* (2020) by Cory Doctorow
+### **2024, books they want to burn**
+#### **Nonfiction**
+- *Close to the Knives* by David Wojnarowicz
+- *The Invention of Women* by Oyèrónkẹ́ Oyěwùmí
+- *Social Anarchism or Lifestyle Anarchism* by Murray Bookchin
+- *Black Spartacus: The Epic Life of Toussaint Louverture* by Sudhir Hazareesingh
+- *The Transgender Issue: An Argument for Justice* by Shon Faye
+- *Building the Population Bomb* by Emily Klancher Merchant
+- *The Intersectional Environmentalists* by Leah Thomas
+- *Side-Show: Kissinger, Nixon, and the Destruction of Cambodia* by William Shawcross
+- *Blood in the Water: The Attica Prison Uprising and Its Legacy* by Ann Thompson
+- *It Came from the Closet: Queer Reflections on Horror* by Joe Vallese
+- *Fight Like Hell* by Kim Kelly
+- *Corporate RockSucks: The Rise & Fall of SST Records* by Jim Ruland
+- *DIY House Shows and Music Venues in the US* by David Verbuc
+- *Hungry for Peace* by Keith McHenry
+- *The Left Bank: Writers, Artists, and Politics from the Popular Front to the Cold War* by Herbert R. Lottman
+- *A Punk House in the Deep South: The Oral History of 309* by Aaron Cometbus & Scott Satterwhite
+- *I Hate This Part of Texas* by John Gerkin
+- *Invisible Child* by Andrea Elliot
+- *Pirate Enlightenment, or the Real Libertalia* by David Graeber
+- *Captive Genders: Trans Embodiment and the Prison Industrial Complex* by Eric Stanley & Nat Smithers
+#### **Fiction**
+- *No Gods, No Monsters* by Cadwell Turnbull
+- *We Won't Be Here Tomorrow* by Margaret Killjoy
+- *The Only Good Indians* by Stephen Graham Jones
+- *The Futurological Congress* by Stanislaw Lem
+- *The Heart Is a Lonely Hunter* by Carson McCullers
+- *Ruin* by Cara Hoffman
+- *Wild Thorns* by Sahar Khalifeh
+##### Poetry
+- *Bread and Circus* by Airea D. Matthews
+- *Oh, you thought this was a date?* by C. Russell Price
+- *Cruel Fiction* by Wendy Trevino
+- *The Book of the Dead* by Muriel Rukeyser
+- *Patriarchy Blues* by Rena Priest
 # Author(s) Tags
-#AlexdeWaal #AmalEl-Mohtar #AndreaLawlor #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrunoLatour #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #CIA #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidWengrow #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EmanAbdelhadi #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HouriaBouteldja #JamesCScott #JasonStanley #JayMFeinman #JoannaMarcy #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KellyHayes #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurrayBookchin #NKJemisin #NilsBubandt #NnediOkorafor #OmarKhalifah #PeterGelderloos #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RupaMarya #SamuelRDelaney #SarahSchulman #Serafinski #SharamQawami #ShouridehCMolavi #SilviaFederici #Starhawk #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WillowBerridge #WoodyGuthrie
+#AaronCometbus #AireaDMatthews #AlexdeWaal #AmalEl-Mohtar #AndreaElliot #AndreaLawlor #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrunoLatour #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EmanAbdelhadi #EmilyKlancherMerchant #EricStanley #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HerbertRLottman #HouriaBouteldja #JamesCScott #JasonStanley #JayMFeinman #JimRuland #JoannaMarcy #JoeVallese #JohnGerkin #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahThomas #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterGelderloos #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RenaPriest #RupaMarya #SaharKhalifeh #SamuelRDelaney #SarahSchulman #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
 # Other Tags
-#/1321 #/1938 #/1943 #/1944 #/1973 #/1974 #/1976 #/1977 #/1985 #/1990 #/1994 #/1999 #/2001 #/2002 #/2004 #/2008 #/2012 #/2014 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #OxfordUniversity/Press #Palestine #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofMinnesota/Press #UniversityofWashington/Press #WesleyanUniversity/Press #YaleUniversity/Press
+#/1321 #/1938 #/1943 #/1944 #/1973 #/1974 #/1976 #/1977 #/1985 #/1990 #/1994 #/1999 #/2001 #/2002 #/2004 #/2008 #/2012 #/2014 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #OxfordUniversity/Press #Palestine #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofMinnesota/Press #UniversityofWashington/Press #WesleyanUniversity/Press #YaleUniversity/Press
