@@ -10,15 +10,24 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 #### Stage One: Readiness – Hitting Diet Bottom
 - "This stage continues until you decide that you are unhappy eating and living this way – you are ready to do something about it. Your first thoughts may veer toward finding a new diet to solve your problems. But almost immediately, you realize that you just can't do that one ever again. If this is where you find yourself, then you are ready for the process that will bring you back to eating intuitively." (58)
 #### Stage Two: Exploration – Conscious Learning and Pursuit of Pleasure
-- "This is a stage of exploration and discovery. You will go  through a phase of hyperconsciousness to help reacquaint yourself with your intuitive signals: hunger, taste preferences, satisfaction, and satiety." (58)
+- "This is a stage of exploration and discovery. You will go through a phase of hyperconsciousness to help reacquaint yourself with your intuitive signals: hunger, taste preferences, satisfaction, and satiety." (58)
 - "It may seem awkward and uncomfortable, even obsessive. However, hyperconsciousness is different than obsessive thinking. Obsessive thinking is pervasive and is characterized by worry. It fills your mind during most of the day and keeps you from thinking of much else. Hyperconsciousness is more specific. It zooms in when you're ready to eat but goes away when the eating experience is over... Intuitive Eating will eventually be experienced without this initial awkwardness." (59)
 - "In this stage, you'll begin to make peace with food by giving yourself unconditional permission to eat... You will learn to get rid of guilt-induced eating and begin to discover the importance of the satisfaction factor with food." (59)
 - "You will experiment with foods that you may not have eaten for a long time. This includes sorting out your true food likes and dislikes." (59)
-- "You will learn to honor your hunger and recognize your body signals that indicate the many degrees of hunger. You will learn to separate these biological signals from the emotional signals that might also trigger eating." (59)
+- "You will learn to **honor your hunger** and recognize your body signals that indicate the many degrees of hunger. You will learn to separate these biological signals from the emotional signals that might also trigger eating." (59)
 - "In this stage, you may find that you are eating larger quantities of foods than your body needs. It will be difficult to respect your fullness at this stage, because you need time to experiment with the quantity it takes to satisfy a deprived palate." (59)
 - "The bulk of your eating may be foods that have previously been forbidden, although you may have been eating large quantities of these food secretly or with guilt. It is unlikely that the way you eat during this stage will be the pattern hat you will establish or want for a lifetime. You will notice that your nutritional balance is off-kilter and you may not feel physically on top of things during this time. This is all normal and expected. You must let yourself go through this stage for as long as you need. Remember, you are making up for years of deprivation, negative self-talk, and guilt. You are rebuilding positive food experiences..." (60)
 #### Stage Three: Crystallization
-**(TO BE CONTINUED)**
-
+- "When you enter this stage, much of the exploration work from the previous stage begins to crystallize and feels like solid behavior change. Your thoughts about food are no longer obsessive. You hardly need to maintain the hyperconsciousness about eating that was originally needed... Instead, you find that your food choices and responses to biological signals are mainly intuitive." (60)
+- "If you've been an emotionally cued eater, you'll become quite adept at separating biological hunger signals from emotional hunger." (61)
+- "What is most important at this stage is the sense of well-being and empowerment that beings to take place." (61)
+#### Stage Four: The Intuitive Eater Awakens
+- "By the time you reach this stage, all of the work you have been doing culminates in a comfortable, free-flowing eating style." (61)
+- "You may begin to find that you choose more nutrient-dense foods, not because you think you should, but because you *feel* better physically when you eat this way." (61)"
+- "When you do choose the foods you used to restrict, you will get great pleasure and be more acutely in touch with satisfaction, without feeling guilt. (When you feel guilty eating a food, it takes away the pleasure from eating.)" (61-62)
+- "If coping with your feelings had been difficult for you, you will be less afraid to experience them, and become more adept at sitting with them. Finding diverse alternatives to distract and comfort yourself when necessary will become natural for you." (62)
+- "Your food talk and self-talk will be positive and noncritical... you will have released any conflict or leftover guilt about food choices... You have stopped making disrespectful comments about your body. You respect i and accept that there are many different sizes and shapes in the world..." (62)
+#### Stage Five: The Final Stage - Treasure the Pleasure
+- "... TO BE CONTINUED"
 # Tags 
-#dietculture #IntuitiveEating #weight #weight-loss
+#copingtools #dietculture #distresstolerance #interoceptiveawareness #IntuitiveEating #mentalhealth/foodtalk #mentalhealth/internaldialogue #mentalhealth/self-talk #proprioception #sensoryawareness #weight #weight-loss

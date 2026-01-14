@@ -1,5 +1,5 @@
 **Notes on the List**
-- Books are listed in reverse-chronological order.
+- Recommendations are listed in reverse-chronological order.
 - If a book is included on more than one of Slingshot's annual lists, I only include the most recent mention (and they *do* repeat).
 - I've often included subtitles where the Slingshot Collective did not, presumably for space reasons. I'm a sucker for subtitles and we're not limited by space here!
 - If I've noted "available online" next to a listing, that indicates that a.) I was having a difficult time sourcing a printed book and b.) that the listing appears to have been primarily (or initially) released online.

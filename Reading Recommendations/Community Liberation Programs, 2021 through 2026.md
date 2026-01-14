@@ -1,0 +1,66 @@
+**Notes on the List**
+- CLP's "[Reading Recommendations](https://docs.google.com/spreadsheets/d/1pkh41LjvW_-Je4Z-ZhKrch4Wr8ZIqPvWo3_iG_tlLIc/edit?gid=0#gid=0)" contains concise summaries and sources to find each recommendation.
+- Recommendations are listed in reverse-chronological order.
+### 2026
+- UNFINISHED (AND AUTHORS UNDOCUMENTED)
+### 2025
+- UNFINISHED (AND AUTHORS UNDOCUMENTED)
+### 2024
+- *We Are the Land: A History of Native California* by Damon Akins & William Bauer Jr.
+- *New Equations in the Palestinian Struggle: Ibrahim Al-Nabulsi, A Generation of Bravery, and the Phenomenon of Resistance* by Rookery Press
+- *Philosophical Trends in the Feminist Movement* by Anuradha Ghandy
+- UNFINISHED (AND AUTHORS UNDOCUMENTED)
+### 2023
+- *The Autobiography of Malcolm X* by Alex Haley & Malcolm X
+- *History of the Communist Party of the Soviet Union (Bolsheviks) Shoer Course, 1939 Edition* by the Central Committee of the CPSU
+- *Neo-Colonialism: The Last Stage of Imperialism* by Kwame Nkrumah
+- *Open Veins of Latin America: Five Centuries of the Pillage of a Continent* by Eduardo Galeano
+- *Materialism and the Dialectical Method* by Maurice Cornforth
+- *What Is To Be Done?* by Vladimir Lenin
+- *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* by Gary Webb
+- *Liberalism: A Counter-History* by Domenico Losurdo
+- *The Red Deal: Indigenous Action to Save Our Earth* by The Red Nation
+- *Decolonial Marxism* by Walter Rodney
+- *Return to the Source: Selected Speeches of Amilcar Cabral* by Amilcar Cabral, ed. by the African Information Service
+- *Matigari ma Nijruungi* (1986) by Ngũgĩ wa Thiong'o
+- *Settlers: The Mythology of the White Proletariat* by J. Sakai
+- *The Foundations of Leninism* by Joseph Stalin
+- *The Collected Works of the Black Liberation Army, Volume 1* by the Black Liberation Army (BLA)
+- *Activist Study* by Araling Aktibista (ARAK)
+- *Strategy for the Liberation of Palestine* by PFLP
+- *Red Star Over China* by Edgar Snow
+- *Organize! Fight! Win! Black Communist Women's Political Writing* by Dr. Charisse Burden-Stelly & Jodi Dean
+- *To Die for the People* by Huey P. Newton
+- *The Motorcycle Diaries* by Che Guevara
+- *The War Before: The True Life Story of Becoming a Black Panther, Keeping Faith in Prison, and Fighting for Those Left Behind* by Safiya Bukhari
+- *Revolutionary Suicide* by Dr. Huey P. Newton
+### 2022
+- *Black Shirts and Reds: Fascism and the Overthrow of Communism* by Michael Parenti
+- *Blood in My Eye* by George Jackson
+- *Black Power: The Politics of Liberation* by Kwame Ture & Charles V. Hamilton
+- *Are Prisons Obsolete?* by Angela Davis
+- *Social Reform or Revolution?* by Rosa Luxemburg
+- *Sandino's Daughters* by Margaret Randall
+- *How Europe Underdeveloped Africa* by Walter Rodney
+- *State and Revolution* by Vladimir Lenin
+- *An Indigenous Peoples' History of the United States* by Roxanne Dunbar-Ortiz
+- *Bury My Heart at Wounded Knee* by Dee Brown
+- *The Russian Revolution: A View from the Third World* by Walter Rodney
+- *Assata: An Autobiography* by Assata Shakur
+- *The Groundings with My Brothers* by Walter Rodney
+- *Pedagogy of the Oppressed* by Paulo Freire
+- *Orientalism* by Edward Said
+- *Border and Rule: Global Migration, Capitalism, and the Rise of Racist Nationalism* by Harsha Walia
+- *Belly of the Beast: The Politics of Anti-Fatness as Anti-Blackness* by Da-Shaun L. Harrison
+- *A Decolonial Feminism* by Françoise Vergès
+### 2021
+- *Imperialism: The Highest State of Capitalism* by Vladimir Lenin
+- *On Practice and On Contradiction* by Mao Zedong
+- *We Are Our Own Liberators* by Jalil Muntaqim
+- *Discourse on Colonialism* by Aime Cesaire
+- *Wretched of the Earth* by Frantz Fanon
+- *Socialism Utopian and Scientific* by Friedrich Engels
+# Author(s) Tags
+#ARAK #theAfricanInformationService #AimeCesaire #AlexHaley #AmilcarCabral #AngelaDavis #AralingAktibista #AssataShakur #BLA #theBlackLiberationArmy #theCentralCommitteeoftheCPSU #CharisseBurden-Stelly #CharlesVHamilton #CheGuevara #Da-ShaunLHarrison #DeeBrown #DomenicoLosurdo #EdgarSnow #EduardoGaleano #EdwardSaid #FrancoiseVerges #FrançoiseVergès #FrantsFanon #FriedrichEngels #GaryWebb #GeorgeJackson #HarshaWalia #HueyPNewton #JSakai #JalilMuntaqim #JodiDean #JosephStalin #KwameNkrumah #KwameTure #MalcolmX #MaoZedong #MargaretRandall #MauriceCornforth #MichaelParenti #NgugiwaThiongo #NgũgĩwaThiongo #PFLP #PauloFreire #PopularFrontfortheLiberationofPalestine #theRedNation #RosaLuxemburg #RoxanneDunbar-Ortiz #SafiyaBukhari #VladimirLenin #WalterRodney
+# Other Tags
+#/1986
