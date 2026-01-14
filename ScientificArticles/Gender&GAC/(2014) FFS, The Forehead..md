@@ -1,0 +1,5 @@
+Luis, Capitán, Daniel Simon, Kai Kaye, et. al. “Facial Feminization Surgery: The Forehead. Surgical Techniques and Analysis of Results.” Plastic and Reconstructive Surgery 134, no. 4 (2014): 609-619, [https://journals.lww.com/plasreconsurg/fulltext/2014/10000/facial_feminization_surgery__the_forehead_.7.aspx](https://journals.lww.com/plasreconsurg/fulltext/2014/10000/facial_feminization_surgery__the_forehead_.7.aspx) 
+
+“This article describes the main surgical techniques used in feminization of the forehead complex, sequences the different steps in forehead reconstruction, evaluates results obtained using cephalometric analysis, and includes the level of patient satisfaction.” An apt summary, with both CT imaging and surgical photographs for visualizations. Includes discussion of hairline lowering vs. hair transplantation and hairline vs. coronal incisions for top-third face modifications.
+# Tags
+#/2014 #facialfeminizationsurgery #FFS #foreheadreconstruction #GAS #gender-affirmingsurgery #imaging/CT #imaging/surgicalphotography #imaging/visualization #surgicaltechnique 
