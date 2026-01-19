@@ -1,6 +1,6 @@
 *Come Again* (2018) by Nate Powell; Top Shelf Productions. I'm not sure if this graphic novel is using proper duotone printing, or just limiting the color palette to two colors for a majority of its pages, but there *are* colors other than black, white & red.
 
-> [!info]-  Plot Summary
+> [!info]- Plot Summary
 > 
 > A mystery involving a cryptid of American folklore unfolds around a small community in the Ozarks.
 # Tags
