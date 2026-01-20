@@ -119,51 +119,27 @@
 - *The Heart Is a Lonely Hunter* (1940) by Carson McCullers
 - *Ruin* (2022) by Cara Hoffman
 - *Wild Thorns* (1976) by Sahar Khalifeh; originally published in Arabic
-##### **Poetry**
+##### Poetry
 - *Bread and Circus* (2024) by Airea D. Matthews
 - *Oh, you thought this was a date?: Apocalypse Poems* (2022) by C. Russell Price from Northwestern University Press
 - *Cruel Fiction* (2018) by Wendy Trevino
 - *The Book of the Dead* (1938) by Muriel Rukeyser
 - *Patriarchy Blues* (2017) by Rena Priest
-### 2018 (Mini-Slingshot), Read & Resist!
-#### **Fiction**
-- *Lilith's Brood* by Octavia Butler
-- *Tell Me How Long the Train's Been Gone* by James Baldwin
-- *Innocence: or, Murder on Steep Street* by Heda Margolius Kovály
-- *The Heart Goes Last* by Margaret Atwood
-- *Dr. Blood Money* by Philip K. Dick
-- *Chronicler of the Winds* by Henning Mankell
-- *Terrible Virtue* by Ellen Feldman
-- *A General Theory of Oblivion* by José Eduardo Agualusa
-- *Savage Theories* by Pola Oloixarac
-- *Amberlough* by Lara Elena Donnelly
-- *Mad Country* by Samrat Upadhyay
-- *Spoils* by Brian Van Reet
-- *The Mushroom Center Disaster* by N.M. Bodecker
-- *My Cat Yugoslavia* by Pajtim Statovci
-- *Change Agent* by Daniel Suarez
-- *The Sound and the Fury* by William Faulkner
-- *The Eternal Lightness of Being* by Milan Kundera
-- *1Q84* by Haruki Murakami
-- *Makers* by Cory Doctorow
-#### **Non-Fiction**
-- *Bad Feminist* by Roxanne Gay
-- *What Is Gender Nihilism?: A Reader*
-- *Encounters with the Archdruid* by John McPhee
-- *How to be a Defendant* by Tilted Scales Collective
-- *The Platform Sutra* by Huei Neng
-- *Red Thread Zen* by Susan Murphy
-- *Anarchist Speculations* by John Moore
-- *The Humanure Handbook* by Joseph Jenkins
-- *Coming Out Like a Porn Star*, edited by Jiz Lee
-- *Zen Confidential* by Shozan Jack Haubner
-- *Specters of Revolt* by Richard Gilman-Opalsky
-- *Queering Anarchism* by numerous contributors
-- *Molecular Red: Theory for the Anthropocene* by McKenzie Wark
-- *On the Lower Frequencies: A Secret History of the City* by Erick Lyle
-- *Plant Intelligence and the Imaginal Realm* by Stephen Harrod Buhner
-- *Cruising Utopia: The Then and There of Queer Futurity* by José Esteban Muñoz
-- *Dispatches Against Displacement: Field Notes from San Francisco's Housing Wars* by James Tracy
+### 2023 books: the future is unwritten
+#### non-fiction
+- Braiding Sweetgrass by Robin Wall Kimmerer
+- Night Vision by Butch Lee & Red Rover
+- Killing Rage by bell hooks
+- I Hope We Choose Love by Kai Cheng Thom
+- Becoming Abolitionists: Police, Protests and the Pursuit of Freedom by Derecka Purnell
+- We Do This 'Till We Free Us: Abolitionist Organizing and Transforming Justice by Mariame Kaba
+- ...
+#### fiction
+- The Dispossessed by Ursula K. LeGuin
+- ...
+#### poetry
+- Citizen Illegal by Jose Olivarez
+- Remember Death by Its Proximity to What I Love by Mahogany L. Browne
 # Author(s) Tags
 #AaronCometbus #AireaDMatthews #AlexdeWaal #AmalEl-Mohtar #AndreaElliot #AndreaLawlor #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrunoLatour #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EmanAbdelhadi #EmilyKlancherMerchant #EricStanley #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HerbertRLottman #HouriaBouteldja #JamesCScott #JasonStanley #JayMFeinman #JimRuland #JoannaMarcy #JoeVallese #JohnGerkin #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahThomas #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterGelderloos #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RenaPriest #RupaMarya #SaharKhalifeh #SamuelRDelaney #SarahSchulman #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
 # Other Tags
