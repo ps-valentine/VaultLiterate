@@ -119,12 +119,13 @@
 - *The Heart Is a Lonely Hunter* (1940) by Carson McCullers
 - *Ruin* (2022) by Cara Hoffman
 - *Wild Thorns* (1976) by Sahar Khalifeh; originally published in Arabic
-##### **Poetry**
+##### Poetry
 - *Bread and Circus* (2024) by Airea D. Matthews
 - *Oh, you thought this was a date?: Apocalypse Poems* (2022) by C. Russell Price from Northwestern University Press
 - *Cruel Fiction* (2018) by Wendy Trevino
 - *The Book of the Dead* (1938) by Muriel Rukeyser
 - *Patriarchy Blues* (2017) by Rena Priest
+<<<<<<< HEAD:ReadingRecs/Slingshot2018&2024-26.md
 ### 2018 (Mini-Slingshot), Read & Resist!
 #### **Fiction**
 - *Lilith's Brood* (2000) by Octavia Butler
@@ -164,6 +165,23 @@
 - *Plant Intelligence and the Imaginal Realm* by Stephen Harrod Buhner
 - *Cruising Utopia: The Then and There of Queer Futurity* by José Esteban Muñoz
 - *Dispatches Against Displacement: Field Notes from San Francisco's Housing Wars* by James Tracy
+=======
+### 2023 books: the future is unwritten
+#### non-fiction
+- Braiding Sweetgrass by Robin Wall Kimmerer
+- Night Vision by Butch Lee & Red Rover
+- Killing Rage by bell hooks
+- I Hope We Choose Love by Kai Cheng Thom
+- Becoming Abolitionists: Police, Protests and the Pursuit of Freedom by Derecka Purnell
+- We Do This 'Till We Free Us: Abolitionist Organizing and Transforming Justice by Mariame Kaba
+- ...
+#### fiction
+- The Dispossessed by Ursula K. LeGuin
+- ...
+#### poetry
+- Citizen Illegal by Jose Olivarez
+- Remember Death by Its Proximity to What I Love by Mahogany L. Browne
+>>>>>>> origin/main:ReadingRecs/Slingshot2024-26.md
 # Author(s) Tags
 #AaronCometbus #AireaDMatthews #AlexdeWaal #AmalEl-Mohtar #AndreaElliot #AndreaLawlor #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrianVanReet #BrunoLatour #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EllenFeldman #EmanAbdelhadi #EmilyKlancherMerchant #EricStanley #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HedaMargoliusKovály #HenningMankell #HerbertRLottman #HouriaBouteldja #JamesBaldwin #JamesCScott #JasonStanley #JayMFeinman #JimRuland #JoannaMarcy #JoeVallese #JohnGerkin #JoséEduardoAgualusa #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahThomas #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretAtwood #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #OctaviaButler #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterGelderloos #PhilipKDick #PolaOloixarac #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RenaPriest #RupaMarya #SaharKhalifeh #SamratUpadhyay #SamuelRDelaney #SarahSchulman #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
 # Other Tags
