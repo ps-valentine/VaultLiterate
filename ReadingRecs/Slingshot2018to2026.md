@@ -316,9 +316,15 @@
 
 ### 2019, Books for Sleepless Nights
 #### Non-Fiction
+- *How to Change Your Mind* by Michael Pollan
+- *Confessions of a Recovering Environmentalist* by Paul Kingsnorth
 - ... (UNFINISHED)
+- *The Drone Eats with Me* by Ateh Abu Saif
 #### Fiction
+- *There But for the* by Ali Smith
+- *NW* by Zadie Smith
 - ... (UNFINISHED)
+- *The Word for World Is Forest* by Ursula K. Le Guin
 #### Zines
 - "KerBloom"
 - "Black Seed"
