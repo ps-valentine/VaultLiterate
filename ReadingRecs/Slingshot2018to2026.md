@@ -314,7 +314,7 @@
 - *Young Terrorists* by Matt Pizzolo
 - *On a Sunbeam* by Tilly Walden
 
-### 2019, Books for Sleepless Nights
+### **2019, Books for Sleepless Nights**
 #### Non-Fiction
 - *How to Change Your Mind* by Michael Pollan
 - *Confessions of a Recovering Environmentalist* by Paul Kingsnorth
