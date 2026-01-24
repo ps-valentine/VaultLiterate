@@ -120,7 +120,7 @@
 - *The Heart Is a Lonely Hunter* (1940) by Carson McCullers
 - *Ruin* (2022) by Cara Hoffman
 - *Wild Thorns* (1976) by Sahar Khalifeh; originally published in Arabic
-##### Poetry
+##### **Poetry**
 - *Bread and Circus* (2024) by Airea D. Matthews
 - *Oh, you thought this was a date?: Apocalypse Poems* (2022) by C. Russell Price from Northwestern University Press
 - *Cruel Fiction* (2018) by Wendy Trevino
@@ -128,78 +128,77 @@
 - *Patriarchy Blues* (2017) by Rena Priest
 ### **2023 books: the future is unwritten**
 #### non-fiction
-- *Braiding Sweetgrass* by Robin Wall Kimmerer
-- *Night Vision* by Butch Lee & Red Rover
-- *Killing Rage* by bell hooks
-- *I Hope We Choose Love* by Kai Cheng Thom
-- *Becoming Abolitionists: Police, Protests and the Pursuit of Freedom* by Derecka Purnell
-- *We Do This 'Till We Free Us: Abolitionist Organizing and Transforming Justice* by Mariame Kaba
-- *City of Quartz* by Mike Davis
-- *Learning Good Consent* by Cindy Crabb
-- *Class Power on Zero Hours* by AngryWorkers
-- *Palestine* by Joe Sacco
+- *Braiding Sweetgrass* (2015) by Robin Wall Kimmerer
+- *Night Vision: Illuminating War and Class on the Neo-Colonial Terrain* (2017) by Butch Lee & Red Rover
+- *killing rage: Ending Racism* (1995) by bell hooks
+- *I Hope We Choose Love* (2019) by Kai Cheng Thom
+- *Becoming Abolitionists: Police, Protests and the Pursuit of Freedom* (2022) by Derecka Purnell
+- *We Do This 'Till We Free Us: Abolitionist Organizing and Transforming Justice* (2021) by Mariame Kaba
+- *City of Quartz: Excavating the Future in Los Angeles* (2018) by Mike Davis
+- *Learning Good Consent* (2016) by Cindy Crabb, from AK Press
+- *Class Power on Zero Hours* (2020) by AngryWorkers, from PM Press
+- *Palestine* (2001) by Joe Sacco
 - *Fine: A Comic About Gender* (2022) by Rhea Ewing
-- *Red Paint: The Ancestral Autobiography of a Coast Salish Punk* by Sasha LaPointe
-- *Between Certain Death and a Possible Future: Queer Writing on Growing Up with the AIDS Crisis*, edited by Mattila Bernstein Sycamore
-- *100 Boyfriends* by Brontez Purnell
-- *Sticking It to the Man: Revolution & Counterculture in Pulp & Popular Fiction, 1950-1980* by Netty & McIntyre
+- *Red Paint: The Ancestral Autobiography of a Coast Salish Punk* (2023) by Sasha LaPointe
+- *Between Certain Death and a Possible Future: Queer Writing on Growing Up with the AIDS Crisis* (2021) edited by Mattila Bernstein Sycamore
+- *100 Boyfriends* (2021) by Brontez Purnell
+- *Sticking It to the Man: Revolution & Counterculture in Pulp & Popular Fiction, 1950-1980* (2019) by Andrew Nette & Iain McIntyre from PM Press
 - *The Nation on No Map* (2021) by William C. Anderson
-- *Care Work: Dreaming Disability Justice* by Leah Lakshmi Piepzna-Samarasinha
-- *Deterring Democracy* by Noam Chomsky
-- *Atmospheres of Violence* by Eric Stanley
+- *Care Work: Dreaming Disability Justice* (2018) by Leah Lakshmi Piepzna-Samarasinha
+- *Deterring Democracy* (1991) by Noam Chomsky
+- *Atmospheres of Violence* (2021) by Eric Stanley from Duke University Press
 #### fiction
-- *The Dispossessed* by Ursula K. LeGuin
-- *Kitchen* by Banana Yoshimoto
-- *The Lesbian Body* by Monique Wittig
-- *The Ministry of Unhappiness* by Arundhati Roy
-- *Grievers* (Black Dawn Series) by adrienne marie brown
-- *There There* by Tommy Orange
-- *The Fifth Season* by N.K. Jemisin
+- *Kitchen* (2006) by Banana Yoshimoto
+- *The Lesbian Body* (1973) by Monique Wittig
+- *The Ministry of Utmost Happiness* (2017) by Arundhati Roy
+- *Grievers* (Black Dawn Series) (2021) by adrienne marie brown from AK Press
+- *There There* (2019) by Tommy Orange
+- *The Fifth Season* (2015) by N.K. Jemisin
 #### poetry
-- *Citizen Illegal* by Jose Olivarez
-- *Remember Death by Its Proximity to What I Love* by Mahogany L. Browne
+- *Citizen Illegal* (2018) by Jose Olivarez
+- *I Remember Death by Its Proximity to What I Love* (2021) by Mahogany L. Browne
 ### **2022, books not bombs**
 #### Fiction
-- *The Babysitter at Rest* by Jen George
-- *Cruddy* by Lynda Barry
-- *Do Not Say We Have Nothing* by Madeleine Thien
-- *The Door* by Magda Szabó
-- *Edinburgh* by Alexander Chee
-- *In the Skin of a Lion* by Michael Ondaatje
-- *Just Above My Head* by James Baldwin
-- *The Mars Room* by Rachel Kushner
-- *The Overstory* by Richard Powers
-- *Real Life* by Brandon Taylor
-- *Space Invaders* by Nona Fernández
-- *Stay and Fight* by Madelin ffitch
-- *Turkish Kaleidoscope* by Jenny White and Ergün Gündüz
-- *The Vanishing Half* by Brit Bennett
-- *We Are All Completely Beside Ourselves* by Karen Joy Fowler
-- *Weather* by Jenny Offill
-- *Women Talking* by Miriam Toews
+- *The Babysitter at Rest* (2016) by Jen George
+- *Cruddy: An Illustrated Novel* (2000) by Lynda Barry
+- *Do Not Say We Have Nothing* (2017) by Madeleine Thien
+- *The Door* (2015) by Magda Szabó
+- *Edinburgh* (2016) by Alexander Chee
+- *In the Skin of a Lion* (1997) by Michael Ondaatje
+- *Just Above My Head* (1979) by James Baldwin
+- *The Mars Room: A Novel* (2019) by Rachel Kushner
+- *The Overstory: A Novel* (2019) by Richard Powers
+- *Real Life: A Novel* (2021) by Brandon Taylor
+- *Space Invaders: A Novel* (2019) by Nona Fernández
+- *Stay and Fight: A Novel* (2020) by Madeline ffitch
+- *Turkish Kaleidoscope: Fractured Lives in a Time of Violence* (2021) by Jenny White and Ergün Gündüz from Princeton University Press
+- *The Vanishing Half* (2022) by Brit Bennett
+- *We are all completely beside ourselves* (2014) by Karen Joy Fowler
+- *Weather* (2021) by Jenny Offill
+- *Women Talking* (2020) by Miriam Toews
 #### Non-Fiction
-- *The Age of Surveillance Capitalism* by Shoshana Zuboff
-- *Bruce Conner: It's All True*, edited by Friedling & Garrels
-- *Bullshit Jobs* by David Graeber
-- *The Case for Degrowth* by Kallis, Paulson, D'Alisa & Demaria
-- *The Communism of Love* by Richard Gilman-Opalsky
-- *For All the People* by John Curl
-- *Four Futures* by Peter Frase
-- *Freedom Is a Constant Struggle* by Angela Y. Davis
-- *Home Work* by Lloyd Kahn
-- *In the Dream House* by Carmen Maria Machado
-- *The Man of Jasmine* by Unica Zürn
-- *More Than Two* by Veaux & Rickert
-- *On Immunity* by Eula Biss
-- *PRANKS!*, edited  by Vale & Juno
-- *The Spitboy Rule* by Michelle Cruz Gonzales
-- *Steering the Craft* by Ursula K. Le Guin
+- *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (2020) by Shoshana Zuboff
+- *Bruce Conner: It's All True* (2016) edited by Rudolf Friedling & Gary Garrels from University of California Press
+- *Bullshit Jobs: A Theory* (2019) by David Graeber
+- *The Case for Degrowth* (2020) by Giorgos Kallis, Susan Paulson, Giacomo D'Alisa & Federico DeMaria
+- *The Communism of Love: An Inquiry into the Poverty of Exchange Value* (2020) by Richard Gilman-Opalsky from AK Press
+- *For All the People: Uncovering the Hidden History of Cooperation, Cooperative Movements, and Communalism in America* (2012) by John Curl from PM Press
+- *Four Futures: Life After Capitalism* (2016) by Peter Frase
+- *Freedom Is a Constant Struggle: Ferguson, Palestine, and the Foundations of a Movement* (2016) by Angela Y. Davis
+- *Home Work: Handbuilt Shelter* (2004) by Lloyd Kahn
+- *In the Dream House: A Memoir* (2020) by Carmen Maria Machado
+- *The Man of Jasmine (& Other Texts)* (1994) by Unica Zürn
+- *More Than Two* (2014) by Franklin Veaux & Eve Rickert
+- *On Immunity: An Innoculation* (2015) by Eula Biss
+- *PRANKS!*, (2024) edited by V Vale & Andrea Juno from Re/Search Publications
+- *The Spitboy Rule: Tales of a Xicana in a Female Punk Band* (2016) by Michelle Cruz Gonzales from PM Press
+- *Steering the Craft* (2015) by Ursula K. Le Guin
 #### Poetry
-- *Citizen* by Claudia Rankine
-- *The Collected Poetry of Robinson Jeffers*, edited by Tim Hunt
-- *The Selected Works of Audre Lord*, edited by Roxane Gay
-- *Singular Pleasures* by Harry Matthews
-- *We Want It All*, edited by Ursula K. Le Guin
+- *Citizen: An American Lyric* (2014) by Claudia Rankine
+- *The Collected Poetry of Robinson Jeffers*, vols. 1-5 (1912-1963), edited by Tim Hunt
+- *The Selected Works of Audre Lord* (2020) edited by Roxane Gay
+- *Singular Pleasures* (2000) by Harry Matthews with illustrations by Francesco Clemente
+- *We Want It All: An Anthology of Radical Trans Poetics*, (2000) edited by Andrea Abi-Karam & Kay Gabriel
 ### **2021, Lots of Books, Here's a Few**
 #### Non-Fiction
 - *Seven Essays of Interpretation of Peruvian Reality* by Jose Carlo Manategi
@@ -369,7 +368,8 @@
 - *Plant Intelligence and the Imaginal Realm* by Stephen Harrod Buhner
 - *Cruising Utopia: The Then and There of Queer Futurity* by José Esteban Muñoz
 - *Dispatches Against Displacement: Field Notes from San Francisco's Housing Wars* by James Tracy
+### 2015...
 # Author(s) Tags
-#AaronCometbus #AireaDMatthews #AlexdeWaal #AmalEl-Mohtar #AndreaElliot #AndreaLawlor #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #AyanaElizabethJohnson #BeckyChambers #BrianVanReet #BrunoLatour #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EllenFeldman #EmanAbdelhadi #EmilyKlancherMerchant #EricStanley #GarrettFelber #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HeatherAnneSwanson #HedaMargoliusKovály #HenningMankell #HerbertRLottman #HouriaBouteldja #JamesBaldwin #JamesCScott #JasonStanley #JayMFeinman #JimRuland #JoannaMarcy #JoeVallese #JohnGerkin #JoséEduardoAgualusa #JoshuaClover #JuliaButterflyHill #JustinLynch #KaitlinReed #KatharineKWilkinson #KatharyneMitchell #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahThomas #LewisRGordon #LisaBrooks #MEOBrien #MarekEdelmann #MargaretAtwood #MargaretKilljoy #MariameKaba #MarieLaing #MaxGladstone #MaxLiboiron #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #OctaviaButler #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterGelderloos #PhilipKDick #PolaOloixarac #RFKang #RagaMakawi #RajPatel #RashidKhalidi #RenaPriest #RupaMarya #SaharKhalifeh #SamratUpadhyay #SamuelRDelaney #SarahSchulman #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
+#AaronCometbus #adriennemariebrown #AireaDMatthews #AlexdeWaal #AlexanderChee #AmalEl-Mohtar #AndreaAbi-Karam #AndreaElliot #AndreaJuno #AndreaLawlor #AndrewNette #AngelaYDavis #AngryWorkers #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #ArundhatiRoy #AudreLord #AyanaElizabethJohnson #BananaYoshimoto #BeckyChambers #bellhooks #BrandonTaylor #BrianVanReet #BritBennett #BrontezPurnell #BrunoLatour #ButchLee #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarmenMariaMachado #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ClaudiaRankine #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DereckaPurnell #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EllenFeldman #EmanAbdelhadi #EmilyKlancherMerchant #ErgünGündüz #EricStanley #EulaBiss #EveRickert #FedericoDeMaria #FrancescoClemente #FranklinVeaux #GarrettFelber #GaryGarrels #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GiacomoDAlisa #GiorgosKallis #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HarryMatthews #HeatherAnneSwanson #HedaMargoliusKovály #HenningMankell #HerbertRLottman #HouriaBouteldja #IainMcIntyre #JamesBaldwin #JamesCScott #JasonStanley #JayMFeinman #JenGeorge #JennyOffill #JennyWhite #JimRuland #JoannaMarcy #JoeSacco #JoeVallese #JohnCurl #JohnGerkin #JoséEduardoAgualusa #JoseOlivarez #JoshuaClover #JuliaButterflyHill #JustinLynch #KaiChengThom #KaitlinReed #KarenJoyFowler #KatharineKWilkinson #KatharyneMitchell #KayGabriel #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahLakshmiPiepzna-Samarasinha #LeahThomas #LewisRGordon #LisaBrooks #LloydKahn #LyndaBarry #MEOBrien #MadeleineThein #Madelineffitch #MagdaSzabó #MahoganyLBrowne #MarekEdelmann #MargaretAtwood #MargaretKilljoy #MariameKaba #MarieLaing #MattildaBernsteinSycamore #MaxGladstone #MaxLiboiron #MichaelOndaatje #MichelleCruzGonzales #MikeDavis #MiriamToews #MoniqueWittig #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #NoamChomsky #NonaFernández #OctaviaButler #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterFrase #PeterGelderloos #PhilipKDick #PolaOloixarac #RFKang #RachelKushner #RagaMakawi #RajPatel #RashidKhalidi #RedRover #RenaPriest #RheaEwing #RichardGilman-Opalsky #RichardPowers #RobinWallKimmerer #RobinsonJeffers #RoxaneGay #RudolfFriedling #RupaMarya #SaharKhalifeh #SamratUpadhyay #SamuelRDelaney #SarahSchulman #SashaLaPointe #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShoshanaZuboff #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #SusanPaulson #TimHunt #TommyOrange #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnicaZürn #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VVale #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
 # Other Tags
-#/1321 #/1938 #/1940 #/1943 #/1944 #/1965 #/1968 #/1973 #/1974 #/1976 #/1977 #/1985 #/1990 #/1991 #/1994 #/1997 #/1998 #/1999 #/2000 #/2001 #/2002 #/2004 #/2006 #/2007 #/2008 #/2012 #/2014 #/2015 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #NorthwesternUniversity/Press #OxfordUniversity/Press #Palestine #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofChicago/Press #UniversityofFlorida/Press #UniversityofMinnesota/Press #UniversityofMissouri/Press #UniversityofWashington/Press #UniversityPressofFlorida #WesleyanUniversity/Press #YaleUniversity/Press #zines
+#/1321 #/1938 #/1940 #/1943 #/1944 #/1965 #/1968 #/1973 #/1974 #/1976 #/1977 #/1979 #/1985 #/1990 #/1991 #/1994 #/1995 #/1997 #/1998 #/1999 #/2000 #/2001 #/2002 #/2004 #/2006 #/2007 #/2008 #/2012 #/2014 #/2015 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #NorthwesternUniversity/Press #OxfordUniversity/Press #Palestine #PMPress #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofChicago/Press #UniversityofFlorida/Press #UniversityofMinnesota/Press #UniversityofMissouri/Press #UniversityofWashington/Press #UniversityPressofFlorida #WesleyanUniversity/Press #YaleUniversity/Press #zines
