@@ -60,24 +60,4 @@
 ### Character Appearances
 #### Lanterns
 ##### Blue
-#EllieStewart/construct #SaintWalker
-##### Green
-#Aya #GuyGardner/cover #JessicaCruz #JoMullein/cameo #JohnStewart #KatmaTui/possessed #KeliQuintela #Kilowog #Narf #SojournerMullein/cameo #Vexaru
-##### Indigo
-#Natromo
-##### Orange
-#Larfleeze
-##### Red
-#Atrocitus
-##### Yellow
-#Arkillo/cameo #Sinestro
-#### Other Characters
-#Enquar #Thanagarians
-#### Other Metahumans
-#Fatality #YrraCynril
-## Other Tags (Issues \#9-12)
-See above for character tags.
-#AletaZahir #artist/AdrianodiBenedetto #artist/ArifPrianto #artist/DanielHenqriques #artist/FernandoPasarin #artist/FrancescoSegala #artist/FrenchCarlomagno #artist/IanHerring #artist/IgGuara #artist/JasonPaz #artist/LeeLoughridge #artist/MattHerms #artist/MaxDunbar #artist/OclairAlbert #artist/TrishMulvihill #artist/WillConrad #BolovaxVik/thword #coverartist/RianGonzales #Oa/Cavna #Oa/Malaqyte #Oa/Sandron #Oa/Xanthus #Oa/Yoral #Oa/Zarin #ProcyonSystem #writer/JeremyAdams #writer/MorganHampton #Xanshi #Ysmault/BloodLake
-## Plot (Issues \#10-12)
-> [!hint]- ¡SPOILERS!: Plot Summary (Issue \#10-12)
-> John Stewart and Katma Tui are called to the comic's current timeline to help deal with recent events, following the events of 'the Starbreaker Supremacy' arc. With all of the different spectrums of Lanterns living together on Oa & the Guardians of the Universe missing, the Lanterns are left to deal with a cadre of villains, but more pressingly, their own interpersonal drama! Kilowog & Guy Gardner head the training of young Green Lanterns Aya, Keli Quintela, Narf & Vexar'u while other Green Lanterns deal with threats including Enquar, Inferno & mind control!
+#EllieStewart/construct #q
