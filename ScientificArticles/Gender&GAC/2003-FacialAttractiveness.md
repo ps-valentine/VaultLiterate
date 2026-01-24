@@ -2,4 +2,4 @@ Cellerino, Alessandro. “Psychobiology of facial attractiveness.” Journal of 
 
 A discussion of the facial features that influence attractiveness in heterosexuals. It breaks down patient preferences in the context of short- vs. long-term relationships, including analysis of psychological factors affecting attractiveness. The author specifically discusses symmetry, averageness, and potential evolutionary pathways for the development of these preferences.
 # Tags
-#/2003 #facialattractiveness #heterosexuality #JournalofEndocrinologicalInvestigation #scientificarticles #sexualdimorphism
+#/2003 #facialattractiveness #heterosexuality #JournalofEndocrinologicalInvestigation #perception/gender #scientificarticles #sexualdimorphism

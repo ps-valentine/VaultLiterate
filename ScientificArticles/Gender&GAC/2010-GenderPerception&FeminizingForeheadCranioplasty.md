@@ -2,4 +2,4 @@ Spiegel, Jeffrey H. “Facial determinants of female gender and feminizing foreh
 
 A study examining the most important features of the face for establishing “female gender” and a review of the results and effects of forehead reconstruction as related to gender identification in trans women.
 # Tags
-#/2010 #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #perception/gender #scientificarticles #sexualdimorphism #TheLaryngoscope 
+#/2010 #GAS/FFS #GAS/FS #GAS/facialfeminizationsurgery #GAS/facialsurgery #gender-affirmingsurgery #perception/gender #scientificarticles #sexualdimorphism #TheLaryngoscope 

@@ -2,4 +2,4 @@ Tugnet, Nicola, Jonathan Charles Goddard, Richard M Vickery, et. al. “Current 
 
  An overview of trans care in the UK in the 2000s, including justification regarding efficacy of different aspects of treatment. This article includes very binaristic & medicalized thinking around what it is to be a trans person, as well relying on tropes to understand the ‘cause’ of trans people.
 # Tags
-#/2007 #gender-affirmingcare #genderidentitydisorder #GID #PostgraduateMedicalJournal #scientificarticles #treatmentefficacy #UnitedKingdom/transgender
+#/2007 #GAC  #gender-affirmingcare #genderidentitydisorder #GID #PostgraduateMedicalJournal #scientificarticles #treatmentefficacy #UnitedKingdom/transgender
