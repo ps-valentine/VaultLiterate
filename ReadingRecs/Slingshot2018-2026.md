@@ -126,7 +126,7 @@
 - *Cruel Fiction* (2018) by Wendy Trevino
 - *The Book of the Dead* (1938) by Muriel Rukeyser
 - *Patriarchy Blues* (2017) by Rena Priest
-### **2023 books: the future is unwritten**
+### **2023, the future is unwritten**
 #### non-fiction
 - *Braiding Sweetgrass* (2015) by Robin Wall Kimmerer
 - *Night Vision: Illuminating War and Class on the Neo-Colonial Terrain* (2017) by Butch Lee & Red Rover
@@ -313,7 +313,8 @@
 - *Young Terrorists* by Matt Pizzolo
 - *On a Sunbeam* by Tilly Walden
 
-### **2019, Books for Sleepless Nights**
+### **2019 (UNFINISHED), Books for Sleepless Nights**
+
 #### Non-Fiction
 - *How to Change Your Mind* by Michael Pollan
 - *Confessions of a Recovering Environmentalist* by Paul Kingsnorth
@@ -344,32 +345,79 @@
 - *Mad Country* (2017) by Samrat Upadhyay
 - *Spoils* (2018) by Brian Van Reet
 - *The Mushroom Center Disaster* (1974) by N.M. Bodecker
-- *My Cat Yugoslavia* by Pajtim Statovci
-- *Change Agent* by Daniel Suarez
-- *The Sound and the Fury* by William Faulkner
-- *The Eternal Lightness of Being* by Milan Kundera
-- *1Q84* by Haruki Murakami
-- *Makers* by Cory Doctorow
+- *My Cat Yugoslavia: A Novel* (2018) by Pajtim Statovci
+- *Change Agent* (2018) by Daniel Suarez
+- *The Sound and the Fury* (1929) by William Faulkner
+- *The Unbearable Lightness of Being: A Novel* (1999) by Milan Kundera
+- *1Q84* (2010) by Haruki Murakami
+- *Makers* (2018) by Cory Doctorow
 #### **Non-Fiction**
-- *Bad Feminist* by Roxanne Gay
-- *What Is Gender Nihilism?: A Reader*
-- *Encounters with the Archdruid* by John McPhee
-- *How to be a Defendant* by Tilted Scales Collective
-- *The Platform Sutra* by Huei Neng
-- *Red Thread Zen* by Susan Murphy
-- *Anarchist Speculations* by John Moore
-- *The Humanure Handbook* by Joseph Jenkins
-- *Coming Out Like a Porn Star*, edited by Jiz Lee
-- *Zen Confidential* by Shozan Jack Haubner
-- *Specters of Revolt* by Richard Gilman-Opalsky
-- *Queering Anarchism* by numerous contributors
-- *Molecular Red: Theory for the Anthropocene* by McKenzie Wark
-- *On the Lower Frequencies: A Secret History of the City* by Erick Lyle
-- *Plant Intelligence and the Imaginal Realm* by Stephen Harrod Buhner
-- *Cruising Utopia: The Then and There of Queer Futurity* by José Esteban Muñoz
-- *Dispatches Against Displacement: Field Notes from San Francisco's Housing Wars* by James Tracy
-### 2015...
+- *Bad Feminist: Essays* (2014) by Roxane Gay
+- *What Is Gender Nihilism?: A Reader* (1883-2015)
+- *Encounters with the Archdruid: Narratives About a Conservationist and Three of His Natural Enemies* (1977) by John McPhee
+- *A Titled Guide to Being a Defendant* (2017) by Tilted Scales Collective
+- *the platform sutra: the Zen Teaching of Hui-Neng* (c 780) by Hui Neng
+- *Red Thread Zen: Humanly Entangled in Emptiness* (2016) by Susan Murphy
+- *Anarchist Speculations* (2016) by John Moore
+- *The Humanure Handbook* (1994) by Joseph Jenkins
+- *Coming Out Like a Porn Star: Essays on Pornography, Protection, and Privacy* (2015) edited by Jiz Lee with various contributors
+- *Zen Confidential: Confessions of a Wayward Monk* (2013) by Shozan Jack Haubner
+- *Specters of Revolt: On the Intellect of Insurrection and Philosophy from Below* (2016) by Richard Gilman-Opalsky
+- *Queering Anarchism* (2013) by various contributors from AK Press
+- *Molecular Red: Theory for the Anthropocene* (2016) by McKenzie Wark
+- *On the Lower Frequencies: A Secret History of the City* (2008) by Erick Lyle
+- *Plant Intelligence and the Imaginal Realm: Beyond the Doors of Perception into the Dreaming of Earth* (2014) by Stephen Harrod Buhner
+- *Cruising Utopia: The Then and There of Queer Futurity* (2009) by José Esteban Muñoz
+- *Dispatches Against Displacement: Field Notes from San Francisco's Housing Wars* (2014) by James Tracy from AK Press
+### **2015**, Books that KILL
+#### Fiction
+- *100,000 Kingdoms* by N.K. Jemisin
+- *Xenogenesis Trilogy* by Octavia Butler
+	- *Dawn* (1987)
+	- *Adulthood Rites* (1988)
+	- *Imago* (1989)
+- *Dhalgren* by Samuel Delany
+- *Mindscape* by Andrea Hairston
+- *Kindred* by Octavia Butler
+- *Midnight Robber* by Nalo Hopkinson
+- *Power* by Linda Hogan
+- *Embassytown* by China Miéville
+- *Life in Hell* by Matt Groening
+- *Their Eyes Were Watching God* y Zora Neale Hurston
+- *The People of Paper* by Salvador Plascencia
+- *The Memoirs of a Survivor* by Doris Lessing
+#### Non-Fiction
+- *Toward a Global Idea of Race* by Denise Ferreira da Silva
+- *Homo Sacer* by Giorgio Agamben
+- *Excluded* by Julia Serano
+- *End of San Francisco* by Mattila Bernstein Sycamore
+- *Baedan* by various contributors
+- *Desert* by Anonymous
+- *Film and the Anarchist Imagination* by Richard Porton
+- *Caliban and the Witch* by Silvia Frederici
+- *Testo Junkie* by Beatriz Preciado
+- *Archaeology of Violence* by Pierre Clastres
+#### Zines
+- *Mother's News
+- *Functionally Ill*
+- *Razorcake*
+- *Cats Hate Cops
+- *Skinned Heart
+- *Absolutely Zippo*
+- *Accomplices Not Allies*
+- *Bros Fall Back*
+- *Fix My Head*
+- *Shotgun Seamstress*
+- *Scam*
+- *Asswipe*
+- *No Gods No Mattress
+- *Punkeristas and Chicanists Say It Out Loud*
+- *Muchacha
+- *Dreams of Donuts*
+- *New Hearts New Bones*
+- *Shards of Glass in Your Eye*
+- *Nuts!*
 # Author(s) Tags
-#AaronCometbus #adriennemariebrown #AireaDMatthews #AlexdeWaal #AlexanderChee #AmalEl-Mohtar #AndreaAbi-Karam #AndreaElliot #AndreaJuno #AndreaLawlor #AndrewNette #AngelaYDavis #AngryWorkers #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #ArundhatiRoy #AudreLord #AyanaElizabethJohnson #BananaYoshimoto #BeckyChambers #bellhooks #BrandonTaylor #BrianVanReet #BritBennett #BrontezPurnell #BrunoLatour #ButchLee #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarmenMariaMachado #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ClaudiaRankine #ColeArthurRiley #CoryDoctorow #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DereckaPurnell #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EllenFeldman #EmanAbdelhadi #EmilyKlancherMerchant #ErgünGündüz #EricStanley #EulaBiss #EveRickert #FedericoDeMaria #FrancescoClemente #FranklinVeaux #GarrettFelber #GaryGarrels #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GiacomoDAlisa #GiorgosKallis #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HarryMatthews #HeatherAnneSwanson #HedaMargoliusKovály #HenningMankell #HerbertRLottman #HouriaBouteldja #IainMcIntyre #JamesBaldwin #JamesCScott #JasonStanley #JayMFeinman #JenGeorge #JennyOffill #JennyWhite #JimRuland #JoannaMarcy #JoeSacco #JoeVallese #JohnCurl #JohnGerkin #JoséEduardoAgualusa #JoseOlivarez #JoshuaClover #JuliaButterflyHill #JustinLynch #KaiChengThom #KaitlinReed #KarenJoyFowler #KatharineKWilkinson #KatharyneMitchell #KayGabriel #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahLakshmiPiepzna-Samarasinha #LeahThomas #LewisRGordon #LisaBrooks #LloydKahn #LyndaBarry #MEOBrien #MadeleineThein #Madelineffitch #MagdaSzabó #MahoganyLBrowne #MarekEdelmann #MargaretAtwood #MargaretKilljoy #MariameKaba #MarieLaing #MattildaBernsteinSycamore #MaxGladstone #MaxLiboiron #MichaelOndaatje #MichelleCruzGonzales #MikeDavis #MiriamToews #MoniqueWittig #MurielRukeyser #MurrayBookchin #NKJemisin #NatSmithers #NilsBubandt #NnediOkorafor #NoamChomsky #NonaFernández #OctaviaButler #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PeterFrase #PeterGelderloos #PhilipKDick #PolaOloixarac #RFKang #RachelKushner #RagaMakawi #RajPatel #RashidKhalidi #RedRover #RenaPriest #RheaEwing #RichardGilman-Opalsky #RichardPowers #RobinWallKimmerer #RobinsonJeffers #RoxaneGay #RudolfFriedling #RupaMarya #SaharKhalifeh #SamratUpadhyay #SamuelRDelaney #SarahSchulman #SashaLaPointe #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShoshanaZuboff #ShouridehCMolavi #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #SudhirHazareesingh #SusanPaulson #TimHunt #TommyOrange #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnicaZürn #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VVale #VickyOsterweil #WalterRodney #WendyTrevino #WilliamShawcross #WillowBerridge #WoodyGuthrie
+#AaronCometbus #adriennemariebrown #AireaDMatthews #AlexdeWaal #AlexanderChee #AmalEl-Mohtar #AndreaAbi-Karam #AndreaElliot #AndreaJuno #AndreaLawlor #AndrewNette #AngelaYDavis #AngryWorkers #AnnThompson #AnnaLowenhauptTsing #anonymousauthor #anonymouscontributors #AnthonyGalluzzo #ArundhatiRoy #AudreLord #AyanaElizabethJohnson #BananaYoshimoto #BeckyChambers #bellhooks #BrandonTaylor #BrianVanReet #BritBennett #BrontezPurnell #BrunoLatour #ButchLee #CIA #CRussellPrice #CadwellTurnbull #CaraHoffman #CarmenMariaMachado #CarsonMcCullers #CentralIntelligenceAgency #ChrisJohnstone #ChristinaSharpe #ClaraEMattei #ClaudiaRankine #ColeArthurRiley #CoryDoctorow #DanielSuarez #DanteAlighieri #DavidBoarderGiles #DavidEGilbert #DavidGraeber #DavidVerbuc #DavidWengrow #DavidWojnarowicz #DeanCaivano #DeanSpade #DereckaPurnell #DianeDiPrima #DionneBrand #ElaineGan #ElifShafak #EllenFeldman #EmanAbdelhadi #EmilyKlancherMerchant #ErgünGündüz #EricStanley #ErickLyle #EulaBiss #EveRickert #FedericoDeMaria #FrancescoClemente #FranklinVeaux #GarrettFelber #GaryGarrels #GeneSharp #GeorgeOrwell #GeorgesNzongola-Ntalaja #GiacomoDAlisa #GiorgosKallis #GlenSeanCoulthard #GrantFarred #GrayBrechin #GregoryWoolston #HarryMatthews #HarukiMurakami #HeatherAnneSwanson #HedaMargoliusKovály #HenningMankell #HerbertRLottman #HouriaBouteldja #HuiNeng #IainMcIntyre #JamesBaldwin #JamesCScott #JamesTracy #JasonStanley #JayMFeinman #JenGeorge #JennyOffill #JennyWhite #JimRuland #JizLee #JoannaMarcy #JoeSacco #JoeVallese #JohnCurl #JohnGerkin #JohnMcPhee #JohnMoore #JoséEduardoAgualusa #JoséEstebanMuñoz #JoseOlivarez #JosephJenkins #JoshuaClover #JuliaButterflyHill #JustinLynch #KaiChengThom #KaitlinReed #KarenJoyFowler #KatharineKWilkinson #KatharyneMitchell #KayGabriel #KeithMcHenry #KellyHayes #KimKelly #KimStanleyRobinson #KoheiSaito #KōheiSaitō #KungLiSun #LamyaH #LarryMitchell #LeahLakshmiPiepzna-Samarasinha #LeahThomas #LewisRGordon #LisaBrooks #LloydKahn #LyndaBarry #MEOBrien #MadeleineThein #Madelineffitch #MagdaSzabó #MahoganyLBrowne #MarekEdelmann #MargaretAtwood #MargaretKilljoy #MariameKaba #MarieLaing #MattildaBernsteinSycamore #MaxGladstone #MaxLiboiron #McKenzieWark #MichaelOndaatje #MichelleCruzGonzales #MikeDavis #MilanKundera #MiriamToews #MoniqueWittig #MurielRukeyser #MurrayBookchin #NKJemisin #NMBodecker #NatSmithers #NilsBubandt #NnediOkorafor #NoamChomsky #NonaFernández #OctaviaButler #OmarKhalifah #OyeronkeOyewumi #Oyèrónkẹ́Oyěwùmí #PajtimStatovci #PeterFrase #PeterGelderloos #PhilipKDick #PolaOloixarac #RFKang #RachelKushner #RagaMakawi #RajPatel #RashidKhalidi #RedRover #RenaPriest #RheaEwing #RichardGilman-Opalsky #RichardPowers #RobinWallKimmerer #RobinsonJeffers #RoxaneGay #RudolfFriedling #RupaMarya #SaharKhalifeh #SamratUpadhyay #SamuelRDelaney #SarahSchulman #SashaLaPointe #ScottSatterwhite #Serafinski #SharamQawami #ShonFaye #ShoshanaZuboff #ShouridehCMolavi #ShozanJackHaubner #SilviaFederici #StanislawLem #Starhawk #StephenGrahamJones #StephenHarrodBuhner #SudhirHazareesingh #SusanMurphy #SusanPaulson #TiltedScalesCollective #TimHunt #TommyOrange #TriciaHersey #TroyAndreasAraizaKokinis #TysonYunkaporta #UnicaZürn #UnitedStatesOfficeofStrategicServices #UrsulaKLeGuin #USOSS #VVale #VickyOsterweil #WalterRodney #WendyTrevino #WilliamFaulkner #WilliamShawcross #WillowBerridge #WoodyGuthrie
 # Other Tags
-#/1321 #/1938 #/1940 #/1943 #/1944 #/1965 #/1968 #/1973 #/1974 #/1976 #/1977 #/1979 #/1985 #/1990 #/1991 #/1994 #/1995 #/1997 #/1998 #/1999 #/2000 #/2001 #/2002 #/2004 #/2006 #/2007 #/2008 #/2012 #/2014 #/2015 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #NorthwesternUniversity/Press #OxfordUniversity/Press #Palestine #PMPress #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofChicago/Press #UniversityofFlorida/Press #UniversityofMinnesota/Press #UniversityofMissouri/Press #UniversityofWashington/Press #UniversityPressofFlorida #WesleyanUniversity/Press #YaleUniversity/Press #zines
+#/780 #/1321 #/1883 #/1929 #/1938 #/1940 #/1943 #/1944 #/1965 #/1968 #/1973 #/1974 #/1976 #/1977 #/1979 #/1985 #/1990 #/1991 #/1994 #/1995 #/1997 #/1998 #/1999 #/2000 #/2001 #/2002 #/2004 #/2006 #/2007 #/2008 #/2009 #/2010 #/2012 #/2013 #/2014 #/2015 #/2016 #/2017 #/2018 #/2019 #/2020 #/2021 #/2022 #/2023 #/2024 #/2025 #AKPress #AnnalsfromtheAmericanAssociationofGeographers #booklist #Congo #DukeUniversity/Press #fiction #nonfiction #NorthwesternUniversity/Press #OxfordUniversity/Press #Palestine #PMPress #poetry #PrincetonUniversity/Press #readinglist #scientificarticles #scientificjournals  #Slingshot #Slingshot/booklist #SlingshotOrganizer #Sudan #UniversityofCalifornia/Press #UniversityofChicago/Press #UniversityofFlorida/Press #UniversityofMinnesota/Press #UniversityofMissouri/Press #UniversityofWashington/Press #UniversityPressofFlorida #WesleyanUniversity/Press #YaleUniversity/Press #zines
