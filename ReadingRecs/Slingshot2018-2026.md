@@ -313,17 +313,38 @@
 - *Young Terrorists* by Matt Pizzolo
 - *On a Sunbeam* by Tilly Walden
 
-### **2019 (UNFINISHED), Books for Sleepless Nights**
+### **2019 Books for Sleepless Nights**
 
 #### Non-Fiction
 - *How to Change Your Mind* by Michael Pollan
 - *Confessions of a Recovering Environmentalist* by Paul Kingsnorth
-- ... (UNFINISHED)
+- *Becoming Animal* by David Abram
+- *The Manifesto of the Happily Unemployed* by Guillaume Paolo & the Collective
+- *Corrosive Consciousness* by Bellamy Fitzpatrick
+- *Walking on Lava*, a Dark Mountain Project anthology
+- *Robin Jeffers Poet & Prophet* by James Jarmen
+- *Worshipping Power: An Anarchist View of Early State Formation* by Peter Gelderloos
+- *Revolution of the Ordinary* by Toril Moi
+- *Compañeras: Zapatista Women's Stories* by Hilary Klein
+- *Black Against Empire* by Joshua Bloom and Waldo E. Martin Jr.
+- *Making Kin Not Population* edited by Clarke & Haraway
+- *Desert* by anonymous
+- *Against History, Against Leviathan* by Fredy Perlman
+- *Against the Grain* by James C. Scott
 - *The Drone Eats with Me* by Ateh Abu Saif
 #### Fiction
 - *There But for the* by Ali Smith
 - *NW* by Zadie Smith
-- ... (UNFINISHED)
+- *Indecision* by Benjamin Kunkel
+- *The Road from Damascus* by Robin Yassin-Kassab
+- *Southern Reach Trilogy* by Jeff VanderMeer
+- *Directed By Desire* by June Jordan
+- *Their Eyes Were Watching God* by Zora Neale Hurston
+- *Homuncula* by John Henri Nolette
+- *New York 2140* by Kim Stanley Robinson
+- *Stone Junction* by Jim Dodge
+- *Letters of Insurgents* by Nachalo & Vochek (Fredy Perlman)
+- *Stars in My Pocket like Grains of Sand* by Samuel R. Delany
 - *The Word for World Is Forest* by Ursula K. Le Guin
 #### Zines
 - "KerBloom"
@@ -383,7 +404,6 @@
 - *Power* by Linda Hogan
 - *Embassytown* by China Miéville
 - *Life in Hell* by Matt Groening
-- *Their Eyes Were Watching God* y Zora Neale Hurston
 - *The People of Paper* by Salvador Plascencia
 - *The Memoirs of a Survivor* by Doris Lessing
 #### Non-Fiction
