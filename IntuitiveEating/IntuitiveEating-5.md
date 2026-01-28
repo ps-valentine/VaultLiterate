@@ -28,6 +28,11 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 - "If coping with your feelings had been difficult for you, you will be less afraid to experience them, and become more adept at sitting with them. Finding diverse alternatives to distract and comfort yourself when necessary will become natural for you." (62)
 - "Your food talk and self-talk will be positive and noncritical... you will have released any conflict or leftover guilt about food choices... You have stopped making disrespectful comments about your body. You respect i and accept that there are many different sizes and shapes in the world..." (62)
 #### Stage Five: The Final Stage - Treasure the Pleasure
-- "... TO BE CONTINUED"
-# Tags 
-#copingtools #dietculture #distresstolerance #interoceptiveawareness #IntuitiveEating #mentalhealth/foodtalk #mentalhealth/internaldialogue #mentalhealth/self-talk #proprioception #sensoryawareness #weight #weight-loss
+- "You will trust your body's intuitive abilities - it will be easy to *honor your hunger* and *respect fullness*. Finally, you will feel no guilt about your food choices or quantities." (62)
+- "...being able to respect fullness and experience satisfaction with food can only come with knowing you have food security. Intuitive Eating is a privilege that is not felt for those who don't have food security." (62)
+- "When emotions become too overwhelming, you will find that you would much rather deal with your feelings or distract yourself from them with something other than food." (62)
+- "... you will experience nutrition and movement in a different way. The *burden* of exercise will be removed, and moving your body will begin to feel enticing to you... you become committed to movement as a way to *feel* better, physicall and mentally. Likewise, nutrition... becomes a path to feeling good physically..." (62-63)
+- "... it is important to acknowledge that this personal Intuitive Eating work does nothing to get rid of the root of oppressive forces, which occur at the system level (such as racism, anti-semitism, transphobia, homophobia, ableism, poverty, classism, and weight stigma)." (63)
+#### You Can Do It!
+# Tags
+#bodyappreciation #copingtools #dietculture #dieting #distresstolerance #exercise #fatphobia #foodguilt #foodsecurity #interoceptiveawareness #IntuitiveEating #mentalhealth/foodtalk #mentalhealth/internaldialogue #mentalhealth/self-talk #movement #nutrition #proprioception #sensoryawareness #weight #weight-loss

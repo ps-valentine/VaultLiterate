@@ -15,6 +15,13 @@
         "Mod"
       ],
       "key": "U"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
     }
   ],
   "editor:fold-all": [
