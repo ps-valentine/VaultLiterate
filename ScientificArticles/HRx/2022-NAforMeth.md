@@ -1,8 +1,12 @@
 # Narcotics Anonymous members in recovery from methamphetamine use disorder.
 Galanter, Marc, William L. White and Brooke Hunter. “Narcotics Anonymous members in recovery from methamphetamine use disorder.” *The American Journal on Addictions* 32, no. 1 (2022): 54-59, [https://journalofethics.ama-assn.org/article/drawing-black-and-queer-communities-harm-reduction-histories-improve-overdose-prevention-strategies/2024-07](https://onlinelibrary.wiley.com/doi/10.1111/ajad.13362)
-- **Abstract, Background and Objectives**: "Methamphetamine use disorder (MUD) is a major public health problem, but there are no evidence-based, best-practice, pharmacologic, or behavioral treatments for it. Narcotics Anonymous (NA) may provide an option for referral for such patients."
-- **Abstract, Discussion and Conclusions:** "NA served as a resource for supporting abstinence for some members with MUD. They scored social resources of NA support higher than both spiritual and outside institutional ones."
-- This study was produced based on surveys distributed to members by Narcotics Anonymous World Service in partnership with the researchers. These surveys were optional, anonymized & un-incentivized; they were distributed in March 2020 and June 2021, during the COVID pandemic.
+## Abstract
+### **Abstract, Background and Objectives**
+"Methamphetamine use disorder (MUD) is a major public health problem, but there are no evidence-based, best-practice, pharmacologic, or behavioral treatments for it. Narcotics Anonymous (NA) may provide an option for referral for such patients."
+### **Abstract, Discussion and Conclusions**
+"NA served as a resource for supporting abstinence for some members with MUD. They scored social resources of NA support higher than both spiritual and outside institutional ones."
+
+This study was produced based on surveys distributed to members by Narcotics Anonymous World Service in partnership with the researchers. These surveys were optional, anonymized & un-incentivized; they were distributed in March 2020 and June 2021, during the COVID pandemic.
 ## Introduction
 - "Neurotoxic effects of methamphetamine occur from repeated use, resulting in neurocognitive defects, and persisting even after a period of abstinence."
 - "In 2012, federal legislation was passed to limit over-the-counter sales of ephedrine and pseudoephedrine because of their use in synthesizing methamphetamine in local US laboratories. Subsequent illicit importation of the drug from Mexico, however, has made large quantities available. Consequently, subsequent increased availability of higher purity methamphetamine has made medical consequences more prominent; use of the drug has increased considerably in the United States in recent years."
@@ -17,11 +21,8 @@ Data collection included information related to: in-person versus online attenda
 - "There were 347 respondents in the first wave survey who listed methamphetamine as their principal drug of abuse," with the ethnic breakdown of respondents being approximately 85% white, 5% Black, 5% Hispanic/Latino and 8% other. On average, respondents were around 50 years old and had last used substances 13 years ago. 47% had a history of intravenous (IV) drug use, 27% had been referred to NA by a healthcare professional and about 50% had received psychological treatment besides medication.
 - "Participants reported higher drug craving during the pandemic than before", with "greater involvement in providing assistance to other members" (as a sponsor or by contributing to the NA service) correlating with lower craving.
 - "Almost half of the respondents (47.4%) reported having experienced a relapse since joining NA..."
-- "\[R]espondents who indicated that _other members_ were not important to their recovery were no less likely to rate _God_ and _spiritual awakening_ as resources important to their recovery. Respondents who indicated that _God_ was not important to their recovery were more likely to rate social items as important to their recovery; and were least likely to rate _NA prayer_ or _house of worship_ as important. Respondents who indicated that a _therapist_ was not important to their recovery were more likely to rate all other NA-based items as more important to their recovery, but not medications."
-
-![[2022-NAforMeth-Table3.png]]
-
-(UNFINISHED)
+- "\[R]espondents who indicated that _other members_ were not important to their recovery were no less likely to rate _God_ and _spiritual awakening_ as resources important to their recovery. Respondents who indicated that _God_ was not important to their recovery were more likely to rate social items as important to their recovery; and were least likely to rate _NA prayer_ or _house of worship_ as important. Respondents who indicated that a _therapist_ was not important to their recovery were more likely to rate all other NA-based items as more important to their recovery, but not medications... Differences between genders also indicated a different pattern of reliance. Among male respondents, only 35.9% indicated that professional help (including both therapist and/or medications for psychological problems) was a resource for recovery support whereas 63.2% of females found professional help to be a resource.""
+	![[2022-NAforMeth-Table3.png]]
 ## Discussion
 (UNFINISHED)
 ## Limitations
