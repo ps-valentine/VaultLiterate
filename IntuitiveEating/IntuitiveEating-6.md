@@ -14,7 +14,7 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 	- "*Pacifying hunger by drinking coffee or diet soda.* This is a common dieting trick to assuage hunger pangs without eating or calories." (69)
 	- "*Putting on a 'false food face' in public.* You only eat what is "proper" in front of other people - this is also known as performative eating, eating to please the expectations of others." (69)
 #### The Dieter's Dilemma
-- "The inherent futility of dieting is explained in the Dieter's Dilemma model created by psychologists John P. Foreyt and G. Ken Goodrick..." (70) (and included in their book *Living Without Dieting* (1992).
+- "The inherent futility of dieting is explained in the Dieter's Dilemma model created by psychologists John P. Foreyt and G. Ken Goodrick..." (70) and included in their book *Living Without Dieting* (1992).
 - (ADD DIAGRAM?)
 #### How to Reject the Diet Mentality
 - "Several researchers and health professionals are calling for a paradigm shift away from weight-focused healthcare..." (72)

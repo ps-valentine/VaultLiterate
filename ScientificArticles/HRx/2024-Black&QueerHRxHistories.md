@@ -4,4 +4,4 @@ Johnson, Sterline and Kimberley L. Sue. “Drawing on Black and Queer Communitie
 - "**Harm reduction** must be seen as an evolving and emergent set of strategies that can be utilized and adapted by people who use drugs or engage in sex work; to prevent harms associated with these practices, public health officers and medical professionals must work in tandem with local communities to implement harm reduction interventions and promote harm reduction policies."
 - "...more than 110,000 overdose deaths in the... 12-month period ending August 2023 - largely due to the rise of illicitly manufactured fentanyl in the unregulated drug supply."
 # Tags
-#AMAJournalofEthics #communitycare #fentanyl #harmreduction #HIV/AIDS #HIV/AIDS/epidemic #KimberleyLSue #overdose #scientificarticles #SterlineJohnson #substanceuse
+#AMAJournalofEthics #communitycare #fentanyl #harmreduction #HIV/AIDS #HIV/AIDS/epidemic #KimberleyLSue #overdose #scientificarticles #SterlineJohnson #substanceuse #unfinishednotes
