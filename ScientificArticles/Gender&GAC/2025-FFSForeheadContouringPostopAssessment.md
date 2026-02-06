@@ -2,4 +2,4 @@ Abazi, Sead, Till Schatzmann, Michael Beyer, et al. “Postoperative assessmen
 
 A study specifically examining before & after volume measurements of the supraorbital rims, frontal bone, frontal sinus, and combined frontal structures in transfeminine patients undergoing forehead reconstruction. This article includes intraoperative photos and useful reference imaging. Also notes that “the use of bone cement is no longer recommended” because “the presence of an open frontal sinus may allow bone cement to enter the sinus cavity, potentially leading to sinusitis.”
 # Tags
-#/2025 #bonecement #facialfeminizationsurgery #FFS #foreheadcontouring #foreheadreconstruction #GAS #gender-affirmingsurgery #imaging/intraoperativephotography #JournalofCranioMaxillofacialSurgery #scientificarticles
+#/2025 #AlexanderLunger #bonecement #DirkJSchaefer #facialfeminizationsurgery #FFS #FlorianMThieringer #foreheadcontouring #foreheadreconstruction #GAS #gender-affirmingsurgery #imaging/intraoperativephotography #JournalofCranioMaxillofacialSurgery #LukasSeifert #MichaelBeyer #NehaSharma #scientificarticles #SeadAbazi #ShankeethVinayahalingam #TillSchatzmann
