@@ -1,4 +1,4 @@
-# Intuitive Eating
+# *Intuitive Eating*
 by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 ### Chapter 6, Principle 1: Reject the Diet Mentality
 - "Dieting is often the *trigger* for overeating." (64)
@@ -34,7 +34,7 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 #### **Reject the Diet Mentality:** A Diet Is a Diet Is a Diet
 - (UNFINISHED) (82-83)
 # Tags
-#dietbonding #dietbacklash #dietculture/performativeeating #dieting/pseudo-dieting #dieting/unconsciousdieting #ED #EDs #eatingdisorder #GKenGoodrick #JohnPForeyt #LivingWithoutDieting #overeating #weightcycling
+#dietbonding #dietbacklash #dietculture/performativeeating #dieting/pseudo-dieting #dieting/unconsciousdieting #ED #EDs #eatingdisorder #GKenGoodrick #JohnPForeyt #LivingWithoutDieting #overeating #unfinished/notes #weightcycling
 
 # Rolling Tag Bank
 #ACT #acceptance-commitmenttherapy #BMI #baby-ledweaning #body-massindex #bodyappreciation #childrearing #copingtools #dietbacklash #dietbonding #dietculture #dietculture/performativeeating #dieting #dieting/pseudo-dieting #dieting/unconsciousdieting #distresstolerance #ED #EDs #eatingdisorder #eatingpersonalities #exercise #fatphobia #foodguilt #foodsecurity #GKenGoodrick #gentlenutrition #interoceptiveawareness #IntuitiveEating #JohnPForeyt #liposcution #LivingWithoutDieting #mentalhealth/foodtalk #mentalhealth/internaldialogue #mentalhealth/self-talk #movement #nutrition #obesity #overeating #proprioception #self-care #Semmelweisreflex #sensoryawareness #somatics #weight #weight-loss #weightcycling

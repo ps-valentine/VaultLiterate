@@ -1,0 +1,13 @@
+# *El espejo enterrado*
+por Carlos Fuentes, 1992, 2016 edición
+### Introducción
+- "El 12 de octubre de **1492**, **Cristóbal Colon** desembarcó en una pequeña isla del hemisferio occdiental." (7) He thought the world was round and set out to sail to Japan and China, landing in the Americas instead, and thinking he was in India.
+- "Colón había descubierto el paraíso terrenal y el buen salvaje que lo habitaba... ¿Por qué, entonces, se vio obligado a negar inmediatamente su propio descubrimiento, a atacar a los hombres a los cuales acababa de describir como 'muy mansos y sin saber que sea mal ni matar a otros ni prender, y sin arma'darles caza, esclivarles y aun enviarlos a España encadenados?"(8)
+- "Desde entonces, el continente americano ha vivido entre el sueño y la realidad, ha vivido el divorcio entre la buena sociedad que deseamos y la sociedad imperfecta en la que realmente vivimos." (8)
+- ...
+- "Buscando una luz que me guiase a través de la noche dividida del alma cultural, política y económica del mundo de habla española, la encontré en el sitio de las antiguas ruinas totonacas de El Tajín, en Veracruz, México. Veracruz es el estado natal de mi familia. Ha sido el puerto de ingreso para el cambio, y al mismo tiempo el hogar perdurable de la identidad mexicana. Los conquistadores españoles, franceses y norteamericanos han entrado a México a través de Veracruz. Pero las más antiguas culturas, los olmecas al sur del puerto, desde hace 3,500 años, y los totonacas al norte, con una antigüedad de 1,500 años, también tienen sus raíces aquí." (11)
+- "En las tumbas de sus sitios religiosos \[de El Tajín] se han encontrado espejos enterrados cuyo propósito, ostensiblemente, era guiar a los muertos en su viaje al inframundo. Pero el espejo enterrado no es sólo parte de la imaginación indígena americana. El poeta mexicano-catalán Ramón Xirau ha titulado uno de sus libros *L'Espil Soterrat* - El espejo enterrado -, recuperando una antiqua tradición mediterránea no demasiado lejana de la de los más antiguos pobladores indígenas de las Américas. Un espejo: un espejo que mira de las Américas al Mediterráneo, y del Mediterráneo a las Américas. Éste es el sentido y el ritmo mismo de este libro." (11)
+- ...
+- "Los espejos simbolizan la realidad, el Sol, la Tierra y sus cuatro direcciones, la superficie y la hondura terrenales, y todos los hombres y mujeres qua la habitamos." (13)
+- "¿Acaso no tenían razón? ¿No es el espejo tanto un reflejo de la realidad como un proyecto de la imaginación?" (13)
+#/1492 #/1992 #CarlosFuentes #CristóbalColon #Elespejoenterrado #símbolos/espejos #unfinished/notes

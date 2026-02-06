@@ -1,4 +1,4 @@
-# Intuitive Eating
+# *Intuitive Eating*
 by Evelyn Tribole & Elyse Resch, 2020, 4th ed. 
 ### Chapter 3: What Kind of Eater Are You?
 - "Perhaps you are still dieting and don't know it! There are many types of eating styles that are actually unconscious forms of dieting," or "some form of food restriction with the goal of shrinking the body." (31)

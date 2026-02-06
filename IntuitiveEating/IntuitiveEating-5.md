@@ -1,4 +1,4 @@
-# Intuitive Eating
+# *Intuitive Eating*
 by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 ### Chapter 5: Awakening the Intuitive Eater: Stages
 - "   ...your journey back to Intuitive Eating depends on how long you've been dieting, how strongly entrenched your diet thinking is, how long you've been using food to cope with life, and how willing you are to trust yourself. It equally depends on how willing you are to make learning to become an Intuitive Eater the primary goal, while accepting that a focus on weight loss will sabotage your Intuitive Eating process. You will begin to hold self-compassion for your desire to lose weight, as you learn that it has been a result of being conditioned by diet culture to believe in its significance as a measure of your worth." (55)

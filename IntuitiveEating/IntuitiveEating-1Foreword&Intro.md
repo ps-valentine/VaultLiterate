@@ -1,4 +1,4 @@
-# Intuitive Eating
+# *Intuitive Eating*
 by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 ### Foreword
 - "Intuitive Eating was originally published in 1995." (i)

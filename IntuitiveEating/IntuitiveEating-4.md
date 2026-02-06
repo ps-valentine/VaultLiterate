@@ -1,4 +1,4 @@
-# Intuitive Eating
+# *Intuitive Eating*
 by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 ### Chapter 4: Principles of Intuitive Eating: Overview
 - "By following the ten principles of Intuitive Eating, you will normalize and heal your relationship with food. And, please keep in mind that these ten principles are simply guidelines and not new rules that can be turned into a new diet. Any desire for weight loss must be put on the back burner, or it will sabotage your process of healing your relationship with food, your mind, and your body. Intuitive Eating is an inside job – it's about listening to the messages of the body through interoceptive awareness." (45)
