@@ -33,5 +33,7 @@
     1. "The influence of sexual orientation on participants' judgments of facial attractiveness in older women" from Sexualities, Evolution & Gender. 2006 Aug: [https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true)
 15. The Angle Orthodontist
     1. "Skeletofacial morphology of attractive and nonattractive faces" from The Angle Orthodontist. 2006: https://pubmed.ncbi.nlm.nih.gov/16539543/
+16. Urology
+	1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* 180, 2023, p.98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
 # Tags
 #ActaPsychologica #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticles #scientificjournals #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist
