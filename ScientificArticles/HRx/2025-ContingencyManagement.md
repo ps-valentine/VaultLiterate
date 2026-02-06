@@ -8,4 +8,6 @@ SAMHSA grant programs that authorize a CM intervention support the implementatio
 #### Excerpts
 ... TBD
 # Tags
-#contingencymanagement #harmreduction #scientificarticles #unfinishednotes
+#contingencymanagement #harmreduction #scientificarticles
+
+#unfinished/notes
