@@ -13,6 +13,8 @@
 ## Facial Plastic Surgery Clinics of North America
 1. "Challenges in Care of the Transgender Patient Seeking Facial Feminization Surgery" from Facial Plastic Surgery Clinics of North America. 2008 May: [https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub)
 2. "Gender-Affirming Surgery of the Mandible: Lower Jaw Feminization and Masculinization" from Facial Plastic Surgery Clinics of North America. 2023 Aug: [https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub)
+## International Journal of Transgenderism
+1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?" from *International Journal of Transgenderism*. 2017 Mar: https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
 ## Journal of Clinical Endocrinology and Metabolism
 1. "Estrogen-induced prolactinoma in a man." from *The Journal of Clinical Endocrinology and Metabolism*. 1988 Feb: https://europepmc.org/article/med/3339116
 ## Journal of Clinical Psychology
@@ -39,4 +41,4 @@
 ## Urology
 1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* 180, 2023, p.98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
 # Tags
-#ActaPsychologica #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticles #scientificjournals #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
+#ActaPsychologica #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticles #scientificjournals #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology

@@ -10,4 +10,5 @@ por Carlos Fuentes, 1992, 2016 edición
 - ...
 - "Los espejos simbolizan la realidad, el Sol, la Tierra y sus cuatro direcciones, la superficie y la hondura terrenales, y todos los hombres y mujeres qua la habitamos." (13)
 - "¿Acaso no tenían razón? ¿No es el espejo tanto un reflejo de la realidad como un proyecto de la imaginación?" (13)
+# Etiquetas
 #/1492 #/1992 #CarlosFuentes #CristóbalColon #Elespejoenterrado #símbolos/espejos #unfinished/notes

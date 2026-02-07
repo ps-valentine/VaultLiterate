@@ -15,7 +15,7 @@ by Nat Raha & Mijke Van Der Drift, 2024
 # Tags
 #/2024 #attentiveness #attention #collective #collectives #collectivecare #community #communitycare #disposability #disposabilityculture #epistemology #femme/world-building #forcedsterilization #LeahLakshmiPiepzna-Samarasinha #MijkeVanDerDrift #mutualaid #NatRaha #transfeminism/attentiveness #worldbuilding #world-building #worlding
 
-#unfinishednotes
+#unfinished/notes
 # Tags Pool
 #abolition #abolitionistethics #abundance #administrativeviolence #anti-Blackness #assimilation #anticolonial #bodymind #collective/decision-making #complicity #decolonization #desire #embodiedtransformation #embodiment #feminism #femininities #femininity #femme #femme/ethics #femme/practice #femmeness #genderoppression #healthcare/disparities #healthcaredisparities #identitypolitics #intuition #knowledge #medical-industrialcomplex  #neoliberalism #neoliberalism/innocence #neoliberalism/queerassimilation #neoliberalism/queerness #perfectionism #proprioception #relationality #sensoryawareness #sexuality #socialjustice #sociality #somatechnics #T4T #trans/embodiment #trans/feminism #trans/femininity #trans/sexuality #trans/sociality #transembodiment #transfeminism #transfemininities #transfemininity #transliberation #transmisogynoir #transness #transsexuality #whitesupremacy #whorephobia 
 # Works Referenced (Pool)
