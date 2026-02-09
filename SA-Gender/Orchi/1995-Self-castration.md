@@ -19,4 +19,4 @@ A case report out of Belfast, Ireland in 1995. As the gentleman reporting on the
 5 Lundstrum B., Pauly I. & Walinder J. (1984) Outcome of sex reassignment surgery. *Acta Psychiatrica Scandinavica* **70**, 289-294.
 6 Lavin M. (1987) Mutilation, deception, and sex changes. *Journal of Medical Ethics* **13**, 86-91.
 # Tags
-#autocastration #Belfast #CPA #cyproteroneacetate #CW-self-harm #CW-transphobia #casereport #DIY #do-it-yourself #GID #genderidentitydisorder #HRT #HRT/CPA #HRT/cyproteroneacetate #HRT/estrogen #Ireland/transgender #medication/CPA #medication/cyproteroneacetate #SJMcGovern #scientificarticle #surgicaltechnique #transgender/dysphoria #transsexual/dysphoria #transsexuality
+#/1995 #autocastration #Belfast #CPA #cyproteroneacetate #CW-self-harm #CW-transphobia #casereport #DIY #do-it-yourself #GID #genderidentitydisorder #HRT #HRT/CPA #HRT/cyproteroneacetate #HRT/estrogen #Ireland/transgender #medication/CPA #medication/cyproteroneacetate #SJMcGovern #scientificarticle #surgicaltechnique #transgender/dysphoria #transsexual/dysphoria #transsexuality
