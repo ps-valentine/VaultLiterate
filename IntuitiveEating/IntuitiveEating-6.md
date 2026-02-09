@@ -36,6 +36,6 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 # Tags
 #dietbonding #dietbacklash #dietculture/performativeeating #dieting/pseudo-dieting #dieting/unconsciousdieting #ED #EDs #eatingdisorder #GKenGoodrick #JohnPForeyt #LivingWithoutDieting #overeating #weightcycling
 
-#unfinished/notes
+#unfinished-notes
 # Rolling Tag Bank
 #ACT #acceptance-commitmenttherapy #BMI #baby-ledweaning #body-massindex #bodyappreciation #childrearing #copingtools #dietbacklash #dietbonding #dietculture #dietculture/performativeeating #dieting #dieting/pseudo-dieting #dieting/unconsciousdieting #distresstolerance #ED #EDs #eatingdisorder #eatingpersonalities #exercise #fatphobia #foodguilt #foodsecurity #GKenGoodrick #gentlenutrition #interoceptiveawareness #IntuitiveEating #JohnPForeyt #liposcution #LivingWithoutDieting #mentalhealth/foodtalk #mentalhealth/internaldialogue #mentalhealth/self-talk #movement #nutrition #obesity #overeating #proprioception #self-care #Semmelweisreflex #sensoryawareness #somatics #weight #weight-loss #weightcycling

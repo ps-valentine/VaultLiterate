@@ -5,4 +5,4 @@ Need to source the article in full, only the abstract is available for free onli
 # Tags
 #/1988 #HRT #hormone-replacementtherapy #medication/estrogen
 
-#unfinished/missingoriginal #unfinished/notes
+#unfinished-missingoriginal #unfinished-notes

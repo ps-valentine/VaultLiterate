@@ -3,4 +3,4 @@ Snelgrove, John W, Amanda M Jasudavisius, Bradley W Rowe, Evan M Head and Greta 
 # Tags
 #/2012 #AmandaMJasudavisiu #BradleyWRowe #EvanMHead #GAC #gender-affirmingcare #GretaRBauer #JohnWSnelgrove
 
-#unfinished/notes
+#unfinished-notes
