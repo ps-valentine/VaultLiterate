@@ -1,6 +1,8 @@
 # Scientific Article Wishlist
 ## Acta Psychologica 
 1. "Symmetry, averageness, and feature size in the facial attractiveness of women" from Acta Psychologica. 2004 Nov: [https://www.sciencedirect.com/science/article/abs/pii/S0001691804000794?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0001691804000794?via%3Dihub)
+## Archives of General Psychiatry
+1. "Male genital self-mutilation" from *Archives of General Psychiatry*. 1979: https://pubmed.ncbi.nlm.nih.gov/426611/
 ## Clinics in Plastic Surgery
 1. "Transgender Feminization of the Facial Skeleton" from Clinics in Plastic Surgery. 2007 Jul: [https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub)
 2. "Gender Reassignment: Feminization and Masculinization of the Neck" from Clinics in Plastic Surgery. 2018 Oct: [https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub)
@@ -41,4 +43,4 @@
 ## Urology
 1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* 180, 2023, p.98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
 # Tags
-#ActaPsychologica #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticles #scientificjournals #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
+#ActaPsychologica #ArchivesofGeneralPsychiatry #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticles #scientificjournals #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
