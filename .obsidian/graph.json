@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag: #unfinished",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.007812500000000007,
+  "scale": 0.16348370567220533,
   "close": true
 }
