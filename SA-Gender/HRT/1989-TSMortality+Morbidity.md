@@ -32,6 +32,10 @@ transsexuals." *Clin Endocrinol (Oxf)* **28** (1988): 583-588.
 30 Braendle W, Boesse H, Breckwoldt M, et al. "Wirkung und Nebenwirkung der Cyproteronacetatbehandlung." *Arch Gynak* **261** (1974): 335-345.
 30 (translation from German) Braendle W, Boesse H, Breckwoldt M, et al. "Effects and side effects of cyproterone acetate treatment." *Arch Gynak* **261** (1974): 335-345.
 # Tags
+<<<<<<< HEAD
 #/1989 #gender-affirmingcare #HAsscheman #HRT #hormonereplacementtherapy  #LJGGooren #Metabolism #Metabolism-journal #PLEEklund #transsexuality
+=======
+#/1989 #gender-affirmingcare #HAsscheman #LJGGooren #PLEEklund #scientificarticle
+>>>>>>> origin/main
 
 #unfinished-notes
