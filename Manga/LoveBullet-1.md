@@ -1,9 +1,19 @@
-*Love Bullet* (2025, or 2024 in Japanese), with story & art by inee; Yen Press. I'm not sure if this graphic novel is using proper duotone printing, or just limiting the color palette to two colors for a majority of its pages, but there *are* colors other than black, white & red.
+*Love Bullet* (2025, or 2024 in Japanese), with story & art by inee; Yen Press. Cupids do the work of the Goddess of Love - mostly unseen - in the human world.
 
-> [!info]- Plot Summary
+> [!info]- Plot Summary & Other Details
 > 
-> A mystery involving a cryptid of American folklore unfolds around a small community in the Ozarks.
+> **Characters - Cupids**
+> - Ena: leader of the cupids' team; wears heart glasses and uses a rifle.
+> - Chiyo: 'the fiesty one'; wears a ribbon in her hair and uses an uzi.
+> - Kanna: 'the quiet one'; wears a beret and uses grenades and a grenade launcher.
+> - Koharu: 'the new one'; wears two hairclips, dual-wields pistols, and also uses a rifle.
+> 
+> **Characters - Humans**
+>- Hina: the love interest.
+>- Aoi: the girl who likes Hina.
+>- Daito: the boy who likes Hina.
+>- 'the cashier': Hina's "match" and the resolution to the Hina-Aoi-Daito love triangle.
+>- Aki: Koharu's prior love interest
+>- Sakura Kasaga: Aki's "match."
 # Tags
-
-# Tags
-#/1971 #/1979 #Americana #Arkansas #comic-duotone #commune #cryptids-secret-eater #cryptids-will-o-the-wisp #CW-harmtoanimals #CW-bugs #CW-gaslighting #CW-memory #duotone #duotone-red #ex-RussianJews #genre-horror #genre-horror-psychological-horror #heterosexuality #intentionalcommunity #Jews-ex-Russian #marijuana #motif-butterflies #motif-duotone #motif-punk #motif-punkmusic #motif-red #motif-secrets #NatePowell #Ozarks #TopShelfProductions
+#/2024 #/2025 #bonuscontent #CW-guns #cupid #envy #fakebrands #fakebrands-WcDonalds #genre-fantasy #genre-yuri #heterosexuality #homosexuality #inee #lesbians #loveatsecondsight #lovetriangles  #motif-collateraldamage #motif-closure #motif-cupids #motif-death #motif-envy #motif-friendship #motif-gunfights #motif-heartache #motif-hearts #motif-lovesickness #motif-lovetriangles #motif-matchmaking #motif-mentorship #motif-moving-on #motif-muaythai #motif-red #motif-ringedeyes #motif-tacticalgear #motif-weaponry #motif-wings #YenPress
