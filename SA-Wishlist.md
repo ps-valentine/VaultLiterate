@@ -36,11 +36,15 @@
 1. "Long Term Follow up After Sex Reassignment Surgery" from Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery. 1997: [https://www.tandfonline.com/doi/abs/10.3109/02844319709010503](https://www.tandfonline.com/doi/abs/10.3109/02844319709010503)
 ## Sex Roles
 1. "The role of facial masculinity/femininity in the attribution of homosexuality" from Sex Roles. 1990 Aug: [https://link.springer.com/article/10.1007/BF00289863](https://link.springer.com/article/10.1007/BF00289863)
+## Sexual Medicine Reviews
+1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries" from *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
 ## Sexualities, Evolution & Gender
 1. "The influence of sexual orientation on participants' judgments of facial attractiveness in older women" from Sexualities, Evolution & Gender. 2006 Aug: [https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true)
 ## The Angle Orthodontist
 1. "Skeletofacial morphology of attractive and nonattractive faces" from The Angle Orthodontist. 2006: https://pubmed.ncbi.nlm.nih.gov/16539543/
 ## Urology
-1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* 180, 2023, p.98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
+1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* **180** (2023), 98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
+## Urology Clinics of North America
+1. "Orchiectomy as Bridge or Alternative to Vaginoplasty" from *Urology Clinics of North America* **46** (2019), 505-510: https://www.sciencedirect.com/science/article/abs/pii/S0094014319300527?via%3Dihub
 # Tags
-#ActaPsychologica #ArchivesofGeneralPsychiatry #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticles #scientificjournals #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
+#ActaPsychologica #ArchivesofGeneralPsychiatry #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology

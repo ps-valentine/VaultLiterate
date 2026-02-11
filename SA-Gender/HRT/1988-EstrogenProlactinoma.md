@@ -3,6 +3,6 @@ Gorren, LJ, J Assies, H Asscheman, R de Slegte, H van Kessel. "Estrogen-induced 
 
 Need to source the article in full, only the abstract is available for free online.
 # Tags
-#/1988 #HRT #hormone-replacementtherapy #medication/estrogen
+#/1988 #HAsscheman  #HRT #HvanKessel  #hormonereplacementtherapy #JAssies #JournalofClinicalEndocrinologyandMetabolism #LJGorren #medication-estrogen #RdeSlegte #scientificarticle #scientificjournal
 
 #unfinished-missingoriginal #unfinished-notes

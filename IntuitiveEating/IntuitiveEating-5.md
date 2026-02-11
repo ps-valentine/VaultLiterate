@@ -35,4 +35,4 @@ by Evelyn Tribole & Elyse Resch, 2020, 4th ed.
 - "... it is important to acknowledge that this personal Intuitive Eating work does nothing to get rid of the root of oppressive forces, which occur at the system level (such as racism, anti-semitism, transphobia, homophobia, ableism, poverty, classism, and weight stigma)." (63)
 #### You Can Do It!
 # Tags
-#bodyappreciation #copingtools #dietculture #dieting #distresstolerance #exercise #fatphobia #foodguilt #foodsecurity #interoceptiveawareness #IntuitiveEating #mentalhealth/foodtalk #mentalhealth/internaldialogue #mentalhealth/self-talk #movement #nutrition #proprioception #sensoryawareness #weight #weight-loss
+#bodyappreciation #copingtools #dietculture #dieting #distresstolerance #exercise #fatphobia #foodguilt #foodsecurity #internaldialogue #interoceptiveawareness #IntuitiveEating #mentalhealth #mentalhealth-foodtalk #mentalhealth-self-talk #movement #nutrition #proprioception #sensoryawareness #weight #weight-loss

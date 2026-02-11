@@ -1,5 +1,5 @@
-Endara, Matthew R., Lindsay Jones Allred, Kevin D. Han, et. al. “Applications of Fat Grafting in Facial Aesthetic Skeletal Surgery.” Aesthetic Surgery Journal 34, no. 3 (2014): 363-373, [https://academic.oup.com/asj/article/34/3/363/220574?login=true](https://academic.oup.com/asj/article/34/3/363/220574?login=true) 
+Endara, Matthew R., Lindsay Jones Allred, Kevin D. Han, et. al. “Applications of Fat Grafting in Facial Aesthetic Skeletal Surgery.” *Aesthetic Surgery Journal* **34**, no. 3 (2014): 363-373, [https://academic.oup.com/asj/article/34/3/363/220574?login=true](https://academic.oup.com/asj/article/34/3/363/220574?login=true) 
 
 This article discusses the use of fat grafting in facial surgeries, including indications for fat grafting and surgical plans. They identify genioplasties, facial reshaping, and facial asymmetry correction as their three primary indications for utilizing fat grafts, but this is not specifically in the context of gender-affirming surgeries or transgender patients.
 # Tags
-#/2014 #AestheticSurgeryJournal #facialattractiveness #fatgrafting #GAS/FS #GAS/facialsurgery #KevinDHan #LindsayJonesAllred #MatthewREndara #scientificarticles #StephenBBaker
+#/2014 #AestheticSurgeryJournal #facialattractiveness #fatgrafting #GAS #GAS-FS #GAS-facialsurgery #KevinDHan #LindsayJonesAllred #MatthewREndara #scientificarticle #scientificjournal #StephenBBaker

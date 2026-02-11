@@ -1,5 +1,5 @@
-Ousterhout, Douglas K. “Dr. Paul Tessier and Facial Skeletal Masculinization.” Annals of Plastic Surgery 67, no. 6 (2011): [https://journals.lww.com/annalsplasticsurgery/fulltext/2011/12000/dr__paul_tessier_and_facial_skeletal.32.aspx](https://journals.lww.com/annalsplasticsurgery/fulltext/2011/12000/dr__paul_tessier_and_facial_skeletal.32.aspx) 
+Ousterhout, Douglas K. “Dr. Paul Tessier and Facial Skeletal Masculinization.” *Annals of Plastic Surgery* **67**, no. 6 (2011): [https://journals.lww.com/annalsplasticsurgery/fulltext/2011/12000/dr__paul_tessier_and_facial_skeletal.32.aspx](https://journals.lww.com/annalsplasticsurgery/fulltext/2011/12000/dr__paul_tessier_and_facial_skeletal.32.aspx) 
 
 This article is notably not about transgender patients, but about cosmetic facial skeletal masculinization in cis men. Here, Dr. Ousterhout includes an homage to his teacher, the craniofacial and plastic surgeon, Dr. Tessier. The article itself includes lots of information that would be relevant to masculinizing procedures for transmasculine folks, focusing on masculinization of the forehead (augmentation), chin, and mandibular angle.
 # Tags
-#/2011 #AnnalsofPlasticSurgery #DouglasOusterhout #GAS/FMS #GAS/FS #GAS/facialmasculinizationsurgery #GAS/facialsurgery #gender-affirmingsurgery #PaulTessier #scientificarticles #sexualdimorphism
+#/2011 #AnnalsofPlasticSurgery #DouglasOusterhout #GAS #GAS-FMS #GAS-FS #GAS-facialmasculinizationsurgery #GAS-facialsurgery #gender-affirmingsurgery #PaulTessier #scientificarticle #sexualdimorphism
