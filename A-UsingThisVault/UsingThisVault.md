@@ -13,6 +13,6 @@ I'll try to keep plot summaries of fiction books folded, using the syntax \"> [!
 For comic titling (under Files), the title will be "(Year of Series Start)-Title" or "(Year of Series Start)-AbbreviatedTitle" where necessary.
 
 # Tags
-#books #comics #graphicnovels #manga #notetaking #Obsidian #readinglist #readingrecommendations #scientificarticles #scientificjournals
+#books #comics #governmentpublications #graphicnovels #manga #notetaking #Obsidian #readinglist #readingrecommendations #scientificarticles #scientificjournals #SlingshotOrganizer #zines
 
 #unfinished-notes
