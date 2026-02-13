@@ -1,4 +1,6 @@
-<center> <h4><b> DISTRACT YOURSELF WITH PLEASURABLE ACTIVITIES</b> (p.14)</h4></center>
+McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
+<h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
+## **Distract Yourself with Pleasurable Activities** (p. 14-17)
 Sometimes doing something that makes you feel good is the best way to distract yourself from painful emotions. But remember, you don't have to wait until you feel overwhelmed by painful emotions in order to do one of these activities. It's also helpful to engage in these types of activities on a regular basis. In fact, you should try to do something pleasurable every day. Exercise is also especially important because not only is it good for your overall physical health but it's also been shown to be an effective treatment for depression in some cases (Baybak et al., 2000). Plus, exercise makes you feel good almost immediately by releasing natural painkillers in your body called *endorphins* (the same painkillers that are released when you cut yourself).
 
 Following is a list of over one hundred pleasurable activities you can use to distract yourself.
@@ -108,4 +110,4 @@ Following is a list of over one hundred pleasurable activities you can use to di
 
 Here's an example of using pleasurable activities to distract yourself. Karen was feeling lonely and had nothing to do. As she sat alone at home, she began to think about how lonely she'd been her whole life and how she was hurt by her father when she was growing up. Very quickly, Karen was overwhelmed with very painful emotions. In fact, the memories also triggered physical pain in her shoulder. Karen began to cry and didn't know what to do. Luckily, she remembered the distraction plan she had created. Exercise had always been a powerful tool for Karen, so she went for a long walk in the park while she listened to some of her favorite music. The activity didn't erase her memories or remove her pain completely, but the long walk did soothe her and prevent her from being overwhelmed with sadness.
 # Tags
-#DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #list #pleasurableactivities #worksheet
+#DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #mentalhealth  #pleasurableactivities #tone-motivational #worksheet

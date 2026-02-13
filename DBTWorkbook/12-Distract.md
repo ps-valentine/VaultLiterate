@@ -1,0 +1,19 @@
+McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
+<h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
+## **Distract Yourself from Self-Destructive Behaviors** (p. 12-14)
+One of the most important purposes of dialectical behavior therapy is to help you stop engaging in self-destructive behaviors, such as cutting, burning, scratching, and mutilating yourself (Linehan, 1993a). No one can deny the amount of pain you are in when you engage in one of these behaviors. Some people with overwhelming emotions say that self-injury temporarily relieves them of some of the pain they're feeling. This might be true, but it's also true that these actions can cause serious permanent damage and even death if taken to an extreme.
+
+Think about all the pain you've already been through in your life. Think about all the people who have hurt you physically, sexually, emotionally, and verbally. Does it make sense to continue hurting yourself even more in the present? Doesn't it make sense to start healing yourself and your wounds? If you really want to recover from the pain you've already experienced, stopping these self-destructive behaviors is the first step you should take. This can be very hard to do. You might be addicted to the rush of natural painkillers called *endorphins* that are released when you hurt yourself. However, these types of self-destructive behaviors are highly dangerous and certainly deserve your best efforts to control them.
+### **Exercise:** Distract Yourself from Self-Destructive Behaviors
+Here are some safer actions that you can use to distract yourself from your self-destructive emotions and thoughts. Check the ones you're willing to do, and then add any healthy, nonharming activities that you can think of:
+- [ ] Instead of hurting yourself, hold an ice cube in one hand and squeeze it. The sensation from the cold ice is numbing and very distracting.
+- [ ] Write on yourself with a red felt-tip marker instead of cutting. Draw exactly where you would cut. Use red paint or nail polish to make it look like you're bleeding. Then raw stitches with a black marker. if you need to make it even more distracting, squeeze an ice cube in the other hand at the same time.
+- [ ] 
+- [ ] (UNFINISHED)
+Here's an example of using alternative actions to distract your self-destructive emotions. Lucy often cut herself when she felt upset or angry. She had dozens of scars on her wrists and forearms. She worse long-sleeve shirts even in the hot summer because she was embarrassed when other people saw what she had done to herself. But after getting some ideas from this workbook, she made a distraction plan. So the next time she got angry with herself and felt like cutting, she looked at her plan for alternative actions. She had written down the idea of drawing on herself with a red marker. She drew a line exactly where she would have cut herself. She even used red paint to make it look like she was bleeding. She carrier the mark on her arm for the rest of the day to remind herself how sad and overwhelmed she felt. But then, before she went to sleep, she was able to erase the "scar" and "blood" from her arm, unlike the rest of the marks from her permanent injuries.
+# Tags
+ #CW-self-harm #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #mentalhealth #overhwelmingemotions #self-harm #self-regulation #self-soothing #tone-self-help #worksheet 
+
+#unfinished-notes
+# Tag Bank
+#angermanagement #CW-abuse #CW-substanceabuse #CW-substancemisuse #CW-suicide  #isolation #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #substanceuse #substanceuse-alcohol #suicidality #tone-motivational 
