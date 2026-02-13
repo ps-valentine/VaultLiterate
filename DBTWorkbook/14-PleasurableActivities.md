@@ -1,0 +1,111 @@
+<center> <h4><b> DISTRACT YOURSELF WITH PLEASURABLE ACTIVITIES</b> (p.14)</h4></center>
+Sometimes doing something that makes you feel good is the best way to distract yourself from painful emotions. But remember, you don't have to wait until you feel overwhelmed by painful emotions in order to do one of these activities. It's also helpful to engage in these types of activities on a regular basis. In fact, you should try to do something pleasurable every day. Exercise is also especially important because not only is it good for your overall physical health but it's also been shown to be an effective treatment for depression in some cases (Baybak et al., 2000). Plus, exercise makes you feel good almost immediately by releasing natural painkillers in your body called *endorphins* (the same painkillers that are released when you cut yourself).
+
+Following is a list of over one hundred pleasurable activities you can use to distract yourself.
+<center><h3><b>The Big List of Pleasurable Activities</b> (p.15-16)</h3> </center>
+- [ ] Talk to a friend on the telephone.
+- [ ] Go out and visit a friend.
+- [ ] Invite a friend to come to your home.
+- [ ] Text message your friends.
+- [ ] Organize a party.
+- [ ] Exercise.
+- [ ] Lift weights.
+- [ ] Do yoga, tai chi, or Pilates, or take classes to learn.
+- [ ] Stretch your muscles.
+- [ ] Go for a long walk in a place or someplace else that's peaceful.
+- [ ] Go outside and watch the clouds.
+- [ ] Go jog.
+- [ ] Ride your bike.
+- [ ] Go for a swim.
+- [ ] Go hiking.
+- [ ] Do something exciting, like surfing, rock climbing, skiing, skydiving, motorcycle riding, or kayaking, or go learn how to do one of these things.
+- [ ] Go to your local playground and join a game being played or watch a game.
+- [ ] Get a massage; this can also help soothe your emotions.
+- [ ] Go for a drive in your car or go for a ride on public transportation.
+- [ ] Plan a trip to a place you've never been before.
+- [ ] Sleep or take a nap.
+- [ ] Eat chocolate or eat something else you really like.
+- [ ] Eat your favorite ice cream.
+- [ ] Cook your favorite dish or meal.
+- [ ] Cook a recipe that you've never tried before.
+- [ ] Take a cooking class.
+- [ ] Go out for something to eat.
+- [ ] Go outside and play with your pet.
+- [ ] Go borrow a friend's dog and take it to the park.
+- [ ] Give your pet a bath.
+- [ ] Go outside and watch the birds and other animals.
+- [ ] Find something funny to do, like reading the Sunday comics.
+- [ ] Watch a funny movie (start collecting funny movies to watch when you're feeling overwhelmed with pain).
+- [ ] Go to the movie theater and watch whatever's playing.
+- [ ] Watch television.
+- [ ] Listen to the radio.
+- [ ] Go to a sporting event, like a baseball or football game.
+- [ ] Play a game with a friend.
+- [ ] Play solitaire.
+- [ ] Play video games.
+- [ ] Visit your favorite websites.
+- [ ] Visit wacky websites and start keeping a list of them.
+- [ ] Create your own website.
+- [ ] Create your own online blog.
+- [ ] Join an Internet dating service.
+- [ ] Sell something you don't want on the Internet.
+- [ ] Buy something on the Internet.
+- [ ] Do a puzzle with a lot of pieces.
+- [ ] Call a crisis or suicide hotline and talk to someone.
+- [ ] Go shopping.
+- [ ] Go get a haircut.
+- [ ] Go to a spa.
+- [ ] Go to a library.
+- [ ] Go to a bookstore and read.
+- [ ] Go to your favorite café for coffee or tea.
+- [ ] Visit a museum or local art gallery.
+- [ ] Go to the mall or the park and watch other people; try to imagine what they're thinking.
+- [ ] Pray or meditate.
+- [ ] Go to your church, synagogue, temple, or other place of worship.
+- [ ] Join a group at your place of worship.
+- [ ] Write a letter to God.
+- [ ] Call a family member you haven't spoken to in a long time.
+- [ ] Learn a new language.
+- [ ] Sing or learn how to sing.
+- [ ] Play a musical instrument or learn how to play one.
+- [ ] Write a song.
+- [ ] Listen to some upbeat, happy music (start collecting happy songs for times when you're feeling overwhelmed).
+- [ ] Turn on some loud music and dance in your room.
+- [ ] Memorize lines from your favorite movie, play, or song.
+- [ ] Make a movie or video with your camcorder.
+- [ ] Take photographs.
+- [ ] Join a public-speaking group and write a speech.
+- [ ] Participate in a local theater group.
+- [ ] Sing in a local choir.
+- [ ] Join a club.
+- [ ] Plant a garden.
+- [ ] Work outside.
+- [ ] Knit, crochet, or sew - or learn how to.
+- [ ] Paint your nails.
+- [ ] Change your hair color.
+- [ ] Take a bubble bath or shower.
+- [ ] Work on your car, truck, motorcycle, or bicycle.
+- [ ] Sign up for a class that excites you at a local college, adult school, or online.
+- [ ] Read your favorite book, magazine, paper, articles, or poem.
+- [ ] Write a letter to a friend or family member.
+- [ ] Write things you like about yourself on a picture of your body or draw them on a photograph of yourself.
+- [ ] Write a poem, story, movie, or play about what happened to you today.
+- [ ] Write in your journal or diary about what happened to you today.
+- [ ] Write a loving letter to yourself when you're feeling good and keep it with you to read when you're feeling upset.
+- [ ] Make a list of ten things you're good at or that you like about yourself when you're feeling good, and keep it with you to read when you're feeling upset.
+- [ ] Draw a picture.
+- [ ] Pain a picture with a brush or your fingers.
+- [ ] Masturbate.
+- [ ] Have sex with someone you care about.
+- [ ] Make a list of the people you admire and want to be like - it can be anyone real or fictional throughout history. Describe what you admire about these people.
+- [ ] Write a story about the wackiest, funniest, or sexiest thing that has ever happened to you.
+- [ ] Make a list of ten things you would like to do before you die.
+- [ ] Make a list of ten celebrities you would like to be friends with and describe why.
+- [ ] Make a list of ten celebrities you would like to have sex with and describe why.
+- [ ] Write a letter to someone who has made your life better and tell them why. (You don't have to send the letter if you don't want to.)
+- [ ] Create your own list of pleasurable activities.
+- [ ] Other ideas: 
+
+Here's an example of using pleasurable activities to distract yourself. Karen was feeling lonely and had nothing to do. As she sat alone at home, she began to think about how lonely she'd been her whole life and how she was hurt by her father when she was growing up. Very quickly, Karen was overwhelmed with very painful emotions. In fact, the memories also triggered physical pain in her shoulder. Karen began to cry and didn't know what to do. Luckily, she remembered the distraction plan she had created. Exercise had always been a powerful tool for Karen, so she went for a long walk in the park while she listened to some of her favorite music. The activity didn't erase her memories or remove her pain completely, but the long walk did soothe her and prevent her from being overwhelmed with sadness.
+# Tags
+#DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #list #pleasurableactivities #worksheet
