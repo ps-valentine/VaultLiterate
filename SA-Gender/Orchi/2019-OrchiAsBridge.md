@@ -6,6 +6,6 @@ Hehemann, Marah C. and Thomas J. Walsh. "Orchiectomy as Bridge or Alternative to
 - "Gender-affirming orchiectomy has the distinct physiologic goal of reducing the need for antiandrogen treatments, such as spironolactone, which are required of many transwomen with intact testicles. In addition..." **(to be continued)**
 ## ... (to be continued)
 # Tags
-#GAC #gender-affirmingcare #multidisciplinarycare #transgender #transsexuality #WPATH #WorldProfessionalAssociationforTransgenderHealth
+#/2019 #GAC #gender-affirmingcare #multidisciplinarycare #transgender #transsexuality #WPATH #WorldProfessionalAssociationforTransgenderHealth
 
 #unfinished-missingoriginal #unfinished-partialoriginal

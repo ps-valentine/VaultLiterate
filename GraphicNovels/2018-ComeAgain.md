@@ -6,6 +6,3 @@
 # Tags
 <<<<<<< HEAD
 #/1971 #/1979 #Americana #Arkansas #comic #comic-duotone #commune #cryptids-secret-eater #cryptids-will-o-the-wisp #CW-harmtoanimals #CW-bugs #CW-gaslighting #CW-memory #duotone #duotone-red #ex-RussianJews #genre-horror #genre-horror-psychological-horror #graphicnovel #heterosexuality #intentionalcommunity #Jews #marijuana #motif-butterflies #motif-duotone #motif-punk #motif-punkmusic #motif-red #motif-secrets #NatePowell #Ozarks #TopShelfProductions
-=======
-#/1971 #/1979 #Americana #Arkansas #comic-duotone #commune #cryptids-secret-eater #cryptids-will-o-the-wisp #CW-harmtoanimals #CW-bugs #CW-gaslighting #CW-memory #duotone #duotone-red #ex-RussianJews #genre-horror #genre-horror-psychological-horror #heterosexuality #intentionalcommunity #Jews-ex-Russian #marijuana #motif-butterflies #motif-duotone #motif-punk #motif-punkmusic #motif-red #motif-secrets #NatePowell #Ozarks #TopShelfProductions
->>>>>>> origin/main

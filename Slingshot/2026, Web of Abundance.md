@@ -13,4 +13,4 @@ This is quite actionable right now, on the scale of your friendships and family.
 
 There are also interesting examples where this idea has been brought to a bigger scale. To reach that bigger scale, we will need to think big, and act big. But the only way we'll get But the only way we'll get there is rooted in a robust and networked community of folks who can and do share essential goods and services, who together form the basis for that bigger thing. So start where you are, buy don't just stay there. The abundance is here, and an even more abundant future awaits us!"
 # Tags
-#abundance #collectivecare #communitycare  #economicsystem-capitalism #economicsystem-socialism #mutualaid #tone-motivational
+#/2026 #abundance #collectivecare #communitycare  #economicsystem-capitalism #economicsystem-socialism #mutualaid #tone-motivational

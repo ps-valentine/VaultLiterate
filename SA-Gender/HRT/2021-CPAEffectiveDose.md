@@ -62,6 +62,3 @@ This study was conducted at gender identity centers in three cities in the Nethe
 # Tags
 <<<<<<< HEAD
 #/2021 #bestpractices #CPA #cyproteroneacetate #EuropeanMedicinesAgency #FSH #follice-stimulatinghormone #gender-affirmingcare-HRT #gender-affirmingcare-hormonereplacementtherapy #luteinizinghormone #medication-CPA #medication-cyproteroneacetate #medication-progestogen #medication-spironolactone #meningioma #Netherlands #Netherlands-transgender #scientificarticle #scientificjournal #thrombosis #transgender-Netherlands 
-=======
-#/2021 #bestpractices #CPA #cyproteroneacetate #EuropeanMedicinesAgency #FSH #follice-stimulatinghormone #gender-affirmingcare/HRT #gender-affirmingcare/hormonereplacementtherapy #luteinizinghormone #medication/CPA #medication/cyproteroneacetate #medication/progestogen #medication/spironolactone #meningioma #Netherlands #scientificarticles #thrombosis 
->>>>>>> origin/main

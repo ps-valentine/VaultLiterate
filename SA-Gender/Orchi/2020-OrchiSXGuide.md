@@ -38,6 +38,6 @@ Francis, Courtney, Ethan Grober, Emery Potter, Nolan Blodgett and Yonah Krakowsk
 - "Although orchiectomy may occur before or at the time of vaginoplasty, we have experienced an increased desire for stand-alone orchiectomy in our transfeminine population."
 ## ... (to be continued)
 # Tags
-#CourtneyFrancis #electrocautery #EmeryPotter #EthanGrober #fertilitypreservation #GAC #GAS #GAS-orchiectomy #gender-affirmingcare #gender-affirmingsurgery #informedconsent #NolanBlodgett #SexualMedicineReviews #surgicalrecovery #surgicaltechnique #testicularabnormalities #tone-instructional #tone-technical #transgender #transsexuality #tucking #WPATH #WorldProfessionalAssociationforTransgenderHealth #YonahKrakowsky
+#/2020 #CourtneyFrancis #electrocautery #EmeryPotter #EthanGrober #fertilitypreservation #GAC #GAS #GAS-orchiectomy #gender-affirmingcare #gender-affirmingsurgery #informedconsent #NolanBlodgett #SexualMedicineReviews #surgicalrecovery #surgicaltechnique #testicularabnormalities #tone-instructional #tone-technical #transgender #transsexuality #tucking #WPATH #WorldProfessionalAssociationforTransgenderHealth #YonahKrakowsky
 
 #unfinished-missingoriginal #unfinished-partialoriginal

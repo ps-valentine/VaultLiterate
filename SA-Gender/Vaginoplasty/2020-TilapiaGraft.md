@@ -10,6 +10,6 @@ Rodríguez, Álvaro Hernán, et. al. "Male-to-Female Gender-Affirming Surgery Us
 ### Conclusion
 "Nile tilapia skin, a safe, low-cost, and easy-to-use biocompatible material, may be an alternative option to scrotal skin grafts for neovaginal augmentation in primary vaginoplasty for male-to-female gender transition. However, further studies are needed to confirm this assertive."
 # Tags
-#fishpussy #GAS #GAS-vaginoplasty #GAS-vaginoplasty-PI #GAS-vaginoplasty-penileinversion #gender-affirmingsurgery #neovagina #skingrafting #tilapiagraft #transgender #transexuality
+#/2020 #fishpussy #GAS #GAS-vaginoplasty #GAS-vaginoplasty-PI #GAS-vaginoplasty-penileinversion #gender-affirmingsurgery #neovagina #skingrafting #tilapiagraft #transgender #transexuality
 
 #unfinished-missingoriginal #unfinished-partialoriginal
