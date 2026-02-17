@@ -1,21 +1,29 @@
 # *El espejo enterrado*
 por Carlos Fuentes, 1992, 2016 edición
-## Capítulo 2. La conquista de España
-- "El destino de España es insearable del Mediterráneo." (35)
-- "Durante muchísimos siglos, España fue la única opuerta de salida del Mediterráneo." (35)
-- "Hoy, esa puerta de ingreso e egreso se llama Gibraltar, en memoria del cabecilla beréber que invadió España desde África en 711." (35)
+## Capítulo 2. La conquista de España (p. 35-38)
+- "El destino de España es inseparable del Mediterráneo." (35)
+- "Durante muchísimos siglos, España fue la única puerta de salida del Mediterráneo... Hoy, esa puerta de ingreso e egreso se llama Gibraltar, en memoria del cabecilla beréber que invadió España desde África en 711." (35)
+- "Este doble movimiento le dio forma a dos culturas españoles."(36)
+- "Una cultura agraria profunda le dio la espalda al mar. Ésta era la cultura de los iberos. El Ebro, o el río de los iberos, era su hábitat, e "Iber" significa "río"... Los iberos llegaron a la península más de dos mil años antes de Cristo y desde el sur. Novecientos años antes de Cristo, se encontraron con los celtas llegados del norte y se fundieron con ellos para crear la cultura celtibérica que constituyó el corazón de la civilización agrarica profunda de España, viva hasta el día de hoy. Cultura de pastores y de aldeas, de campesino y de instinto tribales, alimentados de carne, quesos y pan..." (36)
+- "...el litoral mediterráneo, de Cataluña a Andalucía, se convirtió en un collar de poblaciones extranjeras, emporios y puertos comerciales. Esta presencia mediterránea, ciertamente más comercial que política, fue encabezada por los fenicios mil años antes de Cristo. Sus barcos tartesos crearon los grandes mitos de la segunda cultura españolaw, la cultura mediterránea, viajera, exterior." (36-37)
+- "Al nacer, España entre con un grito a la Biblia y España es, final;mente, una vez más, la cultura de lo excéntrico, el callejón sin salida, el lugar a donde se escapa..." (37)
+- "En la fuga bíblica de Jonás, lejos de la presencia de Dios, puede adivinarse un símbolo perverso tanbto del retiro de España en sí misma, la España montañosa, agraria y tribal del interior, como de su tentación paralela de salir de sí misma y darle la c ara al mar, a los barcos, al desafío de un mundo más allá de los pilares de Hércules donde el sol se hunde." (37)
+- "Esa historia de conquista e invasión, que atrae a la fuyerza extranjera hacia España, será repetida por la propia España en el Nuevo Mundo. La respuesta española al desafío del otro - el aragua en el Caribe, el azteca en México, el quechua en Perú - fue determinada por la experiencia de muchos siglos, cuando España fue el país conquistado." (37)"
+- "Conquista benigna, mientras los fenicios y luego los griegos se limitaron a crear enclaves comerciales en las costas, con zonas de uinfluencia restringida alrededor de los puertos de Gades (Cádiz) y Malaca (Málaga), aislando aún más la cultura primaria celtibérica y estableciendo, en compensación, una nueva cultura mediterránea de la viña, el olivo, el marisco, los cereales, la circulación monetaria y la vida urbana." (37-38)
+### Una ciudad asediada (p. 38-45)
+- "Cuando Grecia abandonó a España, Cartago y Roma se hicieron presents para conquistar, crear alianzas y, sobre todo, convertir a España en base para las mutuas agresiones de las dos superpotencias de la época." (38)
+- "De este modo, curiosamente, fue la victoria de Aníbal en Italia lo que atrajo a Roma hasta España. Y con Roma llegaron las formaciones más duraderas de la cultura española. Lengua, derecho, filosofía, una visión de la historia universal, comunicaciones. Todo ello, eternamente asociado con la prolongada presencia española de Roma, se basa en la realidad fundamental de la ciudad." (38-39)
+- "Italia creó en España un gobierno e instituciones públicas orgánicas y duraderas. Trajo ideas de unidad y de amplia corresponsabilidad humana donde éstas no existían o eran sumamente débiles. Y lo hizo mediante el instrumento de la vida urbana." (39)
 - ... (UNFINISHED)
-### Una ciudad asediada
-- 
-### La España romana
-- 
-### La corona y la cruz
-- 
+### La España romana (p. 45-51)
+- ... (UNFINISHED)
+### La corona y la cruz (p. 51-54)
+- ... (UNFINISHED)
 ### El santo de Sevilla (p. 54-59)
-- 
+- ... (UNFINISHED)
 # Etiquetas
-#/1992 #CarlosFuentes #Elespejoenterrado #español-literatura #literature-Spanish  
+#/2000BC #/900BC #/711 #/1992 #Andalucía  #aragua #aztecas #CarlosFuentes #cartagineses #celtas #Elespejoenterrado #español-literatura #fenicios #Gibraltar #griegos #iberos #literature-Spanish  #MediterraneanSea #musulmanas #quechua #romanos #tema-determinismo
 # Banco de etiquetas
-#/1492 #aztecas #CaballerodelosEspejos #Coatlicue #cristianismo  #CristóbalColon #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #elNuevoMundo #ElTajín  #figurasmaternas #flamenco #LEspilSoterrat #LaSemanaSanta #motif-mirrors #motivo-español #motivo-espejos #motivo-verdad #Quetzalcóatl #RamónXirau #símbolos-espejos #tema-sensualidad #Tezcatlipoca #Tlazoltéotl
+#/1492 #CaballerodelosEspejos #Coatlicue #cristianismo  #CristóbalColon #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #elNuevoMundo #ElTajín  #figurasmaternas #flamenco #LEspilSoterrat #LaSemanaSanta #motif-mirrors #motivo-español #motivo-espejos #motivo-verdad #Quetzalcóatl #RamónXirau #símbolos-espejos #tema-sensualidad #Tezcatlipoca #Tlazoltéotl
 
 #unfinished-notes #unfinished-tags 
