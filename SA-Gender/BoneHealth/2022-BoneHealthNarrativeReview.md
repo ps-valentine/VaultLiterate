@@ -1,0 +1,1 @@
+Giacomelli, Giuliu and Maria Cristina Meriggiola. “Bone health in transgender people: a narrative review.” *Therapeutic Advances in Endocrinology and Metabolism* **13** (2022), (https://journals.sagepub.com/doi/epub/10.1177/20420188221099346)
