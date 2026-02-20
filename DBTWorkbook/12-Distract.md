@@ -8,12 +8,16 @@ Think about all the pain you've already been through in your life. Think about a
 Here are some safer actions that you can use to distract yourself from your self-destructive emotions and thoughts. Check the ones you're willing to do, and then add any healthy, nonharming activities that you can think of:
 - [ ] Instead of hurting yourself, hold an ice cube in one hand and squeeze it. The sensation from the cold ice is numbing and very distracting.
 - [ ] Write on yourself with a red felt-tip marker instead of cutting. Draw exactly where you would cut. Use red paint or nail polish to make it look like you're bleeding. Then raw stitches with a black marker. if you need to make it even more distracting, squeeze an ice cube in the other hand at the same time.
-- [ ] 
-- [ ] (UNFINISHED)
+- [ ] Snap a rubber band on your wrist each time you feel like hurting yourself. This is very painful, but it causes less permanent damage than cutting, burning, or mutilating yourself.
+- [ ] Dig your fingernails into your arm without breaking the skin.
+- [ ] Draw faces of people you hate on balloons and then pop them.
+- [ ] Write letters to people you hate or to people who have hurt you. Tell them what they did to you and tell them why you hate them. Then throw the letters away or save them to read later.
+- [ ] Throw foam balls, rolled-up socks, or pillows against the wall as hard as you can.
+- [ ] Scream as loud as you an into a pillow or scream someplace where you won't draw the attention of other people, like at a loud concert or in your car.
+- [ ] Stick pins in a doll instead of hurting yourself. You can make a doll with some rolled-up socks or a foam ball and some markers. Or you can buy a doll in a store for the specific purpose of sticking pins in it. Buy one that's soft and easy to stick.
+- [ ] Cry. Sometimes people do other things instead of crying because they're afraid that if they start to cry they'll never stop. This never happens. In fact, the truth is that crying can make you feel better because it releases stress hormones.
+- [ ] Other healthy, nonharming ideas: 
+
 Here's an example of using alternative actions to distract your self-destructive emotions. Lucy often cut herself when she felt upset or angry. She had dozens of scars on her wrists and forearms. She worse long-sleeve shirts even in the hot summer because she was embarrassed when other people saw what she had done to herself. But after getting some ideas from this workbook, she made a distraction plan. So the next time she got angry with herself and felt like cutting, she looked at her plan for alternative actions. She had written down the idea of drawing on herself with a red marker. She drew a line exactly where she would have cut herself. She even used red paint to make it look like she was bleeding. She carrier the mark on her arm for the rest of the day to remind herself how sad and overwhelmed she felt. But then, before she went to sleep, she was able to erase the "scar" and "blood" from her arm, unlike the rest of the marks from her permanent injuries.
 # Tags
- #CW-self-harm #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #mentalhealth #overhwelmingemotions #self-harm #self-regulation #self-soothing #tone-self-help #worksheet 
-
-#unfinished-notes
-# Tag Bank
-#angermanagement #CW-abuse #CW-substanceabuse #CW-substancemisuse #CW-suicide  #isolation #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #substanceuse #substanceuse-alcohol #suicidality #tone-motivational 
+#/2007 #crying #cutting #CW-self-harm #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #endorphins #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #mentalhealth #overhwelmingemotions #self-harm #self-regulation #self-soothing #tone-judgmental #tone-self-help #worksheet

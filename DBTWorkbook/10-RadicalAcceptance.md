@@ -39,4 +39,4 @@ Now, using the coping statements that you checked, begin radically accepting dif
 - [ ] Other ideas: 
 
 # Tags
-#angermanagement #CW-abuse #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #mentalhealth #mentalhealth-self-talk #overhwelmingemotions #radicalacceptance #tone-self-help #worksheet 
+#/2007 #angermanagement #CW-abuse #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #mentalhealth #mentalhealth-self-talk #overhwelmingemotions #radicalacceptance #tone-self-help #worksheet 
