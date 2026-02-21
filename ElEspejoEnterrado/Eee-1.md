@@ -1,11 +1,11 @@
 # *El espejo enterrado*
 por Carlos Fuentes, 1992, 2016 edición
-## Capítulo 1. La virgen y el toro
+## Capítulo 1. La virgen y el toro (p. 15-18)
 - "España, la madre patria, es una proposición doblemente genitiva, madre y padre fundidos en uno solo..." (15)
 - "La España que llegó al Nuevo Mundo en los barco de los descubridores y conquistadores nos dio, por lo menos, la mitad de nuestro ser." (15)
 - "La medida de nuestro odio es idéntica a la medida de nuestro amor. ¿Por no son éstas sino maneras de nombrar la pasión?" (16)
 - "Varios traumas marcan la relación entre España y la América española. El primero, desde luego, fue la conquista del Nuevo Mundo, origen de un conocimiento terrible el que nace de estar presentes en el momento mismo de nuestra creación, observadores de nuestra propria violación pero también testigos de la crueldades y ternuras contradictorias que formaron parte de nuestra concepción. Los hispanoamericanos no podemos ser entendidos sin esta conciencia intensa del momento en que fuimos concebidos, hijos de una madre anónima, nosotros mismos desprovistos de nombre, pero totalmente conscientes del nombre de nuestros padres. Un dolor magnífico funda la relación de Iberia con el Nuevo Mundo: un parto que ocurre con el conocimiento de todo aquello que hubo de morir para que nosotros naciésemos: el splendor de las antiguas culturas indígenas." (16-17)
-- "Encuentro dos constantes del contexto español. La primera es que cada lugar común es negado por su opuesto... La segunda constante de la cultura española es revelada en su sensibilidad artística, en la capacidad para hacer de lo invisible visible, mediante la itnegración de lo marginal, lo per verso, lo excluido, a una realidad que en primer término es la del arte." (18)
+- "Encuentro dos constantes del contexto español. La primera es que cada lugar común es negado por su opuesto... La segunda constante de la cultura española es revelada en su sensibilidad artística, en la capacidad para hacer de lo invisible visible, mediante la integración de lo marginal, lo per verso, lo excluido, a una realidad que en primer término es la del arte." (18)
 ### La arena española
 - ... (UNFINISHED)
 ### Figuras maternas
