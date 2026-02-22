@@ -28,7 +28,7 @@ por Carlos Fuentes, 1992, 2016 edición
 ### El santo de Sevilla (p. 54-59)
 - ... (UNFINISHED)
 # Etiquetas
-#/2000BC #/900BC #/711 #/1992 #Andalucía  #aragua #aztecas #CarlosFuentes #cartagineses #celtas #Elespejoenterrado #español-literatura #fenicios #Gibraltar #griegos #guerradeguerrillas #iberos #literature-Spanish  #MediterraneanSea #musulmanas #Numancia #quechua #romanos #tablado #tema-creatividad #tema-determinismo
+#/2000BC #/900BC #/200BC #/134BC #/133BC #/711 #/1992 #Andalucía  #aragua #aztecas #CarlosFuentes #cartagineses #celtas #Elespejoenterrado #español-literatura #fenicios #Gibraltar #griegos #guerradeguerrillas #iberos #literature-Spanish  #MediterraneanSea #musulmanas #Numancia #quechua #romanos #tablado #tema-creatividad #tema-determinismo
 # Banco de etiquetas
 #/1492 #CaballerodelosEspejos #Coatlicue #cristianismo  #CristóbalColon #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #elNuevoMundo #ElTajín  #figurasmaternas #flamenco #LEspilSoterrat #LaSemanaSanta #motif-mirrors #motivo-español #motivo-espejos #motivo-verdad #Quetzalcóatl #RamónXirau #símbolos-espejos #tema-sensualidad #Tezcatlipoca #Tlazoltéotl
 
