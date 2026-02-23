@@ -8,4 +8,4 @@ Hehemann, Marah C. and Thomas J. Walsh. "Orchiectomy as Bridge or Alternative to
 # Tags
 #/2019 #GAC #gender-affirmingcare #multidisciplinarycare #transgender #transsexuality #WPATH #WorldProfessionalAssociationforTransgenderHealth
 
-#unfinished-missingoriginal #unfinished-partialoriginal
+#unfinished-missingoriginal #unfinished-partialoriginal #unfinished-references

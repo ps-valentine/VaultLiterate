@@ -53,3 +53,5 @@ Study participants were taking estradiol, with spironolactone if they had not ye
 25 Hembree WC, Cohen-Kettenis P, Delemarre-van de Waal H, et al. Endocrine treatment of transsexual persons: an endocrine society clinical practice guideline. *Journal of Clinical Endocrinology & Metabolism* **94** (2009): 3132–3154.
 # Tags
 #/2016 #CNoelBaireyMerz #DeborahJClegg #EdwardSzczepaniak #EricVilain #FranciscoJSánchez #GAC #GAC-metabolichealth #GAS #GAS-orchiectomy #gender-affirmingcare #gender-affirmingsurgery #HRT #HRT-estradiol #HRT-estradiolvalerate #HRT-estrogen #HRT-sideeffects #insulinresistance #JanetWei #JenniferHStern #LidiaSSzczepaniak #medication-androgen #medication-estradiol #medication-estradiolvalerate #medication-estrogen #medication-spironolactone #medication-testosterone #MichaelDNelson #orchiectomy #RichardNBergman #sexhormones #trans #Transgender-journal #transgender #transgender-occurrencerate
+
+#unfinished-references

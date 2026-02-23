@@ -5,4 +5,4 @@ Need to source the article in full, only the abstract is available for free onli
 # Tags
 #/1988 #HAsscheman  #HRT #HvanKessel  #hormonereplacementtherapy #JAssies #JournalofClinicalEndocrinologyandMetabolism #LJGorren #medication-estrogen #RdeSlegte #scientificarticle #scientificjournal
 
-#unfinished-missingoriginal #unfinished-notes
+#unfinished-missingoriginal #unfinished-notes #unfinished-references

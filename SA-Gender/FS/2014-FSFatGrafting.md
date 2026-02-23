@@ -3,3 +3,5 @@ Endara, Matthew R., Lindsay Jones Allred, Kevin D. Han, et. al. “Applications 
 This article discusses the use of fat grafting in facial surgeries, including indications for fat grafting and surgical plans. They identify genioplasties, facial reshaping, and facial asymmetry correction as their three primary indications for utilizing fat grafts, but this is not specifically in the context of gender-affirming surgeries or transgender patients.
 # Tags
 #/2014 #AestheticSurgeryJournal #facialattractiveness #fatgrafting #GAS #GAS-FS #GAS-facialsurgery #KevinDHan #LindsayJonesAllred #MatthewREndara #scientificarticle #scientificjournal #StephenBBaker
+
+#unfinished-references

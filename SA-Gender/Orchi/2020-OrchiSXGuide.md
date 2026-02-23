@@ -40,4 +40,4 @@ Francis, Courtney, Ethan Grober, Emery Potter, Nolan Blodgett and Yonah Krakowsk
 # Tags
 #/2020 #CourtneyFrancis #electrocautery #EmeryPotter #EthanGrober #fertilitypreservation #GAC #GAS #GAS-orchiectomy #gender-affirmingcare #gender-affirmingsurgery #informedconsent #NolanBlodgett #SexualMedicineReviews #surgicalrecovery #surgicaltechnique #testicularabnormalities #tone-instructional #tone-technical #transgender #transsexuality #tucking #WPATH #WorldProfessionalAssociationforTransgenderHealth #YonahKrakowsky
 
-#unfinished-missingoriginal #unfinished-partialoriginal
+#unfinished-missingoriginal #unfinished-partialoriginal #unfinished-references

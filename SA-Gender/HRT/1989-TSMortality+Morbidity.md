@@ -34,4 +34,4 @@ transsexuals." *Clin Endocrinol (Oxf)* **28** (1988): 583-588.
 # Tags
 #/1989 #gender-affirmingcare #HAsscheman #HRT #hormonereplacementtherapy  #LJGGooren #Metabolism #Metabolism-journal #PLEEklund #transsexuality
 
-#unfinished-notes
+#unfinished-notes #unfinished-references

@@ -3,3 +3,5 @@ Luis, Capitán, Daniel Simon, Kai Kaye, et. al. “Facial Feminization Surgery: 
 “This article describes the main surgical techniques used in feminization of the forehead complex, sequences the different steps in forehead reconstruction, evaluates results obtained using cephalometric analysis, and includes the level of patient satisfaction.” An apt summary, with both CT imaging and surgical photographs for visualizations. Includes discussion of hairline lowering vs. hair transplantation and hairline vs. coronal incisions for top-third face modifications.
 # Tags
 #/2014 #DanielSimon #foreheadreconstruction #GAS #GAS-FFS #GAS-FS #GAS-facialfeminizationsurgery #gender-affirmingsurgery #imaging-CT #imaging-surgicalphotography #imaging-visualization #KaiKaye #LuisCapitán #PlasticandReconstructiveSurgery #scientificarticle #scientificjournal  #surgicaltechnique #ThiagoTenório 
+
+#unfinished-references
