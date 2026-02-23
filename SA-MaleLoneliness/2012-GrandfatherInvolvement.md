@@ -1,4 +1,4 @@
-Bates, J. and A. Taylor. "Grandfather involvement and aging men's mental health." *American Journal of Men's Health* **6**, no. 3 (2012): https://journals.sagepub.com/doi/full/10.1177/1557988311430249
+Bates, James S. and Alan C. Taylor. "Grandfather involvement and aging men's mental health." *American Journal of Men's Health* **6**, no. 3 (2012): https://journals.sagepub.com/doi/full/10.1177/1557988311430249
 # Grandfather involvement and aging men's mental health
 ## Abstract
 ## Literature Review
@@ -23,6 +23,6 @@ Bates, J. and A. Taylor. "Grandfather involvement and aging men's mental health.
 ### Limitations and Future Research Opportunities
 ## References
 # Tags
-#isolation #loneliness #maleisolation #mentalhealth 
+#/2012 #AlanCTaylor #grandfathers #isolation #JamesSBates #loneliness #maleisolation #mentalhealth 
 
 #unfinished-notes
