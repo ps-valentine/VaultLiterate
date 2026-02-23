@@ -31,7 +31,7 @@ Neville, Stephen, Jeffery Adams, Jed Montayre, Peter Larmer, Nick Garrett, Chris
 12 Dahlberg, Lena and Kevin J. McKee. "Correlates of social and emotional loneliness in older people: evidence from an English community study." *Aging & Mental Health* **18**, no. 4 (2014): https://www.tandfonline.com/doi/full/10.1080/13607863.2013.856863#d1e163
 13 Gierveld, Jenny de Jong, Marjolein Broese van Groenou, Adriaan W. Hoogendoorn, and Johannes H. Smit. "Quality of Marriages in Later Life and Emotional and Social Loneliness." *The Journals of Gerontology: Series B* **64B**, no. 4 (2009): https://academic.oup.com/psychsocgerontology/article/64B/4/497/598729
 14 Gierveld, Jenny de Jong, Norah Keating, and Janet E. Fast. "Determinants of Loneliness among Older Adults in Canada." *Canadian Journal of Aging* **34**, no. 2 (2015): https://www.cambridge.org/core/journals/canadian-journal-on-aging-la-revue-canadienne-du-vieillissement/article/abs/determinants-of-loneliness-among-older-adults-in-canada/BAB7624E4728F57B7B97EB67B75DB393
-18 
+18 Howard, Amanda, Tamara Blakemore, and Miriam Bevis. "Older people as assets in disaster preparedness, response and recovery: lessons from regional Australia." *Cambridge University Press*, 2015: https://www.researchgate.net/profile/Amanda-Howard-5/publication/285573649_Older_people_as_assets_in_disaster_preparedness_response_and_recovery_Lessons_from_regional_Australia/links/5663521f08ae4931cd5edba2/Older-people-as-assets-in-disaster-preparedness-response-and-recovery-Lessons-from-regional-Australia.pdf.
 21 
 23 
 25 
