@@ -25,4 +25,4 @@ Bates, James S. and Alan C. Taylor. "Grandfather involvement and aging men's men
 # Tags
 #/2012 #AlanCTaylor #grandfathers #isolation #JamesSBates #loneliness #maleisolation #mentalhealth 
 
-#unfinished-notes
+#unfinished-notes #unfinished-references

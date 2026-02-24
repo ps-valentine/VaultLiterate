@@ -18,7 +18,8 @@
 ## International Journal of Transgenderism
 1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?" from *International Journal of Transgenderism*. 2017 Mar: https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
 ## Journal of Clinical Endocrinology and Metabolism
-1. "Estrogen-induced prolactinoma in a man." from *The Journal of Clinical Endocrinology and Metabolism*. 1988 Feb: https://europepmc.org/article/med/3339116
+1. "No Venous Thromboembolism Increase among Transgender Female Patients Remaining on Estrogen for Gender-Affirming Surgery" from *The Journal of Clinical Endocrinology & Metabolism* **106**, no. 4 (2021).
+2. "Estrogen-induced prolactinoma in a man." from *The Journal of Clinical Endocrinology and Metabolism*. 1988 Feb: https://europepmc.org/article/med/3339116
 ## Journal of Clinical Psychology
 1. "Self-performed bilateral orchiectomy in transsexuals" from *Journal of Clinical Psychology*. 1982 Jul: [https://pubmed.ncbi.nlm.nih.gov/7085590/](https://pubmed.ncbi.nlm.nih.gov/7085590/)
 ## Journal of Cranio-Maxillofacial Surgery
@@ -28,6 +29,8 @@
 1. "Mandibular feminization osteotomy—preliminary results" from *International Journal of Oral & Maxillofacial Surgery*. 2019 May: https://www.sciencedirect.com/science/article/abs/pii/S0901502718303904
 ## Journal of Plastic, Reconstructive & Aesthetic Surgery
 1. "One-step facial feminization surgery: The importance of a custom-made preoperative planning and patient satisfaction assessment" from *Journal of Plastic, Reconstructive & Aesthetic Surgery*. 2019 Jun: [https://pubmed.ncbi.nlm.nih.gov/31375432/](https://pubmed.ncbi.nlm.nih.gov/31375432/)
+## Journal of Sexual Medicine
+1. "Gender-Confirming Vulvoplasty in Transgender Women in the Netherlands: Incidence, Motivation Analysis, and Surgical Outcomes" in *The Journal of Sexual Medicine* **17**, no. 8 (2020).
 ## NEJM Catalyst
 1. "Gender Expression Care: The Next Horizon in Transgender Health" from *NEJM Catalyst*. 2023 May: https://catalyst.nejm.org/doi/abs/10.1056/CAT.23.0036 
 ## Oral and Maxillofacial Surgery Clinics of North America
