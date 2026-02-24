@@ -15,6 +15,8 @@
 ## Facial Plastic Surgery Clinics of North America
 1. "Challenges in Care of the Transgender Patient Seeking Facial Feminization Surgery" from *Facial Plastic Surgery Clinics of North America*. 2008 May: [https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub)
 2. "Gender-Affirming Surgery of the Mandible: Lower Jaw Feminization and Masculinization" from *Facial Plastic Surgery Clinics of North America*. 2023 Aug: [https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub)
+## International Journal of Oral & Maxillofacial Surgery
+1. "Mandibular feminization osteotomy—preliminary results" from *International Journal of Oral & Maxillofacial Surgery*. 2019 May: https://www.sciencedirect.com/science/article/abs/pii/S0901502718303904
 ## International Journal of Transgenderism
 1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?" from *International Journal of Transgenderism*. 2017 Mar: https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
 ## Journal of Clinical Endocrinology and Metabolism
@@ -25,10 +27,9 @@
 ## Journal of Cranio-Maxillofacial Surgery
 1. "CT measurement of the frontal sinus - gender differences and implications for frontal cranioplasty" from *Journal of Cranio-Maxillofacial Surgery*. 2010 Mar: [https://pubmed.ncbi.nlm.nih.gov/20335041/](https://pubmed.ncbi.nlm.nih.gov/20335041/)
 2. "Contouring the forehead and rhinoplasty in the feminization of the face in male-to-female transsexuals" from *Journal of Cranio-Maxillofacial Surgery*. 2010 Sep: [https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub)
-## International Journal of Oral & Maxillofacial Surgery
-1. "Mandibular feminization osteotomy—preliminary results" from *International Journal of Oral & Maxillofacial Surgery*. 2019 May: https://www.sciencedirect.com/science/article/abs/pii/S0901502718303904
 ## Journal of Plastic, Reconstructive & Aesthetic Surgery
 1. "One-step facial feminization surgery: The importance of a custom-made preoperative planning and patient satisfaction assessment" from *Journal of Plastic, Reconstructive & Aesthetic Surgery*. 2019 Jun: [https://pubmed.ncbi.nlm.nih.gov/31375432/](https://pubmed.ncbi.nlm.nih.gov/31375432/)
+2. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
 ## Journal of Sexual Medicine
 1. "Gender-Confirming Vulvoplasty in Transgender Women in the Netherlands: Incidence, Motivation Analysis, and Surgical Outcomes" in *The Journal of Sexual Medicine* **17**, no. 8 (2020).
 ## NEJM Catalyst
@@ -52,4 +53,4 @@
 ## Urology Clinics of North America
 1. "Orchiectomy as Bridge or Alternative to Vaginoplasty" from *Urology Clinics of North America* **46** (2019), 505-510: https://www.sciencedirect.com/science/article/abs/pii/S0094014319300527?via%3Dihub
 # Tags
-#ActaPsychologica #ArchivesofGeneralPsychiatry #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #OralandMaxillofacialSurgeryClinicsofNorthAmerica #PerceptionJournal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
+#ActaPsychologica #ArchivesofGeneralPsychiatry #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #JournalofSexualMedicine #OralandMaxillofacialSurgeryClinicsofNorthAmerica #Perception-journal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology

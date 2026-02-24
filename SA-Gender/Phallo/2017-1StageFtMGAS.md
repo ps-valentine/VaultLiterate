@@ -47,7 +47,20 @@ stage with metoidioplasty. The single-stage procedure was based on the simultane
 ## Conclusions
 "Based on our results, we consider our procedure of hysterectomy, bilateral mastectomy, and metoidioplasty with urethral lengthening as single-stage surgery to be feasible, safe, and efficient for FtM transsexuals. It should be presented as a viable option of gender-confirmation surgery for these patients, but without defined selection criteria. The key for a successful outcome is the simultaneous multidisciplinary work of experienced and skilled teams."
 ## References
+1 Selvaggi, Gennaro and James Bellringer. "Gender reassignment surgery: an overview." *Nature Reviews Urology* **8** (2011): https://www.researchgate.net/profile/James-Bellringer-2/publication/51046028_Gender_reassignment_surgery_An_overview/links/5f562937458515e96d36156c/Gender-reassignment-surgery-An-overview.pdf
+3 Wolter, A., J. Diedrichson, T. Scholz, A. Arens-Landwehr, and J. Liebau. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
+4 Monstret, Stan, Gennaro Selvaggi, Peter Ceulemans, Koen Van Landuyt, Cameron Bowman, Phillip Blondeel, Moustapha Hamdi, and Griet de Cuypere. "Chest-Wall Contouring Surgery in Female-to-Male Transsexuals: A New Algorithm." *Plastic and Reconstructive Surgery* **121**, no. 3 (2008): https://journals.lww.com/plasreconsurg/fulltext/2008/03000/chest_wall_contouring_surgery_in_female_to_male.19.aspx
+5 Monstrey, Stan J, Peter Ceulemans, and Piet Hoebeke. "Sex Reassignment Surgery in the Female-to-Male Transsexual." *Seminars in Plastic Surgery* **25**, no. 3 (2011): https://pmc.ncbi.nlm.nih.gov/articles/PMC3312187/
+6 Ott, Johannes, Michael van Trotsenburg, Ulrike Kaufmann, Klaus Schrögendorfer, Werner Haslik, Johannes C. Huber, and René Wenzl. "Combined Hysterectomy/Salpingo-Oophorectomy and Mastectomy is a Safe and Valuable Procedure for Female-to-Male Transsexuals." *The Journal of Sexual Medicine* **7**, no. 6 (2010): https://www.researchgate.net/profile/Mick-Van-Trotsenburg/publication/42108362_Combined_HysterectomySalpingo-Oophorectomy_and_Mastectomy_is_a_Safe_and_Valuable_Procedure_for_Female-to-Male_Transsexuals/links/5fc931aa299bf188d4f13bb9/Combined-Hysterectomy-Salpingo-Oophorectomy-and-Mastectomy-is-a-Safe-and-Valuable-Procedure-for-Female-to-Male-Transsexuals.pdf
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+16
 # Tags
-#/2007 #/2016 #/2017 #BorkoStojanovic #CW-blood #CW-graphic #CW-intraoperative #CW-transphobia #diverticulum #DusanStanojevic #GAS-chestreduction #GAS-complications #GAS-hysterectomy #GAS-mastectomy #GAS-metoidioplasty #GAS-scrotoplasty #GAS-testicularimplants #GAS-urethralreconstruction #GAS-vaginectomy #HRT-DHT #HRT-dihydrotestosterone #implants-rejection #MarkBencic #MarkMajstorovic #MartaBizic #MilosJeftovic #MiroslavDjordjevic #surgicalcomplications #surgicaltechnique #TheJournalofSexualMedicine #transsexuality #urethralfistula #urethralreconstruction #urethrealstricture #VladimirKojovic
+#/2007 #/2016 #/2017 #BorkoStojanovic #CW-blood #CW-graphic #CW-intraoperative #diverticulum #DusanStanojevic #GAS-chestreduction #GAS-complications #GAS-hysterectomy #GAS-mastectomy #GAS-metoidioplasty #GAS-scrotoplasty #GAS-testicularimplants #GAS-urethralreconstruction #GAS-vaginectomy #HRT-DHT #HRT-dihydrotestosterone #implants-rejection #MarkBencic #MarkMajstorovic #MartaBizic #MilosJeftovic #MiroslavDjordjevic #surgicalcomplications #surgicaltechnique #TheJournalofSexualMedicine #transsexuality #urethralfistula #urethralreconstruction #urethrealstricture #VladimirKojovic
 
 #unfinished-references
