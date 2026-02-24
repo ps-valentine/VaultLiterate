@@ -37,8 +37,9 @@ por Carlos Fuentes, 1992, 2016 edición
 - "Para Roma, el hecho de que la ley en vez de ser puiramente consuetudinaria u oral... ahora estuviese escrita, significaba que obligada a todos y que nadie podía pretender la ignorancia de la ley para imponer la fuerza o el capricho personales sobre los demás." (48)
 - "El derecho romano es la fuente misma de... la idea, formada mediante el lenguaje y la ley, del Estado como coautor del desarrollo y de la justicia." (49)
 - "...la dramatización poética de la injusticia y del derecho a la rebelión. Una obra de teatro como *Fuenteovejuna*, de Lope de Vega, en el siglo XVII, dramatiza de manera explícita el enfrentamiento del poder político y la ciudadanía. *Fuenteovejuna* describe la rebelión colectiva de una ciudad contra la justicia. La ciudad asume la responsabilidad de todos y cada uno de los ciudadanos y cuando se les pregunta quién es responsable por la muerte del comendador, todo el pueblo contesta como un solo hombre. 'Fuenteovejuna lo hizo.'" (49-50)
-- 
+- "Los acueductos llevaron el agua de los valles fluviales a las áridas mesetas, de la misma manera en que la ley y la lengua auspiciaron un creciente sentido de comunidad. En todo caso, los intentos iniciales de forzar la intergración italohispánica fracasaron y, en el primer siglo de nuestra era, los iberorromanos participaban plenamente en la vida de la propria Roma. No debe sorprendernos, en consecuencia, que tres emperadores romanos - Trajano, Adriano y Teodosio - hayan sido nativos de España." (50)
 ### La corona y la cruz (p. 51-54)
+- 
 - ... (UNFINISHED)
 ### El santo de Sevilla (p. 54-59)
 - ... (UNFINISHED)

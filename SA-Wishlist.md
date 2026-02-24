@@ -1,8 +1,12 @@
 # Scientific Article Wishlist
 ## Acta Psychologica 
 1. "Symmetry, averageness, and feature size in the facial attractiveness of women" from *Acta Psychologica*. 2004 Nov: [https://www.sciencedirect.com/science/article/abs/pii/S0001691804000794?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0001691804000794?via%3Dihub)
+## Annals of Plastic Surgery
+1. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006): https://pubmed.ncbi.nlm.nih.gov/16929201/
 ## Archives of General Psychiatry
 1. "Male genital self-mutilation" from *Archives of General Psychiatry*. 1979: https://pubmed.ncbi.nlm.nih.gov/426611/
+## BJU International
+1. "Total sex-reassignment surgery in female-to-male transsexuals: a one-stage technique." *BJU International* **90**, no. 7 (2002): https://pubmed.ncbi.nlm.nih.gov/12410761/
 ## Clinics in Plastic Surgery
 1. "Transgender Feminization of the Facial Skeleton" from *Clinics in Plastic Surgery*. 2007 Jul: [https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub)
 2. "Gender Reassignment: Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub)
@@ -15,6 +19,8 @@
 ## Facial Plastic Surgery Clinics of North America
 1. "Challenges in Care of the Transgender Patient Seeking Facial Feminization Surgery" from *Facial Plastic Surgery Clinics of North America*. 2008 May: [https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub)
 2. "Gender-Affirming Surgery of the Mandible: Lower Jaw Feminization and Masculinization" from *Facial Plastic Surgery Clinics of North America*. 2023 Aug: [https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub)
+## Handchirurgie Mikrochirurgie Plastiche Chirurgie (HaMiPla)
+1. "Vaginal Hysterectomy and Bilateral Adnexectomy for Female to Male Transsexuals in an Interdisciplinary Concept." *Handchirurgie Mikrochirurgie Plastiche Chirurgie (HaMiPla)* **43**, no. 4 (2011): https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0030-1267241
 ## International Journal of Oral & Maxillofacial Surgery
 1. "Mandibular feminization osteotomy—preliminary results" from *International Journal of Oral & Maxillofacial Surgery*. 2019 May: https://www.sciencedirect.com/science/article/abs/pii/S0901502718303904
 ## International Journal of Transgenderism
@@ -31,13 +37,16 @@
 1. "One-step facial feminization surgery: The importance of a custom-made preoperative planning and patient satisfaction assessment" from *Journal of Plastic, Reconstructive & Aesthetic Surgery*. 2019 Jun: [https://pubmed.ncbi.nlm.nih.gov/31375432/](https://pubmed.ncbi.nlm.nih.gov/31375432/)
 2. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
 ## Journal of Sexual Medicine
-1. "Gender-Confirming Vulvoplasty in Transgender Women in the Netherlands: Incidence, Motivation Analysis, and Surgical Outcomes" in *The Journal of Sexual Medicine* **17**, no. 8 (2020).
+1. "Gender-Confirming Vulvoplasty in Transgender Women in the Netherlands: Incidence, Motivation Analysis, and Surgical Outcomes" in *The Journal of Sexual Medicine* **17**, no. 8 (2020): https://pubmed.ncbi.nlm.nih.gov/32430267/
+2. "Comparison of Two Different Methods for Urethral Lengthening in Female to Male (Metoidioplasty) Surgery." *Journal of Sexual Medicine* **10**, no. 5 (2013): https://pubmed.ncbi.nlm.nih.gov/23444841/
+3. "Metoidioplasty as a single stage sex reassignment surgery in female transsexuals: Belgrade experience." *Journal of Sexual Medicine* **6**, no. 5 (2009): https://pubmed.ncbi.nlm.nih.gov/19175859/
+4. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
 ## NEJM Catalyst
-1. "Gender Expression Care: The Next Horizon in Transgender Health" from *NEJM Catalyst*. 2023 May: https://catalyst.nejm.org/doi/abs/10.1056/CAT.23.0036 
+1. "Gender Expression Care: The Next Horizon in Transgender Health." *NEJM Catalyst*. 2023 May: https://catalyst.nejm.org/doi/abs/10.1056/CAT.23.0036 
 ## Oral and Maxillofacial Surgery Clinics of North America
 1. **UNOBTANIUM**   "Gender Affirming Facial Surgery - Anatomy and Procedures for Facial Masculinization" from *Oral and Maxillofacial Surgery Clinics of North America*. 2024 May: https://www.sciencedirect.com/science/article/abs/pii/S1042369924000013?via%3Dihub
 ## Perception
-1. "An ‘other-Race Effect’ for Categorizing Faces by Sex" from *Perception*. 1996: https://journals.sagepub.com/doi/10.1068/p250669
+1. "An ‘other-Race Effect’ for Categorizing Faces by Sex." *Perception* **25**, no. 6 (1996): https://journals.sagepub.com/doi/10.1068/p250669
 ## Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery
 1. "Long Term Follow up After Sex Reassignment Surgery" from *Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery*. 1997: [https://www.tandfonline.com/doi/abs/10.3109/02844319709010503](https://www.tandfonline.com/doi/abs/10.3109/02844319709010503)
 ## Sex Roles
@@ -53,4 +62,4 @@
 ## Urology Clinics of North America
 1. "Orchiectomy as Bridge or Alternative to Vaginoplasty" from *Urology Clinics of North America* **46** (2019), 505-510: https://www.sciencedirect.com/science/article/abs/pii/S0094014319300527?via%3Dihub
 # Tags
-#ActaPsychologica #ArchivesofGeneralPsychiatry #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #JournalofSexualMedicine #OralandMaxillofacialSurgeryClinicsofNorthAmerica #Perception-journal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
+#ActaPsychologica #AnnalsofPlasticSurgery #ArchivesofGeneralPsychiatry #BJUInternational #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #JournalofSexualMedicine #OralandMaxillofacialSurgeryClinicsofNorthAmerica #Perception-journal #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
