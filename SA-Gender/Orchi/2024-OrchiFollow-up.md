@@ -37,3 +37,5 @@ See [[2020-OrchiSXGuide|Francis et al.]]
 - "Strengths of this study are the relatively large number of included individuals, the completeness of data and the middle- to long-term follow-up time. Weaknesses of this study comprise the retrospective nature and the lack of self-reported outcomes."
 # Tags
 #/2024 #BMI #barrierstocare #body-massindex #Clavien-Dindo #GAS-BMI #GAS-orchiectomy #GAS-vaginoplasty #GAS-vulvoplasty #InternationalJournalofTransgenderHealth #JanMaertenSmit #Mark-BramBouman #Netherlands-transgender #obesity #post-opcare #post-operativecare #surgicalbarriers #surgicalcomplications #surgicalregret #TimSchäfer #transgender-Netherlands #WouterBvanderSluis
+
+#unfinished-references

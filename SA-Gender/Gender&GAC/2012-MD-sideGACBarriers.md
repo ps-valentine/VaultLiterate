@@ -34,4 +34,4 @@ issues in medical education—and at the institutional level, with support for b
 # Tags
 #/2012 #AmandaMJasudavisiu #BMCHealthServicesResearch #BradleyWRowe #Canada #Canada-transgender #EvanMHead #GAC #gender-affirmingcare #GretaRBauer #JohnWSnelgrove #Ontario #scientificarticle #scientificjournal #transgender-Canada
 
-#unfinished-notes
+#unfinished-notes #unfinished-references

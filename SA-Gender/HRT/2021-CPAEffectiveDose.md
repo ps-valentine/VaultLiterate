@@ -60,5 +60,6 @@ This study was conducted at gender identity centers in three cities in the Nethe
 ## Conclusion
 "...10 mg of CPA was found to be effective in lowering testosterone concentrations to the range observed in cis women. A dose of 10 mg was equally effective as higher doses, was found to have less influence on prolactin concentrations, and allowed higher HDL-C concentrations to be maintained. While GnRH agonists are preferred over CPA due to the fewer associated long-term side effects, this study shows that CPA at a low dose is a viable option when GnRH agonists are contraindicated, not available, or not reimbursed."
 # Tags
-<<<<<<< HEAD
 #/2021 #bestpractices #CPA #cyproteroneacetate #EuropeanMedicinesAgency #FSH #follice-stimulatinghormone #gender-affirmingcare-HRT #gender-affirmingcare-hormonereplacementtherapy #luteinizinghormone #medication-CPA #medication-cyproteroneacetate #medication-progestogen #medication-spironolactone #meningioma #Netherlands #Netherlands-transgender #scientificarticle #scientificjournal #thrombosis #transgender-Netherlands 
+
+#unfinished-references

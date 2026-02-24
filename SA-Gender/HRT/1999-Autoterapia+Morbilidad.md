@@ -4,4 +4,4 @@ Fernández, Antonio Becerra, Daniel Antonio de Luis Román y Gonzalo Piédrola M
 # Etiquetas
 #/1999 #AntonioBecerraFernández #DanielAntoniodeLuisRomán #español-artículocientífico #gender-affirmingcare #GonzaloPiédrolaMaroto #scientificarticle #scientificarticle-Spanish
 
-#unfinished-notes
+#unfinished-notes #unfinished-references

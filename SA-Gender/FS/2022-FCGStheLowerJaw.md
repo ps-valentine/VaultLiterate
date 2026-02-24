@@ -3,3 +3,5 @@ Simon, Daniel, Luis Capitán, Carlos Bailón, et al. “Facial Gender Confirmat
 An overview of ‘lower-third’ FGCS procedures, focused on transfeminine patients with some minimal discussion of masculinizing procedures. Includes extensive operative photographs, a useful jaw surgery chart with 3D CT scans, before & after photographs, and an assessment of patient satisfaction and self-perceived femininity. Also, some discussion of surgical imaging & guides that are useful in FGCS.
 # Tags
 #/2022 #AnabelSánchez-García #CarlosBailón #DanielSimon #FerminCapitán-Cañades #GAS #GAS-FFS #GAS-FMS #GAS-FS #GAS-facialfeminizationsurgery #GAS-facialmasculinizationsurgery #GAS-facialsurgery #gender-affirmingsurgery #imaging-CT #imaging-surgicalphotography #JavierGutiérrez-Santamaría #jawcontouring #LuisCapitán #PlasticandReconstructiveSurgery #RaúlBellinga #scientificarticle #scientificjournal #self-reported-treatmentefficacy #surgicaltechnique #ThiagoTenório #treatmentefficacy-self-reported
+
+#unfinished-references

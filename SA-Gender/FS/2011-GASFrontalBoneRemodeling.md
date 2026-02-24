@@ -3,3 +3,5 @@ Hoenig, Johannes Franz. “Frontal Bone Remodeling for Gender Reassignment of th
 A review of the surgical technique (with many photographs, some graphic, some before & after photos), discussion of the effects on identification of patient’s gender, and some notes on the effectiveness of HAC.
 # Tags
 #/2011 #AestheticPlasticSurgery #GAS #GAS-FFS #GAS-FS #GAS-facialfeminizationsurgery #GAS-facialsurgery #gender-affirmingsurgery #JohannesFranzHoenig #scientificarticle #surgicaltechnique
+
+#unfinished-references

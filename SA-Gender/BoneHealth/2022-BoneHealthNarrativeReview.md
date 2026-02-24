@@ -30,3 +30,5 @@ Giacomelli, Giuliu and Maria Cristina Meriggiola. “Bone health in transgender 
 
 # Tags
 #/2022 #bonehealth #fractures #GAHT #gender-affirmingcare-HRT #gender-affirminghormonetreatment #GiuliuGiacomelli #HRT #HRT-sideeffects #MariaCristinaMeriggiola #narrativereview #scientificarticle #scientificjournal #TherapeuticAdvancesinEndocrinologyandMetabolism #transgender-bonehealth
+
+#unfinished-notes #unfinished-references
