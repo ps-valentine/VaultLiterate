@@ -1,18 +1,8 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
 ## Distract Yourself By Leaving (p. 20)
-Sometimes the best thing that you can do is leave.
+Sometimes the best thing that you can do is leave. If you're in a very painful situation with someone and you recognize that your emotions are going to overwhelm you and possibly make the situation worse than it is already, then often it's best to just leave. Remember, if you're already overwhelmed by your emotions, it will be harder for you to think of a healthy resolution to your problem. Maybe it's vest to put some distance between you and the situation in order to give yourself time to calm your emotions and think of what to do next. Just walk away if that's the best you can do. It will be better than adding fuel to the emotional fire.
+
+Here's an example of leaving to distract yourself. Anna was in a large department store shopping for a blouse. She wanted one of the clerks to help her find her size, but the store clerk was busy with other customers. Anna waited as long as she could and kept trying to get the clerk's attention, but nothing worked. Anna recognized that she was getting angry very quickly. She was ready to tear the blouse in half. She didn't know what else to do. In the past, she would have stayed in the stored and gotten angrier, but this time she remember to leave. She walked out of the store, did some shopping elsewhere, and returned to get the blouse later, when the store was less crowded and when she was feeling more in control of her behaviors.
 # Tags
-#/2007 #angermanagement #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #tone-self-help #visualization #worksheet
-# Standard Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#angermanagement #crying #cutting #endorphins  #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #self-harm #substanceuse #substanceuse-alcohol #suicidality
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
- #tone-motivational #tone-self-help
-
-#list #worksheet
+#/2007 #angermanagement #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
