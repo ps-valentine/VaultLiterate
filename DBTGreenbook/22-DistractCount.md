@@ -3,7 +3,7 @@ McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior
 ## Distract Yourself By Counting (p. 22)
 Counting is a simple skill that can really keep your mind busy and help you focus on something other than your pain. Here are some examples. Check the ones you're willing to do, and then add any activities that you can think of:
 - [ ] *Count your breaths*. Sit in a comfortable chair, put one hand on your belly, and take slow, long breaths. Imagine breathing into your stomach instead of your lungs. Feel your belly expand with each inhalation. Start counting your breaths. When you inevitably start thinking about whatever it is that's causing you pain, return your focus to counting.
-- [ ] *Count anything else*. If you're too distracted by your emotions, simply count the sounds that you're hearing. This will take your attention...
+- [ ] *Count anything else*. If you're too distracted by your emotions, simply count the sounds that you're hearing. This will take your attention outside of yourself. Or try counting the number of ...
 ## My Distraction Plan
 1 
 
