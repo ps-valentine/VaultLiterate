@@ -19,7 +19,7 @@ Smell is a very powerful sense that can often trigger memories and make you feel
 - [ ] Other ideas:
 
 ### Self-Soothing Using Your Sense of Vision
-Vision is very important to humans. In fact, a large portion of our brain is devoted solely to our sense of sight. The things you look at can often have very powerful effects on you, for better or for worse. That's why it's important to find images that have a very soothing effect on you. And again, for each person,...
+Vision is very important to humans. In fact, a large portion of our brain is devoted solely to our sense of sight. The things you look at can often have very powerful effects on you, for better or for worse. That's why it's important to find images that have a very soothing effect on you. And again, for each person, it comes down to individual taste and preference. Here are some ideas. Check the ones you're willing to do, and then add...
 ### Self-Soothing Using Your Sense of Hearing
 ### Self-Soothing Using Your Sense of Taste
 ### Self-Soothing Using Your Sense of Touch
