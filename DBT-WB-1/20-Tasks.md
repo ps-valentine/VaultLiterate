@@ -1,7 +1,7 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
 ## Distract with Tasks and Chores (p. 20-21)
-Strangely, many people don't schedule enough time to take care of themselves or their living environments. As a result, tasks and chores go uncompleted. Here, then, is the perfect opportunity to do something to take care of yourself and your environment. The next time you're in a situation in which your emotions become too painful, temporarily distract yurself by engaging in one fo the following activities. Check the ones you're willing to do, and then add any activities that you can think of:
+Strangely, many people don't schedule enough time to take care of themselves or their living environments. As a result, tasks and chores go uncompleted. Here, then, is the perfect opportunity to do something to take care of yourself and your environment. The next time you're in a situation in which your emotions become too painful, temporarily distract yourself by engaging in one of the following activities. Check the ones you're willing to do, and then add any activities that you can think of:
 - [ ] Wash the dishes.
 - [ ] Make phone calls to people you haven't spoken to recently, but not someone you're angry with.
 - [ ] Clean your room or house, or go help a friend with their cleaning or gardening project.
@@ -24,7 +24,7 @@ Strangely, many people don't schedule enough time to take care of themselves or 
 - [ ] Water your plans or work in the garden.
 - [ ] Cook dinner for yourself and some friends.
 - [ ] Pay the bills.
-- [ ] Go to a support meeting, like Narcots Anonymous, Alcoholics Anonymous, or Overeaters Anonymous.
+- [ ] Go to a support meeting, like Narcotics Anonymous, Alcoholics Anonymous, or Overeaters Anonymous.
 - [ ] Other ideas: go for a run or lift weights.
 - [ ] Other ideas: 
 
