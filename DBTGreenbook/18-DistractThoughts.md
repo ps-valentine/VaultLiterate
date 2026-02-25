@@ -1,28 +1,19 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
 ## Distract Your Thoughts (p. 18-19)
-The human brain is a wonderful thought-producing machine. It turns out millions of thoughts every day. Most of the time, this makes...
-- [ ] Remember events from your past...
-- [ ] Imagine sexual thoughts...
-- [ ] Look outside at the natural world...
-- [ ] Imagine yourself as a hero or heroine...
+The human brain is a wonderful thought-producing machine. It turns out millions of thoughts every day. Most of the time, this makes our lives much easier. But unfortunately, we can't fully control what our brain thinks about. Here's an example. Imagine a picture of your favorite cartoon character, such as Bugs Bunny, Snoopy, Superman, or whomever. Close your eyes and see the character in vivid detail in your mind's eye. Remember exactly what it looks like. Think about the character for about fifteen seconds. Got it? Now, for the next thirty seconds do your best not to think about the character. Try to block the character from your thoughts. But be honest with yourself and notice how often the character pops into your thoughts. It's impossible not to think about the character. In fact, the harder you try not to think about it, the more power you give to the image nad the more your brain keeps bringing it into your thouhts. It's almost as if the harder you try to forget something, the harder your brain tries to remember it. This is why forcing yourself to forget about something that happened to you is impossible. It's also why you can't simply force yourself to get rid of emotions that you don't want.
+
+So, instead of trying to force yourself to forget a memory or thought, try to distract your thoughts with other memories or creative images. Here are some examples. Check the ones you're willing to do, and then add any activities that you can think of:
+- [ ] Remember events from your past that were pleasant, fun, or exciting. Try to remember as many details as possible about these happy memories. What did you do? Who were you with? What happened?
+- [ ] Imagine sexual thoughts that make you excited. Create sexual fantasies involving you and someone you know or someone you would like to know. Try to think of as many details as possible. What happens that's so exciting?
+- [ ] Look outside at the natural world around you. Observe the flowers, trees, sky, and landscape as closely as you can. Observe any animals that are around. Listen to the sounds that they make. Or if you live in a city without much nature around you, either do your best to observe what you can or close your eyes and imagine a scene you've observed in the past.
+- [ ] Imagine yourself as a hero or heroine correcting some past or future event in your life. How would you do it? What would people say to you?
 - [ ] Imagine yourself getting praise from someone whose opinion matters to you. What did you do? What does this person say to you? Why does this person's opinion matter to you?
-- [ ] Imagine your wildest...
-- [ ] Keep a copy of your...
+- [ ] Imagine your wildest coming true. What would it be? Who else would be involved? What would you do afterwards?
+- [ ] Keep a copy of your favorite prayer or favorite saying with you. Then, when you feel distressed, pull it out and read it to yourself. Imagine the words calming and soothing you. Use imagery (such as a light coming down from heaven or the universe) that soothes you as you read the words.
+- [ ] Other ideas: watch a show or movie, or play a video game. 
 - [ ] Other ideas:
 
-Here's an example of using distracting thoughts. Joel was in a bad relationship that often...
+Here's an example of using distracting thoughts. Joel was in a bad relationship that often reminded him of the way he was treated by his mother. She was always criticizing him and telling him he was wrong. When these memories overwhelmed him, Joel never knew what to do. Sometimes he would just scream at his friends or whoever else was around. But after creating a distraction plan, Joel thought of other ideas. The next time he had memories of his mother berating him, he went to his bedroom to lie down. Then he started to imagine himself as a child confronting his mother about her abusive language. He told her all the things he wished he could have said to her years ago. He told her she was wrong and that she should stop criticizing him. Joel controlled the details of the fantasy in the way he wished it could have happened years ago. Afterwards, he slowly felt better. He had escape the cycle of letting his painful emotions overwhelm him.
 # Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #tone-self-help #worksheet
-# Standard Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#angermanagement #crying #cutting #endorphins  #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #self-harm #substanceuse #substanceuse-alcohol #suicidality
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
- #tone-motivational #tone-self-help
-
-#list #worksheet
+#/2007 #angermanagement #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #tone-self-help #visualization #worksheet
