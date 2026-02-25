@@ -1,0 +1,32 @@
+McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
+<h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
+## Distract Yourself By Counting (p. 22)
+Counting is a simple skill that can really keep your mind busy and help you focus on something other than your pain. Here are some examples. Check the ones you're willing to do, and then add any activities that you can think of:
+- [ ] *Count your breaths*. Sit in a comfortable chair, put one hand on your belly, and take slow, long breaths. Imagine breathing into your stomach instead of your lungs. Feel your belly expand with each inhalation. Start counting your breaths. When you inevitably start thinking about whatever it is that's causing you pain, return your focus to counting.
+- [ ] *Count anything else*. If you're too distracted by your emotions, simply count the sounds that you're hearing. This will take your attention outside of yourself. Or try counting the number of cars passing by, the number of sensations that you're feeling, or anything else you can put a number on, such as the branches of a tree you're looking at.
+- [ ] *Count or subtract by increments of seven*. For example, start with one hundred and subtract by seven. Now take that answer and subtract seven more. Keep going. This activity will really distract you from your emotions because it requires extra attention and concentration.
+
+Here's an example of using counting to distract yourself. Dawn became upset when her mother told her to help set the table for dinner. "She's always telling me what to do," Dawn thought. She could feel her anger getting worse, so she went to her room and remembered that the last time this happened, counting her breaths had helped soothe her emotions. She sat down and did it again. After ten minutes, she felt calmer, so she want back to the dining room.
+## My Distraction Plan
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+# Tags
+#/2007 #angermanagement #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #worksheet

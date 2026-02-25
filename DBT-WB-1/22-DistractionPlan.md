@@ -1,11 +1,8 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
-## Distract Yourself By Counting (p. 22-23)
+## Create Your Distraction Plan (p. 22-23)
 Now identify...
 # Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #worksheet
-
-# Standard Tags
 #/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
 
 #unfinished-notes
