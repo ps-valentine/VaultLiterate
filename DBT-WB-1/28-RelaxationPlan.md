@@ -1,14 +1,30 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
-## Relax and Soothe Yourself (p. 23-28)
-Now that you've learned some healthy and effective ways to distract yourself when you become overwhelmed by painful emotions, you'll need to learn new ways to help soothe yourself (Johnson, 1985; Linehan, 1993b). Remember, these next skills will give you the second step in your plan to distract, relax, and cope. The activities in this section will help you relax. Then, later in this book, you'll learn specific skills to cope with problematic situations. These will include emotional regulation skills, mindfulness skills, and interpersonal effectiveness skills.
+## Create a Relaxation Plan (p. 28-30)
+Now that you've read the suggestions to help you relax and soothe yourself using your five senses, construct a list of technqiues that you're willing to use. For ideas, review the activities that you checked. Be specific about what you're going to do. Make a list of ideas to try at home and a list of ideas you can take with you when you're away from home.
+### Relaxation and Soothing Skills to Use at Home
+1 
 
-Learning to relax and soothe yourself is very important for many reasons. When you're relaxed, your body feels better. It also functions...
-### Self-Soothing Using Your Sense of Smell
-### Self-Soothing Using Your Sense of Vision
-### Self-Soothing Using Your Sense of Hearing
-### Self-Soothing Using Your Sense of Taste
-### Self-Soothing Using Your Sense of Touch
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Keep this list in a convenient...
+...
 # Tags
 #/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #worksheet
 
