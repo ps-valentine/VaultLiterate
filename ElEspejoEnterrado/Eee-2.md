@@ -39,12 +39,12 @@ por Carlos Fuentes, 1992, 2016 edición
 - "...la dramatización poética de la injusticia y del derecho a la rebelión. Una obra de teatro como *Fuenteovejuna*, de Lope de Vega, en el siglo XVII, dramatiza de manera explícita el enfrentamiento del poder político y la ciudadanía. *Fuenteovejuna* describe la rebelión colectiva de una ciudad contra la justicia. La ciudad asume la responsabilidad de todos y cada uno de los ciudadanos y cuando se les pregunta quién es responsable por la muerte del comendador, todo el pueblo contesta como un solo hombre. 'Fuenteovejuna lo hizo.'" (49-50)
 - "Los acueductos llevaron el agua de los valles fluviales a las áridas mesetas, de la misma manera en que la ley y la lengua auspiciaron un creciente sentido de comunidad. En todo caso, los intentos iniciales de forzar la intergración italohispánica fracasaron y, en el primer siglo de nuestra era, los iberorromanos participaban plenamente en la vida de la propria Roma. No debe sorprendernos, en consecuencia, que tres emperadores romanos - Trajano, Adriano y Teodosio - hayan sido nativos de España." (50)
 ### La corona y la cruz (p. 51-54)
-- 
+- "Dos nuevas fuerzas aparecieron en el paisaje... Los primeros cristianos llegaron desde el este durante el primer siglo de nuestra era. Enseguida, una ola de invasiones germaánicas desde el norte ahogó el poder declinante de Roma, culminando con el govierno de los visigodos..." (51)
 - ... (UNFINISHED)
 ### El santo de Sevilla (p. 54-59)
 - ... (UNFINISHED)
 # Etiquetas
-#/2000BC #/900BC #/200BC #/147BC #/134BC #/133BC #/105BC #/18BC #/711 #/1492 #/1992 #Andalucía  #aragua #aztecas #CarlosFuentes #cartagineses #celtas #Elespejoenterrado #elNuevoMundo #español-literatura #fenicios #Gibraltar #griegos #guerradeguerrillas #iberos #literature-Spanish  #MediterraneanSea #motivo-español #motivo-caballeros #musulmanas #Numancia #quechua #romanos #tablado #tema-creatividad #tema-determinismo #tema-estoicismo #tema-honor #tema-individualismo
+#/2000BC #/900BC #/200BC #/147BC #/134BC #/133BC #/105BC #/18BC #/711 #/1492 #/1619 #/1992 #Andalucía  #aragua #aztecas #CarlosFuentes #cartagineses #celtas #Elespejoenterrado #elNuevoMundo #español-literatura #fenicios #Gibraltar #griegos #guerradeguerrillas #iberos #literature-Spanish  #MediterraneanSea #motivo-español #motivo-caballeros #musulmanas #Numancia #quechua #romanos #tablado #tema-creatividad #tema-determinismo #tema-estoicismo #tema-honor #tema-individualismo
 # Banco de etiquetas
 #/1492 #CaballerodelosEspejos #Coatlicue #cristianismo  #CristóbalColon #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #ElTajín  #figurasmaternas #flamenco #LEspilSoterrat #LaSemanaSanta #motif-mirrors #motivo-espejos #motivo-verdad #Quetzalcóatl #RamónXirau #símbolos-espejos #tema-sensualidad #Tezcatlipoca #Tlazoltéotl
 
