@@ -33,7 +33,7 @@ Keep this list in a convenient...
 
 #unfinished-notes
 # Tag Bank
-#angermanagement #crying #cutting #endorphins  #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #self-harm #substanceuse #substanceuse-alcohol #suicidality
+#angermanagement #crying #cutting #endorphins #theGrandCanyon #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #self-harm #sensoryawareness  #substanceuse #substanceuse-alcohol #suicidality
 
 #CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
 
