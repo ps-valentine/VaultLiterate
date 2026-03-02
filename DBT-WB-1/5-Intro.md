@@ -1,4 +1,7 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
+
+T.N. (Transcriber's Note): I occasionally swap-out some dated language, particularly within exercises, to swap-in more modern examples or phrasing. These changes are not indicated in any way. E.g., swapping-out "books on tape" for "audiobooks" or "compact discs" for simply
+ "music".
 <h1><center><b> Chapter 1: Basic Distress Tolerance Skills</b> (p. 5-30)</h1></center>
 ## **Distress Tolerance Skills: What Are They?** (p. 5-9)
 At some point in our lives, we all have to cope with distress and pain. Either it can be physical, like a bee sting or a broken arm, or it can be emotional, like sadness or anger. In both cases, the pain is often unavoidable and unpredictable. You can't always anticipate when the bee will sting you or when something will make you sad. Often, the best you can do is to use the coping skills that you have and hope that they work.
