@@ -1,0 +1,46 @@
+Lawrence, Anne. A. "Sexuality Before and After Male-to-Female Sex Reassignment Surgery." *Archives of Sexual Behavior* **34**, no. 3 (2005), 147-166: [external link](https://link.springer.com/content/pdf/10.1007/s10508-005-1793-y?utm_source=wiley&getft_integrator=wiley)
+# Sexuality Before and After Male-to-Female Sex Reassignment Surgery
+## Abstract
+## Introduction
+### Previous Studies of Sexuality in MtF Transsexuals
+#### Sexual Orientation
+#### Number of Sexual Partners
+#### Frequency of Sexual Activity
+#### Prevalence of Stable Partnered Relationships
+#### Prevalence of Sexual Arousal to Cross-Dressing or Cross-Gender Fantasy
+#### Frequency and Characteristics of Orgasm After SRS
+### Objectives and Hypotheses
+## Method
+### Participants
+### Measures
+### Data Analysis
+## Results
+### Sexual Orientation Before and After SRS
+### Sexual Orientation Toward Women Before SRS and Toward Men After SRS
+### Number of Sexual Partners Before SRS
+### Number of Sexual Partners After SRS
+### Frequency of Sexual Activity After SRS
+### Prevalence of Stable Partnerships After SRS
+### Prevalence of Autogynephilic Arousal Before and After SRS
+### Frequency and Characteristics of Orgasm After SRS
+## Discussion
+### Limitations and Generalizability
+### Suggestions for Further Research
+## References
+Most of these resources are from before 1990 or are focused on "autogynophelia"
+- Bodlund, O. and G. Kullgren. "Transsexualism-general outcome and prognostic factors: A five-yhear follow-up study of nineteen transsexuals in the process of changing sex." *Archives of Sexual Behavior* **25** (1996), 303-316.
+- Chew, S., K. F. Tham, and S. S. Ratnam. "Sexual behaviour and prevalence of HIV antibodies in transsexuals." *Journal of Obstetrics and Gynaecology Research* **23** (1997), 33-36.
+- Clements-Noelle, K., R. Marx, R. Guzman, and M. Katz. "HIV prevalence, risk behaviors, health care use, and mental health status of transgender persons: Implications for public health intervention." *American Journal of Public Health* **91** (2001), 915-921.
+- Daskalos...
+- De Cuypere...
+- Docter, R. F. and J. S. Fleming. "Dimensions of..."
+- Docter, R. F. and J. S. Fleming. "Measures of..."
+- Doorn...
+- Eldh, J. "Construction of..."
+- Eldh, J., A. Berg, and M. Gustafsson. "Long-term..."
+- Fang, R.-H., C.-F. Chen, and S. Ma. "A new method..."
+- Freund, Kurt and Ray Blanchard. "Erotic Target Location Errors in Male Gender Dysphorics, Paedophiles, and Fetishists." *British Journal of Psychiatry* **162** (1993), 558-563.
+# Tags
+#/2005 #AnneLawrence #ArchivesofSexualBehavior #GAS-clitoroplasty #GAS-vaginoplasty
+
+#unfinished-notes #unfinished-references
