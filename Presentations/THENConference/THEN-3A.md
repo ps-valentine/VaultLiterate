@@ -19,7 +19,7 @@ Queer joy is about the joyful experiences that queer people live into which sust
 ### Authentic Living
 ### Connection and representation
 ### Resistance and advocacy
-## [[THEN2026-3A.pdf]]
+## [[THEN-3A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
 # Tags

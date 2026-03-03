@@ -36,7 +36,7 @@ Zoë Poulette
 ### Somatics
 - Bringing unconscious patterns, feelings, and beliefs into conscious awareness so that we can move and exist with more choicefulness.
 - Somatics is about **reclaiming our bodies*** from systems that want to shape us and direct us away from what we care about.
-## [[THEN2026-4A.pdf]]
+## [[THEN-4A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
 # Tags

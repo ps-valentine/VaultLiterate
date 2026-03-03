@@ -45,7 +45,7 @@ Ezra Stone, MSW, LCSW
 - Tuned In! A mindfulness intervention for young adults, ages 16-29
 - Rainbow Dharma
 ## Conclusions
-## [[THEN2026-2A.pdf]]
+## [[THEN-2A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
 # Tags

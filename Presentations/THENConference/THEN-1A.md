@@ -69,7 +69,7 @@ Transgender Health Education Network, digital attendance, 2026-02-28.
 - Practicing with an intersectional lens
 - Addressing power imbalances in the provider-patient relationship
 - Advocate for TGBN liberation
-## [[THEN2026-1A.pdf]]
+## [[THEN-1A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
 

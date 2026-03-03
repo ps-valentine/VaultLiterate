@@ -19,7 +19,7 @@ Transgender Health Education Network, digital attendance, 2026-02-28.
 		- Bioavailability 10%; ½ life, 8-18 hours
 	- Transdermal
 		- Bioavailability 3-5%; ½ life, ~37 hours
-	![[THEN2026-6A-Chart.png]]
+	![[THEN-6A-Chart.png]]
 ### Progesterone
 - Bioidentical (micronized) preferred
 - Hepatic metabolism

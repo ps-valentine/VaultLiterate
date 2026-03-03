@@ -10,7 +10,12 @@ Learning Objectives (1CE/CME):
 Simone Chriss, Esq.
 ## Legal Challenges to the Executive Orders (justsecuriry.org Tracker)
 ## Legal Outcomes
-![[THEN2026-7A-Figure.png]]
+![[THEN-7A-Figure.png]]
+## The Impact of Hateful Anti-Trans Rhetoric on Mental Health of the Community
+## The Nuts & Bolts...
+![[THEN-7A-Slide.png]]
+
+"I think in terms of documentation these days, less is more." - Simone Chriss
 ## THEN2026-7A.pdf (NOT *YET* POSTED AT TIME OF NOTETAKING)
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
