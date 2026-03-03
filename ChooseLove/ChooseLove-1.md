@@ -18,7 +18,7 @@ Thom, Kai Cheng. *I Hope We Choose Love.* Arsenal Pulp Press, 2019. 7th printing
 	- The work of contemporary movements such as Black Lives Matter and Idle No More is vital and necessary and must be supported...
 	  - Oppression is rarely, if ever, overthrown through peaceful demonstration alone. Economic and social pressure, as well as direct action and violent protest are all essential parts of revolutionary movements...
 	So maybe let's just proceed from there, okay?" (18-20)
-- "The following list is a summation..."
+- "The following list is a summation of struggles I have with social justice culture..."
 # Tags
 #/2019 #community #FrancesLee #IHopeWeChooseLove #identitypolitics #KaiChengThom #PorpentineCharityHeartscape #SarahSchulman #transgender #TrendyEady 
 
