@@ -72,8 +72,5 @@ Transgender Health Education Network, digital attendance, 2026-02-28.
 ## [[THEN-1A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
-
-
-
 # Tags
 #/1897 #/1910 #/1919 #/1928 #/1930 #/1949 #/1952 #/1966 #/1979 #/1980 #/2013 #/2014 #/2023 #/2026 #AlfredKinsey #ChristineJorgensen #GAC #gender-affirmingcare #HarryBenjamin #KarlBowman #LouSullivan #MagnusHirschfeld #medical-industrialcomplex #medicalgatekeeping  #MissMajorGriffin-Gracy #SashaCohen #THEN2026 #transgender #transgender-Germany #transgender-history #transgender-UnitedStates #TransgenderHealthEducationNetwork #transsexuality #VirginiaPrice #WorldProfessionalAssociationforTransgenderHealth #WPATH
