@@ -50,7 +50,7 @@ Transgender Health Education Network, digital attendance, 2026-02-28.
 	- Hematuria
 	- ...
 ### Addressing Persistent Bleeding on Testosterone
-## [[THEN2026-6A.pdf]]
+## [[THEN-6A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
 # Tags

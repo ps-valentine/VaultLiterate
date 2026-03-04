@@ -16,7 +16,7 @@ Simone Chriss, Esq.
 ![[THEN-7A-Slide.png]]
 
 "I think in terms of documentation these days, less is more." - Simone Chriss
-## THEN2026-7A.pdf (NOT *YET* POSTED AT TIME OF NOTETAKING)
+## ## [[THEN-7A.pdf]]
 - [all slides](https://www.thenflorida.org/then2026)
 - password: THEN2026!
 # Tags
