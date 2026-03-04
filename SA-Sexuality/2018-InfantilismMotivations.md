@@ -18,7 +18,7 @@ by Wojciech Oronowic-Jaśkowiak, Department of Psychiatry, Institute of Psychiat
 - "...may contribute to an improvement of psychotherapeutic techniques."
 - "...in a broader social context, expanding knowledge on non-pathological paraphilias may contribute to their better social perception."
 - "Based on the literature review presented in the introduction, the following research question was posed: "What non-sexual motivations may be involved in AB/DL-related behavior?"
-## Method-
+## Method
 - "A qualitative study based on the analysis of material found on the FetLife Internet forum for persons wioth paraphilic sexual preferences was conducted in order to describe behaviors related to childhood role-playing and/or using diapers, the motivation for which can be non-sexual.
   
   During the analysis of the material, taking into account the research goal, questions based on Charmaz grounded theory were posed:
@@ -29,13 +29,20 @@ by Wojciech Oronowic-Jaśkowiak, Department of Psychiatry, Institute of Psychiat
   The analyzed material consisted of 85 messages (posts) written in 3 threads published on the forum between March and April 2016..."
 - "The material included in the analysis was subsequently coded using thematic analysis. Individual statements were coded using MAXQDA software. This software allows determining fragments that are important from the scientific perspective... as qualitative analysis software does not make independent choices for coding, thus, coding criteria are set by the researcher."
 ## Results
-- "..."
 ### Thread one - 'Is playing with kids toys truly fun?'
+- "In the 'AB/DL' section, a thread was started on whether playing with children's toys is enjoyable for the members of the community..."
+- "..."
 ### Thread two - 'What do diapers do for you?'
 ### Thread three - 'Working out and diapers'
 
 ## Conclusions
 ## Bibliography
+12 Hawkinson, K...
+14 Oronowicz, W...
+15 Lewis, A...
+22 Freund, K...
+
+
 # Tags
 #/2018 #AB/DL #ageplay #crossdressing #forums #heterosexuality #infantilism #MAXQDA #paraphilia #paraphilicdisorder #Poland #PrzeglądSeksuologiczny #qualitativestudy #scientificarticle #scientificjournal #thematicanalysis #WojciechOronowic-Jaśkowiak
 
