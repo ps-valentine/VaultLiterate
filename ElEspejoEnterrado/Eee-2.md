@@ -40,7 +40,9 @@ por Carlos Fuentes, 1992, 2016 edición
 - "Los acueductos llevaron el agua de los valles fluviales a las áridas mesetas, de la misma manera en que la ley y la lengua auspiciaron un creciente sentido de comunidad. En todo caso, los intentos iniciales de forzar la intergración italohispánica fracasaron y, en el primer siglo de nuestra era, los iberorromanos participaban plenamente en la vida de la propria Roma. No debe sorprendernos, en consecuencia, que tres emperadores romanos - Trajano, Adriano y Teodosio - hayan sido nativos de España." (50)
 ### La corona y la cruz (p. 51-54)
 - "Dos nuevas fuerzas aparecieron en el paisaje... Los primeros cristianos llegaron desde el este durante el primer siglo de nuestra era. Enseguida, una ola de invasiones germaánicas desde el norte ahogó el poder declinante de Roma, culminando con el govierno de los visigodos..." (51)
-- "Los godos pactaron con Roma hasta el momento en que el último emperador romano, Rómulo Augústulo, huyó de la escena y los visigodos se convirtieron en los amos de España."
+- "Los godos pactaron con Roma hasta el momento en que el último emperador romano, Rómulo Augústulo, huyó de la escena y los visigodos se convirtieron en los amos de España." (52)
+- "El arribo de los primeros cristianos a España continúa rodeado de mistero y leyenda. Algunos de los primeros santos españoles eran de origen africano, como San Félix, que llevó el verbo de Cristo a Barcelona, o San Cugat, quien también predictó en el puerto catalán..." (52)
+- "Muchos mártires fueron femeninos. El heresiarca español Prisciliano propuso la doctrina de nuestros cuerpos son creación del diable y deben ser agotados en el placer terrenal y en el amor libre."
 - ... (UNFINISHED)
 ### El santo de Sevilla (p. 54-59)
 - ... (UNFINISHED)
