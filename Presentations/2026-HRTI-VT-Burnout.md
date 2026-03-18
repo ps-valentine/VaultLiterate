@@ -2,7 +2,7 @@ I joined this call at 11:15am (for a 10am-12pm meeting), quite late, as my morni
 
 with Maurice Byrd (he/him) from the Harm Reduction Therapy Center.
 
-Passcode for quiz: hze45
+Passcode for quiz (for CEs): hze45
 ## Self-Regulation & Deescalation
 - Deescalation techniques
 	- Shake it off: clench and unclench your muscles. Go out and walk fast, or slow.
