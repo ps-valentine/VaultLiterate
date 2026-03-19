@@ -1,6 +1,0 @@
-Bedard, Julie, Matthew Kropp, Megan Hsu, Olivia T. Karaman, Jason Hawes, and Gabriella Rosen Kellerman. "When Using AI Leads to 'Brain Fry'." *Harvard Business Review*, 2026: [external link](https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry)
-# When Using AI Leads to "Brain Fry"
-## Summary
-"As firms increasingly incentivize employees to build and oversee complex teams of agents—for example, by measuring and rewarding token consumption as a proxy for performance—people are finding themselves pushed to their cognitive limits. Participants in a recent study described a “buzzing” feeling or a mental fog with difficulty focusing, slower decision-making, and headaches. The authors call this phenomenon “AI brain fry,” defined as mental fatigue from excessive use or oversight of AI tools beyond one’s cognitive capacity. This AI-associated mental strain carries significant costs in the form of increased employee errors, decision fatigue, and intention to quit. The findings also show how AI-driven workflows can be designed to diminish burnout and point toward specific manager, team, and organizational practices to avoid mental fatigue even as AI work intensifies."
-# Tags
-#/2026 #AI #AI-brainfry #GabriellaRosenKellerman #HarvardBusinessReview #JasonHawes #JulieBedard #MatthewKropp #MeganHsu #OliviaTKaraman

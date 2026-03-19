@@ -8,7 +8,7 @@ Learning Objectives (1CE/CME):
 3. Identify ways to coordinate care between other providers and other entities offering support to transgender students ( medical providers, schools, DCF, DJJ, etc.)"
 # The Legal Landscape for Transgender Medical and Mental Health Care in Florida
 Simone Chriss, Esq.
-## Legal Challenges to the Executive Orders (justsecuriry.org Tracker)
+## Legal Challenges to the Executive Orders (justsecurity.org Tracker)
 ## Legal Outcomes
 ![[THEN-7A-Figure.png]]
 ## The Impact of Hateful Anti-Trans Rhetoric on Mental Health of the Community

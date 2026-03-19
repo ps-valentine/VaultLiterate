@@ -1,5 +1,5 @@
 Transgender Health Education Network, digital attendance, 2026-02-28.
-# Communtiy, Recreation & Style: Evidence-Based Care Outside the Clinic
+# Community, Recreation & Style: Evidence-Based Care Outside the Clinic
 Social support: gender affirming care outside the clinic
 Ezra Stone, MSW, LCSW
 
@@ -12,7 +12,7 @@ Ezra Stone, MSW, LCSW
 - TGNC individuals report significantly higher levels of anxiety (26-38% vs. 28.8% in the general population) and depression (48-62% vs. 16.6% in the general population).
 - Loneliness was significantly higher among trans people than cist people (56.4% for trans women, 62.6% for trans men, 63.9% for GNC, compared to 32.1% for cis people).
 ## Data in support of social support
-- Encourages us to use healthy coping mechanisms, reduces psychological distress, and predicts posit5vie mental and physical health outcomes.
+- Encourages us to use healthy coping mechanisms, reduces psychological distress, and predicts positive mental and physical health outcomes.
 ## Social support and internalized transphobia
 ## Trauma-informed lens (Hall, 2021)
 - Trans/NB people have increased risk of PTSD and higher trauma exposure.
