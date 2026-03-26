@@ -5,7 +5,7 @@ Transgender Health Education Network, digital attendance, 2026-02-28.
 Learning Objectives (1CE/CME):
 1. Understand the current laws and policies in place regarding access to gender-affirming care for transgender individuals in the state of Florida.
 2. Be able to define for patients their rights under the recent anti-trans laws and offer guidance for self-advocacy;
-3. Identify ways to coordinate care between other providers and other entities offering support to transgender students ( medical providers, schools, DCF, DJJ, etc.)"
+3. Identify ways to coordinate care between other providers and other entities offering support to transgender students (medical providers, schools, DCF, DJJ, etc.)"
 # The Legal Landscape for Transgender Medical and Mental Health Care in Florida
 Simone Chriss, Esq.
 ## Legal Challenges to the Executive Orders (justsecurity.org Tracker)
