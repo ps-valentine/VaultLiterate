@@ -1,0 +1,37 @@
+Kjölhede, A, F Cornelius, F Huss, and G Kratz. "Metoidioplasty and groin flap phalloplasty as two surgical methods for the creation of a neophallus in female-to-male gender-confirming surgery: A retrospective study comprising 123 operated patients." *JPRAS Open* **22** (2019), 1-8: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC7061636/)
+# Metoidioplasty and groin flap phalloplasty as two surgical methods for the creation of a neophallus in female-to-male gender-confirming surgery: A retrospective study comprising 123 operated patients
+## Abstract
+### Background
+"In gender-confirming surgery of the female-to-male gender dysphoric patient, there is currently no ideal method for the creation of a neophallus. Historically, in our clinic, groin flap phalloplasty (GFP) has been the dominating method, but during the last 20 years, it has gradually been replaced with metoidioplasty (MP). The aim of this study was to investigate whether this change of method has influenced factors such as the frequency of complications and the number of operations needed to complete the reconstruction of the neophallus."
+### Methods
+"This is a retrospective, single-centre, study comprising 123 consecutive female-to-male patients receiving a neophallus by GFP or MP **between 2002 and 2015** at Linköping University Hospital, **Sweden**."
+### Results
+"One-hundred twenty-three patients underwent 126 primary surgical procedures (39 GFPs and 87 MPs) with the intention of reconstructing a neophallus. The mean number of procedures required in the GFP group was 5.2 ± 2.7 compared with that of 2.4 ± 1.7 in the MP group (p < 0.001). In the GFP group, 18/39 (46.2%) had a documented complication compared with 30/87 (34.5%) in the MP group; **however, the difference was not statistically significant** (p = 0.21)."
+### Conclusions
+"The present study shows that the shift in method from GFP to MP has resulted in a decreased number of complications as well as a decrease in total surgical occasions. Both methods were found to be associated with relatively high frequencies of complications, however, mostly minor."
+## Introduction
+- "The prevalence of GD is difficult to estimate. Depending on which study is cited, ranges of 1:8300–1:400,000 for female-to-male (FtM) and 1:2900–1:100,000 for male-to-female (MtF) GD have been reported1, 3. In Sweden, the number and incidence rate of applications for GCS have been vigorously increasing: from 0.16/100,000 in 1972 to 0.42/100,000 in 2010 for FtM and from 0.23/100,000 to 0.73/100,000 for MtF during the same period3. Later data suggest a continuing increase after 2010."
+- "At our surgical centre we use several different surgical techniques to construct a neophallus, but groin flap phalloplasty (GFP), as a long-since utilised technique, has been the most used method historically. However, since the MP was introduced in our centre at approximately 20 years ago, it has gradually taken over as our most commonly used method for the reconstruction of a neophallus."
+## Material and methods
+### Selection for surgery and surgical management
+### Groin flap phalloplasty (GFP)
+### Metoidioplasty (MP)
+### Statistical analysis
+## Results
+## Discussion
+## References
+1 Zucker, Kenneth J., Anne A. Lawrence, and Baudewijntje P.C. Kreukels. "Gender Dysphoria in Adults." *Annual Review of Clinical Psychology* **12** (2016), 217-247: [external link](https://www.annualreviews.org/content/journals/10.1146/annurev-clinpsy-021815-093034)
+2 Reisner, Sari L, Tonia Poteat, JoAnne Keatley, Mauro Cabral, Tampose Mothopeng, Emilia Dunham, Clarie E Holland, Ryan Max, and Stefan D. Baral. "Global health burden and needs of transgender populations: a review." *The Lancet* **388**, no. 10042 (2016), 412-436: [external link](https://www.sciencedirect.com/science/article/pii/S014067361600684X?via%3Dihub)
+3 Dhejne, Cecilia, Katarina Öberg, Stefan Arver, and Mikael Landén. "An Analysis of All Applications for Sex Reassignment Surgery in Sweden, 1960-2010: Prevalence, Incidence, and Regrets." *Archives of Sexual Behavior* **43** (2014), 1535-1545: [external link](https://link.springer.com/article/10.1007/s10508-014-0300-8)
+4 Frisén, Louise, Olle South, and Per-Anderts Rydelius. "Significant increase in gender dysphoria among children and young people (Kraftig ökning av könsdysfori bland barn och unga)." *Läkartidningen* **114** (2017): [external link, original in Swedish](https://lakartidningen.se/vetenskap/kraftig-okning-av-konsdysfori-bland-barn-och-unga/)
+6 Unger, Cécile A. "Hormone therapy for transgender patients." *Translational Andrology and Urology* **5**, no. 6 (2016), 877-884: [external link](https://tau.amegroups.org/article/view/11807/13169)
+7 Frey, Jordan D., Grace Poudrier, Michael Chiodo, and Alexes Hazen. "An Update on Genital Reconstruction Options for the Female-to-Male Transgender Patient: A Review of the Literature." *Plastic and Reconstructive Surgery* **139**, no. 3  (2017), 728-737: [external link](https://journals.lww.com/plasreconsurg/fulltext/2017/03000/an_update_on_genital_reconstruction_options_for.46.aspx)
+8 Frey, Jordan D., Grace Poudrier, Michael Chiodo, and Alexes Hazen. "A Systematic Review of Metoidioplasty and Radial Forearm Flap Phalloplasty in Female-to-male Transgender Genital Reconstruction: Is the "Ideal" Neophallus an Achievable Goal?" *Plastic and Reconstructive Surgery - Global Open* **4**, no. 12 (2016), e1131: [external link](https://journals.lww.com/prsgo/fulltext/2016/12000/a_systematic_review_of_metoidioplasty_and_radial.9.aspx)
+14 Knutson, G H. "The groin flap: a new technique to repair traumatic tissue defects." *Canadian Medical Association Journal* **116**, no. 6 (1977), 623-625: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC1879168/)
+15 Hage, Joris J. "Metaidoioplasty: An Alternative Phalloplasty Technique in Transsexuals." *Plastic and Reconstructive Surgery* **97**, no. 1 (1996), 161-167: [external link](https://journals.lww.com/plasreconsurg/abstract/1996/01000/metaidoioplasty__an_alternative_phalloplasty.26.aspx)
+16 Monstret, Stan, Piet Hoebeke, Gennaro Selvaggi, Peter Ceulemans, Koen Van Landuyt, Phillip Blondeel, Moustapha Hamdi, Nathalie Roche, Steven Weyers, and Griet De Cuypere. "Penile Reconstruction: Is the Radial Forearm Flap Really the Standard Technique?" *Plastic and Reconstructive Surgery* **124**, no. 2 (2009), 510-518: [external link](https://journals.lww.com/plasreconsurg/fulltext/2009/08000/penile_reconstruction__is_the_radial_forearm_flap.22.aspx)
+17 Selvaggi, Gennaro, Stan Monstrey, Piet Hoebeke, Peter Ceulemans, Koen Van Landuyt, Moustapha Hamdi, Bowman Cameron, and Phillip Blondeel. "Donor-Site Morbidity of the Radial Forearm Free Flap after 125 Phalloplasties in Gender Identity Disorder." *Plastic and Reconstructive Surgery* **118**, no. 5 (2006), 1171-1177: [external link](https://journals.lww.com/plasreconsurg/fulltext/2006/10000/donor_site_morbidity_of_the_radial_forearm_free.18.aspx)
+# Tags
+#AKjölhede #FCornelius #GAS-complications #GAS-metoidioplasty #GAS-phalloplasty #GAS-phalloplasty-GFP #GKratz #JPRASOpen #retrospectivestudy #scientificarticle #scientificjournal #surgicalcomplications #transgender #transgender-Sweden #transsexuality
+
+#unfinished-notes

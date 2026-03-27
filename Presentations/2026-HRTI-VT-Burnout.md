@@ -1,6 +1,6 @@
-I joined this call at 11:15am (for a 10am-12pm meeting), quite late, as my morning was chaotic as all hell.
+I joined this call at 11:15am (for a 10am-12pm meeting), quite late, as my morning was chaotic as all hell. Harm Reduction Therapy Institute's (HRTI's) training on vicarious traumatization and burnout.
 
-with Maurice Byrd (he/him) from the Harm Reduction Therapy Center.
+with Maurice Byrd (he/him) from HRTI.
 
 Passcode for quiz (for CEs): hze45
 ## Self-Regulation & Deescalation
