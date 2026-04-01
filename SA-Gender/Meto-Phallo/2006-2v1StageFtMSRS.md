@@ -23,6 +23,6 @@ Weyers, S., Gennaro Selvaggi, Stan Monstrey, M. Dhont, R. Van den Broecke, Petra
 12 
 13 
 # Tags
-#/2006 #complicationrates #GAS-complications #GAS-hysterectomy #GAS-phalloplasty #GAS-vaginectomy #GennaroSelvaggi #GrietDeCuypere #GynecologicalSurvey #GuyTSjoen #MDhont #PetraDeSutter #PietHoebeke #RVandenBrocke  #SWeyers #StanMonstrey #surgicalcomplications #transgender-Belgium
+#/2006 #complicationrates #GAS-complications #GAS-hysterectomy #GAS-phalloplasty #GAS-vaginectomy #GennaroSelvaggi #GrietDeCuypere #GynecologicalSurvey #GuyTSjoen #MDhont #PetraDeSutter #PietHoebeke #RVandenBrocke  #SWeyers #scientificarticle #scientificjournal #StanMonstrey #surgicalcomplications #transgender-Belgium
 
 #unfinished-notes #unfinished-references

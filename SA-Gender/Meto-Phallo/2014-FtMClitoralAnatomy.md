@@ -20,6 +20,6 @@ Vukadinovic, Vojkan, Borko Stojanovic, Mark Majstorovic, Aleksandar Milosevic. "
 24 de Cuypere, Griet, Guy T'Sjoen, Ruth Beerten, Gennaro Selvaggi, Petra De Sutter, Piet Hoebeke, Stan Monstrey, Alfons Vansteenwegen, and Robert Rubens. "[[2005-PostopHealth|Sexual and physical health after sex reassignment surgery]]." *Archives of Sexual Behavior* **34**, no. 6 (2005), 679-690: [external link](https://stopsafeschools.com/wp-content/uploads/2022/08/Sexual_and_Physical_Health_After_Sex_Reassignment_.pdf)
 25 Hage, J Joris and Arjen A W M van Turnhout. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006).
 # Tags
-#/2014 #AleksandarMilosevic #anatomy-clitoris #BorkoStojanovic #clitoris #clitoris-anatomy  #CW-blood #CW-graphic #CW-intraoperative #GAS-metoidioplasty #MarkMajstorovic #theScientificWorldJournal #surgicaltechnique #transsexuality #VojkanVukadinovic
+#/2014 #AleksandarMilosevic #anatomy-clitoris #BorkoStojanovic #clitoris #clitoris-anatomy  #CW-blood #CW-graphic #CW-intraoperative #GAS-metoidioplasty #MarkMajstorovic #scientificarticle #scientificjournal #theScientificWorldJournal #surgicaltechnique #transsexuality #VojkanVukadinovic
 
 #unfinished-notes
