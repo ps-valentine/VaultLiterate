@@ -1,5 +1,5 @@
 ## Welcome!
-This Vault is being setup as a digital library for community use. While I haven't yet set it up for this, look back to this page for more information in the future.
+This Vault is being setup as a digital library for community use. While I haven't yet set it up for this, look back to this page for more information in the future!
 
 For all listings, I'm playing with a robust tagging system. For non-fiction books, I'm currently including large excerpts. For fiction books: character lists & plot summaries. Expect arc-level spoilers in summaries for comics. For scientific articles, there will be synposes or quoted abstracts, where succinct. Otherwise, I will be extract important excerpts of the full text.
 
