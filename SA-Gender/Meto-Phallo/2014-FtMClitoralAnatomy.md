@@ -1,4 +1,4 @@
-Vukadinovic, Vojkan, Borko Stojanovic, Mark Majstorovic, Aleksandar Milosevic. "The Role of Clitoral Anatomy in Female to Male Sex Reassignment Surgery." *The Scientific World Journal* Special Issue: "Gender Dysphoria: The Role of Sex Reassignment Surgery" (2014): [link](https://onlinelibrary.wiley.com/doi/10.1155/2014/437378)
+Vukadinovic, Vojkan, Borko Stojanovic, Mark Majstorovic, Aleksandar Milosevic. "The Role of Clitoral Anatomy in Female to Male Sex Reassignment Surgery." *The Scientific World Journal* Special Issue: "Gender Dysphoria: The Role of Sex Reassignment Surgery" (2014): [external link](https://onlinelibrary.wiley.com/doi/10.1155/2014/437378)
 # The Role of Clitoral Anatomy in Female to Male Sex Reassignment Surgery
 ## Abstract
 ## Introduction
