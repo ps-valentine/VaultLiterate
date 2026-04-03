@@ -1,4 +1,0 @@
-Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*. Nightboat Books, 1977. 9th printing, 2019. With preface by Tourmaline and introduction by Morgan Bassichis.
-# Part 1 The Way It Is
-...
-- "The faggots have never been asked to join the vanguard. The faggots, it was noticed, do not know how to keep a straight face and the vanguard demands constantly straight faces. The faggots, it was noticed, want only to eat so they can play love play while the vanguard demands endless talk  about the hunger of others and the seriousness of work. The faggots, it was noticed, are too quick to believe that the revolution had come"
