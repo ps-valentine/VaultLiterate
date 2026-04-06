@@ -6,7 +6,7 @@ por Carlos Fuentes, 1992, 2016 edición
 - "El Islam habría de permanecer en la península ibérica durante los próximos 780 años. Inicialmente, los musulmanes encontraron poca resistencia de parte de los divididos reinos cristianos. Pero al expandirse cada vez más, fueron detenidos en Poitiers por Carlos Martel en 732 y el resto de Europa no fue musulmana. Dentro de la propia España, la tradición nos informa, los moros fueron detenidos por primera vez en 722, en la batalla de Covadonga, por el cabecilla guerrillero asturiano, Pelayo." (62)
 - "Durante más de stecientos años, entre 711 y 1492, árabes y cristianos se miraron los unos a los otros a lo largo de fronteras crepusculares batallando, pero también mezclándose, intercambiando cultura, sangre y pasión, sabiduría y lenguaje." (62)
 - "Pero si los árabes fueron finalmente derrotados y expulsados, su presencia durante ocho siglos dio origen a una experiencia bicultural única en el occidente europeo. La misma cualidad crepuscular de las inestables fronteras de guerra se aplicó a la raza y a la lealtad. La división entre los fieles cristianos y los infieles musulmanes no era exactamente clara. Los *mozárabes* eran cristianos que adoptaron la cultura musulmana. Los *mudéjares* eran moros que vivían como vasallos de los cristianos. Los *muladíes* eran cristianos que adoptaban la fe del Islam. Y los *tornadizos* eran moros convertidos al cristianismo. Finalmente, los *enaciados* se sentaban a horcajadas entre ambas religiones y eran usados como espías tanto por los moros como por los cirsitanos. Sus talentos bilingües eran sumamente apreciados como arma de espionaje. Hasta el día de hoy, una cuarta parte de todas las palabras castellanas son de origen árabe. Y aún en la plaza de toros usamos una palabra árabe para saludar al matador, pues. ¡Olé! es el vocablo árabew *wallah*." (63)
-### La España árabe
+### La España árabe (p. 64-70)
 - "Rápidamente, los moros dejaron de ser una milicia tribal extraordinariamente móvil..." (64)
 - "La Córdoba musulmana fue, y así perdurará en la memoria, la suprema ciudad del Islam en España, dominándola entre 711 y 1010." (64)
 - "Desde el Califato español de Córdoba, la filosofía griega y la literatura clásica marcharond e vuelta sobre los Pirineos hacia la Europa gótica. Los textos clásicos habían sido traducidos al árabe durante el Califato de Bagdad. La escuela de traductores de Toledo los diseminó enseguida a través de Occidente. Ciencia, medicina, astronomía, viajaron del sur musulmán al norte cristiano, junto con las compilaciones de los cuentos indostánicos." (64-65)
@@ -17,21 +17,37 @@ por Carlos Fuentes, 1992, 2016 edición
 - "Entre 1010 y 1248 Sevilla se convirtió en el nuevo centro de la cultura musulmana en España. La dinastía de los Almohades reinó sobre un siglo de esplendor artístico e intelectual en Sevilla." (67)
 - "El arco de crucero fue introducido en Europa, donde llegaría a ser una de las características de la arquitectura gótica; también en esta época la música coral, así como la poesía lírica, fueron transmitidas a Europa." (67)
 - "Al iniciarse el declive del poder árabe en España después de la derrota en las Navas de Tolosa en 1212, y después de la caída de Sevilla ante el ataque de Fernando III de Sevilla - San Fernando - en 1247, sólo una tercera gran ciudad sobrevivió para conservar esta herencia: Granada. Éste fue el reino final, que presidió el crepúsculo de la España árabe, entre 1248 y 1492." (68)
-### La Reconquista
-- ""
+### La Reconquista (p. 70-71)
+- "Los moros transformaron Andalucía en un oasis de tierras irrigadas, jardines de placer, arquitectura espléndida y ciudades soberbias. En el siglo X, Córdoba era la ciudad más populosa del Occidente." (70)
+- "...la tradición hispánica... de combatir y resistir mediante la guerrilla; el individualismo y el culto del honor se habían arraigado profundamente en el alma española Los ingredientes suplementarios del estoicismo, el derecho romano, la lengua romance, y sin duda el espíritu aún fresco y militante de la cristiandad, contribuyeron todos a esta reciedumbre hispánica...
+  
+  La España cristiana habria de definirse en la lucha contra el invasor islámico..." (71)
+### "Nos ganamos el pan combatiendo a los moros" (p. 71-75)
+- "De todos los países europeos, España fue el único que no fue a las Cruzadas en Tierra Santa. Toda su energía tenía que permanecer en casa y concentrarse en la lucha contra el infiel." (71-72)
+- "La institución del *ribat* en *Al Andalus* fue, en este sentido, característica. Creadas por los almorávides, estas fortalezas-monasterio albergardon hermandades de eremitas religiosos que alternaban la devoción sagrada con la defensa armada de las fronters moras.
+  
+  En principio, la cristiandad no autorizaba a su clerecía a librar guerras. En los primeros tiempos de la cristiandad, a la Iglesia le repugnaba que un clérigo matase a seres humanos. Esto era algo mejor dejado a los empeños del "arma secular", esto es, el Estado. Pero el Estado visigodo, por un lado, había perdido su autoridad. Y, por el otro, San Isidoro había ejercido enorme influencia con sus reglas de perfección cristiana y de separación de las esferas religiosa y política. Un resultado de todo ello fue que, con anterioridad a la invasión musulmana en el siglo VIII, el número de hombres que entraba a los monasterios para evitar el servicio militar era tan elevado que los reyes godos se vieron presionados por la nobleza para que no autorizasen más ordenaciones eclesiásticas; de lo contrario no quedaría nadie habilitado para ingresar en el ejército. Pero después de 711, la respeuesta al Islam desencadenó la militarización de la Iglesia y, en el siglo XI, los ejércitos norteños de la Reconquista fueron inundados por monjes que se habían transformado en soldados. Un aspect más de la identificación entre guerra y religión, entre espada y cruz, tan determinante en la conquista del Nuevo Mundo, había sido establecido." (72-73)
+- "Las tres grandes órdenes militares creadas durante la Cruzada contra los moros fueron las de Calatrava, Santiago y Alcántara." (73)
+- "Nacido Rodrigo Díaz de Vivar, cerca de Burgos, en 1043, y muerto en 1099 en la Valencia que reconquistó. Ganamos nuestro pan luchando contra los moros, declaró el Cid. Su nombre es árabe - "el Cid" significa "mi señor" - y simboliza la tradición del comandante militar como árbitro de poder, y de un ejército poderoso y rico gracias a la generosidad de su jefe. "Los que exigieron de tierra, de ritad son abondados; a todos les dio en Valencia casas y heredades de que son pagados", nos informa el *Poema de Mío Cid*..." (73)
+- "De esta manera, los jefes militares, y, en particular las grandes órdenes militares, entraron en posesión de enormoes extensiones de tierra en la España medieval." (73-74)
+- "El Cid fue la encarnación de una política por momentos secularmente oportunista, en otros, fervientemente religiosa, siempre errante, acicateada por la aparaición del ejército y de sus jefes, durante la prolongada guerra de la Reconquista. La crónica de sus acciones es el gran poema épico de la España medieval. Y sin embargo, por momentos, ésta es una épica en realidad extraña, puesto que nos da cuenta de los actos poco honorables de su héroe..." (74)
+- "...el poema es también una llamativa demostración de un vicio particularmente español e hispanoamericano: la envidia. Todos envidian al Cid..."(74)
+### El camino de Santiago (p. 75-78)
+### Señores, ciudades, reyes (p. 79-90)
+### Las tres culturas (p. 90-96)
 # Etiquetas
-#/611 #/698 #/711 #/732 #/780 #/1992 #bizantinos #CarlosFuentes #CarlosMartel #Cartago #Córdoba #cristianismo #Egipto #Elespejoenterrado #España #español-literatura #godos #Goths #Granada #Mahoma #motivo-español #motivo-espejos #musulmanas #Sevilla #Tunéz
+#/611 #/698 #/711 #/732 #/780 #/1992 #bizantinos #CarlosFuentes #CarlosMartel #Cartago #Córdoba #cristianismo #Egipto #elCid #Elespejoenterrado #España #español-literatura #godos #Goths #Granada #Mahoma #motivo-español #motivo-espejos #musulmanas #Sevilla #tema-invidia #Tunéz
 # Banco de etiquetas
 #/2000BC #/900BC #/200BC #/147BC #/134BC #/133BC #/105BC #/18BC #/133 #/134 #/147 #/611 #/698 #/711 #/732 #/780 #/1492 #/1619 #/1992
 
 #cristianismo #figurasmaternas #flamenco #guerradeguerrillas #Iglesiacatólica #LaSemanaSanta #LEspilSoterrat #martirios #tablado     
 
- #español-literatura #literature-Spanish #motif-mirrors #motivo-caballeros #motivo-español #motivo-espejos #motivo-verdad #símbolos-espejos #tema-barbarie #tema-creatividad #tema-determinismo #tema-estoicismo #tema-honor #tema-individualismo #tema-metamorfosis #tema-sensualidad #theme-creativity #theme-determinism #theme-honor #theme-individualism #theme-metamorphosis #theme-stoicism
+ #español-literatura #literature-Spanish #motif-mirrors #motivo-caballeros #motivo-español #motivo-espejos #motivo-verdad #símbolos-espejos #tema-barbarie #tema-creatividad #tema-determinismo #tema-envidia #tema-estoicismo #tema-honor #tema-individualismo #tema-metamorfosis #tema-sensualidad #theme-creativity #theme-determinism #theme-honor #theme-individualism #theme-metamorphosis #theme-stoicism
 
 #aragua #aztecas #bizantinos #cartagineses #celtas #fenicios #Greeks #griegos #iberos #musulmanas #quechua #romanos #visigodos #visigoths 
 
 #Andalucía #Córdoba #Egipto #elNuevoMundo #ElTajín #España #Gibraltar #Granada #MediterraneanSea  #Mediterráneo #Numancia #Sevilla #Tunéz
 
-#CaballerodelosEspejos #CarlosMartel #Coatlicue #CristóbalColon  #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #Mahoma #Quetzalcóatl #RamónXirau #Tezcatlipoca  #Tlazoltéotl #Viriato 
+#CaballerodelosEspejos #CarlosMartel #Coatlicue #CristóbalColon  #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #elCid #Mahoma #Quetzalcóatl #RamónXirau #Tezcatlipoca  #Tlazoltéotl #Viriato 
 
 #unfinished-notes #unfinished-tags
