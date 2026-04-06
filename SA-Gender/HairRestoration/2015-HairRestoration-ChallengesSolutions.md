@@ -8,8 +8,8 @@ Rose, Paul T. "Hair restoration surgery: challenges and solutions." *Clinical, C
 - "Hair replacement surgery appears to date back to Japan. An article by Okuda in 19391 reported the transfer of single hairs, but it was not until Orentreich \[in 1959] that the transfer of large amounts of hair could be accomplished, and the concept of hair transplantation for treating baldness became popularized."
 - "It was not until the advent of the concept of follicular units (FUs) ([[2015-HairRestoration-Figure1.png|Figure 1]]) and follicular unit transplantation that modern hair replacement evolved sufficiently to provide truly natural results. Additionally, a better appreciation of hair line esthetics and increased knowledge of the androgenetic hair loss process over one’s lifetime gave physicians the ability to create extraordinarily natural outcomes. The use of FUT done in an appropriate manner allows patients to stop anywhere along the course of hair transplantations and still have a normal balding pattern result."
   ![[2015-HairRestoration-Figure1.png]]
-### Donor area challenges
-#### Donor area surgery, strip harvesting donor scars, and follicular unit extraction/follicular isolation technique scars
+## Donor area challenges
+### Donor area surgery, strip harvesting donor scars, and follicular unit extraction/follicular isolation technique scars
 - "Over the past 10 years, there has been increased concern about the donor area scar that results from strip harvesting. The resulting scar can be disfiguring and apparent when the hair in the donor area is not long enough or thick enough to conceal it. The cause of such disfiguring scars often relates to poor surgical decisions, such as taking too much tissue, thus making closure difficult, but it can also relate to patient skin characteristics that do not promote good healing."
 - "In an effort to improve the donor scar outcome, the trichophytic closure promoted by Rose, Frechet, and Marzola has proved to be very helpful. The basis of the closure is to remove the epidermal edge from the inferior or superior aspect of the donor wound to create a sloping or ledge type edge (Figures [[2015-HairRestoration-Figure2.png|2]], [[2015-HairRestoration-Figure3.png|3]], and [[2015-HairRestoration-Figure4.png|4]]). The opposing side is then brought to the trimmed epidermal side to allow for a slight overlap. By trimming the epidermal edge at a level that does not affect hair growth, hair can grow through the scar to assist in hiding the donor scar. In many instances, this can result in a scar that is extremely difficult to find, allowing the patient to wear his or her hair very short in the donor region."
   ![[2015-HairRestoration-Figure2.png]]
@@ -20,7 +20,7 @@ Rose, Paul T. "Hair restoration surgery: challenges and solutions." *Clinical, C
 - "The concern about a donor linear scar has led to the advent and increasing acceptance of the follicular unit extraction/follicular isolation technique (FUE/FIT). With this method, FUs are harvested with a small punch, usually 0.8–1.1 mm in diameter. Removal of the FUs creates round scars. These scars are often hypopigmented and larger than the original punch size."
 - "The author has hypothesized that when numerous FUs are harvested in an area, there is a loss of the usual contractile forces that would normally serve to contract a wound. The ideal result would allow a patient to shave his or her head without any evidence of the punch harvesting and to avoid a “buckshot” appearance... The author has developed a suction system to try to improve these wounds..."
 - "A novel way to improve the donor scars from strip or FUE/FIT is the use of scalp **micropigmentation** (Figures 5 and 6). This procedure essentially tattoos the skin. Small amounts of dye deposited at a superficial depth can give the impression of hair when performed adeptly. This technique has also been employed in the recipient area when donor hair is not available to create the impression of density or simply give the appearance of coverage. The technique is performed using local anesthesia. When the full scalp is treated, the time for such a procedure may be in excess of 6 hours."
-#### The donor area; robotic FUE/FIT, and piloscopy
+### The donor area; robotic FUE/FIT, and piloscopy
 - "Originally, physicians performed FUE/FIT manually with a hand-held punch. Although many physicians performing FUE/FIT have switched to electrically powered drills with the punches, the technique nevertheless still calls for superior hand–eye coordination, physical stamina, and a clear understanding of hair anatomy as it relates to the path of hairs coursing through the skin. Because the learning curve is very difficult, many physicians have been reluctant or unable to perform this manual technique...
   
   When first learning how to perform the technique, it is not unusual for surgeons to harvest at a rate of less than 100 grafts an hour. This presents a major problem when one is seeking to acquire high numbers of grafts. Concomitantly, the physician must be concerned with the rate of transection of hairs and fragility of these grafts. The use of mechanized devices has helped to improve harvest rates, but the skill needed to remove the grafts remains. It is noted that some physicians who use a manual technique can harvest at speeds that often exceed 600 grafts per hour with low transection rates, but this is not usually the case."
@@ -29,16 +29,16 @@ Rose, Paul T. "Hair restoration surgery: challenges and solutions." *Clinical, C
   The robotic system is an excellent approach to the repetitive action required for FUE/FIT. Typically, the robotic system can harvest at a rate of 500 or more grafts per hour, with transaction rates of 1%–7%, in the author’s experience."
 - "As with manual or mechanized drills, similar problems exist. There may be difficulty harvesting very curly hair, as the robotic needle cannot always accommodate the curvature of the follicles in these patients. The wounds created may hypopigment or hyperpigment. The wounds may be larger than the original punch. Buried grafts may occur. Importantly, with successive harvests, there can be thinning of the donor area that may become apparent."
 - "Wesley has developed a different approach to obtaining FUs by FUE/FIT. He refers to his method as “**piloscopy**”, and he has developed prototypes of an endoscopic device that can harvest grafts from under the skin. With this device, a small incision is made in the donor area, and the endoscopic device is inserted to the level of the fascia. A camera displays the bulbs of the various FUs, and the device is then manipulated so as to grasp the selected FUs at a level approximately 1 mm below the skin. With this method, the outer surface of the skin is not penetrated, and no evidence of the surgery in terms of a donor scar would be present. Such a technique would eliminate the hypopigmentation often present as a residual effect of FUE/FIT harvesting."
-#### Preserving harvested donor hair
-##### Holding solutions
-### Preserving donor hair and regenerating existing miniaturizing hair
-#### Drug therapy
-#### Low-level laser therapy
-#### Prostaglandins
-### Optimizing growth in the hair transplant recipient area
-#### PRP
-### The possibility of unlimited donor hair
-### Stem cells
+### Preserving harvested donor hair
+#### Holding solutions
+## Preserving donor hair and regenerating existing miniaturizing hair
+### Drug therapy
+### Low-level laser therapy
+### Prostaglandins
+## Optimizing growth in the hair transplant recipient area
+### PRP
+## The possibility of unlimited donor hair
+## Stem cells
 ## Conclusion
 ## References
 11 Rose, Paul T. "The trichophytic closure." In *Hair Transplantation, 5th ed.*, edited by WP Unger, R Shapiro, and R Unger. Informa Healthcare Publishing, 2011: 261-279. 

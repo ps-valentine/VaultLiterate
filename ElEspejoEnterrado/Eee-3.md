@@ -32,21 +32,34 @@ por Carlos Fuentes, 1992, 2016 edición
 - "De esta manera, los jefes militares, y, en particular las grandes órdenes militares, entraron en posesión de enormoes extensiones de tierra en la España medieval." (73-74)
 - "El Cid fue la encarnación de una política por momentos secularmente oportunista, en otros, fervientemente religiosa, siempre errante, acicateada por la aparaición del ejército y de sus jefes, durante la prolongada guerra de la Reconquista. La crónica de sus acciones es el gran poema épico de la España medieval. Y sin embargo, por momentos, ésta es una épica en realidad extraña, puesto que nos da cuenta de los actos poco honorables de su héroe..." (74)
 - "...el poema es también una llamativa demostración de un vicio particularmente español e hispanoamericano: la envidia. Todos envidian al Cid..."(74)
+- "Pero si la Reconquista fue una guerra contra el Islam, también fue una guerra de los reinos cristianos entre sí, que luchaban por obtener la hegemonía una vez que concluyese la derrota del infiel." (75)
 ### El camino de Santiago (p. 75-78)
+- ...
 ### Señores, ciudades, reyes (p. 79-90)
+- ...
+- "El feudalismo obtuvo temprana carta de ciudadanía, y ostentó las características que asociamos con este estilo de vida. La disolución del Imperio romano dio lugar al poder de jefes guerreros locales, quienes impusieron su propia ley, y a menudo sus propios caprichos, sobre la tierra y los trabajadores. Junto con el concepto del Estado romano, se desvaneció la autoridad de los endebles reinos godos; el derecho romano fue sustituido por el uso de la fuerza bruta." (81)
+- "A medida que la Iglesia construyó su rosario de monasterios para propagar la fe en las tierras reconquistadas, un ejército de mercaderes le siguió el paso, aprovechándose, especialmente, del movimiento a lo largo del camino de Santiago, y atraídas por los muchos favores y privilegios que los príncipes reinantes le acordaban a la clase comercial." (82)
+- "Pero la ventaja de las ciudades era la de ofrecer o negarle apoyo al rey de Castilla, al rey de Aragón o al rey de León. Los pueblos podían trocar su apoyo en la guerra a cambio de sus libertades en la paz." (82)
+- "El comercio y la guerra, de esta manera, propiciaron el surgimiento de reinos independientes, pero también de ciudades independientes, pobladas por jinetes y soldados de a pie, por nobles pero también por campesinos, por la Iglesia pero también por pobladores armados con una cédula real. Estos ciudadanos creían en y practicaban el autogobierno. Crearon asambleas municipales, justicias independientes y se dieron constituciones locales." (82)
+- "Su crecimiento transformaría las caballerías populares de la Reconquista en burgueses, caballeros y nobleza menor: hidalgos. El concepto mismo de honor, existente desde los tiempos ibéricos, se fortaleció... a medida que la Reconquista le dio a cuantos en ella participaron... el sentimiento de participar en una cause común para todos honorable." (83)
+- "Ávila es el ejemplo supremo de una ciudad construida para la defense militar: inexpugnable, defendida por fosas y torreones, no en balde es la ciudad más alta de España: una ciudadela construida por el hombre y por la naturaleza para vigilar los anchos espacios de Castilla, la tierra del castillo, que significa "lugar alto." (83)
+- "... muchas ciudades concebidas para la guerra pronto se convirtieron en ciudades que vivían del comercio. Un rápido montaje cinematográfico nos mostraría primero el alto *castelum* aislado, el compañero del guerrero y del noble, cubierto poco a poco con una hiedra proveniente de las tierras bajas: campesinos, enseguida comerciantes, estableciendo sus propios barrios en la proximidad del castillo, finalmente absorbiendo el castillo mismo dentro de un concepto urbano mayor, el burgo, el lugar del burgués, del comerciante, del artesano, del abogado y del boticario, pero también de labriegos ya no atados a las obligaciones feudales, sino, más bien, vistos como hombres libres, dueños de sus propias tierras..." (83-84)
+- "El concepto de la repoblación le dio a España una característica diferente en Europa... En la España de la Reconquista, León fue repoblada en 856, Zamora en 893 y Burgos en 884. Ésta última es una típica población, creada para la defensa militar... que pronto se desarrolló como poderoso centro comercial.
+  
+  La magnífica Catedral de Burgos, iniciada en 1221, es la corona de esta nueva realidad urbana." (84-85)
 ### Las tres culturas (p. 90-96)
 # Etiquetas
-#/611 #/698 #/711 #/732 #/780 #/1992 #bizantinos #CarlosFuentes #CarlosMartel #Cartago #Córdoba #cristianismo #Egipto #elCid #Elespejoenterrado #España #español-literatura #godos #Goths #Granada #Mahoma #motivo-español #motivo-espejos #musulmanas #Sevilla #tema-invidia #Tunéz
+#/611 #/698 #/711 #/732 #/780 #/856 #/884 #/893 #/1992 #autogobierno #Ávila #bizantinos #Burgos #CarlosFuentes #CarlosMartel #Cartago #Córdoba #cristianismo #Egipto #elCid #Elespejoenterrado #España #español-literatura #godos #Goths #Granada #León #Mahoma #motivo-español #motivo-espejos #musulmanas #Sevilla #tema-honor #tema-invidia #theme-envy #theme-honor #Tunéz #Zamora
 # Banco de etiquetas
-#/2000BC #/900BC #/200BC #/147BC #/134BC #/133BC #/105BC #/18BC #/133 #/134 #/147 #/611 #/698 #/711 #/732 #/780 #/1492 #/1619 #/1992
+#/2000BC #/900BC #/200BC #/147BC #/134BC #/133BC #/105BC #/18BC #/133 #/134 #/147 #/611 #/698 #/711 #/732 #/780 #/856 #/884 #/893 #/1492 #/1619 #/1992
 
-#cristianismo #figurasmaternas #flamenco #guerradeguerrillas #Iglesiacatólica #LaSemanaSanta #LEspilSoterrat #martirios #tablado     
+#autogobierno #cristianismo #figurasmaternas #flamenco #guerradeguerrillas #Iglesiacatólica #LaSemanaSanta #LEspilSoterrat #martirios #tablado     
 
- #español-literatura #literature-Spanish #motif-mirrors #motivo-caballeros #motivo-español #motivo-espejos #motivo-verdad #símbolos-espejos #tema-barbarie #tema-creatividad #tema-determinismo #tema-envidia #tema-estoicismo #tema-honor #tema-individualismo #tema-metamorfosis #tema-sensualidad #theme-creativity #theme-determinism #theme-honor #theme-individualism #theme-metamorphosis #theme-stoicism
+ #español-literatura #literature-Spanish #motif-mirrors #motivo-caballeros #motivo-español #motivo-espejos #motivo-verdad #símbolos-espejos #tema-barbarie #tema-creatividad #tema-determinismo #tema-envidia #tema-estoicismo #tema-honor #tema-individualismo #tema-metamorfosis #tema-sensualidad #theme-creativity #theme-determinism #theme-envy #theme-honor #theme-individualism #theme-metamorphosis #theme-stoicism
 
 #aragua #aztecas #bizantinos #cartagineses #celtas #fenicios #Greeks #griegos #iberos #musulmanas #quechua #romanos #visigodos #visigoths 
 
-#Andalucía #Córdoba #Egipto #elNuevoMundo #ElTajín #España #Gibraltar #Granada #MediterraneanSea  #Mediterráneo #Numancia #Sevilla #Tunéz
+#Andalucía #Ávila #Burgos #Córdoba #Egipto #elNuevoMundo #ElTajín #España #Gibraltar #Granada #León #MediterraneanSea  #Mediterráneo #Numancia #Sevilla #Tunéz #Zamora
 
 #CaballerodelosEspejos #CarlosMartel #Coatlicue #CristóbalColon  #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #elCid #Mahoma #Quetzalcóatl #RamónXirau #Tezcatlipoca  #Tlazoltéotl #Viriato 
 
