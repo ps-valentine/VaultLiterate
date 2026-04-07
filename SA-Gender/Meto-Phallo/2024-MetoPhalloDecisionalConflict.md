@@ -33,10 +33,37 @@ Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Bro
 ## Discussion
 - "Open-ended feedback from participants revealed that the most common reasons for uncertainty included fear of complications, concern about outcomes, cost, lack of knowledge and information about MaPGAS, and difficulty weighing risks versus benefits."
 - "Based on our review, this is one of the few studies, and the only U.S. study, to evaluate decisional conflict among individuals considering different MaPGAS options using a validated measure."
+- "Mokken et al evaluated the association of a MaPGAS decision aid and DCS scores in the Netherlands. The mean decisional conflict score of the two cohorts demonstrated less decisional conflict than in our sample... The lower baseline DCS scores in the Mokken et al study may be due to their cohort having already elected to pursue MaPGAS and being scheduled for a surgical consult as compared with our cross-sectional study, including participants who may have been in earlier stages of considering MaPGAS options. Additionally, while Mokken et al focused exclusively on transgender men, over a third of our respondents identified as gender diverse or nonbinary. Although prior studies have shown nonbinary AFAB individuals may have less interest in MaPGAS, there is limited published data comparing rates of decisional uncertainty between transgender men and nonbinary AFAB individuals. Further, their thematic analysis of qualitative interviews from the Netherlands sample revealed different themes associated with decisional conflict, including participant history, mental health, and social support. Although the qualitative analysis of the Netherland sample revealed some overlap in themes associated with decisional conflict, including concerns related to participant health history, mental health (eg, gender dysphoria), and social support, factors that were more prominent in our findings, such as cost, insurance coverage, and lack of knowledge and information, likely reflect differences in culture and access to gender-affirming care between the United States and the Netherlands, which make our data more generalizable to a US population."
+- "Our findings suggest the necessity for additional tools that can be used to address decisional conflict in this population. We also believe it is important to consider the role of PROMs in the creation and implementation of a decision support tool. The use of PROMs in clinical encounters provides the opportunity to collect high-quality patient-centered data and can empower individuals by involving them directly in the decision-making process, which may help enhance shared decision-making and decrease decisional conflict. Currently, PROMs that assess the outcomes of genital gender-affirming procedures such as MaPGAS are not validated in the transgender population, making clear the need for MaPGAS-specific PROMs developed in partnership with transgender patient stakeholders."
+- "Additional options to explore may include group medical appointments or shared education classes tailored to individuals considering MaPGAS, which would offer a moderated forum for discussing concerns, sharing experiences, and addressing questions in a supportive environment. Increased discussion of complications and the provision of photographs of surgical outcomes during consultations can further aid in setting realistic expectations and provide further decision support."
 ## Limitations
+"Cross-sectional survey-based studies have inherent limitations. They capture a single point in time, depend on self-report, and are susceptible to recall bias. Given the high variability in ratings on DCS subscale items, our sample size may have limited power to approach significant differences in subgroup comparisons, although the open-ended responses validate the survey ratings, confirming that uncertainty and lack of feeling informed were major factors in explaining DCS scores. Additionally, a large proportion of participants were White, could read and understand English, were highly educated and insured, and had access to a computer or smartphone with internet, which may impact the generalizability of the results. However, we used multiple modalities to sample the community, and future phases of this work will prioritize seeking more diverse input."
 ## Conclusions
+"This US cross-sectional study of 264 transgender men and nonbinary participants AFAB demonstrates a high level of decisional conflict and uncertainty amongst individuals considering MaPGAS, particularly in those who are undecided between phalloplasty and metoidioplasty. Thematic analysis of open-ended comments revealed that the most common reasons for MaPGAS-related decisional uncertainty included fear of complications, concern about outcomes and associated unresolved gender dysphoria, cost, lack of knowledge and information, and difficulties weighing risks versus benefits. These findings suggest this cohort may benefit from focused decision support that provides information about MaPGAS procedure options, risks, expected outcomes, and goals clarification exercises."
 ## References
+1 
+3 
+4 
+5 
+6 
+7 
+13 
+14 
+18 
+19 
+20 
+21 
+22 
+24 Agochukwu-Mmonu, Nnenaya, Asa Radix, Lee Zhao, Danil Makarov, Rachel Bluebond-Langner, A. Mark Frederick, Elijah Castle, and Carolyn Berry. "[[2022-GAS-PROMs|Patient reported outcomes in genital gender-affirming surgery: the time is now.]]" *Journal of Patient-Reported Outcomes* **6** (2022): [external link](https://link.springer.com/article/10.1186/s41687-022-00446-x)
+25 
+26 
+27 
+28 
+29 
+30 
+35 
+36 
 # Tags
-#/2024 #DCS #decisionalconflict #decisionalconflictscale #GAS-metoidioplasty #GAS-phalloplasty #GainesBlasel #GlynElwyn #JeremyBMyers #JohnFNigriny #JohnHTurco #LeeKBrown #LindaMKinney #PROMs #PRSGlobalOpen #patientreportedoutcomemeasures #RachelAMoses #ReadeOtto-Moudry #RebeccaLButcher #scientificarticle #scientificjournal #urethralfistula  #urethralstricture
+#/2024 #DCS #decisionalconflict #decisionalconflictscale #GAS-metoidioplasty #GAS-phalloplasty #GainesBlasel #GlynElwyn #JeremyBMyers #JohnFNigriny #JohnHTurco #LeeKBrown #LindaMKinney #PROMs #PRSGlobalOpen #patientreportedoutcomemeasures #RachelAMoses #ReadeOtto-Moudry #RebeccaLButcher #scientificarticle #scientificjournal #transgender-Netherlands #transgender-UnitedStates #urethralfistula  #urethralstricture
 
-#unfinished-notes #unfinished-references
+ #unfinished-references
