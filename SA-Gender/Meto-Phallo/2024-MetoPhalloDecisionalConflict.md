@@ -32,6 +32,7 @@ Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Bro
 - "Difficulty weighing the risks versus benefits of MaPGAS was another source of uncertainty, and some were additionally uncertain whether resolution of dysphoria or being able to stand to urinate would be worth such an involved surgery, complication risk, and extended time away from work. For these reasons, some participants leaned toward not having any MaPGAS procedures."
 ## Discussion
 - "Open-ended feedback from participants revealed that the most common reasons for uncertainty included fear of complications, concern about outcomes, cost, lack of knowledge and information about MaPGAS, and difficulty weighing risks versus benefits."
+- "Based on our review, this is one of the few studies, and the only U.S. study, to evaluate decisional conflict among individuals considering different MaPGAS options using a validated measure."
 ## Limitations
 ## Conclusions
 ## References
