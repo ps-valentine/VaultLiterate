@@ -34,9 +34,12 @@ por Carlos Fuentes, 1992, 2016 edición
 - "...el poema es también una llamativa demostración de un vicio particularmente español e hispanoamericano: la envidia. Todos envidian al Cid..."(74)
 - "Pero si la Reconquista fue una guerra contra el Islam, también fue una guerra de los reinos cristianos entre sí, que luchaban por obtener la hegemonía una vez que concluyese la derrota del infiel." (75)
 ### El camino de Santiago (p. 75-78)
-- ...
+- "Pues había un jefe más grande que el Cid en la Cruzada española, y era nada menos que Santiago, uno de los doce apóstoles, el compañero de Cristo...
+  
+  ... \[él] se vuelve visible en España y es transformado de un pacífico apóstol  en un feroz guerrero capaz de infundir el pánico entre la tropa mora cuando aparece, totalmente armado, sobre un corcel blanco, descendiendo de una nube. Se convierte así en Santiago Matamoros, la figura que inspiró la resistencia popular contra los musulmanes y fortaleció el alma de la Reconquista." (75-76)
+- "Compostela, *Campus Stellae*, el campo de estrelolas, fue el nombre del espléndido santuario erigido entre 1075 y 1150 para albergar los restos del apóstol y la multitud creciente de sus adoradores." (76)
 ### Señores, ciudades, reyes (p. 79-90)
-- ...
+- "... las invasiones bárbaras habían dejado en su estela reinos débiles, un vacío legal llenado por una Iglesia poderosa, y señores fuedales igualmente poderosos, localmente basados." (79)
 - "El feudalismo obtuvo temprana carta de ciudadanía, y ostentó las características que asociamos con este estilo de vida. La disolución del Imperio romano dio lugar al poder de jefes guerreros locales, quienes impusieron su propia ley, y a menudo sus propios caprichos, sobre la tierra y los trabajadores. Junto con el concepto del Estado romano, se desvaneció la autoridad de los endebles reinos godos; el derecho romano fue sustituido por el uso de la fuerza bruta." (81)
 - "A medida que la Iglesia construyó su rosario de monasterios para propagar la fe en las tierras reconquistadas, un ejército de mercaderes le siguió el paso, aprovechándose, especialmente, del movimiento a lo largo del camino de Santiago, y atraídas por los muchos favores y privilegios que los príncipes reinantes le acordaban a la clase comercial." (82)
 - "Pero la ventaja de las ciudades era la de ofrecer o negarle apoyo al rey de Castilla, al rey de Aragón o al rey de León. Los pueblos podían trocar su apoyo en la guerra a cambio de sus libertades en la paz." (82)
