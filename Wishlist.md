@@ -12,7 +12,8 @@
 ## Clinics in Plastic Surgery
 1. "Transgender Feminization of the Facial Skeleton" from *Clinics in Plastic Surgery*. 2007 Jul: [https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub)
 2. "Gender Reassignment: Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub)
-3. **UNOBTANIUM**   "Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.plasticsurgery.theclinics.com/article/S0094-1298(18)30052-X/abstract](https://www.plasticsurgery.theclinics.com/article/S0094-1298\(18\)30052-X/abstract)
+3. Lam, Samuel L. "Hair Transplant and Local Anesthetics." *Clinics in Plastic Surgery* **40**, no. 4 (2013), 615-625: [external link to article extracts](https://books.google.com/books?hl=en&lr=&id=PTLRAQAAQBAJ&oi=fnd&pg=PA615&ots=yNZXFoJaWk&sig=G8CsiD35Uf38Od5W8R8jcYIwxCc#v=onepage&q&f=false) and [different article extracts](https://books.google.com/books?hl=en&lr=&id=WZROAQAAQBAJ&oi=fnd&pg=PA615&ots=kceQr7m9fA&sig=roMXraVn0fxcsH3xCXkTBp6WPg8#v=onepage&q&f=false)
+4. **UNOBTANIUM**   "Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.plasticsurgery.theclinics.com/article/S0094-1298(18)30052-X/abstract](https://www.plasticsurgery.theclinics.com/article/S0094-1298\(18\)30052-X/abstract)
 ## Dermatologic Clinics
 1. "Minimally Invasive Procedures for Gender Affirmation" from *Dermatologic Clinics*. 2020 Apr: [https://pubmed.ncbi.nlm.nih.gov/32115135/](https://pubmed.ncbi.nlm.nih.gov/32115135/)
 ## Facial Plastic Surgery
