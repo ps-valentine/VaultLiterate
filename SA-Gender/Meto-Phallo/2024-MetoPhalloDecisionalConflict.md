@@ -43,7 +43,7 @@ Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Bro
 ## References
 1 Canner, Joseph K., Omar Harfouch, Lisa M. Kodadek, Danielle Pelaez, Devin Coon, Anaeze C. Offodile II, Adil H. Haider, and Brandyn D. Lau. "Temporal Trends in Gender-Affirming Surgery Among Transgender Patients in the United States." *JAMA Surgery* **153**, no. 7 (2018): [external link to article](https://jamanetwork.com/journals/jamasurgery/fullarticle/2673384)
 3 de Brouwer, Iris J., Els Elaut, Inga Becker-Hebly, Gunter Heylens, Timo O. Nieder, Tim C. van de Grift, and Baudewijntje P.C. Kreukels. "Aftercare Needs Following Gender-Affirming Surgeries: Findings from the ENIGI Multicenter European Follow-Up Study." *The Journal of Sexual Medicine* **18**, no. 11 (2021), 1921-1932: [external link to article](https://academic.oup.com/jsm/article/18/11/1921/6955936)
-4 
+4 Nikolavsky, Dmitriy, Michael Hughes, and Lee C Zhao. "Urologic Complications After Phalloplasty or Metoidioplasty." *Clinics in Plastic Surgery* **45**, no. 3 (2018), 425-435: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/29908632/)
 5 
 6 
 7 

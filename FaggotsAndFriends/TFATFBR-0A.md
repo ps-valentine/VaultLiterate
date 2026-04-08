@@ -34,5 +34,17 @@ Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*.
 - Steve Waring
 - Allan Warshawsky
 - Arthur Evans
+## Related Media and/or Recommendations
+- Tourmaline
+- Morgan Bassichis
+- Larry Mitchell's other writing
+- Calamus Press, JH Press, and Seahorse Press
+- Nightboat Books
+- *Lavender Hill: A Love Story* (2013) by Austin Bunn & Bob Hazen
+- a 2012 interview of Larry Mitchell by Stephen Vider
+- Felice Picano and Gay Presses of New York (1980 to ???)
+- *Torch Song Trilogy* by Harvey Fierstein
+- *RFD Magazine* (1974 onward); based out of Faerie Camp Destiny subgroups since 2009
+- *Great Gay in the Morning: One Group's Approach to Communal Living and Sexual Politics* (1972)
 # Tags
-#/1977 #/1981 #/1983 #/2019 #abundance #AllanWarshawsky #ArthurEvans #BobbyJakeRoberts #ChayaSpector #DavidHirsch #FrancescaLunaSantini  #GLF #GayLiberationFront #HIV-AIDS #HIV-AIDS-epidemic #JosephMedina #LarryMitchell #LasarMintz #MarshaPJohnson #MitchellKarp #MorganBassichis #mutualaid #NedAsta #NightboatBooks #psychedelics #qualudes #RadicalFaeries #respectabilitypolitics #revolutionaryhospitality #SteveWaring #SunnyBat-Or #TheFaggotsAndTheirFriendsBetweenRevolutions #theme-abundance #theme-community #theme-friendship #theme-love #theme-madness #theme-magic  #theme-mutualaid #theme-respectability #theme-revolution #Tourmaline #YvonneFisher #ZelikMintz
+#/1972 #/1974 #/1977 #/1981 #/1983 #/2009 #/2012 #/2013 #/2019 #abundance #AllanWarshawsky #ArthurEvans #AustinBunn #BobHazen #BobbyJakeRoberts #CalamusPress #ChayaSpector #DavidHirsch #FelicePicano #FrancescaLunaSantini  #GLF #GayLiberationFront #GayPressesofNewYork #HIV-AIDS #HIV-AIDS-epidemic #HarveyFierstein #JHPress #JosephMedina #LarryMitchell #LasarMintz #MarshaPJohnson #MitchellKarp #MorganBassichis #mutualaid #NedAsta #NightboatBooks #psychedelics #qualudes #RFDMagazine #RadicalFaeries #respectabilitypolitics #revolutionaryhospitality #SeahorsePress #StephenVider #SteveWaring #SunnyBat-Or #TheFaggotsAndTheirFriendsBetweenRevolutions #theme-abundance #theme-community #theme-friendship #theme-love #theme-madness #theme-magic  #theme-mutualaid #theme-respectability #theme-revolution #Tourmaline #YvonneFisher #ZelikMintz
