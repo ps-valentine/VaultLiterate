@@ -57,15 +57,25 @@ Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*.
 - fag hags! *as* strong women (45)
 - "The faggots never tired of fucking with the men's minds." (46)
 # Part 2 The Energy of Oppression
-- ...
 - "As the energy of the men decreases, the faggots and their friends come aboveground. They know they do not have much time before the men will notice. So, as quickly as they can, they begin to arrange themselves into an intricate new world. They need access to food and to warm spaces, to hiding places, to excitement and to each other. The great gardens of the fairies begin to expand, producing food in abundance. The fairies shower the plants with so much love that the plants, with gratefulness, produce all they can. Spaces to be in begin to be created around the great gardens, warm, woody spaces, softly illuminated." (52)
-- ...
+- NOTHING CAN DEFEAT THE SPIRIT OF THE EARTH
+- more on the gardening of the fairies (56)
+- casual Indigenous erasure (58) and use of the *tribe* (82), both problematic Radical Faerie tendencies
+- "God, always uptight about what the neighbors would think, simply died of mortification." (62)
+- "The queens display infinite wierdness to the world. For them, style is the path into the unique self and so to transcendence." (63)
+- everything is yoga! (64)
+- "When the faggots visit the fairies it is always like entering a wonderful dream." (66)
+- "All this makes them angry and amused." (68)
+- "The Queens think the fairies are cute." (68)
+- "Mark my word, Queens, they're making more bombs every day..." (69)
+- "\[Loose Tomato] is always dancing on the boundary between eccentricity and insanity." (73)
 - "Heavenly Blue worried all the time. He worried about the bills and the roof that needed repairing and the strange men who always watched the house and what the neighbors might do next about Hollyhock's unhappiness. He worried most of all that he would go mad. His worrying got the bills paid and the roof fixed and drove the men away and calmed the neighbors down and helped Hollyhock be happier. And finally his worrying drove him mad. It was the madness of looking inward and being afraid. There had never been enough love and warmth around him and he thought he had gradually dried up inside. He wanted out but he did not know where out was.
   
-  Lilac and Pinetree and Moonbeam and Loose Tomato and Hollyhock gathered. They held Heavenly Blue in their arms for days, they let him cry and stare and slobber and scream and be silent. They paid the bills and looked after the roofs and watched the street for strange men and talked to the neighbors and Hollyhock kept himself happty. Their house filled up with comfort and routine and gladness until Heavenly Blue could no longer resist and became response-able again." (80)
+  Lilac and Pinetree and Moonbeam and Loose Tomato and Hollyhock gathered. They held Heavenly Blue in their arms for days, they let him cry and stare and slobber and scream and be silent. They paid the bills and looked after the roofs and watched the street for strange men and talked to the neighbors and Hollyhock kept himself happy. Their house filled up with comfort and routine and gladness until Heavenly Blue could no longer resist and became response-able again." (80)
+- "Their life has become elegant and stable allowing warmth and sharing and radical action to flow outward." (87)
 - ...
 # Part 3
 # Tags
-#/1977 #/2019 #codeswitching #flagging #HIV-AIDS #HIV-AIDS-epidemic #LarryMitchell #maleisolation #maleloneliness #MorganBassichis #NedAsta #NightboatBooks #RadicalFaeries #sacredsexuality #TheFaggotsAndTheirFriendsBetweenRevolutions #Tourmaline
+#/1977 #/2019 #codeswitching #flagging #HIV-AIDS #HIV-AIDS-epidemic #indigenouserasure #LarryMitchell #maleisolation #maleloneliness #military-industrialcomplex #MorganBassichis #mutualaid #NedAsta #NightboatBooks #RadicalFaeries #sacredsexuality #TheFaggotsAndTheirFriendsBetweenRevolutions #theme-abundance #theme-community #theme-madness #theme-solidarity #Tourmaline
 
 #unfinished-notes #unfinished-tags
