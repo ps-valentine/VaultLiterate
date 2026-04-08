@@ -1,9 +1,61 @@
 Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*. Nightboat Books, 1977. 9th printing, 2019. With preface by Tourmaline and introduction by Morgan Bassichis.
 # The Faggots & Their Friends Between Revolutions
+## Character List
+- Heavenly Blue
+- Hollyhock
+- Lilac
+- Pinetree --> Jack Daniels
+- Moonbeam
+- Loose Tomato
+- Orchard
+- Eva Destruction
+- Daffodil and Woodthrush of Elegant City
+- Toni
+- Jerri
+- Scarlet Redhair
+- Sadie TomTom
+- Pat
+- Lee
+- Meredith
+- Airamel
+## Places List
+- Faggot Fuck Palace
+- Gay as a Goose Café
+- Amazon Acres
+- Boys in the Backroom
+- Pansy Path
+- Horny Heaven
+- Ramrod
+## Groups
+- Tribe of the Rising Sons
+- Tribe of Angel Flesh
+- Gay as a Goose Tribe
+- the No-Name Tribe
+- House of the Heavy, Horny Hunks
 ## Part 1 The Way It Is
-- ...
+- "The men remain enchanted by plunder and destruction. The men are deceived easily..." (1)
+- "He is the leader of Ramrod because he is the most paranoid and therefore the most vicious man in the land." (2)
+- "But the faggots have no leader. They have only dead heroes." (2)
+- LET THE FAGGOTS PLAY
+- colorful clothing and codeswitching
+- "It was necessary to develop secret ways to know each other." (6)
+	- flagging, abundance, and masking
+- "They learned how the oppressed survive." (6)
+- "... they ask the unlucky faggots to come and join them." (11)
+- "The faggots consider it their sacred pleasure to engage in indiscriminate promiscuous sexuality." (12)
+- "The faggots do not lust after power." (15)
+- "Some of the faggots are trashy." (17)
+- "There is more to be learned from wearing a dress for a day than there is from wearing a suit for a lifetime." (19)
+- WOMEN WISDOM
 - "The faggots have never been asked to join the vanguard. The faggots, it was noticed, do not know how to keep a straight face and the vanguard demands constantly straight faces. The faggots, it was noticed, want only to eat so they can play love play while the vanguard demands endless talk  about the hunger of others and the seriousness of work. The faggots, it was noticed, are too quick to believe that the revolution had come and so too quick to celebrate. The vanguard demands that the revolution go on forever and so demands that the celebration only be planned, never enacted." (22)
-- ...
+- "The men spread disease among the faggots, one of the things they love most to do to those they despise. The men will only cure diseases they themselves suffer from." (24)
+- "Genuine affection sprouted from the cracks in decorum..." (28)
+- "Whenever the faggots leave their small liberated areas to enter the spaces of the men, they cause scenes. They do not really mean to do this." (29)
+- THE FAGGATINAS AND THE DYKALETS
+- "It is categories in the mind and guns in their hands which keep us enslaved." (34)
+- "The men never talk about how they feel. They pretend to be machines." (44)
+- fag hags! *as* strong women (45)
+- "The faggots never tired of fucking with the men's minds." (46)
 # Part 2 The Energy of Oppression
 - ...
 - "As the energy of the men decreases, the faggots and their friends come aboveground. They know they do not have much time before the men will notice. So, as quickly as they can, they begin to arrange themselves into an intricate new world. They need access to food and to warm spaces, to hiding places, to excitement and to each other. The great gardens of the fairies begin to expand, producing food in abundance. The fairies shower the plants with so much love that the plants, with gratefulness, produce all they can. Spaces to be in begin to be created around the great gardens, warm, woody spaces, softly illuminated." (52)
@@ -14,6 +66,6 @@ Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*.
 - ...
 # Part 3
 # Tags
-#/1977 #/2019 #LarryMitchell #MorganBassichis #NedAsta #RadicalFaeries #TheFaggotsAndTheirFriendsBetweenRevolutions #Tourmaline
+#/1977 #/2019 #codeswitching #flagging #HIV-AIDS #HIV-AIDS-epidemic #LarryMitchell #maleisolation #maleloneliness #MorganBassichis #NedAsta #NightboatBooks #RadicalFaeries #sacredsexuality #TheFaggotsAndTheirFriendsBetweenRevolutions #Tourmaline
 
 #unfinished-notes #unfinished-tags
