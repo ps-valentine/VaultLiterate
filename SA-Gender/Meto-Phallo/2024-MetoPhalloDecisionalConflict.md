@@ -41,8 +41,8 @@ Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Bro
 ## Conclusions
 "This US cross-sectional study of 264 transgender men and nonbinary participants AFAB demonstrates a high level of decisional conflict and uncertainty amongst individuals considering MaPGAS, particularly in those who are undecided between phalloplasty and metoidioplasty. Thematic analysis of open-ended comments revealed that the most common reasons for MaPGAS-related decisional uncertainty included fear of complications, concern about outcomes and associated unresolved gender dysphoria, cost, lack of knowledge and information, and difficulties weighing risks versus benefits. These findings suggest this cohort may benefit from focused decision support that provides information about MaPGAS procedure options, risks, expected outcomes, and goals clarification exercises."
 ## References
-1 
-3 
+1 Canner, Joseph K., Omar Harfouch, Lisa M. Kodadek, Danielle Pelaez, Devin Coon, Anaeze C. Offodile II, Adil H. Haider, and Brandyn D. Lau. "Temporal Trends in Gender-Affirming Surgery Among Transgender Patients in the United States." *JAMA Surgery* **153**, no. 7 (2018): [external link to article](https://jamanetwork.com/journals/jamasurgery/fullarticle/2673384)
+3 de Brouwer, Iris J., Els Elaut, Inga Becker-Hebly, Gunter Heylens, Timo O. Nieder, Tim C. van de Grift, and Baudewijntje P.C. Kreukels. "Aftercare Needs Following Gender-Affirming Surgeries: Findings from the ENIGI Multicenter European Follow-Up Study." *The Journal of Sexual Medicine* **18**, no. 11 (2021), 1921-1932: [external link to article](https://academic.oup.com/jsm/article/18/11/1921/6955936)
 4 
 5 
 6 
