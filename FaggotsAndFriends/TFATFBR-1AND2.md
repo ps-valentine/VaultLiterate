@@ -18,6 +18,7 @@ Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*.
 - Lee
 - Meredith
 - Airamel
+- General waste-more-of-everything
 ## Places List
 - Faggot Fuck Palace
 - Gay as a Goose Café
@@ -46,19 +47,20 @@ Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*.
 - "The faggots do not lust after power." (15)
 - "Some of the faggots are trashy." (17)
 - "There is more to be learned from wearing a dress for a day than there is from wearing a suit for a lifetime." (19)
+- FAGGOT WISDOM
 - WOMEN WISDOM
 - "The faggots have never been asked to join the vanguard. The faggots, it was noticed, do not know how to keep a straight face and the vanguard demands constantly straight faces. The faggots, it was noticed, want only to eat so they can play love play while the vanguard demands endless talk  about the hunger of others and the seriousness of work. The faggots, it was noticed, are too quick to believe that the revolution had come and so too quick to celebrate. The vanguard demands that the revolution go on forever and so demands that the celebration only be planned, never enacted." (22)
 - "The men spread disease among the faggots, one of the things they love most to do to those they despise. The men will only cure diseases they themselves suffer from." (24)
 - "Genuine affection sprouted from the cracks in decorum..." (28)
 - "Whenever the faggots leave their small liberated areas to enter the spaces of the men, they cause scenes. They do not really mean to do this." (29)
-- THE FAGGATINAS AND THE DYKALETS
+- THE FAGGATINAS AND THE DYKALETS (32-33)
 - "It is categories in the mind and guns in their hands which keep us enslaved." (34)
 - "The men never talk about how they feel. They pretend to be machines." (44)
 - fag hags! *as* strong women (45)
 - "The faggots never tired of fucking with the men's minds." (46)
 # Part 2 The Energy of Oppression
 - "As the energy of the men decreases, the faggots and their friends come aboveground. They know they do not have much time before the men will notice. So, as quickly as they can, they begin to arrange themselves into an intricate new world. They need access to food and to warm spaces, to hiding places, to excitement and to each other. The great gardens of the fairies begin to expand, producing food in abundance. The fairies shower the plants with so much love that the plants, with gratefulness, produce all they can. Spaces to be in begin to be created around the great gardens, warm, woody spaces, softly illuminated." (52)
-- NOTHING CAN DEFEAT THE SPIRIT OF THE EARTH
+- NOTHING CAN DEFEAT THE SPIRIT OF THE EARTH (53)
 - more on the gardening of the fairies (56)
 - casual Indigenous erasure (58) and use of the *tribe* (82), both problematic Radical Faerie tendencies
 - "God, always uptight about what the neighbors would think, simply died of mortification." (62)
@@ -73,9 +75,22 @@ Mitchell, Larry and Ned Asta. *The Faggots & Their Friends Between Revolutions*.
   
   Lilac and Pinetree and Moonbeam and Loose Tomato and Hollyhock gathered. They held Heavenly Blue in their arms for days, they let him cry and stare and slobber and scream and be silent. They paid the bills and looked after the roofs and watched the street for strange men and talked to the neighbors and Hollyhock kept himself happy. Their house filled up with comfort and routine and gladness until Heavenly Blue could no longer resist and became response-able again." (80)
 - "Their life has become elegant and stable allowing warmth and sharing and radical action to flow outward." (87)
-- ...
-# Part 3
+- Mable's Bakery Truck (88)
+- sex workers! *as* the honest women (91)
+- "The women, by now, know that they will win. They know that the days of the men are numbered. Life comes from the women and can go on only if they win." (92)
+- "The women who love women are nearly all poor since the men who control the money and give it only to those who sign the bondage contract." (94)
+- "They know that without the uncalculated giving of affection everyone is lost." (94)
+- "Maybe a queer, effeminate, faggot sissy." (96)
+- the men's mind butchers (98)
+- "And by then he was so into being a faggot outlaw that there was no going back." (98)
+- "General Waste-more-of-everything went bananas and ordered trouble for the faggots." (99)
+- "This soon came to the attention of the authorities. They were shocked and ordered Heavenly Blue to begin at once to work, not play, with the kids, and to treat girls like girls and boys like boys. He might have complied... if he could have remembered what they said exactly." (99)
+- "Authorities must be obeyed or they cannot be considered authorities." (99)
+- SURVIVAL: STRATEGY (100)
+- "... merge into the general strangeness of the city." (101)
+- "IF THE MEN GIVE YOU SOMETHING, YOU GET NOTHING" (102)
+- "They all left the devastated city at once and went to the fairies who received them with softness and kindness. They built a small house of hiding in the woods..." (107)
+- "The faggots and their friends and the women who love women can keep the men off balance for a long time by subtly, but continually, changing their identities... But the men's viciousness will grow as their panic increases... at random if necessary..." (109)
+- "\[The men] need the faggots and their friends in order to know who they are not." (110)
 # Tags
-#/1977 #/2019 #codeswitching #flagging #HIV-AIDS #HIV-AIDS-epidemic #indigenouserasure #LarryMitchell #maleisolation #maleloneliness #military-industrialcomplex #MorganBassichis #mutualaid #NedAsta #NightboatBooks #RadicalFaeries #sacredsexuality #TheFaggotsAndTheirFriendsBetweenRevolutions #theme-abundance #theme-community #theme-madness #theme-solidarity #Tourmaline
-
-#unfinished-notes #unfinished-tags
+#/1977 #/2019 #codeswitching #flagging #HIV-AIDS #HIV-AIDS-epidemic #homosexuality #indigenouserasure #LarryMitchell #maleisolation #maleloneliness #military-industrialcomplex #MorganBassichis #mutualaid #NedAsta #NightboatBooks #RadicalFaeries #sacredsexuality #TheFaggotsAndTheirFriendsBetweenRevolutions #theme-abundance #theme-community #theme-madness #theme-solidarity #Tourmaline

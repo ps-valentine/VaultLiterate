@@ -44,11 +44,11 @@ Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Bro
 1 Canner, Joseph K., Omar Harfouch, Lisa M. Kodadek, Danielle Pelaez, Devin Coon, Anaeze C. Offodile II, Adil H. Haider, and Brandyn D. Lau. "Temporal Trends in Gender-Affirming Surgery Among Transgender Patients in the United States." *JAMA Surgery* **153**, no. 7 (2018): [external link to article](https://jamanetwork.com/journals/jamasurgery/fullarticle/2673384)
 3 de Brouwer, Iris J., Els Elaut, Inga Becker-Hebly, Gunter Heylens, Timo O. Nieder, Tim C. van de Grift, and Baudewijntje P.C. Kreukels. "Aftercare Needs Following Gender-Affirming Surgeries: Findings from the ENIGI Multicenter European Follow-Up Study." *The Journal of Sexual Medicine* **18**, no. 11 (2021), 1921-1932: [external link to article](https://academic.oup.com/jsm/article/18/11/1921/6955936)
 4 Nikolavsky, Dmitriy, Michael Hughes, and Lee C Zhao. "Urologic Complications After Phalloplasty or Metoidioplasty." *Clinics in Plastic Surgery* **45**, no. 3 (2018), 425-435: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/29908632/)
-5 
-6 
-7 
-13 
-14 
+5 Santucci, Richard A. "Urethral Complications After Transgender Phalloplasty: Strategies to Treat Them and Minimize Their Occurrence." *Clinical Anatomy* **31**, no. 2 (2018), 187-190: [external link](https://onlinelibrary.wiley.com/doi/10.1002/ca.23021)
+6 Dy, Geolani W., Jeff Sun, Michael A. Granieri, and Lee C. Zhao. "Reconstructive Management Pearls for the Transgender Patient." *Current Urology Reports* **19**, no. 6 (2018), 36: [external link](https://urology.wisc.edu/wp-content/uploads/2020/03/GAS.currurolreports.2018.pdf)
+7 Clennon, Emily K., Leigh H. Martin, Sarah K. Fadich, Laura Zeigen, Gaines Blasdel, Craig Sineath, and Geolani W. Dy. "Community Engagement and Patient-Centered Implementation of Patient-Reported Outcome Measures (PROMs) in Gender Affirming Surgery: a Systematic Review." *Current Sexual Health Reports* **14** (2022), 17-29: [external link to article abstract](https://link.springer.com/article/10.1007/s11930-021-00323-6)
+13 Becerra Pérez, Maria Margarita, Matthew Menear, Jamie C. Brehaut, and France Légaré. "Extent and Predictors of Decision Regreat about Health Care Decisions: A Systematic Review." *Medical Decision Making* **36**, no. 6 (2016), 777-790: [external link to article abstract](https://pubmed.ncbi.nlm.nih.gov/26975351/)
+14 Becerra Pérez, Maria Margarita, Matthew Menear, Stephane Turcotte, Michel Labrecque, and France Légaré. "More primary care patients regret health decisions if they experienced decisional conflict in the consultation: a second analysis of a multicenter descriptive study." *BMC Family Practice* **17**, (2016): [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103443/)
 18 
 19 
 20 
