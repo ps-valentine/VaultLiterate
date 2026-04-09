@@ -17,8 +17,8 @@
 #GuardiansoftheUnvierse #Krona
 #### Other Metahumans
 #ConnerKent #OdysseytheTimeBandit #StarbreakerCorps #Superboy
-## Plot (Issues \#4-9)
-> [!hint]- ¡SPOILERS!: Plot Summary (Issue \#4-9)
+## Plot (Issues \#1-9)
+> [!hint]- ¡SPOILERS!: Plot Summary (Issue \#1-9)
 > I started this series at issue \#9 and I've read through issue \#12. I'm waiting on the first couple trade paperbacks to catch-up; I'll loop-back here to write-up a summary of issues \#1-9 in the future.   - S, 2026-01-19
 ## Issue 10
 ### Character Appearances
@@ -61,3 +61,9 @@
 #### Lanterns
 ##### Blue
 #EllieStewart/construct
+## Issue 13
+### Character Appearances
+#### Lanterns
+## Issue 14
+### Character Appearances
+#### Lanterns

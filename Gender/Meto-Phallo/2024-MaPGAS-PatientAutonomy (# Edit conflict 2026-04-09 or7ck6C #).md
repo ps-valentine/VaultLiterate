@@ -34,7 +34,7 @@ Rutherford, Leo L, Elijah R Castle, Noah Adams, Logan Berrian, Linden Jennings, 
 15 Makhoul, Alan T, R Thomas Day, Jasmine C Walker, Catherine M Hammack-Aviran, Salam Al Kassis, Julian S Winocour, and Brian C Drolet. "Perioperative Experiences of Transgender Adults Seeking Gender-Affirming Surgery: A Qualitative Interview Study." *Transgender Health* **8**, no. 3 (2023), 231-237: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10277990/)
 16 Latack, Kyle, Widya Adidharma, Dominic Moog, Thomas Satterwhite, Miriam Hadj-Moussa, and Shane Morrison. "Are We Preparing Patients for Gender-Affirming Surgery? A Thematic Social Media Analysis." *Plastic and Reconstructive Surgery* **146**, no. 4 (2020), 519-521: [external link](https://journals.lww.com/plasreconsurg/fulltext/2020/10000/are_we_preparing_patients_for_gender_affirming.70.aspx)
 21 Cavanaugh, Timothy, Ruben Hopwood, and Cei Lambert. "Informed Consent in the Medical Care of Transgender and Gender-Nonconforming Patients." *AMA Journal of Ethics* **18**, no. 11 (2016), 1147-1155: [external link](https://journalofethics.ama-assn.org/article/informed-consent-medical-care-transgender-and-gender-nonconforming-patients/2016-11)
-26 Beauchamp,Tom
+26 Beauchamp, Tom L. and James F. Childress. *Principles of Biomedical Ethics*, 8th edition. Oxford University Press, 2019.
 # Tags
 #/2024 #AaronDevor #AydenScheim #ElijahRCastle #GAS-metoidioplasty #GAS-phalloplasty #informedconsent #LeoLRutherford #LindenJennings #LoganBerrian #NathanJLachowsky #NoahAdams #surgicalcareplanning #surgicalpreparation #surgicalreadiness #transgender #transgender-Candada #transgender-UnitedStates
 
