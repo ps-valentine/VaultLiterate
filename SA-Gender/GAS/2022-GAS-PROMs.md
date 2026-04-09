@@ -1,4 +1,4 @@
-Agochukwu-Mmonu, Nnenaya, Asa Radix, Lee Zhao, Danil Makarov, Rachel Bluebond-Langner, A. Mark Frederick, Elijah Castle, and Carolyn Berry. "Patient reported outcomes in genital gender-affirming surgery: the time is now." *Journal of Patient-Reported Outcomes* **6** (2022): [external link](https://link.springer.com/article/10.1186/s41687-022-00446-x)
+Agochukwu-Mmonu, Nnenaya, Asa Radix, Lee Zhao, Danil Makarov, Rachel Bluebond-Langner, A. Mark Frederick, Elijah R Castle, and Carolyn Berry. "Patient reported outcomes in genital gender-affirming surgery: the time is now." *Journal of Patient-Reported Outcomes* **6** (2022): [external link](https://link.springer.com/article/10.1186/s41687-022-00446-x)
 # Patient reported outcomes in genital gender-affirming surgery: the time is now
 ## Abstract
 - "As the incidence of genital gender-affirming surgery increases, a concurrent increase in the development and utilization of patient reported outcome measurement tools is critical. To date, there is no systematic way to assess and measure patients’ perspectives on their surgeries nor is there a validated measure to capture patient reported outcomes for TGNB individuals undergoing genital gender-affirming surgery. Without a systematic way to assess and measure patients’ perspectives on their care, there may be fragmentation of care. This fragmentation may result in challenges to ensure patients’ goals are at the forefront of shared- decision making."
@@ -29,6 +29,6 @@ Agochukwu-Mmonu, Nnenaya, Asa Radix, Lee Zhao, Danil Makarov, Rachel Bluebond-La
 ## Conclusion
 "PROMs for genital gender-affirming surgery are long overdue. Through intensive community engagement, we aim to develop PROMs with the transgender and non-binary community and inform the process of patient-centered care to serve transgender and non-binary patients. If surgeons who provide essential gender-affirming surgical care embrace the opportunity to be early adopters of PROMs, we can transform patient- centered care by making it a reality for transgender and non-binary patients."
 # Tags
-#/2022 #AMarkFrederick #AsaRadix #CarolynBerry #DanilMakarov #ElijahCastle #JournalofPatientReportedOutcomes #LeeCZhao #NnenayaAgochukwu-Mmonu #PROM #patientreportedoutcomemeasures #qualityofcare #RachelBluebond-Langner #transgender-occurrencerate #transgender-UnitedStates
+#/2022 #AMarkFrederick #AsaRadix #CarolynBerry #DanilMakarov #ElijahRCastle #JournalofPatientReportedOutcomes #LeeCZhao #NnenayaAgochukwu-Mmonu #PROM #patientreportedoutcomemeasures #qualityofcare #RachelBluebond-Langner #transgender-occurrencerate #transgender-UnitedStates
 
 #unfinished-references
