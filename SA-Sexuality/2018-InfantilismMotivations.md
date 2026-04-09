@@ -31,19 +31,21 @@ by Wojciech Oronowic-Jaśkowiak, Department of Psychiatry, Institute of Psychiat
 ## Results
 ### Thread one - 'Is playing with kids toys truly fun?'
 - "In the 'AB/DL' section, a thread was started on whether playing with children's toys is enjoyable for the members of the community..."
-- "..."
+- "It seems that at least some of the AB/DL community members may not perceive playing with children’s toys as interesting... However, it should be noted that at least some of the children’s toys have been recognized by the AB/DL community. This includes LEGO bricks, coloring books, and puzzles."
 ### Thread two - 'What do diapers do for you?'
+- "In the ‘Young AB/DLs and Ageplayers (18 to 35)’, a thread ‘What do diapers do for you?’ was started."
+- "... it seems that for some people, the motivation for childhood role-playing is non-sexual."
 ### Thread three - 'Working out and diapers'
-
+- "In this thread, the author asked about the users’ experiences related to using diapers at the gym."
 ## Conclusions
+- "The results of the analysis of the first thread are generally consistent with the reports by Lewis, who defines ageplay (childhood roleplay) as behavior resulting from sexual and non-sexual motivation."
+- "... behavior may include playing with dolls and toys, having tea parties, reading and watching cartoons together."
+- "... there were significant differences between genders in feelings related to childhood role-play. Women are more likely to declare that the sexual aspect of infantilism is less important for them than the satisfaction from being treated like a baby. This indicates possible non-sexual motivation for AB/DL-related behavior. Apparently, not only do members of the AB/DL community experience sexual arousal when using diapers, but also have non-sexual experience related to this behavior, which may be their main reason for engaging in childhood role-playing."
+- "... the analysis was conducted without interfering with the discussion, while the analyzed material was shaped in a specific social situation – a discussion on an online forum."
 ## Bibliography
-12 Hawkinson, K...
-14 Oronowicz, W...
-15 Lewis, A...
-22 Freund, K...
-
-
+12 Hawkinson, Kaitlyn and Brian D. Zamboni. "Adult Baby/Diaper Lovers: An exploratory study of an online community sample." *Archives of Sexual Behavior* **43**, no. 5 (2014), 863-877: [external link to abstract](https://link.springer.com/article/10.1007/s10508-013-0241-7)
+14 Oronowicz, Wojciech. "AB/DL group. Close relationships and sexuality (Grupa ABDL. Bliskie związki i seksualność)." *Przegląd Seksuologiczny* **3** no. 47 (2016), 1-9: [external link to original article and English translation](https://www.researchgate.net/publication/311807187_Grupa_ABDL_Bliskie_zwiazki_i_seksualnosc)
+15 Lewis, Angela. "Ageplay: an adults only game." *Counselling Australia* **11**, no. 2 (2011), 1-9: [external link to article summary](https://www.researchgate.net/publication/265634261_Ageplay_An_adults_only_game)
+22 Freund, K and R Blanchard. "Erotic target location errors in male gender dysphorics, paedophiles, and fetishists." *The British Journal of Psychiatry* **162**, no. 4 (1993), 558-563: [external link](https://link.springer.com/rwe/10.1007/978-3-031-08956-5_340-1)
 # Tags
 #/2018 #AB/DL #ageplay #crossdressing #forums #heterosexuality #infantilism #MAXQDA #paraphilia #paraphilicdisorder #Poland #PrzeglądSeksuologiczny #qualitativestudy #scientificarticle #scientificjournal #thematicanalysis #WojciechOronowic-Jaśkowiak
-
-#unfinished-notes #unfinished-references
