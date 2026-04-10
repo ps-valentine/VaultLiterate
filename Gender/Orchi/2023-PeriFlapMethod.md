@@ -19,13 +19,21 @@ Blasdel, Gaines, Carmen Kloer, August Parker, Nabeel Shakir, Lee C. Zhao, and Ra
 - "Patients for whom stretched genital shaft length was measured at the time of consultation \[n = 188 (94.5%)] were evaluated to determine the lowest quartile for presurgical genital length... The lowest quartile’s resulting measurement was less than 7 cm.
   
   All patients whose measurement was less than 7 cm were included in the genital hypoplasia cohort (n = 43). Forty-three hypoplasia patients were compared with 49 randomly selected controls from the remaining patients with greater than 7-cm genital length... The only differences in cohorts were expected findings related to differing genital length, including lower measured body mass index (BMI) and fewer uses of scrotal skin graft in the vaginal canal in control patients."
-- 
+- "Preoperative characteristics hypothesized to impact genital length or surgical outcomes were recorded as potential covariates, including patient status with regard to circumcision, orchiectomy, human immunodeficiency virus, starting hormones or puberty blockade before age 18, public payor including Medicaid and Medicare programs, smoking, diabetes mellitus, and age. The perioperative factors included length of operation, case number in vaginoplasty series, BMI at the time of surgery, and use of pelvic floor physical therapy following surgery... In addition, variables approximating access to care, including length of follow-up, distance from surgeon, and number of postoperative visits, were recorded."
+- "Pelvic floor physical therapy is offered to all patients, with repeated referrals and encouragement to attend physical therapy offered if a patient later reports barriers to dilation."
+- "The recorded outcome variables included patient-reported vaginal dilation at each postoperative visit and whether revision surgery was performed."
+- "Revision surgery was dichotomized into revisions, which included vaginal depth augmentation or revisions to the external and introital anatomy only. Complications related to vaginal canal dissection, including rectovaginal and vesicovaginal fistula formation, were recorded."
 ## Results
+- "... use of adjuvant scrotal skin graft, which was more common in the hypoplasia cohort (100%) than in the controls (79.6%; P = 0.001)."
+- "Median follow-up was 1.0 years, with an interquartile range (IQR) of 0.5 to 1.3 years and all patients having more than 90 days of follow-up ([Table 1](https://journals.lww.com/plasreconsurg/fulltext/2023/04000/genital_hypoplasia_before_gender_affirming.34.aspx#T1))."
+  ![[2023-PeriFlapMethod-Table2.png]]
+- "Vaginal depth greater than or equal to 12.1 cm was reported in 89.1% of patients (n = 82). Of those who did not report this depth, five reported not dilating and the remaining five reported dilation below 12.1 cm. Figure 2 demonstrates distribution of self-reported dilation at the time of last postoperative visit for those who were dilating. Revisions for vaginal depth were not performed in either group. External revision rates were not significantly different between groups, with a 7% rate (n = 3) of external revision in hypoplasia patients, a 14.3% rate (n = 10) of external revision in control patients, and an overall rate of 11% (n = 10). External revisions included patients who had excess labia or other complaints not exacerbated by lack of genital skin availability."
+  ![[2023-PeriFlapMethod-Figure2.png]]
 ## Discussion
 ### Limitations
 ## Conclusions
 ## References
 # Tags
-#/2023 #AugustParker #CarmenKloer #GainesBlasdel #GAS-vaginoplasty #GAS-vaginoplasty-PPT #GAS-vaginoplasty-peritonealpullthrough #genitalhypoplasia #LeeCZhao #NabeelShakir #peritonealpullthrough #RachelBluebond-Langner #robot-assistedsurgery #surgicaltechnique #vaginoplasty
+#/2023 #AugustParker #CarmenKloer #dilation #GainesBlasdel #GAS-vaginoplasty #GAS-vaginoplasty-PPT #GAS-vaginoplasty-peritonealpullthrough #genitalhypoplasia #LeeCZhao #NabeelShakir #pelvicfloortherapy #peritonealpullthrough #post-opcare #post-operativecare #RachelBluebond-Langner #robot-assistedsurgery #surgicaltechnique #vaginoplasty
 
 #unfinished-notes #unfinished-references
