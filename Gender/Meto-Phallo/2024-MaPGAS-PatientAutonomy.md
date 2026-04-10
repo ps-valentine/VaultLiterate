@@ -22,7 +22,10 @@ Rutherford, Leo L, Elijah R Castle, Noah Adams, Logan Berrian, Linden Jennings, 
 - "These early clinician experiences lead to the creation of the WPATH SOC (then called the Harry Benjamin Standards of Care for Gender Identity Disorders) and clinicians began to assess patient surgical readiness. This process was designed, in part, to protect medical teams and additionally, out of fear of regret from patients; it was not designed to support patients in choosing what they wanted for their own bodies, nor to promote patient autonomy or informed consent. **The gatekeeping nature of these original assessments led trans people to feel as though assessment processes are not designed to support them or their decision making; this feeling is still pervasive today and described in recent literature.**"
 - "The aim of this investigation was to utilize data from a community-based cross-sectional sample of trans individuals who had undergone phalloplasty and/or metoidioplasty to examine factors associated with feeling prepared for these surgeries and argue for the creation of more patient-centered and autonomy-promoting preparedness programs based in evidence."
 ## Methods
+- "Patient-Reported Outcomes of Genital Reconstruction and Experiences of Surgical Satisfaction (PROGRESS) was a community-based, patient-oriented, and cross-sectional survey. The study questionnaire was developed by a team of seven trans community members with lived experiences of phalloplasty and/or metoidioplasty, and was led by the first author... Survey responses were collected online from April to July 2022. Eligibility criteria included adults identifying as trans, nonbinary or other related terms; having had phalloplasty or metoidioplasty; living in the United States of America or Canada; and being able to self-complete the questionnaire in English."
+- "We posted recruitment flyers on trans community-identified social media channels, Facebook groups, and Reddit forums, and shared flyers in trans-related listservs. The survey was cross-sectional, online, self-completed, and anonymous, and included questions about demographics, preparing for surgery, recovery experiences, perceived changes in mental health, gender dysphoria and euphoria, and overall surgical satisfaction. Participants were not provided with an honorarium for taking part in the survey."
 ### Measures
+"The primary outcome variable for this analysis was perceived preparedness for surgery. This was measured using responses to a single question adapted from Kenton’s Preoperative Preparedness Questionnaire... response options include a 6-point Likert scale ranging from “strongly disagree” to “strongly agree,” which we then dichotomized into ‘disagree’ versus ‘agree’ for logistic regression analyses."
 ### Exposure measures
 ### Analysis
 ## Results
@@ -59,6 +62,6 @@ Rutherford, Leo L, Elijah R Castle, Noah Adams, Logan Berrian, Linden Jennings, 
 41
 43
 # Tags
-#/2024 #AaronDevor #AydenScheim #ElijahRCastle #GAS-metoidioplasty #GAS-phalloplasty #informedconsent #LeoLRutherford #LindenJennings #LoganBerrian #NathanJLachowsky #NoahAdams #surgicalcareplanning #surgicalpreparation #surgicalreadiness #transgender #transgender-Candada #transgender-UnitedStates
+#/2024 #AaronDevor #AydenScheim #ElijahRCastle #GAS-metoidioplasty #GAS-phalloplasty #informedconsent #LeoLRutherford #LindenJennings #LoganBerrian #NathanJLachowsky #NoahAdams #PROGRESS #Patient-ReportedOutcomesofGenitalReconstructionandExperiencesofSurgicalSatisfaction #surgicalcareplanning #surgicalpreparation #surgicalreadiness #transgender #transgender-Candada #transgender-UnitedStates
 
 #unfinished-notes #unfinished-references
