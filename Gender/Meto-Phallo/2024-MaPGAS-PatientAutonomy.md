@@ -18,6 +18,8 @@ Rutherford, Leo L, Elijah R Castle, Noah Adams, Logan Berrian, Linden Jennings, 
 - "**There is evidence indicating that referral letters serve as barriers to care, rather than facilitators.**"
 - "**Surgical care planning** then, will typically include obtaining a letter of support in line with the WPATH SOC, but will also provide more comprehensive educational and resource support in line with the other elements of preparedness discussed above... If this informed decision-making process fails and patients are not able to make the best decisions for their own bodies, patient autonomy is compromised; this is discussed next in further detail."
 - "Respect for patient autonomy is one of the foundational principles of biomedical ethics; as described by Beauchamp and Childress. It underlines the need to allow individuals to make decisions and take actions based on their own beliefs and values. One of the ways in which autonomy is respected in healthcare is in the informed consent process, through which a patient is provided with the information necessary to understand and voluntarily consent to the planned medical intervention. A readiness assessment can enable this process by ensuring that the patient has adequate understanding of the surgery they are about to undergo."
+- "Elliot Marrow talks about the inception of pre-surgical assessments in the 1950s in a recent article, describing how few surgeons were willing to provide gender-affirming care to trans people... Initially, this involved ensuring that patients would blend-in with cisnormative culture by being heterosexual and looking a certain way (or passing as cisgender). Psychologists and clinicians felt they needed justification beyond patient desire to undergo surgery, and, further, feared backlash from patients and the media if they allowed the ‘wrong people’ to access surgery."
+- "These early clinician experiences lead to the creation of the WPATH SOC (then called the Harry Benjamin Standards of Care for Gender Identity Disorders) and clinicians began to assess patient surgical readiness. This process was designed, in part, to protect medical teams and additionally, out of fear of regret from patients; it was not designed to support patients in choosing what they wanted for their own bodies, nor to promote patient autonomy or informed consent. The gatekeeping nature of these original assessments led trans people to feel as though assessment processes are not designed to support them or their decision making; this feeling is still pervasive today and described in recent literature."
 ## Methods
 ### Measures
 ### Exposure measures
@@ -29,12 +31,32 @@ Rutherford, Leo L, Elijah R Castle, Noah Adams, Logan Berrian, Linden Jennings, 
 ### Implications
 ## Conclusion
 ## References
+2
+3
+4
+5
 6 Hadj-Moussa, Miriam, Shailesh Agarwal, Dana A. Ohl, and William M. Kuzon. "Masculinizing Genital Gender Confirmation Surgery." *Sexual Medicine Reviews* **7**, no. 1 (2019), 141-155: [external link to article abstract](https://academic.oup.com/smr/article-abstract/7/1/141/6830853?redirectedFrom=fulltext&login=false)
-...
+7
+8
+9
+11
+12
+14
 15 Makhoul, Alan T, R Thomas Day, Jasmine C Walker, Catherine M Hammack-Aviran, Salam Al Kassis, Julian S Winocour, and Brian C Drolet. "Perioperative Experiences of Transgender Adults Seeking Gender-Affirming Surgery: A Qualitative Interview Study." *Transgender Health* **8**, no. 3 (2023), 231-237: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10277990/)
 16 Latack, Kyle, Widya Adidharma, Dominic Moog, Thomas Satterwhite, Miriam Hadj-Moussa, and Shane Morrison. "Are We Preparing Patients for Gender-Affirming Surgery? A Thematic Social Media Analysis." *Plastic and Reconstructive Surgery* **146**, no. 4 (2020), 519-521: [external link](https://journals.lww.com/plasreconsurg/fulltext/2020/10000/are_we_preparing_patients_for_gender_affirming.70.aspx)
 21 Cavanaugh, Timothy, Ruben Hopwood, and Cei Lambert. "Informed Consent in the Medical Care of Transgender and Gender-Nonconforming Patients." *AMA Journal of Ethics* **18**, no. 11 (2016), 1147-1155: [external link](https://journalofethics.ama-assn.org/article/informed-consent-medical-care-transgender-and-gender-nonconforming-patients/2016-11)
-26 Beauchamp, Tom
+26 Beauchamp, Tom L. and James F. Childress. *Principles of Biomedical Ethics*, 9th edition. Oxford University Press, 2019.
+27 Marrow, Elliot. ""I Hope That As Our Selection Becomes More Accurate, the Number... Will Be Very Few": The Creation of Assessment Criteria for Gender-Affirming Care, 1960s-1980s." *Psychology of Sexual Orientation and Gender Diversity* **11**, no. 2 (2024), 183-201: [external link](https://psycnet.apa.org/fulltext/2023-64773-001.pdf)
+28 Fisk, Norman M. "Editorial: Gender dysphoria syndrome -- the conceptualization that liberalizes indications for total gender reorientation and implies a broadly based multi-dimensional rehabilitative regimen." *Western Journal of Medicine* **120**, no. 5 (1974), 386-391: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC1130142/)
+29
+30
+31
+37
+38
+39
+40
+41
+43
 # Tags
 #/2024 #AaronDevor #AydenScheim #ElijahRCastle #GAS-metoidioplasty #GAS-phalloplasty #informedconsent #LeoLRutherford #LindenJennings #LoganBerrian #NathanJLachowsky #NoahAdams #surgicalcareplanning #surgicalpreparation #surgicalreadiness #transgender #transgender-Candada #transgender-UnitedStates
 
