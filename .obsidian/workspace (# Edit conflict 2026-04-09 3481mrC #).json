@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "af9b489d2248500e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5600d7bdd359d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f0eaed4475be0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comics/2025-GreenLanternCorps (# Edit conflict 2026-04-09 h9ykvqC #).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-GreenLanternCorps (# Edit conflict 2026-04-09 h9ykvqC #)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f8b46d8021c504e",
+    "type": "split",
+    "children": [
+      {
+        "id": "154b23f9fa1a0d0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9137be9857a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "977ba174b1df3d89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e4ea1e6007ed112",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "0d14c5b2d2bc46cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73d7dce4f86a9c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beafc21e9822cee2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slingshot Book Lists, 2025 through 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Slingshot Book Lists, 2025 through 2026"
+            }
+          },
+          {
+            "id": "b2b7629f9ca80edd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "f458f319637ccc0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fcc1321b0c281cce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09b6d5df8c7280f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "4a5953adb2d60033",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "11f0eaed4475be0b",
+  "lastOpenFiles": [
+    "Comics/2025-GreenLanternCorps.md",
+    "Comics/2025-GreenLanternCorps (# Edit conflict 2026-04-09 h9ykvqC #).md",
+    "Gender/Meto-Phallo/2024-MaPGAS-PatientAutonomy.md",
+    "Gender/Meto-Phallo/2024-MaPGAS-PatientAutonomy (# Edit conflict 2026-04-09 or7ck6C #).md",
+    "Gender/Meto-Phallo/2019-PostGASSexuality.md",
+    "Gender/Meto-Phallo/2017-1StageFtMGAS.md",
+    "Gender/Meto-Phallo/2019-Meto-GFPhalloplasty-Retro.md",
+    "Gender/CareGuides/2025-OHSU-Metoidioplasty-guide.pdf",
+    "Gender/CareGuides/2025-OHSU-Phalloplasty-guide.pdf",
+    "Gender/BoneHealth/Untitled",
+    "Gender/BoneHealth",
+    "Gender/CareGuides/2022-OHSU-NerveRehab-guide.pdf",
+    "Gender/CareGuides",
+    "Gender",
+    "Design/SA/2025-LightDarkModes-VisualFatigue.md",
+    "Design/SA",
+    "Design/SA.md",
+    "Design",
+    "Gender/GAS/2022-GAS-PROMs.md",
+    "Gender/Meto-Phallo/2024-MetoPhalloDecisionalConflict.md",
+    "Gender/Meto-Phallo/2025-TMvsNB-MetoPhalloGoals.md",
+    "Gender/Meto-Phallo/2014-FtMClitoralAnatomy.md",
+    "Gender/Meto-Phallo/2006-2v1StageFtMSRS.md",
+    "Gender/Meto-Phallo/2003-Meto.md",
+    "SA-Sexuality/2025-PuppygirlPedagogy.md",
+    "SA-Sexuality/2018-InfantilismMotivations.md",
+    "().md",
+    "Gender/HairRestoration/2013-HairTransplantLocalAnesthetics.md",
+    "FaggotsAndFriends/TFATFBR-0A.md",
+    "Embeds/Full-SA/2022-GAC-KeyRecommendations-SwedishNBHW.pdf",
+    "Gender/FatGrafting/2025-FatGraftsMaximizeLongevity.md",
+    "Gender/Orchi/2025-GAOS.md",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure10.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure6.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure6B.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure9.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure5.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure2.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure4.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure3.png",
+    "ElEspejoEnterrado/Eee-3.md",
+    "Gender/HairRestoration/2015-HairRestoration-ChallengesSolutions.md",
+    "Gender/HairRestoration/1999-Trans-GenderHairFollicleInduction.md",
+    "Embeds/SA-Images/2015-HairRestoration-Figure4.png",
+    "Embeds/SA-Images/2015-HairRestoration-Figure3.png",
+    "ElEspejoEnterrado/Eee-2.md",
+    "Untitled.canvas"
+  ]
+}

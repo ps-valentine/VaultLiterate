@@ -2,17 +2,17 @@
 ### ### Character Appearances
 #### Lanterns
 ##### Blue
-#EllieStewart/construct #SaintWalker
+#EllieStewart-construct #SaintWalker
 ##### Green
-#Amanita/cameo #Aya #GuyGardner #HalJordan #Jadestone #JessicaCruz #JoMullein #JohnStewart/cameo #KatmaTui/cameo #KeliQuintela #Kilowog #KyleRayner #Razer #Salaak #SimonBaz/possessed #Sinestro #SojournerMullein
+#Amanita-cameo #Aya #GuyGardner #HalJordan #Jadestone #JessicaCruz #JoMullein #JohnStewart-cameo #KatmaTui-cameo #KeliQuintela #Kilowog #KyleRayner #Razer #Salaak #SimonBaz-possessed #Sinestro #SojournerMullein
 ##### Orange
-#Larfleeze/cameo
+#Larfleeze-cameo
 ##### Red
-#Abyssma/cameo #Bleez/cameo #Atrocitus #Dex-Starr #Razer #ZiliusZox/cameo
+#Abyssma-cameo #Bleez-cameo #Atrocitus #Dex-Starr #Razer #ZiliusZox-cameo
 ##### Star Sapphire
 #CarolFerris #StarSapphire
 ##### Yellow
-#Arkillo/cameo #Munk/cameo
+#Arkillo-cameo #Munk-cameo
 #### Other Characters
 #GuardiansoftheUnvierse #Krona
 #### Other Metahumans
@@ -24,11 +24,11 @@
 ### Character Appearances
 #### Lanterns
 ##### Blue
-#EllieStewart/construct #SaintWalker/cameo
+#EllieStewart-construct #SaintWalker-cameo
 ##### Green
-#Aya #Glinn/1stappearance #Glinn/death #GuyGardner #JessicaCruz #JoMullein/cameo #JohnStewart/cover #KatmaTui #KeliQuintela #Kilowog #Narf #SojournerMullein/cameo #Vexaru #Volk
+#Aya #Glinn-1stappearance #Glinn-death #GuyGardner #JessicaCruz #JoMullein-cameo #JohnStewart-cover #KatmaTui #KeliQuintela #Kilowog #Narf #SojournerMullein-cameo #Vexaru #Volk
 ##### Indigo
-#Iroque/cameo
+#Iroque-cameo
 ##### Orange
 #Larfleeze
 ##### Red
@@ -38,16 +38,16 @@
 #### Other Characters
 #Thanagarians
 #### Other Metahumans
-#Enquar/1stappearance #Fatality #YrraCynril
+#Enquar-1stappearance #Fatality #YrraCynril
 ## Issue 11
 ### Character Appearances
 #### Lanterns
 ##### Blue
-#EllieStewart/construct
+#EllieStewart-construct
 ##### Green
-#Aya #GuyGardner #JessicaCruz/cameo #JohnStewart #KatmaTui #KeliQuintela/cover #Kilowog #Mogo #MogotheLivingPlanet #Narf #Vexaru
+#Aya #GuyGardner #JessicaCruz-cameo #JohnStewart #KatmaTui #KeliQuintela-cover #Kilowog #Mogo #MogotheLivingPlanet #Narf #Vexaru
 ##### Orange
-#Larfleeze/mention
+#Larfleeze-mention
 ##### Red
 #Razer
 ##### Yellow
@@ -55,15 +55,43 @@
 #### Other Characters
 #Enquar 
 #### Other Metahumans
-#Effigy/1stappearance #Fatality #MartynVanWyck #YrraCynril
+#Effigy-1stappearance #Fatality #MartynVanWyck #YrraCynril
 ## Issue 12
 ### Character Appearances
 #### Lanterns
 ##### Blue
-#EllieStewart/construct
+#EllieStewart-construct
+#### Other Characters
+#Enquar 
 ## Issue 13
 ### Character Appearances
 #### Lanterns
+##### Green
+#Aya #GuyGardner #JessicaCruz-cameo #JohnStewart #Kilowog-cameo #Narf
+##### Indigo
+#Iroque #Natromo #YrraCynril-newlyIndigo
+##### Orange
+#Larfleeze
+##### Red
+#Razer-cameo
+##### Yellow
+#Sinestro-cameo
+#### Other Characters
+#Enquar #Ion #Thanagarians
 ## Issue 14
 ### Character Appearances
 #### Lanterns
+##### Blue
+#EllieStewart-construct #SaintWalker-cameo
+##### Green
+#Anza #Anza-cover #GuyGardner #JessicaCruz #JoMullein #JohnStewart #JohnStewart-possessed #KatmaTui #Narf
+##### Indigo
+#Natromo #YrraCynril
+##### Orange
+#Larfleeze
+##### Red
+#Dex-Starr #Razer #Razer-cover
+##### Yellow
+#Sinestro #SoranikNatu-possessed
+##### Other Characters
+#Parallax #theManhunters
