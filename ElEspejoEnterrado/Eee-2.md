@@ -62,7 +62,3 @@ por Carlos Fuentes, 1992, 2016 edición
 - "La Iglesia se mostró incapaz de establecer un poder sucesorio o de impedir las persecuciones más terribles lanzadas por los monarcas visigodos, por ejemplo la persecución de los judíos por el rey Sisebuto en tiempos de Isidoro. De manera que mientras la Iglesia aprendió a gobernarse y a administrar el país, fue incapaz de limitar las continuas atrocidades de los monarcas bárbaros." (59)
 # Etiquetas
 #/2000BC #/900BC #/200BC #/147BC #/134BC #/133BC #/105BC #/18BC #/133 #/134 #/147 #/711 #/1492 #/1619 #/1992 #Andalucía  #aragua #aztecas #CarlosFuentes #cartagineses #celtas #Elespejoenterrado #elNuevoMundo #español-literatura #fenicios #Gibraltar #godos #Goths #Greeks #griegos #guerradeguerrillas #iberos #Iglesiacatólica #literature-Spanish #martirios #MediterraneanSea  #Mediterráneo #motivo-español #motivo-caballeros #musulmanas #Numancia #quechua #romanos #tablado #tema-barbarie #tema-creatividad #tema-determinismo #tema-estoicismo #tema-honor #tema-individualismo #tema-metamorfosis #theme-creativity #theme-determinism #theme-honor #theme-individualism #theme-metamorphosis #theme-stoicism #Viriato #visigodos #visigoths
-# Banco de etiquetas
-#/1492 #CaballerodelosEspejos #Coatlicue #cristianismo  #CristóbalColon #DamadeBaza #DamadeElche #DiegoRodríguezdeSilvayVelázquez #DonQuijote #ElTajín  #figurasmaternas #flamenco #LEspilSoterrat #LaSemanaSanta #motif-mirrors #motivo-espejos #motivo-verdad #Quetzalcóatl #RamónXirau #símbolos-espejos #tema-sensualidad #Tezcatlipoca #Tlazoltéotl
-
-#unfinished-tags 
