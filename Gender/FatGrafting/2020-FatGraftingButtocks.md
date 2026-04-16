@@ -1,0 +1,29 @@
+O'Neill, Rebecca C, Amjed Abu-Ghname, Matthew J Davis, Edward Chamata, Charalambos K Rammos, and Sebastian J Winocour. "The Role of Fat Grafting in Buttock Augmentation." *Seminars in Plastic Surgery* **34**, no. 1 (2020), 38-46.
+# The Role of Fat Grafting in Buttock Augmentation
+## Abstract
+- "Autologous fat grafting is now considered the gold standard for buttock augmentation."
+- "...buttock augmentation by fat grafting has a satisfaction rate of 97.1%, and its mean complication rate has been estimated to be around 7 to 10%, with serious complications occurring in less than 1% of cases."
+- "Fat emboli are one such serious complication, with several reports in the literature discussing morbidity and mortality, specifically with intramuscular injection."
+## Introduction
+- "First popularized in Brazil, fat grafting for buttock augmentation has slowly risen in popularity both internationally and within the United States."
+- "According to data published in 2018 by the American Society of Plastic Surgeons and the American Society for Aesthetic Plastic Surgery, the number of cases of gluteal augmentation with fat grafting has increased by 19% since 2017 and by 61% since 2014. Furthermore, 94% of buttock augmentation procedures in 2018 consisted of fat grafting rather than implant-based augmentation."
+- "In 1987, Toledo presented one of the first studies investigating fat grafting in buttock augmentation in the United States. At the time, silicone implants were the only accepted technique for buttock augmentation. The author was injecting up to 450 mL of fat into each buttock at a time when many surgeons were hesitant to inject more than 10 mL in one procedure. Unsurprisingly, he was heavily criticized over concerns for patient safety and aesthetic outcome following fat reabsorption."
+## Indications
+"It has been described that an hourglass shape with a waist-to-hip ratio of approximately 0.7 is the optimally attractive figure for a woman. The waist-to-hip ratio is the measurement of the waist circumference at its narrowest compared with the measurement of the thigh circumference at the level of maximal gluteal projection. More recently, however, this “ideal ratio” may be evolving toward a more exaggerated ratio of 0.6 or 0.5, likely due to influences from the social media and celebrities."
+## Patient Selection
+- "The most important first step of patient selection is a thorough history and physical examination, including personal or family histories of hematological coagulation disorders."
+- "According to the 2018 American Society for Aesthetic Plastic Surgery data, 99.2% of patients undergoing buttock augmentation with fat grafting were females, with 80% of patients between 18 and 50 years of age."
+- "While the majority of patients are able to undergo fat grafting for body contouring and buttock augmentation, the quality of results is determined by three main patient characteristics: fat presence, skin excess, and body shape."
+- "The first characteristic is the presence of fat, which may be determined by body fat percentage and body mass index (BMI). Patients with a body fat percentage between 20 and 30% or a BMI between 20 and 30 kg/m2 are the ideal candidates for fat grafting, as excess fat may be harvested and transferred to the buttocks, enhancing the overall contour. Patients with body fat percentages under 20% or a BMI under 20 kg/m2 are not good candidates for this procedure, as the amount of available donor fat is insufficient to significantly augment their buttocks. Likewise, patients with body fat percentage over 30% or a BMI over 30 kg/m2 generally have too much fat to make a significant difference in the shape and appearance of their buttocks, making them poor candidates for the procedure."
+- "The second characteristic is skin excess. Mendieta and Sood have described several categories of buttock ptosis, including no-ptosis classes A to C, in which there is no skin or volume below the infragluteal fold, but there may be deficiencies in volume in the lower buttocks (Table 1). Grade I ptosis occurs when there is minimal skin and volume below the fold, typically with the infragluteal fold in a horizontal line. Grade II ptosis includes moderate skin and volume below the fold, with a more angular infragluteal fold moving inferomedially from the lateral thigh. Grade III ptosis has the most skin and volume below the fold, with significant skin laxity and a more angular infragluteal fold. 10 The Mendieta and Sood classification is demonstrated in Fig. 1 . Patients with no ptosis or grade I ptosis are the most ideal candidates for fat grafting because the procedure will allow for the reshaping and lifting of the buttocks. 7 Patients with moderate-to-severe skin excess, such as patients with grade II/III ptosis are less than ideal candidates, as fat grafting alone will be insufficient to lift and redrape the excess skin. Patients with high levels of skin excess, especially massive weight loss patients, may require additional skin excision procedures before attempting augmentation with fat grafting."
+  ![[2020-FatGraftingButtocks-Table1.png]]
+  ![[2020-FatGraftingButtocks-Figure1.png]]
+### Preoperative Planning
+## Operative Techniques
+## Postoperative Care
+## Results
+## Complications / Safety
+# Tags
+#/1987 #/2020 #AmjedAbu-Ghname #bodycontouring #CharalambosKRammos #EdwardChamata #fatgrafting #fatgrafting-complications #MatthewJDavis #post-opcare #post-operativecare #RebeccaCONeill #scientificarticle #scientificjournal #SebastianJWinocour #SeminarsinPlasticSurgery
+
+#unfinished-notes #unfinished-references #unfinished-tags

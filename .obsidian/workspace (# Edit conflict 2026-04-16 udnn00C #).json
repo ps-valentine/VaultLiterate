@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "af9b489d2248500e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5600d7bdd359d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f0eaed4475be0b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Embeds/SA-Images/2020-FatGraftingButtocks-Figure1.png"
+              },
+              "icon": "lucide-image",
+              "title": "2020-FatGraftingButtocks-Figure1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f8b46d8021c504e",
+    "type": "split",
+    "children": [
+      {
+        "id": "154b23f9fa1a0d0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9137be9857a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "977ba174b1df3d89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e4ea1e6007ed112",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0d14c5b2d2bc46cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73d7dce4f86a9c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beafc21e9822cee2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slingshot Book Lists, 2025 through 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Slingshot Book Lists, 2025 through 2026"
+            }
+          },
+          {
+            "id": "b2b7629f9ca80edd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "f458f319637ccc0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fcc1321b0c281cce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09b6d5df8c7280f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "4a5953adb2d60033",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc9137be9857a3ed",
+  "lastOpenFiles": [
+    "Gender/FatGrafting/2020-FatGraftingButtocks (# Edit conflict 2026-04-16 xgo47sC #).md",
+    "Gender/FatGrafting/2020-FatGraftingButtocks.md",
+    "Embeds/SA-Images/2020-FatGraftingButtocks-Figure1.png",
+    "Embeds/SA-Images/2020-FatGraftingButtocks-Table1.png",
+    "Gender/FatGrafting/2020-FatGraftingButtocks (# Edit conflict 2026-04-16 lhvp5vC #).md",
+    "Gender/FatGrafting/2025-FatGraftsMaximizeLongevity.md",
+    "Sexuality/Trans/2015-PreOperative-Transgender-SexualQOL.md",
+    "Presentations/2026-ScarCare.md",
+    "Sexuality/Trans",
+    "Sexuality/Kink",
+    "ElEspejoEnterrado/Eee-3.md",
+    "ElEspejoEnterrado/Eee-2.md",
+    "Psych/Presenting/2021-10SlideRules.md",
+    "Psych/Presenting/2014-TEDx-DeathByPP.md",
+    "Psych/Presenting",
+    "Psych",
+    "OtherSX/2017-HystoTree.md",
+    "OtherSX",
+    "MaleLoneliness/2026-FakeArticle.md",
+    "MaleLoneliness/2018-SeniorMen.md",
+    "MaleLoneliness/2014-BeingAlone.md",
+    "MaleLoneliness/2012-GrandfatherInvolvement.md",
+    "MaleLoneliness",
+    "HRx/2025-ContingencyManagement.md",
+    "HRx/2024-Black&QueerHRxHistories.md",
+    "HRx/2022-NAforMeth.md",
+    "HRx",
+    "Gender/Vaginoplasty/2019-Sigma-leadMtFGAS.md",
+    "Gender/Vaginoplasty/2018-PrimarySigmoidVaginoplasty.md",
+    "Gender/Vaginoplasty/2003-GAS-ValueofMRI.md",
+    "Gender/Meto-Phallo/2022-MaPGAS-RoleTransIdentity.md",
+    "Gender/Meto-Phallo/2021-Vaginoplasty-SingleCenterNarrativeReview.md",
+    "Gender/Meto-Phallo/2019-Meto-UL.md",
+    "Gender/BA-FM/2022-InjectionDeformities.md",
+    "Gender/BA-FM",
+    "Embeds/SA-Images/2023-PeriFlapMethod-Table2.png",
+    "Embeds/SA-Images/2023-PeriFlapMethod-Figure2.png",
+    "Embeds/Full-SA/2024-GAS-CustomizedGenitalProcedures.pdf",
+    "Embeds/Full-SA/2024-FFS-LowerFaceEthnicVariation.pdf",
+    "Comics/2025-GreenLanternCorps.md",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure10.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure6.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure6B.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure9.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure5.png",
+    "Embeds/SA-Images/2025-PuppygirlPedagogy-Figure2.png",
+    "Untitled.canvas"
+  ]
+}
