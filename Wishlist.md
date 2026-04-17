@@ -1,6 +1,8 @@
 # Scientific Article Wishlist
 ## Acta Psychologica 
 - Obtainable journal!
+## Aesthetic Plastic Surgery
+1. Kanhai, Robert C. J. "Sensate Vagina Pedicled-Spot for Male-to-Female Transsexuals: The Experience in the First 50 Patients." *Aesthetic Plastic Surgery* **40** (2016), 284-287: [external link to article summary](https://link.springer.com/article/10.1007/s00266-016-0620-2)
 ## Annals of Plastic Surgery
 1. Hage, J Joris and Arjen A W M van Turnhout. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006): https://pubmed.ncbi.nlm.nih.gov/16929201/
 ## Archives of General Psychiatry
@@ -42,11 +44,13 @@
 ## Journal of Sexual Medicine
 1. van der Sluis, Wouter B., Thomas D. Steensma, Floyd W. Timmermans, Jan Maerten Smit, Kristin de Haseth, Müjde Özer, and Mark-Bram Bouman. "Gender-Confirming Vulvoplasty in Transgender Women in the Netherlands: Incidence, Motivation Analysis, and Surgical Outcomes" in *The Journal of Sexual Medicine* **17**, no. 8 (2020): https://pubmed.ncbi.nlm.nih.gov/32430267/
 2. Djordjevic, Miroslav L and Marta R Bizic. "Comparison of Two Different Methods for Urethral Lengthening in Female to Male (Metoidioplasty) Surgery." *Journal of Sexual Medicine* **10**, no. 5 (2013): https://pubmed.ncbi.nlm.nih.gov/23444841/
-3. Shih, Cheryl, Christopher J. Cold, and Claire C. Yang. "Cutaneous Corpuscular Receptors of the Human Glans Clitoris: Descriptive Characteristics and Comparison with the Glans Penis." *The Journal of Sexual Medicine* **10**, no. 7 (2013): https://onlinelibrary.wiley.com/doi/abs/10.1111/jsm.12191
-4. Cregten-Escobar, Patricia, Mark-Bram Bouman, Marlon E Buncamper, and Margriet G Mullender. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
-5. Djordjevic, Miroslav L, Dusan Stanojevic, Marta R. Bizic, Vladimir Kojovic, Mark Majstorovic, Svetlana Vujovic, Alexandar Milosevic, Gradimir Korac, and Sara V Perovic. "Metoidioplasty as a single stage sex reassignment surgery in female transsexuals: Belgrade experience." *Journal of Sexual Medicine* **6**, no. 5 (2009): https://pubmed.ncbi.nlm.nih.gov/19175859/
-6. Sohn, Michael and Hartmut A. G. Bosinski. "Gender Identity Disorders: Diagnostic and Surgical Aspects." *The Journal of Sexual Medicine* **4**, no. 5 (2007), 1193-1208: https://academic.oup.com/jsm/article-abstract/4/5/1193/6890920?redirectedFrom=fulltext&login=true
-7. Blasdel, Gaines, Carmen Kloer, Augustus Parker, Elijah Castle, Rachel Bluebond-Langner, and Lee C. Zhao. "Ability to Orgasm After Gender Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 5 (2022): [external link to article summary](https://academic.oup.com/jsm/article-abstract/19/5/781/6961290?redirectedFrom=fulltext&login=true)
+3. Djordjevic, Miroslav L, Dusan Stanojevic, Marta R. Bizic, Vladimir Kojovic, Mark Majstorovic, Svetlana Vujovic, Alexandar Milosevic, Gradimir Korac, and Sara V Perovic. "Metoidioplasty as a single stage sex reassignment surgery in female transsexuals: Belgrade experience." *Journal of Sexual Medicine* **6**, no. 5 (2009): https://pubmed.ncbi.nlm.nih.gov/19175859/
+4. Herbenick, Debra and Michael Reece. "Development and Validation of the Female Genital Self-Image Scale." *The Journal of Sexual Medicine* **7**, no. 5 (2010), 1822-1830: [external link to article summary](https://academic.oup.com/jsm/article-abstract/7/5/1822/6847972?redirectedFrom=fulltext&login=true)
+5. Shih, Cheryl, Christopher J. Cold, and Claire C. Yang. "Cutaneous Corpuscular Receptors of the Human Glans Clitoris: Descriptive Characteristics and Comparison with the Glans Penis." *The Journal of Sexual Medicine* **10**, no. 7 (2013): https://onlinelibrary.wiley.com/doi/abs/10.1111/jsm.12191
+6. Cregten-Escobar, Patricia, Mark-Bram Bouman, Marlon E Buncamper, and Margriet G Mullender. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
+7. Sohn, Michael and Hartmut A. G. Bosinski. "Gender Identity Disorders: Diagnostic and Surgical Aspects." *The Journal of Sexual Medicine* **4**, no. 5 (2007), 1193-1208: https://academic.oup.com/jsm/article-abstract/4/5/1193/6890920?redirectedFrom=fulltext&login=true
+8. Blasdel, Gaines, Carmen Kloer, Augustus Parker, Elijah Castle, Rachel Bluebond-Langner, and Lee C. Zhao. "Ability to Orgasm After Gender Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 5 (2022): [external link to article summary](https://academic.oup.com/jsm/article-abstract/19/5/781/6961290?redirectedFrom=fulltext&login=true)
+9. LeBreton, Marianne, Frédérique Courtois, Nicolas Morel Journel, Dominic Beaulieu-Prévost, Marc Bélanger, Alain Ruffion, and Jean-Étienne Terrier. "Genital Sensory Detection Thresholds and Patient Satisfaction with Vaginoplasty in Male-to-Female Transgender Women." *The Journal of Sexual Medicine* **14**, no. 2 (2017), 274-281: [external link to article summary](https://www.sciencedirect.com/science/article/abs/pii/S1743609516308591)
 ## NEJM Catalyst
 1. "Gender Expression Care: The Next Horizon in Transgender Health." *NEJM Catalyst*. 2023 May: https://catalyst.nejm.org/doi/abs/10.1056/CAT.23.0036 
 ## Oral and Maxillofacial Surgery Clinics of North America
@@ -60,13 +64,14 @@
 ## Sex Roles
 1. "The role of facial masculinity/femininity in the attribution of homosexuality" from *Sex Roles*. 1990 Aug: [https://link.springer.com/article/10.1007/BF00289863](https://link.springer.com/article/10.1007/BF00289863)
 ## Sexual Medicine Reviews
-1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries" from *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
+1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries." *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
 ## Sexualities, Evolution & Gender
 1. "The influence of sexual orientation on participants' judgments of facial attractiveness in older women" from *Sexualities, Evolution & Gender*. 2006 Aug: [https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true)
 ## The Angle Orthodontist
 - Obtainable journal!
 ## Urology
-1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* **180** (2023), 98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
+1. "Evaluation of female external genitalia sensitivity to pressure/touch: a preliminary prospective study using Semmes-Weinstein monofilaments." *Urology* **57**, no. 6 (2001), 1145-1150: https://pubmed.ncbi.nlm.nih.gov/11377329/
+2. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study." *Urology* **180** (2023), 98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
 ## Urology Clinics of North America
 1. "Orchiectomy as Bridge or Alternative to Vaginoplasty" from *Urology Clinics of North America* **46** (2019), 505-510: https://www.sciencedirect.com/science/article/abs/pii/S0094014319300527?via%3Dihub
 # Tags
