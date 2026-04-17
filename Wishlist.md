@@ -1,6 +1,6 @@
 # Scientific Article Wishlist
 ## Acta Psychologica 
-1. "Symmetry, averageness, and feature size in the facial attractiveness of women" from *Acta Psychologica*. 2004 Nov: [https://www.sciencedirect.com/science/article/abs/pii/S0001691804000794?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0001691804000794?via%3Dihub)
+- Obtainable journal!
 ## Annals of Plastic Surgery
 1. Hage, J Joris and Arjen A W M van Turnhout. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006): https://pubmed.ncbi.nlm.nih.gov/16929201/
 ## Archives of General Psychiatry
@@ -34,7 +34,7 @@
 ## Journal of Clinical Psychology
 1. "Self-performed bilateral orchiectomy in transsexuals" from *Journal of Clinical Psychology*. 1982 Jul: [https://pubmed.ncbi.nlm.nih.gov/7085590/](https://pubmed.ncbi.nlm.nih.gov/7085590/)
 ## Journal of Cranio-Maxillofacial Surgery
-1. "Contouring the forehead and rhinoplasty in the feminization of the face in male-to-female transsexuals" from *Journal of Cranio-Maxillofacial Surgery*. 2010 Sep: [https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub)
+- Obtainable journal!
 ## Journal of Plastic, Reconstructive & Aesthetic Surgery
 1. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
 ## Journal of Sexual Medicine
@@ -49,11 +49,11 @@
 ## Oral and Maxillofacial Surgery Clinics of North America
 1. **UNOBTANIUM**   "Gender Affirming Facial Surgery - Anatomy and Procedures for Facial Masculinization" from *Oral and Maxillofacial Surgery Clinics of North America*. 2024 May: https://www.sciencedirect.com/science/article/abs/pii/S1042369924000013?via%3Dihub
 ## Perception
-1. O'Toole, Alice J, Jennifer Peterson, and Kenneth A Deffenbacher. "An ‘other-Race Effect’ for Categorizing Faces by Sex." *Perception* **25**, no. 6 (1996): https://journals.sagepub.com/doi/10.1068/p250669
+- Obtainable journal!
 ## Plastic and Reconstructive Surgery
 1. Hage, Joris J. "Metaidoioplasty: an alternative phalloplasty technique in transsexuals." *Plastic and Reconstructive Surgery* **97**, no. 1 (1996), 161-167: https://pubmed.ncbi.nlm.nih.gov/8532774/
 ## Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery
-1. "Long Term Follow up After Sex Reassignment Surgery" from *Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery*. 1997: [https://www.tandfonline.com/doi/abs/10.3109/02844319709010503](https://www.tandfonline.com/doi/abs/10.3109/02844319709010503)
+- Obtainable journal!
 ## Sex Roles
 1. "The role of facial masculinity/femininity in the attribution of homosexuality" from *Sex Roles*. 1990 Aug: [https://link.springer.com/article/10.1007/BF00289863](https://link.springer.com/article/10.1007/BF00289863)
 ## Sexual Medicine Reviews
@@ -61,7 +61,7 @@
 ## Sexualities, Evolution & Gender
 1. "The influence of sexual orientation on participants' judgments of facial attractiveness in older women" from *Sexualities, Evolution & Gender*. 2006 Aug: [https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true)
 ## The Angle Orthodontist
-1. "Skeletofacial morphology of attractive and nonattractive faces" from *The Angle Orthodontist*. 2006: https://pubmed.ncbi.nlm.nih.gov/16539543/
+- Obtainable journal!
 ## Urology
 1. "Outcomes of Orchiectomy for Gender-Affirming Surgery: A National Surgical Quality Improvement Study" from *Urology* **180** (2023), 98-104: https://www.goldjournal.net/article/S0090-4295(23)00593-9/abstract
 ## Urology Clinics of North America
