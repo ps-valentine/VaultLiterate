@@ -46,6 +46,7 @@
 4. Cregten-Escobar, Patricia, Mark-Bram Bouman, Marlon E Buncamper, and Margriet G Mullender. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
 5. Djordjevic, Miroslav L, Dusan Stanojevic, Marta R. Bizic, Vladimir Kojovic, Mark Majstorovic, Svetlana Vujovic, Alexandar Milosevic, Gradimir Korac, and Sara V Perovic. "Metoidioplasty as a single stage sex reassignment surgery in female transsexuals: Belgrade experience." *Journal of Sexual Medicine* **6**, no. 5 (2009): https://pubmed.ncbi.nlm.nih.gov/19175859/
 6. Sohn, Michael and Hartmut A. G. Bosinski. "Gender Identity Disorders: Diagnostic and Surgical Aspects." *The Journal of Sexual Medicine* **4**, no. 5 (2007), 1193-1208: https://academic.oup.com/jsm/article-abstract/4/5/1193/6890920?redirectedFrom=fulltext&login=true
+7. Blasdel, Gaines, Carmen Kloer, Augustus Parker, Elijah Castle, Rachel Bluebond-Langner, and Lee C. Zhao. "Ability to Orgasm After Gender Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 5 (2022): [external link to article summary](https://academic.oup.com/jsm/article-abstract/19/5/781/6961290?redirectedFrom=fulltext&login=true)
 ## NEJM Catalyst
 1. "Gender Expression Care: The Next Horizon in Transgender Health." *NEJM Catalyst*. 2023 May: https://catalyst.nejm.org/doi/abs/10.1056/CAT.23.0036 
 ## Oral and Maxillofacial Surgery Clinics of North America
