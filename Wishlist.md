@@ -68,6 +68,8 @@
 1. "The role of facial masculinity/femininity in the attribution of homosexuality" from *Sex Roles*. 1990 Aug: [https://link.springer.com/article/10.1007/BF00289863](https://link.springer.com/article/10.1007/BF00289863)
 ## Sexual Medicine Reviews
 1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries." *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
+2. "Current methods for assessing erogenous sensation: implications for sensory outcomes in genital gender-affirming surgery." *Sexual Medicine Reviews* **13**, no. 4 (2025), 751-763: https://academic.oup.com/smr/article-abstract/13/4/751/8214144
+3. "Sexual Functioning of Transgender Females Post-Vaginoplasty: Evaluation, Outcomes and Treatment Strategies for Sexual Dysfunction." *Sexual Medicine Reviews* **10**, no. 1 (2022), 77-90: https://academic.oup.com/smr/article-abstract/10/1/77/6880319
 ## Sexualities, Evolution & Gender
 1. "The influence of sexual orientation on participants' judgments of facial attractiveness in older women" from *Sexualities, Evolution & Gender*. 2006 Aug: [https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true)
 ## The Angle Orthodontist
