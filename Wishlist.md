@@ -10,24 +10,26 @@
 ## BJU International
 1. "Total sex-reassignment surgery in female-to-male transsexuals: a one-stage technique." *BJU International* **90**, no. 7 (2002): https://pubmed.ncbi.nlm.nih.gov/12410761/
 ## Clinics in Plastic Surgery
-1. "Transgender Feminization of the Facial Skeleton" from *Clinics in Plastic Surgery*. 2007 Jul: [https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub)
-2. "Gender Reassignment: Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub)
+- This journal is **UNOBTANIUM**.
+1. **UNOBTANIUM**   "Transgender Feminization of the Facial Skeleton" from *Clinics in Plastic Surgery*. 2007 Jul: [https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0094129807000673?via%3Dihub)
+2. **UNOBTANIUM**   "Gender Reassignment: Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S009412981830052X?via%3Dihub)
 3. Lam, Samuel L. "Hair Transplant and Local Anesthetics." *Clinics in Plastic Surgery* **40**, no. 4 (2013), 615-625: [external link to article extracts](https://books.google.com/books?hl=en&lr=&id=PTLRAQAAQBAJ&oi=fnd&pg=PA615&ots=yNZXFoJaWk&sig=G8CsiD35Uf38Od5W8R8jcYIwxCc#v=onepage&q&f=false) and [different article extracts](https://books.google.com/books?hl=en&lr=&id=WZROAQAAQBAJ&oi=fnd&pg=PA615&ots=kceQr7m9fA&sig=roMXraVn0fxcsH3xCXkTBp6WPg8#v=onepage&q&f=false)
 4. Nikolavsky, Dmitriy, Michael Hughes, and Lee C Zhao. "Urologic Complications After Phalloplasty or Metoidioplasty." *Clinics in Plastic Surgery* **45**, no. 3 (2018), 425-435: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/29908632/)
 5. **UNOBTANIUM**   "Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.plasticsurgery.theclinics.com/article/S0094-1298(18)30052-X/abstract](https://www.plasticsurgery.theclinics.com/article/S0094-1298\(18\)30052-X/abstract)
 ## Dermatologic Clinics
 - Obtainable journal!
 ## Facial Plastic Surgery
-1. "Gender-Related Facial Surgical Goals" from *Facial Plastic Surgery*. 2018: [https://pubmed.ncbi.nlm.nih.gov/30296799/](https://pubmed.ncbi.nlm.nih.gov/30296799/)
+- This journal is **UNOBTANIUM**.
+1. **UNOBTANIUM**   "Gender-Related Facial Surgical Goals" from *Facial Plastic Surgery*. 2018: [https://pubmed.ncbi.nlm.nih.gov/30296799/](https://pubmed.ncbi.nlm.nih.gov/30296799/)
 2. **UNOBTANIUM**   "Secondary Forehead Lift in Transgender Women" from *Facial Plastic Surgery*. 2025 Feb: [https://pubmed.ncbi.nlm.nih.gov/38151039/](https://pubmed.ncbi.nlm.nih.gov/38151039/)
 ## Facial Plastic Surgery Clinics of North America
 - Obtainable journal!
 ## Handchirurgie Mikrochirurgie Plastiche Chirurgie (HaMiPla)
 1. "Vaginal Hysterectomy and Bilateral Adnexectomy for Female to Male Transsexuals in an Interdisciplinary Concept." *Handchirurgie Mikrochirurgie Plastiche Chirurgie (HaMiPla)* **43**, no. 4 (2011): https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0030-1267241
 ## International Journal of Oral & Maxillofacial Surgery
-1. "Mandibular feminization osteotomy—preliminary results" from *International Journal of Oral & Maxillofacial Surgery*. 2019 May: https://www.sciencedirect.com/science/article/abs/pii/S0901502718303904
+- Obtainable journal!
 ## International Journal of Transgenderism
-1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?" from *International Journal of Transgenderism*. 2017 Mar: https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
+1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women at higher doses?" from *International Journal of Transgenderism*. 2017 Mar: https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
 ## Journal of Clinical Endocrinology and Metabolism
 1. "No Venous Thromboembolism Increase among Transgender Female Patients Remaining on Estrogen for Gender-Affirming Surgery" from *The Journal of Clinical Endocrinology & Metabolism* **106**, no. 4 (2021).
 2. "Estrogen-induced prolactinoma in a man." from *The Journal of Clinical Endocrinology and Metabolism*. 1988 Feb: https://europepmc.org/article/med/3339116
