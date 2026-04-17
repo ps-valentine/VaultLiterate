@@ -32,40 +32,53 @@ Rutherford, Leo L, Elijah R Castle, Noah Adams, Logan Berrian, Linden Jennings, 
 - "A follow- up question asked, “how useful was this method of approval in preparing you to have surgery?”. Responses to the question included a 5-point Likert scale ranging from ‘not at all’ to ‘extremely useful’. These responses were also dichotomized into ‘not useful’ versus ‘useful,’ where ‘useful’ included all responses other than ‘not at all.’"
 - "We adapted the Canadian Community Health Survey’s single-item measure of mental health to be used in the past tense and added a time qualifier to determine mental health in the year prior to surgery. The item asked, “How would you describe your mental health in the year before you had phalloplasty or metoidioplasty?”. Response options were unchanged from the original measure and included a 5-point Likert ranging from ‘poor’ to ‘excellent.’ Categories were dichotomized into ‘poor or fair’ versus ‘good, very good, or excellent’."
 ### Analysis
+"The final analytic sample, which excluded those who did not answer the dependent variable questions, included 203 responses."
 ## Results
+- "Most of our participants self-identified ethnoracially as white (84%). Participants described their sexual orientation as queer (37%), straight (27%), gay (21%), and bi (24%). Our participants mostly had high levels of education with 30% having attended graduate school or achieving a graduate degree. Additionally, participants had high personal income levels with 40% making more than $80,000 annually (CAD or USD depending on their location).
+- "In terms of surgeries, about half (51%, n = 103) had solely phalloplasty, 83 (38%) had solely metoidioplasty, and 21 (9%) had both procedures. Only 40% (n = 85) of our sample had surgery prior to 2020, whereas 59% (n = 124) had surgery in the past two years. Over half (54%, n = 110) of our respondents were identified as ‘active process’ meaning either they were waiting for additional surgeries or between planned stages of surgeries. Participants typically traveled outside of their state or province of residence for surgery (42% n = 85), but only 10% (n = 20) traveled outside their country. However, 14% (n = 28) of participants had surgery within their city of residence."
+- "Overall, participants reported high levels of preparedness, with 86% (n = 186) feeling prepared."
+- "Overall, 53% (n = 105) of our sample reported that their assessment was not at all useful in preparing them for surgery... Among those who received two letters, half (55%, n = 88) said this was not at all useful in preparing them to have surgery. Only 13% (n = 26) reported feeling that two letters were very or extremely useful in preparing them for surgery."
+- "While preparing for surgery, 92.1% (n = 187) of our sample accessed community supports or resources, including conversation with peers, support groups or community-created resources. The resources most highly rated as helpful included social media, including Facebook groups and reddit forums, with 47% (n = 101) participants indicating these were ‘very helpful’ in preparing them for surgery. Similarly, participants rated conversations with peers as very helpful (n = 48, 22%) or helpful (n = 34, 15%) in preparing for surgery. Outside of peer-created content or resources, consults with surgeons were also rated highly as helping people prepare, with 40% (n = 87) stating these were ‘very helpful’, and 24% (n = 52) rating them as ‘helpful’. No demographic or other characteristics were significantly associated with feeling prepared in bivariate analyses."
+- "The multivariable logistic regression analyses resulted in a final model with 2 statistically significant factors: sexual orientation and usefulness of assessment processes. More specifically, those who self-identified as queer were more likely to report feeling prepared for surgery than non-queer participants... We found that queer participants were statistically significantly more likely to have access community in the time leading up to surgery (p < .05), which may have contributed to greater feelings of preparedness, as compared to non-queer participants."
+- "It is well-known within the trans community that prospective patients preparing for gender-affirming surgery spend a large amount of time preparing themselves, outside of their relationships with their surgeons/surgical teams, by seeking out community information or support to help them feel ready. Other literature documents peer support and shared experiences as useful to patients who are recovering from surgery, experiencing a health concern, or undergoing medical treatments for cancer. While accessing community support or resources was not a statistically significant correlate of feeling prepared, participants’ responses clearly indicated the utility of these resources. It is likely that there was a lack of statistical significance related to community support due to the small number of respondents who did not access community support (8%, n = 16)."
+- "Our participants also rated surgical consults as highly useful while preparing for surgery. These consults often deliver important patient education and address questions or concerns. Along with surgical consults, in many other surgical fields, patients are now being helped by social workers or other practitioners to develop care plans or for pre-surgical preparation. Some literature suggests that patients given resources by care teams are more likely to feel prepared, so long as they judge those resources to be beneficial."
+- "Our research adds to other literature critiquing referral letter assessments as not useful to those accessing gender affirming care. While one study noted prospective patients feeling that they wouldn’t be considered ready for surgery if they have any mental health concerns, another noted that many patients feel assessments are simply gatekeeping processes. Still another has critiqued assessments as not offering information needed for patients to be fully informed about what to expect postoperatively."
+- "This suggests that, along with the other literature previously mentioned, assessments often do not uphold patient autonomy if they do not serve the process of informed consent by assessing patient knowledge and providing education regarding the procedure. Our results suggest that needs for pre-surgical preparation vary between patients. This may mean that individualized approaches to helping patients better prepare are needed for these surgeries."
+- "Assessments or surgical care planning that recognizes mental health as influencing outcomes but focuses on other aspects of surgical preparation may, therefore, lead to more readiness among prospective patients. More research is needed to understand how mental health plays a role in promoting preparedness for these procedures."
 ### Correlates of surgical preparedness
 ## Discussion
 ### Limitations
 ### Implications
 ## Conclusion
+"Healthcare professionals who interact with preparing patients should develop new or utilize existing resources to assist patients in identifying their preparation needs and achieving preparedness. Our data supports assessments that center surgical care planning rather than assessing level of gender dysphoria. This can ensure the necessary flexibility so that such assessments are based in the evidence of what will be most helpful for patients and, ultimately, that patient autonomy is upheld through a robust informed consent process. While it is important to adjust as needed for individual patients to ensure their needs are met, the educational and planning content of assessments should be standardized throughout gender-affirming care so that all patients can benefit from high-quality care. Future research should further investigate what patients need from assessments in order to feel prepared for surgery."
 ## References
-2
-3
-4
-5
+2 Puckett, Jae A, Peter Cleary, Kinton Rossman, Michael E Newcomb, Brian Mustanski. "Barriers to Gender-Affirming Care for Transgender and Gender Nonconforming Individuals." *Sexuality Research and Social Policy* **15** (2018), 48-59: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC5842950/)
+3 
+4 
+5 
 6 Hadj-Moussa, Miriam, Shailesh Agarwal, Dana A. Ohl, and William M. Kuzon. "Masculinizing Genital Gender Confirmation Surgery." *Sexual Medicine Reviews* **7**, no. 1 (2019), 141-155: [external link to article abstract](https://academic.oup.com/smr/article-abstract/7/1/141/6830853?redirectedFrom=fulltext&login=false)
-7
-8
-9
-11
-12
-14
+7 
+8 
+9 
+11 
+12 
+14 
 15 Makhoul, Alan T, R Thomas Day, Jasmine C Walker, Catherine M Hammack-Aviran, Salam Al Kassis, Julian S Winocour, and Brian C Drolet. "Perioperative Experiences of Transgender Adults Seeking Gender-Affirming Surgery: A Qualitative Interview Study." *Transgender Health* **8**, no. 3 (2023), 231-237: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10277990/)
 16 Latack, Kyle, Widya Adidharma, Dominic Moog, Thomas Satterwhite, Miriam Hadj-Moussa, and Shane Morrison. "Are We Preparing Patients for Gender-Affirming Surgery? A Thematic Social Media Analysis." *Plastic and Reconstructive Surgery* **146**, no. 4 (2020), 519-521: [external link](https://journals.lww.com/plasreconsurg/fulltext/2020/10000/are_we_preparing_patients_for_gender_affirming.70.aspx)
 21 Cavanaugh, Timothy, Ruben Hopwood, and Cei Lambert. "Informed Consent in the Medical Care of Transgender and Gender-Nonconforming Patients." *AMA Journal of Ethics* **18**, no. 11 (2016), 1147-1155: [external link](https://journalofethics.ama-assn.org/article/informed-consent-medical-care-transgender-and-gender-nonconforming-patients/2016-11)
 26 Beauchamp, Tom L. and James F. Childress. *Principles of Biomedical Ethics*, 9th edition. Oxford University Press, 2019.
 27 Marrow, Elliot. ""I Hope That As Our Selection Becomes More Accurate, the Number... Will Be Very Few": The Creation of Assessment Criteria for Gender-Affirming Care, 1960s-1980s." *Psychology of Sexual Orientation and Gender Diversity* **11**, no. 2 (2024), 183-201: [external link](https://psycnet.apa.org/fulltext/2023-64773-001.pdf)
 28 Fisk, Norman M. "Editorial: Gender dysphoria syndrome -- the conceptualization that liberalizes indications for total gender reorientation and implies a broadly based multi-dimensional rehabilitative regimen." *Western Journal of Medicine* **120**, no. 5 (1974), 386-391: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC1130142/)
-29
-30
-31
-37
-38
-39
-40
-41
-43
+29 
+30 
+31 
+37 
+38 
+39 
+40 
+41 
+43 
 # Tags
-#/2024 #AaronDevor #AydenScheim #ElijahRCastle #GAS-metoidioplasty #GAS-phalloplasty #informedconsent #LeoLRutherford #LindenJennings #LoganBerrian #NathanJLachowsky #NoahAdams #PROGRESS #Patient-ReportedOutcomesofGenitalReconstructionandExperiencesofSurgicalSatisfaction #surgicalcareplanning #surgicalpreparation #surgicalreadiness #transgender #transgender-Candada #transgender-UnitedStates
+#/2024 #AaronDevor #AydenScheim #communitycare #ElijahRCastle #GAS-metoidioplasty #GAS-phalloplasty #informedconsent #LeoLRutherford #LindenJennings #LoganBerrian #NathanJLachowsky #NoahAdams #PROGRESS #Patient-ReportedOutcomesofGenitalReconstructionandExperiencesofSurgicalSatisfaction #surgicalcareplanning #surgicalpreparation #surgicalreadiness #transgender #transgender-Candada #transgender-UnitedStates
 
-#unfinished-notes #unfinished-references
+#unfinished-references
