@@ -16,13 +16,12 @@
 4. Nikolavsky, Dmitriy, Michael Hughes, and Lee C Zhao. "Urologic Complications After Phalloplasty or Metoidioplasty." *Clinics in Plastic Surgery* **45**, no. 3 (2018), 425-435: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/29908632/)
 5. **UNOBTANIUM**   "Feminization and Masculinization of the Neck" from *Clinics in Plastic Surgery*. 2018 Oct: [https://www.plasticsurgery.theclinics.com/article/S0094-1298(18)30052-X/abstract](https://www.plasticsurgery.theclinics.com/article/S0094-1298\(18\)30052-X/abstract)
 ## Dermatologic Clinics
-1. "Minimally Invasive Procedures for Gender Affirmation" from *Dermatologic Clinics*. 2020 Apr: [https://pubmed.ncbi.nlm.nih.gov/32115135/](https://pubmed.ncbi.nlm.nih.gov/32115135/)
+- Obtainable journal!
 ## Facial Plastic Surgery
 1. "Gender-Related Facial Surgical Goals" from *Facial Plastic Surgery*. 2018: [https://pubmed.ncbi.nlm.nih.gov/30296799/](https://pubmed.ncbi.nlm.nih.gov/30296799/)
 2. **UNOBTANIUM**   "Secondary Forehead Lift in Transgender Women" from *Facial Plastic Surgery*. 2025 Feb: [https://pubmed.ncbi.nlm.nih.gov/38151039/](https://pubmed.ncbi.nlm.nih.gov/38151039/)
 ## Facial Plastic Surgery Clinics of North America
-1. "Challenges in Care of the Transgender Patient Seeking Facial Feminization Surgery" from *Facial Plastic Surgery Clinics of North America*. 2008 May: [https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740607001861?via%3Dihub)
-2. "Gender-Affirming Surgery of the Mandible: Lower Jaw Feminization and Masculinization" from *Facial Plastic Surgery Clinics of North America*. 2023 Aug: [https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1064740623000391?via%3Dihub)
+- Obtainable journal!
 ## Handchirurgie Mikrochirurgie Plastiche Chirurgie (HaMiPla)
 1. "Vaginal Hysterectomy and Bilateral Adnexectomy for Female to Male Transsexuals in an Interdisciplinary Concept." *Handchirurgie Mikrochirurgie Plastiche Chirurgie (HaMiPla)* **43**, no. 4 (2011): https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0030-1267241
 ## International Journal of Oral & Maxillofacial Surgery
@@ -35,11 +34,9 @@
 ## Journal of Clinical Psychology
 1. "Self-performed bilateral orchiectomy in transsexuals" from *Journal of Clinical Psychology*. 1982 Jul: [https://pubmed.ncbi.nlm.nih.gov/7085590/](https://pubmed.ncbi.nlm.nih.gov/7085590/)
 ## Journal of Cranio-Maxillofacial Surgery
-1. "CT measurement of the frontal sinus - gender differences and implications for frontal cranioplasty" from *Journal of Cranio-Maxillofacial Surgery*. 2010 Mar: [https://pubmed.ncbi.nlm.nih.gov/20335041/](https://pubmed.ncbi.nlm.nih.gov/20335041/)
-2. "Contouring the forehead and rhinoplasty in the feminization of the face in male-to-female transsexuals" from *Journal of Cranio-Maxillofacial Surgery*. 2010 Sep: [https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub)
+1. "Contouring the forehead and rhinoplasty in the feminization of the face in male-to-female transsexuals" from *Journal of Cranio-Maxillofacial Surgery*. 2010 Sep: [https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S1010518209002194?via%3Dihub)
 ## Journal of Plastic, Reconstructive & Aesthetic Surgery
-1. "One-step facial feminization surgery: The importance of a custom-made preoperative planning and patient satisfaction assessment" from *Journal of Plastic, Reconstructive & Aesthetic Surgery*. 2019 Jun: [https://pubmed.ncbi.nlm.nih.gov/31375432/](https://pubmed.ncbi.nlm.nih.gov/31375432/)
-2. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
+1. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
 ## Journal of Sexual Medicine
 1. van der Sluis, Wouter B., Thomas D. Steensma, Floyd W. Timmermans, Jan Maerten Smit, Kristin de Haseth, Müjde Özer, and Mark-Bram Bouman. "Gender-Confirming Vulvoplasty in Transgender Women in the Netherlands: Incidence, Motivation Analysis, and Surgical Outcomes" in *The Journal of Sexual Medicine* **17**, no. 8 (2020): https://pubmed.ncbi.nlm.nih.gov/32430267/
 2. Djordjevic, Miroslav L and Marta R Bizic. "Comparison of Two Different Methods for Urethral Lengthening in Female to Male (Metoidioplasty) Surgery." *Journal of Sexual Medicine* **10**, no. 5 (2013): https://pubmed.ncbi.nlm.nih.gov/23444841/
