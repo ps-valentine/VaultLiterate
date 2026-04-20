@@ -68,6 +68,8 @@
 - Obtainable journal!
 ## Sex Roles
 1. "The role of facial masculinity/femininity in the attribution of homosexuality" from *Sex Roles*. 1990 Aug: [https://link.springer.com/article/10.1007/BF00289863](https://link.springer.com/article/10.1007/BF00289863)
+## Sexual and Reproductive Health
+1. "Gender-Affirming Surgery: Perioperative Care for the Primary Care Clinician" from *Sexual and Reproductive Health* (2002), 309-322: https://link.springer.com/chapter/10.1007/978-3-030-94632-6_15
 ## Sexual Medicine Reviews
 1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries." *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
 2. "Current methods for assessing erogenous sensation: implications for sensory outcomes in genital gender-affirming surgery." *Sexual Medicine Reviews* **13**, no. 4 (2025), 751-763: https://academic.oup.com/smr/article-abstract/13/4/751/8214144
