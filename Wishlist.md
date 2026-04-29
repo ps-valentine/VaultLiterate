@@ -2,7 +2,9 @@
 ## Acta Psychologica 
 - Obtainable journal!
 ## Aesthetic Plastic Surgery
-1. Kanhai, Robert C. J. "Sensate Vagina Pedicled-Spot for Male-to-Female Transsexuals: The Experience in the First 50 Patients." *Aesthetic Plastic Surgery* **40** (2016), 284-287: [external link to article summary](https://link.springer.com/article/10.1007/s00266-016-0620-2)
+1. "Sensate Vagina Pedicled-Spot for Male-to-Female Transsexuals: The Experience in the First 50 Patients." *Aesthetic Plastic Surgery* **40** (2016), 284-287: [external link to article summary](https://link.springer.com/article/10.1007/s00266-016-0620-2)
+## American Journal of Obstetrics and Gynecology
+1. "Patient preparedness: an important predictor of surgical outcome." *American Journal of Obstetrics and Gynecology* **197**, no. 6 (2007), 654e1-654e6: [external link to abstract](https://www.ovid.com/journals/ajog/abstract/00000447-200712000-00038~patient-preparedness-an-important-predictor-of-surgical)
 ## Annals of Plastic Surgery
 1. Hage, J Joris and Arjen A W M van Turnhout. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006): https://pubmed.ncbi.nlm.nih.gov/16929201/
 ## Archives of General Psychiatry
@@ -75,6 +77,8 @@
 1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries." *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
 2. "Current methods for assessing erogenous sensation: implications for sensory outcomes in genital gender-affirming surgery." *Sexual Medicine Reviews* **13**, no. 4 (2025), 751-763: https://academic.oup.com/smr/article-abstract/13/4/751/8214144
 3. "Sexual Functioning of Transgender Females Post-Vaginoplasty: Evaluation, Outcomes and Treatment Strategies for Sexual Dysfunction." *Sexual Medicine Reviews* **10**, no. 1 (2022), 77-90: https://academic.oup.com/smr/article-abstract/10/1/77/6880319
+## Sexualities
+1. "Science, Politics and Clinical Intervention: Harry Benjamin, Transsexualism and the Problem of Heteronormativity." *Sexualities* (2005): [external link to abstract](https://journals.sagepub.com/doi/abs/10.1177/1363460705049578)
 ## Sexualities, Evolution & Gender
 1. "The influence of sexual orientation on participants' judgments of facial attractiveness in older women" from *Sexualities, Evolution & Gender*. 2006 Aug: [https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true](https://www.tandfonline.com/doi/full/10.1080/14616660500175680?scroll=top&needAccess=true)
 ## The Angle Orthodontist

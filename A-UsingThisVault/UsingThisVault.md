@@ -10,10 +10,15 @@ I would **love** assistance wrapping-up summaries & key text extraction on any a
 
 
 
-Documentation standards below are out-of-date and last updated in January 2026...
+Documentation standards below are incomplete and last updated in April 2026...
 ## Documentation Standards
-### Plot Summaries
+### Summaries
+#### Plot Summaries
 I'll try to keep plot summaries of fiction books folded, using the syntax \"> [!hint]- Plot Summary..." or \">[!hint]- ¡SPOILERS!: Plot Summary...", or something similar. I'll keep them as concise as I can, while giving enough information to use this list to identify recommendations. Avoid reviewing the tags if you want to entirely avoid spoilers, though I try not to go into excessive detail.
+#### Scientific Article Summaries
+I have tended toward including large excerpts of scientific articles over writing concise summaries in most cases to date.
+
+I begin each scientific article overview with an outline of the article, with headers corresponding to sections (with Abstract - Introduction - Methods - Results - Discussion - References being the primary headers for many articles). I also add a "Tags" section at the bottom of each article, where I include #unfinished-notes, #unfinished-references, and #unfinished-tags until each associated section is finished. This allows me(/us) to start article summaries and hop around a bit before coming back to finish them -- or to identify interesting articles in the hopes that someone else might summarize them.
 ### Titling
 Titling should prioritize naming conventions that are widely acceptable for different systems, to allow easy import/export of the entire Vault. As such, avoid spaces and characters other than letters, numbers, or hyphens.
 
