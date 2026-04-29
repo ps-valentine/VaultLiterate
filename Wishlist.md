@@ -2,7 +2,8 @@
 ## Acta Psychologica 
 - Obtainable journal!
 ## Aesthetic Plastic Surgery
-1. "Sensate Vagina Pedicled-Spot for Male-to-Female Transsexuals: The Experience in the First 50 Patients." *Aesthetic Plastic Surgery* **40** (2016), 284-287: [external link to article summary](https://link.springer.com/article/10.1007/s00266-016-0620-2)
+1. "Assessing Gender-Affirming Chest Surgery Outcomes: Does Gender Identity Alter Gaze?" *Aesthetic Plastic Surgery* **45** (2021), 1860-1868: [external link to article summary](https://link.springer.com/article/10.1007/s00266-021-02378-1)
+2. "Sensate Vagina Pedicled-Spot for Male-to-Female Transsexuals: The Experience in the First 50 Patients." *Aesthetic Plastic Surgery* **40** (2016), 284-287: [external link to article summary](https://link.springer.com/article/10.1007/s00266-016-0620-2)
 ## American Journal of Obstetrics and Gynecology
 1. "Patient preparedness: an important predictor of surgical outcome." *American Journal of Obstetrics and Gynecology* **197**, no. 6 (2007), 654e1-654e6: [external link to abstract](https://www.ovid.com/journals/ajog/abstract/00000447-200712000-00038~patient-preparedness-an-important-predictor-of-surgical)
 ## Annals of Plastic Surgery
@@ -23,6 +24,8 @@
 6. "Urologic Complications After Phalloplasty or Metoidioplasty." *Clinics in Plastic Surgery* **45**, no. 3 (2018), 425-435: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/29908632/)
 ## Dermatologic Clinics
 - Obtainable journal!
+## Dissertation or Thesis
+1. Regan, Katelyn R. "Evaluating Desire for and Provision of Gender Affirming Medical Care in the Nonbinary Community: Patient and Gender-Affirming Medical Provider Perspectives." Widener University ProQuest, 2024: [external link](https://www.proquest.com/openview/6ace28f9b98dc2b47847c00011658ace/1?pq-origsite=gscholar&cbl=18750&diss=y)
 ## Facial Plastic Surgery
 - This journal is **UNOBTANIUM**.
 1. **UNOBTANIUM**   "Gender-Related Facial Surgical Goals" from *Facial Plastic Surgery*. 2018: [https://pubmed.ncbi.nlm.nih.gov/30296799/](https://pubmed.ncbi.nlm.nih.gov/30296799/)
