@@ -1,0 +1,76 @@
+# Mortality and morbidity in transsexual patients with cross-gender hormone treatment
+Asscheman, H., L. J. G. Gooren, P. L. E. Eklund. "Mortality and morbidity in transsexual patients with cross-gender hormone treatment." *Metabolism* 38, no. 9 (1989): 869-873, https://www.hemingways.org/GIDinfo/Mortality_Study.pdf
+## Background
+- "The number of deaths and morbidity cases in 425 transsexual patients treated with cross- gender hormones were evaluated retrospectively and compared with the expected number in a similar reference group of the  population. The number of deaths in male-to-female transsexuals was five times the number expected, due to increased numbers of suicide and death of unknown cause."
+- "Combined treatment with estrogen and cyproterone acetate in 303 male-to-female transsexuals was associated with a 45-fold increase of thromboembolic events, hyperprolactinemia (400-fold), depressive mood changes (15-fold), and transient elevation of liver enzymes."
+- "Androgen treatment in 122 female-to- male transsexuals was associated with weight increase >10% (17.2%) and acne (12.3%)."
+- "Explanation of possible side effects and careful clinical judgment remain the cornerstone of the clinical decision to prescribe cross- gender hormones. Furthermore, follow up of this relatively young population to disclose long-term side effects and to elucidate the association of sex steroids with coronary heart disease, as well as efforts to reduce the risk of thromboembolic events, are required... Ideally, the given hormone treatment should suppress the secondary sex characteristics of the original sex, as well as induce those of the opposite sex to the fullest extent and in the shortest possible period of time. Therefore, there is an inclination to maximize hormone dosage, which may involve health hazards."
+## Materials and Methods
+- "The files of all patients seen in our outpatient department between 1972 and 1986 were reviewed..." for diagnosis of transsexualism. "There were files of 558 patients with a problem of gender dysphoria, of whom 425 were included in this study. Reasons for exclusion of the others were as follows: no hormonal treatment (n = 71), only antiandrogen treatment (n = 6), failure to comply with our follow-up schedule (n = 15), no data available (n = 10), and treatment either not yet started or for less than six months (n = 31). The population included in this analysis comprised 303 male-to-female and 122 female-to-male transsexuals."
+- "Our standard hormone treatment regimen in male- to-female transsexuals consisted of 100 mg cyproterone acetate and 100 mg ethinylestradiol/ day orally (n = 258). Until 1980 diethylstilbestrol (5 to 15 mg/d) was prescribed for a few patients. Some patients insisted on parenteral estrogen therapy. They procured the estrogens outside our clinic and these were self-administered in a dose of 200 to 800 mg estradiol-17- undecanoate/month in (n = 45). Recommended dose of parenteral estrogens in postmenopausal women is 20 to 100 mg/m."
+- "In female-to-male patients long-acting testosterone esters 250 mg im every 2 weeks (n = 69) or testosterone undecanoate 120 to 160 mg/d orally (n = 19), or both, but not simultaneously (n = 34), were prescribed. If menstrual activity did not cease within three months after start of the hormone administration, an oral progestin, lynestrol 5 mg/d, was added (n = 3)."
+- "The patients' ages at the start of hormone treatment ranged from 16 to 67 years (median 32 years) in male-to-female patients and 16-54 years (median 25.4 years) in female-to-male patients. The duration of hormone therapy ranged from six months to more than 13 years (median 4.4 years in male-to- female and 3.6 years in female-to-male patients). In the first two years of treatment, patients were seen every three months and every six to nine months thereafter. At each visit physical changes and complaints were recorded and a general physical examination was carried out. At least once, and generally twice a year, blood samples were drawn for determination of liver enzymes, prolactin levels, and, if indicated, other laboratory parameters."
+- "Twelve transsexuals died during this follow-up period. The cause of death was determined either by autopsy report or from information given by the patient's general practitioner."
+## Results
+- "The total number of deaths in the treatment group represented a 2.5- to 9-fold increase over the general population. The increased mortality was in particular due to an increase of suicides and of deaths by unknown cause. There may have been a connection to sex steroid treatment in the three deaths of unknown cause, although autopsy in two of these cases failed to demonstrate a hormone-related cause. All other causes of death were within the 95% confidence intervals of the expected mortality. As can be expected in a relatively young age group, six of the 12 deaths (95% Cl, 2.5-9.5) were not from natural causes."
+- "A clinically serious side effect of estrogen treatment (45-fold increase) was venous thrombosis of the legs (n = 13) and/or pulmonary embolism (n = 6). Of the total male to-female transsexual group this occurred in 19 (6.3%) patients, yet was expected in only one patient... Furthermore, there was a strong association between age and the incidence of thrombosis: five of 237 (2.1%) patients under 40 years of age v eight of 66 (12%) patients over 40 years (P < .05, chi- square test)."
+- "The two cases of myocardial infarction occurred, after several years of hormone treatment, in one 45- and in one 50-year-old male-to-female transsexual. Both had a strong positive family history of heart disease and one also smoked 50 cigarettes a day."
+- ![[1989-TSMortalityMorbidity-Table1.png]]
+  Table 1. Observed Mortality in 303 Male-to-Female Transsexuals Treated With Estrogens and Cyproterone Acetate, and Expected Mortality in the General Male Population 15 to 64 Years of Age
+
+| Malady                                                     | No. Observed (95% C1) | No. Expected* |
+| ---------------------------------------------------------- | :-------------------: | :-----------: |
+| Venous thrombosis and/or pulmonary embolism                |   19 (11.7 - 29.4)    |     0.422     |
+| \| Postoperatively (n = 235)                               |           4           |               |
+| \| After trauma                                            |           2           |               |
+| \| Without clear cause                                     |          13           |               |
+| Myocardial infarction (one lethal)                         |    2 (0.25 - 7.2)     |    0.61932    |
+| Hypertension (> 1 60/95 mmHg)                              |    14 (7.8 - 23.1)    |   18.70827    |
+| Transient ischemic attack                                  |    1 (0.024 - 5.5)    |    0.54733    |
+| Depressive mood change                                     |   25 (16.5 - 36.3)    |    1.59134    |
+| Prolactin level > 1,000 mU/L (n = 214)                     |   46 (33.8 - 57.8)    |    0.10819    |
+| Enlarged pituitary gland (CT scan)                         |           5           |      NA       |
+| Elevation of liver enzymes                                 |   22 (14.4 - 33.3)    |      NA       |
+| \| Hepatitis B                                             |    6 (2.22 - 12.9)    |     0.118     |
+| \| Alcohol-related                                         |           2           |               |
+| \| Transient                                               |          12           |               |
+| \| Unknown                                                 |           2           |               |
+| Cholelithiasis (surgery)                                   |    2 (0.25 - 7.2)     |    0.42935    |
+| Mastitis/abscess                                           |           1           |      NA       |
+| Hyperthyroidism                                            |           1           |      NA       |
+| Skin rash                                                  |           2           |      NA       |
+| Abbreviation: NA, not available.<br>* References are given |                       |               |
+Table 2. Observed Morbidity in 303 Male-to-Female Transsexuals Treated With Estrogens and Cyproterone Acetate, and Expected Mortality in the General Male Population 15 to 64 Years of Age
+- ![[1989-TSMortalityMorbidity-Table3.png]]
+  Table 3. Observed Morbidity in 122 Female-to-Male Transsexuals Treated with Long-acting Testosterone Esters or Testosterone Undecanoete, and Expected Morbidity
+- "Serum prolactin levels increased in all estrogen-treated patients. In 46 (21.4%) patients serum prolactin levels rose to more than 1,000 mU/L (upper limit for males 300 mU/L), whereas only 0.108 of 214 patients were expected according to published prevalence rates. After reduction of the estrogen dosage serum prolactin levels fell to only slightly elevated values in 23 patients. CT scanning of the pituitary with contrast enhancement was performed in 15 of the 23 remaining patients (eight were either lost for follow-up or they refused radiologic evaluation). In five of these 15 patients pituitary enlargement was documented."
+- "In female-to-male patients androgen treatment deepened the voice, increased body hair growth, and induced beard growth to a varying extent. Shaving became necessary in >90% of them after one year of androgen treatment and some grew a full beard. Severe acne was observed in 15 (12.3%) subjects. Topical treatment for the acne was moderately effective in most patients."
+## Discussion
+- "The increased mortality in male-to-female transsexuals compared with the expected mortality can be partly explained by the increased suicide rate. Many patients (14%, unpublished observations of our group) attempted suicide before the start of sex reassignment treatment. This increased suicide rate confirms the notion that gender reassignment is not fully effective in relieving co-existent morbidity in cases of gender dysphoria. The increased number of deaths by unknown cause does raise concern. Two of these three deaths might have been suicide, according to friends and relatives."
+- **"It is evident from our results that the incidence rates of venous thrombosis and/or pulmonary embolism (45-fold), hyperprolactinemia (400-fold), depressive mood changes (15-fold), and transient elevation of liver enzymes were increased with estrogen and/or cyproterone acetate use, whereas weight increase and acne were associated with androgen use."**
+- "The magnitude of this increased incidence rate of thromboembolic events is worrisome and should be a stimulant for research for less thrombogenic hormone schedules. Either reduction of the estrogen dosage to the lowest possible effective dose, similar to what has been shown with oral contraceptives, or another way of administering, eg, percutaneous estradiol with less hepatic effects, might be effective ways of reducing this risk. We also found advanced age (>40 years) to be a factor affecting the incidence of documented venous thrombosis and pulmonary embolism in male to-female transsexuals using estrogens. The latter results have also been reported in women using oral contraceptives."
+- "Temporary mood changes were spontaneously reported by a considerable number of male-to-female transsexual patients in the first six months of treatment but subsequently waned. In particular, cyproterone acetate has been reported to be associated with a lack of energy and depressive mood changes. The reason for these mental changes may not only be the hormone effect but also the psychologic pressure of living in the new gender role. Because depressive mood changes were found predominantly in the first six months of the hormone treatment, it is improbable that there has been an association with the three observed suicides: they occurred after 1.5, 4, and 8 years of hormone treatment."
+## References
+1 Hamburger C. "Endocrine treatment of male and female transsexualism", in Green R, Money J (eds): *Transsexualism and Sex*
+*Reassignment*. Baltimore, John Hopkins University, 1969, pp 291- 307.
+8 Wilson Jean D. and Griffin James E. "The use and mis-use of androgens." *Metabolism* **29** (1980), 1278-1295: [external link to abstract](https://www.sciencedirect.com/science/article/abs/pii/0026049580901596?via%3Dihub).
+9 Meyer III, Walter J., Alice Webb, Charles A. Stuart, Jordan W. Finkelstein, Barbara Lawrence, and Paul A. Walker. "Physical and hormonal evaluation of transsexual patients. A longitudinal study. *Archives of Sexual Behavior* **15** (1986), 121-138: [external link to abstract](https://link.springer.com/article/10.1007/BF01542220)
+10 Lehrman, Kenneth L. "Pulmonary embolism in a transsexual man taking diethylstilbestrol." *JAMA* **235**, no. 5 (1976), 532-533: [external link to article summary](https://jamanetwork.com/journals/jama/article-abstract/343542)
+11 de Marinis M, Arnett EN. "Cerebrovascular occlusion in a transsexual man taking mestranol." *Arch Intern Med* **138** (1978): 1732-1733.
+12 Fortin CJ, Klein T, Messmore HL, et al. "Myocardial infarction and severe thromboembolic complications as seen in an estrogen
+dependent transsexual." *Arch Intern Med* **144** (1984): 1082-1083.
+13 Goodwin GE, Commings RH. "Squamous metaplasia of the verumontaniem with obstruction due to hypertrophy: Long-term
+effects of estrogen on the prostate in an aging male to female transsexual." *J Urol* **131** (1984): 553-554.
+14 Symmers WSC. "Carcinoma of the breast in transsexual individuals after surgical and hormonal interference with primary and secondary sex characteristics." *Br Med J* **2** (1968): 83-85.
+15 Pritchard TJ, Pankowsky DA, Crowe JP, et al. "Breast cancer in a male-to-female transsexual." *JAMA* **259** (1988): 2278-2280.
+16 Ffrench-Constant CK, Spengel FA, Thompson GR. "Hyperlipidaemia and premature coronary artery disease associated with sex-
+change in a female." *Postgrad Med* **61** (1985): 61-63.
+17 Walker P, Berger J, Green R, et al. "Standards of care. The hormonal and surgical sex reassignment of gender dysphoric persons." *Arch Sex Behav* **14** (1985): 79- 90.
+20 Asscheman H, Gooren LJG, Assies J, et al. "Prolactin levels and pituitary enlargement in hormone-treated male-to-female
+transsexuals." *Clin Endocrinol (Oxf)* **28** (1988): 583-588.
+30 Braendle W, Boesse H, Breckwoldt M, et al. "Wirkung und Nebenwirkung der Cyproteronacetatbehandlung." *Arch Gynak* **261** (1974): 335-345.
+30 (translation from German) Braendle W, Boesse H, Breckwoldt M, et al. "Effects and side effects of cyproterone acetate treatment." *Arch Gynak* **261** (1974): 335-345.
+# Tags
+#/1989 #gender-affirmingcare #HAsscheman #HRT #HRT-CPA #HRT-complications-acne #HRT-complications-depression #HRT-complications-hyperprolactinemia #HRT-complications-pulmonaryembolism #HRT-complications-venousthrombosis #HRT-cyproteroneacetate #HRT-estrogen #HRT-testosterone #hormonereplacementtherapy  #LJGGooren #Metabolism #Metabolism-journal #PLEEklund #transsexuality
+
+#unfinished-notes #unfinished-references

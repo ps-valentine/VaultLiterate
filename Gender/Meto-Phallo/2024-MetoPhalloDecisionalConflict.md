@@ -1,4 +1,4 @@
-Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Brown, Glyn Elwyn, Jeremy B Myers, John H Turco, John F Nigriny, and Rachel A Moses. "Exploring Decisional Conflict Experienced by Individuals Considering Metoidioplasty and Phalloplasty Gender-affirming Surgery." *PRS Global Open* **12**, no. 5 (2024): [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11139465/)
+Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Brown, Glyn Elwyn, Jeremy B Myers, John H Turco, John F Nigriny, and Rachel A Moses. "Exploring Decisional Conflict Experienced by Individuals Considering Metoidioplasty and Phalloplasty Gender-affirming Surgery." *Plastic and Reconstructive Surgery Global Open* **12**, no. 5 (2024): [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11139465/)
 # Exploring Decisional Conflict Experienced by Individuals Considering Metoidioplasty and Phalloplasty Gender-affirming Surgery
 ## Abstract
 ### Background
@@ -64,6 +64,6 @@ Otto-Moudry, Reade, Linda M Kinney, Rebecca L Butcher, Gaines Blasdel, Lee K Bro
 35 
 36 
 # Tags
-#/2024 #DCS #decisionalconflict #decisionalconflictscale #GAS-metoidioplasty #GAS-phalloplasty #GainesBlasel #GlynElwyn #JeremyBMyers #JohnFNigriny #JohnHTurco #LeeKBrown #LindaMKinney #PROMs #PRSGlobalOpen #patientreportedoutcomemeasures #RachelAMoses #ReadeOtto-Moudry #RebeccaLButcher #scientificarticle #scientificjournal #transgender-Netherlands #transgender-UnitedStates #urethralfistula  #urethralstricture
+#/2024 #DCS #decisionalconflict #decisionalconflictscale #GAS-metoidioplasty #GAS-phalloplasty #GainesBlasel #GlynElwyn #JeremyBMyers #JohnFNigriny #JohnHTurco #LeeKBrown #LindaMKinney #PROMs #PRSGlobalOpen #patientreportedoutcomemeasures #PlasticandReconstructiveSurgery-GlobalOpen #RachelAMoses #ReadeOtto-Moudry #RebeccaLButcher #scientificarticle #scientificjournal #transgender-Netherlands #transgender-UnitedStates #urethralfistula  #urethralstricture
 
  #unfinished-references

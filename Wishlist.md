@@ -11,7 +11,8 @@
 ## Archives of General Psychiatry
 1. "Male genital self-mutilation" from *Archives of General Psychiatry*. 1979: https://pubmed.ncbi.nlm.nih.gov/426611/
 ## Archives of Sexual Behavior
-1. Verschoor A. M. and J. Poortinga. "Psychosocial differences between Dutch male and female transsexuals." *Archives of Sexual Behavior* **17** (1988), 173-178: https://link.springer.com/article/10.1007/BF01542666
+1. "Physical and hormonal evaluation of transsexual patients. A longitudinal study. *Archives of Sexual Behavior* **15** (1986), 121-138: [external link to abstract](https://link.springer.com/article/10.1007/BF01542220)
+2. "Psychosocial differences between Dutch male and female transsexuals." *Archives of Sexual Behavior* **17** (1988), 173-178: https://link.springer.com/article/10.1007/BF01542666
 ## BJU International
 1. "Total sex-reassignment surgery in female-to-male transsexuals: a one-stage technique." *BJU International* **90**, no. 7 (2002): https://pubmed.ncbi.nlm.nih.gov/12410761/
 ## Clinics in Plastic Surgery
@@ -37,7 +38,9 @@
 ## International Journal of Oral & Maxillofacial Surgery
 - Obtainable journal!
 ## International Journal of Transgenderism
-1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women at higher doses?" from *International Journal of Transgenderism*. 2017 Mar: https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
+1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women at higher doses?" *International Journal of Transgenderism* (2017): https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
+## JAMA (Journal of the American Medical Association)
+1. "Pulmonary embolism in a transsexual man taking diethylstilbestrol." *JAMA* **235**, no. 5 (1976), 532-533: [external link to article summary](https://jamanetwork.com/journals/jama/article-abstract/343542)
 ## Journal of Clinical Endocrinology and Metabolism
 1. "No Venous Thromboembolism Increase among Transgender Female Patients Remaining on Estrogen for Gender-Affirming Surgery" from *The Journal of Clinical Endocrinology & Metabolism* **106**, no. 4 (2021).
 2. "Estrogen-induced prolactinoma in a man." from *The Journal of Clinical Endocrinology and Metabolism*. 1988 Feb: https://europepmc.org/article/med/3339116
@@ -63,6 +66,9 @@
 13. "Pelvic floor and sexual dysfunctions after genital gender-affirming surgery: a systematic review and meta-analysis." *The Journal of Sexual Medicine* **22**, no. 1 (2025), 184-195: https://academic.oup.com/jsm/article-abstract/22/1/184/7900248
 14. "Shallow-depth vaginoplasty: preoperative goals, postoperative satisfaction, and why shallow-depth vaginoplasty should be offered as a standard feminizing genital gender-affirming surgery option." *The Journal of Sexual Medicine* **20,** no. 11 (2023), 1333-1343: https://academic.oup.com/jsm/article-abstract/20/11/1333/7275762
 15. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
+16. "Urethral Complications After Metoidioplasty for Genital Gender Affirming Surgery." *The Journal of Sexual Medicine* **18**, no. 7 (2021), 1271-1279: [external link](https://academic.oup.com/jsm/article-abstract/18/7/1271/6956090?redirectedFrom=fulltext&login=true)
+## Metabolism
+1. "The use and misuse of androgens." *Metabolism* **29**, no. 12 (1980), 1278-1295: [external link to abstract](https://www.sciencedirect.com/science/article/abs/pii/0026049580901596?via%3Dihub)
 ## NEJM Catalyst
 1. "Gender Expression Care: The Next Horizon in Transgender Health." *NEJM Catalyst*. 2023 May: https://catalyst.nejm.org/doi/abs/10.1056/CAT.23.0036 
 ## Oral and Maxillofacial Surgery Clinics of North America
