@@ -8,10 +8,12 @@ Bedard, Julie, Matthew Kropp, Megan Hsu, Olivia T. Karaman, Jason Hawes, and Gab
 - "The literature is filled with mixed signals on the relationship between AI and worker burnout. (Burnout is as a state of chronic workplace stress consisting of exhaustion, negative feelings about work, and decreased effectiveness on the job.) Some studies suggest that using AI to replace tiring tasks alleviates exhaustion; other studies, sometimes on the same populations, show AI use worsening burnout outcomes. The emergence of acute, overwhelming mental fatigue with intensive AI oversight—as distinct from burnout—adds new complexity to the picture."
 - "To understand what was going on, we conducted a study of 1,488 full-time U.S.-based workers... at large companies across industries, roles, and levels. We asked them about patterns and quantity of AI use, work experiences, and cognition and emotions.
   
-  We call it “AI brain fry,” which we define as mental fatigue from excessive use or oversight of AI tools beyond one’s cognitive capacity. Participants described a “buzzing” feeling or a mental fog with difficulty focusing, slower decision-making, and headaches. This AI-associated mental strain carries significant costs in the form of increased employee errors, decision fatigue, and intention to quit.
+  We call it “**AI brain fry**,” which we define as mental fatigue from excessive use or oversight of AI tools beyond one’s cognitive capacity. Participants described a “buzzing” feeling or a mental fog with difficulty focusing, slower decision-making, and headaches. This AI-associated mental strain carries significant costs in the form of increased employee errors, decision fatigue, and intention to quit.
   
   There’s some nuance here, however. We also found when AI is used to replace routine or repetitive tasks, burnout scores—but not mental fatigue scores—are lower. This highlights the subtle-but-important distinction between the types of stress that AI can alleviate, and those that it may worsen."
 ## When AI Use Predicts Mental Fatigue
+- "There’s a huge range in how workers use AI today. There’s variance across the number of tools used at once, the degree to which AI replaces work vs. augments it, the level of oversight required, and whether AI has increased or decreased people’s overall workload. They might use search agents, research agents, data analysis tools, image generation or design tools, or coding agents. We examined this full range of engagement patterns, alongside cognitive measures, in order to understand the mental impacts of different types of AI use."
+- ...
 ## Introducing "AI Brain Fry"
 ## The Business Cost of AI Brain Fry
 ## Less Toil, Less Burnout
