@@ -16,7 +16,7 @@ Weyers, S., Gennaro Selvaggi, Stan Monstrey, M. Dhont, R. Van den Broecke, Petra
 ## Conclusion
 ## References
 4 Ergeneli, MH, EH Duran, G Ozcan, and M Erdogan. "Vaginectomy and laparoscopically assisted vaginal hysterectomy as adjunctive surgery for female-to-male transsexual reassignment: preliminary report." *European Journal of Obstetrics & Gynecology and Reproductive Biology* **87**, no. 1 (1999), 35-37: [external link to article snippets](https://www.sciencedirect.com/science/article/abs/pii/S0301211599000913?via%3Dihub)
-5 Hage, J.J., F.G. Bouman, F.H. de Graaf, and J.J.A.M. Bloem. *Journal of Urology* **149**, no. 6 (1993), 1463-1468: [external link to article summary](https://www.auajournals.org/doi/10.1016/S0022-5347%2817%2936416-9)
+5 Hage, J. Joris, F.G. Bouman, F.H. de Graaf, and J.J.A.M. Bloem. "Construction of the Neophallus in Female-to-Male Transsexuals: The Amsterdam Experience." *Journal of Urology* **149**, no. 6 (1993), 1463-1468: [external link to article summary](https://www.auajournals.org/doi/10.1016/S0022-5347%2817%2936416-9)
 8 Rohrmann, Dorothea and Gerhard Jakse. "Urethroplasty in Female-to-Male Transsexuals." *European Urology* **44**, no. 5 (2003), 611-614: [external link to article snippets](https://www.sciencedirect.com/science/article/abs/pii/S0302283803003567?via%3Dihub)
 9 Fang, R.H., Y.S. Kao, S. Ma, and J.T. Lin. "Phalloplasty in female-to-male transsexuals using free radial osteocutaneous flap: a series of 22 cases." *British Journal of Plastic Surgery* **52**, no. 3 (1999), 217-222: [external link to article summary](https://www.sciencedirect.com/science/article/abs/pii/S0007122698930272?via%3Dihub)
 11 

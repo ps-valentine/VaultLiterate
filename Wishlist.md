@@ -7,7 +7,8 @@
 ## American Journal of Obstetrics and Gynecology
 1. "Patient preparedness: an important predictor of surgical outcome." *American Journal of Obstetrics and Gynecology* **197**, no. 6 (2007), 654e1-654e6: [external link to abstract](https://www.ovid.com/journals/ajog/abstract/00000447-200712000-00038~patient-preparedness-an-important-predictor-of-surgical)
 ## Annals of Plastic Surgery
-1. Hage, J Joris and Arjen A W M van Turnhout. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006): https://pubmed.ncbi.nlm.nih.gov/16929201/
+1. "Long-term outcome of metaidoioplasty in 70 female-to-male transsexuals." *Annals of Plastic Surgery* **57**, no. 3 (2006): https://pubmed.ncbi.nlm.nih.gov/16929201/
+2. "The Importance of Near Total Resection of the Corpus Spongiosum and Total Resection oft he Corpora Cavernosa in the Surgery of Male to Female Transsexuals." *Annals of Plastic Surgery* **26**, no. 6 (1991), 554-557: [external link to abstract](https://journals.lww.com/annalsplasticsurgery/abstract/1991/06000/the_importance_of_near_total_resection_of_the.10.aspx)
 ## Archives of General Psychiatry
 1. "Male genital self-mutilation" from *Archives of General Psychiatry*. 1979: https://pubmed.ncbi.nlm.nih.gov/426611/
 ## Archives of Sexual Behavior
@@ -29,6 +30,8 @@
 - Obtainable journal!
 ## Dissertation or Thesis
 1. Regan, Katelyn R. "Evaluating Desire for and Provision of Gender Affirming Medical Care in the Nonbinary Community: Patient and Gender-Affirming Medical Provider Perspectives." Widener University ProQuest, 2024: [external link](https://www.proquest.com/openview/6ace28f9b98dc2b47847c00011658ace/1?pq-origsite=gscholar&cbl=18750&diss=y)
+## European Urology
+1. "Surgical reconstruction for male-to-female sex reassignment." *European Urology* **64**, no. 1 (2013), 141-149: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/23375962/)
 ## Facial Plastic Surgery
 - This journal is **UNOBTANIUM**.
 1. **UNOBTANIUM**   "Gender-Related Facial Surgical Goals" from *Facial Plastic Surgery*. 2018: [https://pubmed.ncbi.nlm.nih.gov/30296799/](https://pubmed.ncbi.nlm.nih.gov/30296799/)
@@ -41,6 +44,7 @@
 - Obtainable journal!
 ## International Journal of Transgenderism
 1. "Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women at higher doses?" *International Journal of Transgenderism* (2017): https://www.tandfonline.com/doi/full/10.1080/15532739.2017.1290566?scroll=top&needAccess=true
+2. "Vaginoplasty in Male to Female Transsexuals Using Penile Skin and Urethral Flap." *International Journal of Transgenderism* **8**, no. 1 (2005), 43-64: [external link to abstract](https://www.tandfonline.com/doi/abs/10.1300/J485v08n01_05)
 ## JAMA (Journal of the American Medical Association)
 1. "Pulmonary embolism in a transsexual man taking diethylstilbestrol." *JAMA* **235**, no. 5 (1976), 532-533: [external link to article summary](https://jamanetwork.com/journals/jama/article-abstract/343542)
 ## Journal of Clinical Endocrinology and Metabolism
@@ -50,6 +54,8 @@
 1. "Self-performed bilateral orchiectomy in transsexuals" from *Journal of Clinical Psychology*. 1982 Jul: [https://pubmed.ncbi.nlm.nih.gov/7085590/](https://pubmed.ncbi.nlm.nih.gov/7085590/)
 ## Journal of Cranio-Maxillofacial Surgery
 - Obtainable journal!
+## Journal of Lower Genital Tract Disease
+1. "Carcinoma of the Neovagina After Male-to-Female Reassignment." *Journal of Lower Genital Tract Disease* **18**, no. 2 (2014), e43-e45: [external link to abstract](https://journals.lww.com/jlgtd/abstract/2014/04000/carcinoma_of_the_neovagina_after_male_to_female.18.aspx)
 ## Journal of Plastic, Reconstructive & Aesthetic Surgery
 1. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
 ## Journal of Sexual Medicine
@@ -80,7 +86,8 @@
 ## Perception
 - Obtainable journal!
 ## Plastic and Reconstructive Surgery
-1. Hage, Joris J. "Metaidoioplasty: an alternative phalloplasty technique in transsexuals." *Plastic and Reconstructive Surgery* **97**, no. 1 (1996), 161-167: https://pubmed.ncbi.nlm.nih.gov/8532774/
+1. "Late Development of Squamous Cell Carcinoma in a Split-Skin Graft Lining a Vagina." *Plastic and Reconstructive Surgery* **51**, no. 4 (1973), 454-456: [external link to citation and short extract](https://journals.lww.com/plasreconsurg/citation/1973/04000/LATE_DEVELOPMENT_OF_SQUAMOUS_CELL_CARCINOMA_IN_A.25.aspx)
+2. "Metaidoioplasty: an alternative phalloplasty technique in transsexuals." *Plastic and Reconstructive Surgery* **97**, no. 1 (1996), 161-167: https://pubmed.ncbi.nlm.nih.gov/8532774/
 ## Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery
 - Obtainable journal!
 ## Sex Roles
@@ -103,4 +110,4 @@
 ## Urology Clinics of North America
 1. "Orchiectomy as Bridge or Alternative to Vaginoplasty" from *Urology Clinics of North America* **46** (2019), 505-510: https://www.sciencedirect.com/science/article/abs/pii/S0094014319300527?via%3Dihub
 # Tags
-#ActaPsychologica #AnnalsofPlasticSurgery #ArchivesofGeneralPsychiatry #BJUInternational #ClinicsinPlasticSurgery #DermatologicalClinics #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #InternationalJournalofOralMaxillofacialSurgery #JournalofPlasticReconstructiveAestheticSurgery #JournalofSexualMedicine #OralandMaxillofacialSurgeryClinicsofNorthAmerica #Perception-journal #PlasticandReconstructiveSurgery #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
+#ActaPsychologica #AnnalsofPlasticSurgery #ArchivesofGeneralPsychiatry #BJUInternational #ClinicsinPlasticSurgery #DermatologicalClinics #EuropeanUrology #FacialPlasticSurgery #FacialPlasticSurgeryClinicsofNorthAmerica #facialsurgery #facialfeminizationsurgery #FFS #GAS #gender-affirmingsurgery #InternationalJournalofOralMaxillofacialSurgery #InternationalJournalofTransgenderism #JournalofClinicalEndocrinologyandMetabolism #JournalofClinicalPsychology #JournalofCranioMaxillofacialSurgery #JournalofLowerGenitalTractDisease #JournalofPlasticReconstructiveAestheticSurgery #JournalofSexualMedicine #OralandMaxillofacialSurgeryClinicsofNorthAmerica #Perception-journal #PlasticandReconstructiveSurgery #ScandinavianJournalofPlasticandReconstructiveSurgeryandHandSurgery #scientificarticle #scientificjournal #SexRoles #SexualitiesEvolutionGender #TheAngleOrthodontist #Urology
