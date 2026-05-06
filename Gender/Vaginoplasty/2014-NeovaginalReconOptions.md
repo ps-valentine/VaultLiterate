@@ -42,12 +42,12 @@ An overview of common surgical options for vaginoplasty with historical notes.
 3 Garrels, L., G. Kockott, N. Michael, W. Preuss, K. Renter, G. Schmidt, V. Sigusch, and K. Windgassen. "Sex ratio of transsexuals in Germany: the development over three decades." *Acta Psychiatrica Scandinavica* **102**, no. 6 (2001), 445-448: [external link](https://ai.eecs.umich.edu/people/conway/TS/Prevalence/Reports/REFs/garrels2000.pdf)
 4 De Cuypere, Griet, M. Van Hemelrijck, A. Michel, B. Carael, Gunter Heylens, Robert Rubens, Piet Hoebeke, and Stan Monstrey. "Prevalence and demography of transsexualism in Belgium." *European Psychiatry* **22**, no. 3 (2007), 137-141: [external link](https://d1wqtxts1xzle7.cloudfront.net/67416006/DeCuypere2006-libre.pdf?1621861555=&response-content-disposition=inline%3B+filename%3DPrevalence_and_demography_of_transsexual.pdf&Expires=1778087946&Signature=CSxBe6bx7sClkXYgblQvAEA58XVjJ5vstK96dOwHt0renlyXSUqYt6mUAkU8y0C70X9IgKe~QxsbhnScyyh-TkfguzzVmlZzHHDp6gEv8NgpZQGr9hCBhMuUQgwjDLObjx1RuMcahFoy84avXslEhKb6GcbK5rRf-NPVoyNuy9v6Fkgj-az7maaVQl5Oa3O5fGkZJqqKjh3phUIUwWPIZ9VeEORLW9z3JW58sBHeGPOSsS7O7gJrdfQWo1WuyWvtO7ACPF~eBKJbXehQAUDx8buPmOYJ9qKGe8PGhauk4GA2XyJrdkEVnP4LSODI4ADuEReLQlNjsLKg-K6fHLLbgA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 5 Veale, Jaimie F. "Prevalence of transsexualism among New Zealand passport holders." *Australian & New Zealand Journal of Psychiatry* **42**, no. 10 (2008), 887: [external link to article draft](https://www.researchgate.net/profile/Jaimie-Veale/publication/23243121_Prevalence_of_Transsexualism_Among_New_Zealand_Passport_Holders/links/00b7d51a246208ad81000000/Prevalence-of-Transsexualism-Among-New-Zealand-Passport-Holders.pdf)
-6 
-7
-8
-11
-12
-13
+6 Vujovic, Svetlana, Srdjan Popovic, Gorica Sbutega-Milosevic, Miroslav Djordjevic, and Louis Gooren. "Transsexualism in Serbia: A Twenty-Year Follow-Up Study." *The Journal of Sexual Medicine* **6**, no. 4 (2009), 1018-1023: [external link to article snippets](https://www.sciencedirect.com/science/article/abs/pii/S1743609515324759)
+7 Hoshiai, Masahiko, Yosuke Matsumoto, Toshiki Sato, Masaru Ohnishi, Nobuyuki Okabe, Yuki Kishimoto, Seishi Terada, and Shigetoshi Kuroda. "Psychiatric comorbidity among patients with gender identity disorder." *Psychiatry and Clinical Neurosciences* **64**, no. 5 (2010), 514-519: [external link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1440-1819.2010.02118.x)
+8 Baba, Tsuyoshi, Toshiaki Endo, Keiko Ikeda, Ayumi Shimizu, Hiroyuki Honnma, Hiroshi Ikeda, Naoya Masumori, Tousei Ohmura, Tamotsu Kiya, Takashi Fujimoto, Motoiki Koizumi, and Tsuyoshi Saito. "Distinctive Featurs of Female-to-Male Transsexualism and Prevalence of Gender Identity Disorder in Japan." *The Journal of Sexual Medicine* **8**, no. 6 (2011), 1686-1693: [external link to article snippets](https://www.sciencedirect.com/science/article/abs/pii/S1743609515335530)
+11 Abraham, Felix. "Genitalumwandlung an zwei männlichen Transvestiten." *Zeitschrift für Sexualwissenschaft und Sexualpolitik* **18** (1931): 223-226: [external link to English translation, dated to 1998](https://editions-ismael.com/wp-content/uploads/2017/10/1931-Felix-Abraham-Genital-Reassignment-on-Two-Male-Transvestites.pdf)
+12 Abbe, Robert. "New method of creating a vagina in a case of congenital absence." *Medical Record (1866-1922)* **54**, no. 24 (1898), 836: [external link to article preview](https://www.proquest.com/openview/0cd06c2d5b59324fd48cb531282d2e1c/1?pq-origsite=gscholar&cbl=40146)
+13 Banister, J Bright and A H McIndoe. "Congenital Absence of the Vagina, treated by Means of an Indwelling Skin-Graft." *Proceedings of the Royal Society of Medicine* **31**, no. 9 (1938), 1055-1056: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC2076989/)
 14
 16
 20
@@ -73,4 +73,4 @@ An overview of common surgical options for vaginoplasty with historical notes.
 # Tags
 #/1931 #/1956 #/1957 #/2014 #AleksandarMilosevic #DavidRalphMillard #DraganDuisin #DusanStanojevic #FSFI #FelixAbraham #FemaleSexualFunctionIndex #GAS-complications-prolapse #GAS-complications-scarring #GAS-vaginoplasty #GAS-vaginoplasty-PI #GAS-vaginoplasty-depth #GAS-vaginoplasty-penileinversion #GAS-vaginoplasty-sensation #GAS-vaginoplasty-sigmoid #GradimirKorac #HaroldDelfGillies #MartaRBizic #MiroslavLDjordjevic #PFogh-Andersen #RalphMillard #surgicalcomplications #SvetlanaVujovic #theScientificWorldJournal #trans-sexuality #transgender-occurrencerate #transgender-sexualpleasure #transsexual #transsexual-sexuality #vaginoplasty #VladimirKojovic 
 
-#unfinished-notes #unfinished-references
+#unfinished-references
