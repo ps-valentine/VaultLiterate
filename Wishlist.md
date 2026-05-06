@@ -11,8 +11,10 @@
 ## Archives of General Psychiatry
 1. "Male genital self-mutilation" from *Archives of General Psychiatry*. 1979: https://pubmed.ncbi.nlm.nih.gov/426611/
 ## Archives of Sexual Behavior
-1. "Physical and hormonal evaluation of transsexual patients. A longitudinal study. *Archives of Sexual Behavior* **15** (1986), 121-138: [external link to abstract](https://link.springer.com/article/10.1007/BF01542220)
-2. "Psychosocial differences between Dutch male and female transsexuals." *Archives of Sexual Behavior* **17** (1988), 173-178: https://link.springer.com/article/10.1007/BF01542666
+1. "An epidemiological and demographic study of transsexuals in the Netherlands." *Archives of Sexual Behavior* **25** (1996), 589-600: [external link to abstract](https://link.springer.com/article/10.1007/BF02437841)
+2. "Orgasm in the postoperative transsexual." *Archives of Sexual Behavior* **22**, no. 2 (1993), 145-155: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/8476334/)
+3. "Physical and hormonal evaluation of transsexual patients. A longitudinal study. *Archives of Sexual Behavior* **15** (1986), 121-138: [external link to abstract](https://link.springer.com/article/10.1007/BF01542220)
+4. "Psychosocial differences between Dutch male and female transsexuals." *Archives of Sexual Behavior* **17** (1988), 173-178: https://link.springer.com/article/10.1007/BF01542666
 ## BJU International
 1. "Total sex-reassignment surgery in female-to-male transsexuals: a one-stage technique." *BJU International* **90**, no. 7 (2002): https://pubmed.ncbi.nlm.nih.gov/12410761/
 ## Clinics in Plastic Surgery

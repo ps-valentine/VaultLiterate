@@ -1,4 +1,6 @@
 Bizic, Marta R, Vladimir Kojovic, Dragan Duisin, Dusan Stanojevic, Svetlana Vujovic, Aleksandar Milosevic, Gradimir Korac, and Miroslav L. Djordjevic. "An Overview of Neovaginal Reconstruction Options in Male to Female Transsexuals." *The Scientific World Journal* **2014** (2014): [external link to article](https://www.academia.edu/164531080/An_Overview_of_Neovaginal_Reconstruction_Options_in_Male_to_Female_Transsexuals?email_work_card=title)
+
+An overview of common surgical options for vaginoplasty with historical notes.
 # An Overview of Neovaginal Reconstruction Options in Male to Female Transsexuals
 ## Abstract
 ## Introduction
@@ -26,11 +28,49 @@ Bizic, Marta R, Vladimir Kojovic, Dragan Duisin, Dusan Stanojevic, Svetlana Vujo
 - "Further disadvantages of intestinal vaginoplasty are the need for preoperative bowel preparation and additional abdominal surgery with intestinal anastomosis, which increases the risk of postoperative ileus. In addition, diversion colitis, as well as adenocarcinoma of neovagina, introital stenosis, mucocele and constipation have been reported, although with a low incidence."
 - "Kim et al. recently concluded that rectosigmoid vaginoplasty is the best choice for male to female transsexuals who have previously undergone total penectomy and orchiectomy, or for those with previously failed skin vaginoplasty and for patients with Mayer-Rokitansky syndrome, as was also reported by Lima et al."
 ### Clitoro-Labioplasty
-- "A section of penile skin base is used to form the labia minora, which are sutured to the de-epithelialized area of the neoclitoris; thus the neoclitoris is hooded with the labia minora. Excessive scrotal skin is removed and the remaining section used to form the labia majora."
+- "A section of penile skin base is used to form the labia minora, which are sutured to the de-epithelialized area of the neoclitoris; thus the neoclitoris is hooded with the labia minora. Excessive scrotal skin is removed and the remaining section used to form the labia majora... However, secondary corrections may be needed because of the changes in appearance, due to the healing process, usually one year post-operatively."
+- "The ﬁrst report of the construction of a clitoris was published by Brown in 1976, using a reduced glans, attached to its dorsal penile neurovascular pedicle. The high percentage of clitoral necrosis reported by Brown himself provoked other authors to seek new or modiﬁed techniques in clitoroplasty."
+- "Up to 1995, creation of the neoclitoris was not an important part of surgical standards in MTF sex reassignment surgery."
+- "A very important surgical step is the creation of a well-vascularized neoclitoris during the primary vaginal reconstruction... Nowadays, the glans cap is divided into two parts, ventral and dorsal; the dorsal section of the glans is reduced by excising the central ventral tissue, leaving the sides of the glans intact. Lateral excisions on the glans are not recommended, to avoid injuring the neurovascular bundle, which enters the glans cap lateroventrally. However, the sides are de-epithelialized and sutured, to obtain a conical shape of the neoclitoris."
 ## Quality of Sexual Life
+- "There are reports of sexual satisfaction aﬅer vaginoplasty in male to female patients, who were capable of achieving an orgasm in 70–80%. As concluded by Lief and Hubschman, a patient can be sexually satisﬁed following a SRS, despite inadequate sexual functioning. Our group also reported satisfactory results in 79% of male to female transgender patients following vaginoplasty involving penile skin combined with urethral ﬂap."
+- "In their study, Weyers et al. reported that in average the transsexual women were very satisﬁed with their womanhood. **Sexual functioning and sexual satisfaction assessed by FSFI was diﬀerent in the study group according to the patient’s sexual orientation, and markedly lower in transwomen with homosexual preference.** As a generalized conclusion, authors stated that the modiﬁcation of the FSFI questionnaire for the transwomen should be created to fully understand the sexual function and diﬃculties in transsexual women."
 ## Conclusions
+"Functional satisfaction in patients undergoing male to female sex reassignment surgery is greatly reliant on adequate depth of the neovagina as well as on the sensation of the neoclitoris needed to achieve an orgasm. Overall satisfaction of the patients is also related to aesthetic appearance of the neocreated vulva, visibility of scars and need for repeat surgeries."
 ## References
+2 van Kesteren, Paul J., Louis J. Gooren, and Jos A. Megens. "An epidemiological and demographic study of transsexuals in the Netherlands." *Archives of Sexual Behavior* **25** (1996), 589-600: [external link to abstract](https://link.springer.com/article/10.1007/BF02437841)
+3 Garrels, L., G. Kockott, N. Michael, W. Preuss, K. Renter, G. Schmidt, V. Sigusch, and K. Windgassen. "Sex ratio of transsexuals in Germany: the development over three decades." *Acta Psychiatrica Scandinavica* **102**, no. 6 (2001), 445-448: [external link](https://ai.eecs.umich.edu/people/conway/TS/Prevalence/Reports/REFs/garrels2000.pdf)
+4 De Cuypere, Griet, M. Van Hemelrijck, A. Michel, B. Carael, Gunter Heylens, Robert Rubens, Piet Hoebeke, and Stan Monstrey. "Prevalence and demography of transsexualism in Belgium." *European Psychiatry* **22**, no. 3 (2007), 137-141: [external link](https://d1wqtxts1xzle7.cloudfront.net/67416006/DeCuypere2006-libre.pdf?1621861555=&response-content-disposition=inline%3B+filename%3DPrevalence_and_demography_of_transsexual.pdf&Expires=1778087946&Signature=CSxBe6bx7sClkXYgblQvAEA58XVjJ5vstK96dOwHt0renlyXSUqYt6mUAkU8y0C70X9IgKe~QxsbhnScyyh-TkfguzzVmlZzHHDp6gEv8NgpZQGr9hCBhMuUQgwjDLObjx1RuMcahFoy84avXslEhKb6GcbK5rRf-NPVoyNuy9v6Fkgj-az7maaVQl5Oa3O5fGkZJqqKjh3phUIUwWPIZ9VeEORLW9z3JW58sBHeGPOSsS7O7gJrdfQWo1WuyWvtO7ACPF~eBKJbXehQAUDx8buPmOYJ9qKGe8PGhauk4GA2XyJrdkEVnP4LSODI4ADuEReLQlNjsLKg-K6fHLLbgA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+5 Veale, Jaimie F. "Prevalence of transsexualism among New Zealand passport holders." *Australian & New Zealand Journal of Psychiatry* **42**, no. 10 (2008), 887: [external link to article draft](https://www.researchgate.net/profile/Jaimie-Veale/publication/23243121_Prevalence_of_Transsexualism_Among_New_Zealand_Passport_Holders/links/00b7d51a246208ad81000000/Prevalence-of-Transsexualism-Among-New-Zealand-Passport-Holders.pdf)
+6 
+7
+8
+11
+12
+13
+14
+16
+20
+24
+25
+26
+27
+28
+31
+32
+33
+35
+39
+40
+45
+46
+47
+50
+51
+52
+53 Lief, H I and L Hubschman. "Orgasm in the postoperative transsexual." *Archives of Sexual Behavior* **22**, no. 2 (1993), 145-155: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/8476334/)
+56 Weyers, Steven, MrSc Els Elaut, Petra De Sutter, Jan Gerris, Guy T'Sjoen, Gunter Heylens, Griet De Cuypere, and Hans Verstraelen. "Long-Term Assessment of the Physical, Mental, and Sexual Health Among Transsexual Women." *The Journal of Sexual Medicine* **6**, no. 3 (2009), 752-760: [external link]([https://academic.oup.com/jsm/article-abstract/6/3/752/6834498](https://d1wqtxts1xzle7.cloudfront.net/67416021/j.1743-6109.2008.01082.x20210524-7649-mj8me7-libre.pdf?1621861555=&response-content-disposition=inline%3B+filename%3DLong_term_Assessment_of_the_Physical_Men.pdf&Expires=1778086646&Signature=MT3P56gHbz-DXEFacUcv-apZekRjVsYsI760yIh5qUC3sROMuMazOz0GfgMBJyrJstEzLjnQp7H~niwQU2vXnqsxmQkUJFDQQCCGV7WIBmBOfGTNdljVaYh52HeMcmUhaNiPbEjDxdchRDm0HSP0oXgHkutkrl1wF6rAGE0AioBA8DHT10h6Bkao4LWUBTt91241SHOtIHNN32-JY5rD75NeCHgw79ACQkmTOFLeZ0apDsDzN1wpLdXTil7dOVBQI6X~pNQqv1c-hLmPqkdX5vfypJ~qJzxeiWlTujQ1C2z11h2h-lHkjEwsq5PHzI9IAJVHrGe-rckAYsi431mEfA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))
 # Tags
-#/1931 #/1956 #/1957 #/2014 #AleksandarMilosevic #DavidRalphMillard #DraganDuisin #DusanStanojevic #FelixAbraham #GAS-complications-prolapse #GAS-complications-scarring #GAS-vaginoplasty #GAS-vaginoplasty-PI #GAS-vaginoplasty-depth #GAS-vaginoplasty-penileinversion #GAS-vaginoplasty-sensation #GAS-vaginoplasty-sigmoid #GradimirKorac #HaroldDelfGillies #MartaRBizic #MiroslavLDjordjevic #PFogh-Andersen #RalphMillard #surgicalcomplications #SvetlanaVujovic #theScientificWorldJournal #transgender-occurrencerate #transsexual #transsexual-sexuality #vaginoplasty #VladimirKojovic 
+#/1931 #/1956 #/1957 #/2014 #AleksandarMilosevic #DavidRalphMillard #DraganDuisin #DusanStanojevic #FSFI #FelixAbraham #FemaleSexualFunctionIndex #GAS-complications-prolapse #GAS-complications-scarring #GAS-vaginoplasty #GAS-vaginoplasty-PI #GAS-vaginoplasty-depth #GAS-vaginoplasty-penileinversion #GAS-vaginoplasty-sensation #GAS-vaginoplasty-sigmoid #GradimirKorac #HaroldDelfGillies #MartaRBizic #MiroslavLDjordjevic #PFogh-Andersen #RalphMillard #surgicalcomplications #SvetlanaVujovic #theScientificWorldJournal #trans-sexuality #transgender-occurrencerate #transgender-sexualpleasure #transsexual #transsexual-sexuality #vaginoplasty #VladimirKojovic 
 
-#unfinished-notes #unfinished-references #unfinished-tags
+#unfinished-notes #unfinished-references
