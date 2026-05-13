@@ -23,6 +23,7 @@ Pathari, Fathima Jubina, Yvonne Nielsen, Liv Angri Andersen, and Georgios Marent
   
 A CVS questionnaire combining questions and Likert scale items was used to measure the eye fatigue of the participants. This questionnaire was adapted from a previous study on eye fatigue based on the Visual Fatigue Scale (VFS) developed by Heuer and Hollendiek. The questionnaire begins with demographic questions, followed by questions about eye health (such as prescriptions, allergies, and dry eyes), and the average screen time during a day. Participants then use six Likert scale to respond to questions that assess various aspects of visual discomfort on a scale from 1 to 10: (1) It is hard for me to see the screen clearly, (2) I have a strange feeling in my eyes, (3) I have sore eyes such as acerbity, tingling, or swelling, (4) The brightness of the screen numbs my eyes, (5) Looking at the screen, I feel dizzy or fuzzy, (6) I feel a headache. Eye fatigue is then calculated as the average of these ratings."
 ### Hypotheses
+"Given supporting evidence in the literature, we hypothesized that the use of dark mode on smartphones will lead to significantly less eye fatigue in users compared to the use of light mode, especially in dim ambient lighting conditions."
 ### Apparatus & Materials
 ### Tasks and Instructions
 ### Procedure
