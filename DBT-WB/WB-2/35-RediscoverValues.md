@@ -54,6 +54,4 @@ Again, the purpose of these exercises is to fill your life with activities that 
    -  
    -  
 # # Tags
-#/2007 #ARMurrell #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #ethics #genre-self-help #JCOlerud  #JeffreyBrantley #JeffreyCWood #KGWilson #MatthewMcKay  #mentalhealth #musclerelaxation #overhwelmingemotions #questionnaire #resilience #self-regulation #self-soothing #worksheet
-
-#tone-instructional #tone-motivational
+#/2007 #ARMurrell #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #ethics #genre-self-help #JCOlerud  #JeffreyBrantley #JeffreyCWood #KGWilson #MatthewMcKay  #mentalhealth #musclerelaxation #overhwelmingemotions #questionnaire #resilience #self-regulation #self-soothing #tone-instructional #tone-motivational #worksheet
