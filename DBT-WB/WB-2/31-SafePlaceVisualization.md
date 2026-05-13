@@ -36,4 +36,4 @@ Complete the following sentences about your safe place before beginning the visu
 
 *Now keep your eyes close and return your focus to your breathing. Again, take some slow, long breaths in through your nose and exhale through your mouth. Then, when you feel ready, open your eyes and return your focus to the room.*
 # Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation #meditation-safeplace #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #tone-self-help
+#/2007 #DBT #DBT-exercise #DBT-visualization #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation #meditation-safeplace #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #tone-self-help
