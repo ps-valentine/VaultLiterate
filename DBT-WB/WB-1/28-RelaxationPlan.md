@@ -52,16 +52,3 @@ Now copy these last ten ideas on an index card to remind you what to do when you
 You've now learned some basic distraction and relaxation skills. You should begin using these immediately when you become overwhelmed with painful emotions.  The next chapter will build on these skills and teach you more advanced distraction and relaxation skills.
 # Tags
 #/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing #worksheet
-
-# Standard Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#angermanagement #crying #cutting #endorphins #theGrandCanyon #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk  #pleasurableactivities #radicalacceptance #self-harm #sensoryawareness  #substanceuse #substanceuse-alcohol #suicidality
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
- #tone-motivational #tone-self-help
-
-#list #worksheet
