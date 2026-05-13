@@ -25,10 +25,18 @@ A CVS questionnaire combining questions and Likert scale items was used to measu
 ### Hypotheses
 "Given supporting evidence in the literature, we hypothesized that the use of dark mode on smartphones will lead to significantly less eye fatigue in users compared to the use of light mode, especially in dim ambient lighting conditions."
 ### Apparatus & Materials
+- "The smartphone used in the experiment was a Samsung Galaxy A53 with an Android operating system and built-in light and dark mode display options. Its screen size, measured diagonally, is 6.5 inches in the full rectangle and 6.3 inches accounting for the rounded corners."
+- "Smartphone luminance varied in accordance with the automated screen brightness adaptation of the smartphone."
 ### Tasks and Instructions
+- "During the experiment, participants performed a number of tasks in each display polarity mode. Tasks were designed to be of the same type but had different characteristics... Following each task group, participants were asked to fill out the aforementioned questionnaire to assess symptoms of eye fatigue."
 ### Procedure
+- "It took about 15 minutes to complete each task group."
 ### Participants
+"Participants were invited via email. A total of 18 IT students participated in the experiments, aged between 20 and 50 years, with eleven males and seven females, with nine participants assigned to each ambient lighting group. The average duration of mobile phone usage of the participants is 7.94 hours per day. IT students were targeted due to easy access, due to sharing a common foundation for experiencing eye fatigue from regular screen exposure due to participation in a computer-based study program, and good technological abilities and familiarity with smartphone usage."
 ## Results
+- "Figure 2. Eye fatigue display polarity for (a) bright and (b) dim ambient light for each participant and (c) eye fatigue versus ambient light and display polarity. Error bars show the standard deviation of the mean." ![[2024-SmartphoneMode-Figure2AB.png]]![[2024-SmartphoneMode-Figure2C.png]]
+- "It can be seen that during bright ambient light, eye fatigue is on average lower for the negative compared to the positive display polarity, while during dim ambient light, eye fatigue for positive display polarity is lower when compared to negative."
+- "When ambient light was bright, negative polarity (dark mode) led to significantly lower eye fatigue compared to positive polarity (light mode) (p = 0.004). This difference was not significant when ambient lighting was dim. Furthermore, according to the t-tests, eye fatigue did not vary significantly when comparing bright and dim ambient lighting conditions with the positive polarity display mode."
 ## Discussion
 ## Conclusion
 ## References
