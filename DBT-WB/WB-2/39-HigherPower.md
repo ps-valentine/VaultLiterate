@@ -41,11 +41,11 @@ Here are some additional activities to help you feel more connected to your high
 - [ ] *Remember that your higher power can also be something other than God.* Your higher power can be a person who makes you feel stronger and more confident to deal with the challenges that you face. Think of someone you admire who can be your higher power. Describe that person. What makes that person special? Then, the next time you're in a difficult or distressing situation, act as if you are that person, and notice how you handle the situation differently.
 - [ ] *Look up at the stars.* The light you're seeing is millions of years old, and it has traveled from stars that are billions of miles away. In fact, each time you look up at the stars, you're looking through a time machine and seeing the universe as it looked billions of years ago. Strangely, many of the stars you're looking at have already died, but their light is just reaching your eyes on the Earth. Look up at the stars and recognize that whatever created them also created you, whether it was God or a cosmic accident. You are connected to the stars. Imagine yourself connecting with the universe. Sit in a comfortable chair, close your eyes, and imagine a beam of light shining down from the universe. Like a laser beam, the light shines on the top of your heads and fills you with a feeling of peace. Now imagine the light spreading all over your body, relaxing every muscle. Now imagine your legs stretching down through the floor like giant tree trunks, going all the waty down into the center of the Earth. Imagine these roots tapping into the energy that drives the planet. Feel your body fill with confidence as your legs absorb the energy flowing up from the Earth.
 - [ ] *Think about our planet Earth.* Water is the most important substance for sustaining life on our planet. Yet if we were much closer to the sun, all the water on our planet would evaporate because the temperature would be too hot, and if we were much farther away, all the water would freeze because the temperature would be too cold. Somehow, we've been luck enough to be in just the right place for life to form. Even if you don't believe in a religious purpose, ask yourself what it means that you live on a planet with just the right climate and elements for life to exist. How did this happen, and what does it mean about your life?
-- [ ] *Go to the beach.* Try to count the grains...
+- [ ] *Go to the beach.* Try to count the grains in a handful of sand. Now try to imagine how many handfuls of sand there are in the world, on all the beaches and in all the deserts. Try to imagine how many billions of years must have passed to create so many grains of sand. And again, recognize that the chemical elements that make up the sand also exist in you. Stand with your feet in the sand and imagine feeling connected to the planet.
 - [ ] *Go to a park or to a field and observe the trees, the grass, and the animals.* Again, recognize that whatever...
 - [ ] *Think about the human body, especially your own.* Each human being is more wonderful than a piece of artwork and more complex than any computer ever invented. Everything about you is largely determined by your DNA (deoxyribonucleic acid), the instructions that are found in every cell of your body...
 # # Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #ethics #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #resilience #self-regulation #self-soothing #spirituality #questionnaire #worksheet
+#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #ethics #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay #meditation #mentalhealth #overhwelmingemotions #resilience #self-regulation #self-soothing #spirituality #questionnaire #worksheet
 
 #unfinished-notes 
 # Standard Tags
@@ -53,7 +53,7 @@ Here are some additional activities to help you feel more connected to your high
 
 #unfinished-notes
 # Tag Bank
-#angermanagement #crying #cutting #endorphins #ethics #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #pleasurableactivities #radicalacceptance #resilience #self-harm #sensoryawareness #spirituality #substanceuse #substanceuse-alcohol #suicidality
+#angermanagement #crying #cutting #endorphins #ethics #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #pleasurableactivities #radicalacceptance #resilience #self-harm #sensoryawareness #spirituality #substanceuse #substanceuse-alcohol #suicidality
 
 #ARMurrell #JCOlerud #KGWilson #theGrandCanyon
 
@@ -61,4 +61,4 @@ Here are some additional activities to help you feel more connected to your high
 
 #tone-instructional #tone-motivational #tone-self-help
 
-#list #questionnaire #worksheet
+#list #meditation #questionnaire #worksheet
