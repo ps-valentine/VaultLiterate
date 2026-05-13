@@ -54,7 +54,7 @@ The reference section for this article is rich in resources focusing on the rela
 28 
 30 
 34 
-35 Pathari, Fathima Jubina, Yvonne Nielsen, Liv Angri Andersen, and Georgios Marentakis. "Dark vs. Light Mode on Smartphones: Effects on Eye Fatigue." Paper presented at ACHI 2024: The Seventeenth International Conference on Advances in Computer-Human Interactions, Barcelona, Spain, May 2024. [external link](https://personales.upv.es/thinkmind/dl/conferences/achi/achi_2024/achi_2024_3_150_20069.pdf).
+35 Pathari, Fathima Jubina, Yvonne Nielsen, Liv Angri Andersen, and Georgios Marentakis. "[[2024-SmartphoneMode|Dark vs. Light Mode on Smartphones: Effects on Eye Fatigue]]." Paper presented at ACHI 2024: The Seventeenth International Conference on Advances in Computer-Human Interactions, Barcelona, Spain, May 2024. [External link](https://personales.upv.es/thinkmind/dl/conferences/achi/achi_2024/achi_2024_3_150_20069.pdf).
 # Tags
 #/2025 #criticalclickerfrequency #darkmode #dryeye #graphicdesign #InternationalJournalofEnvironmentalResearchandPublicHealth #lightmode #PraphatsonSengsoon #RoongnapaIntaruk #tablets #visualfatigue
 
