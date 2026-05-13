@@ -26,12 +26,22 @@ Another exercise to help you refocus on the present moment is the Listening to N
 
 A variation of this listening exercise will help you stay focused on the present moment while you're in a conversation with another person. If you notice that your attention is beginning to wander and you start thinking about your past or future, focus your attention on something that the person is wearing, like a button on their shirt, a hat they're wearing, or their collar. Note to yourself what color the items is and what it looks like. Sometimes this can snap you out of your time traveling. Now continue to listen, and if your mind begins to wander again, do the same thing and try to keep listening.
 ### **Exercise:** Mindful Breathing
-Another exercise that will help you stay focused in the present moment is breathing. It sounds simple, but we often don't breathe as well as we should. Think about it: who ever taught you how to breathe? If you're like the rest of us, probably no one. And yet, you do it about fifteen times a minute or almost 22,000 times a day! Everyone knows that we breathe air to take in oxygen. But how much of the air you breathe is actually oxygen -- 100 percent, 75 percent? The correct answer is that the air you breathe is only about 21 percent oxyen, and when your body doesn't get enough oxygen it can knock your biological system off balance. For this reason alone, taking full, slow breaths is important. But another benefit of breathing fully is that this simple technique can help you relax and focus. Many spiritual traditions combine slow breathing techniques with guided meditations to help people focus and relax.
+Another exercise that will help you stay focused in the present moment is breathing. It sounds simple, but we often don't breathe as well as we should. Think about it: who ever taught you how to breathe? If you're like the rest of us, probably no one. And yet, you do it about fifteen times a minute or almost 22,000 times a day! Everyone knows that we breathe air to take in oxygen. But how much of the air you breathe is actually oxygen -- 100 percent, 75 percent? The correct answer is that the air you breathe is only about 21 percent oxygen, and when your body doesn't get enough oxygen it can knock your biological system off balance. For this reason alone, taking full, slow breaths is important. But another benefit of breathing fully is that this simple technique can help you relax and focus. Many spiritual traditions combine slow breathing techniques with guided meditations to help people focus and relax.
 
-Here's a breathing exercise...
+Here's a breathing exercise that many people find helpful. This type of breathing is also called *diaphragmatic breathing* because it activates the diaphragm muscle at the bottom of your lung cavity. Engaging the diaphragm helps you take fuller, deeper breaths, which also helps you relax.
+
+Read the instructions before beginning the exercise to familiarize yourself with the experience. If you feel more comfortable listening to the instructions, use an audio-recording device to record the directions in a slow, even voice so that you can listen to them while practicing this technique. Set a kitchen timer or an alarm clock for five minutes and practice breathing until the alarm goes off. Then as you get more accustomed to using this technique to help you relax, you can set the alarm for longer periods of time, like ten or fifteen minutes. But don't expect to be able to sit still that long when you first start. In the beginning, five minutes is a long time to sit still and breathe.
+
+When using this new form of breathing, many people often feel as if they become "one" with their breathing, meaning they feel a deep connection to the experience. If that happens for you, great. If not, that's okay, too. Just keep practicing. Also, some people feel light-headed when they first begin practicing this technique. This may be caused by breathing too fast, too deeply, or too slowly. Don't be alarmed. If you begin to feel light-headed, stop if you need to, or return your breathing to a normal rate and begin counting your breaths.
 #### *Instructions*
-To being, find a comfortable place to sit in a room where you won't be disturbed for as long as you've set your timer...
-# # Tags
+*To begin, find a comfortable place to sit in a room where you won't be disturbed for as long as you've set your timer...*
+
+*Now, as you continue...*
+
+*When your mind begins to wander...*
+
+*Keep breathing until your alarm goes off, and then slowly return your focus to the room you're in.*
+# Tags
 #/2007 #DBT #DBT-breathing #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help #grounding  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  #sensoryawareness
 
 #unfinished-notes
