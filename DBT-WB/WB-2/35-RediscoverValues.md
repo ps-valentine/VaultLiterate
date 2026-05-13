@@ -19,24 +19,41 @@ This first exercise will ask you to identify how you value ten different compone
 | Citizenship and community life                                      |        0  1  2  3        |         4  5  6          |       7  8  9  10       |
 | Self-care (exercise, diet, relaxation, and so on)                   |        0  1  2  3        |         4  5  6          |       7  8  9  10       |
 ### **Exercise:** Committed Action
+This next exercise will help you create a more fulfilling life for yourself by formulating intentions and committed actions based on your values (Olerud & Wilson, 2002). Maybe you already dedicate a lot of time to the components of your life that you value, or maybe you don't. Either way, this exercise will help you think about ways to make your life feel more fulfilling based on what you think is important.
 
+First, using the Valued Living Questionnaire, identify the components of your life that you rated between 5 and 10, from moderately important to extremely important. Then fill in the names of those areas on the Committed Action Worksheet that follows the questionnaire. (Make additional photocopies of this worksheet if you need more space.)
+
+Next, identify one intention for each of those valued components, which will help make your life feel more fulfilling. For example, if you rated education highly, maybe your intention would be "to go back to school." Or, if you rated romantic relationships highly, maybe your intention would be "to spend more time with my spouse or partner."
+
+Then, finally, identify several actions you are willing to commit to doing that will move you toward your intention. Also, note when you're willing to begin that commitment. For example, if your intention is to go back to school, the actions you list might include "getting a catalog of classes next week" and "signing up for a class within the next three weeks." If your intention is to spend more time with your spouse, your committed actions might include "not working overtime for the next month" and "spending less time with friends for the next two weeks."
+
+Again, the purpose of these exercises is to fill your life with activities that are important to you. Creating a life that you value can often help you deal with other situations that are distressing and less desirable. Having a fulfilling life can give you something to look forward to when you're doing something you don't like, and it can make you feel stronger during times of distress.
+#### **Committed Action Worksheet** (Adapted from Olerud & Wilson, 2002)
+1 A component of my life that I value is
+   
+   My intention for this component is
+   
+   The committed actions that I'm willing to take include the following (be sure to note when you'll begin these actions):
+   -  
+   -  
+   -  
+2 A component of my life that I value is
+   
+   My intention for this component is
+   
+   The committed actions that I'm willing to take include the following (be sure to note when you'll begin these actions):
+   -  
+   -  
+   -  
+3 A component of my life that I value is
+   
+   My intention for this component is
+   
+   The committed actions that I'm willing to take include the following (be sure to note when you'll begin these actions):
+   -  
+   -  
+   -  
 # # Tags
-#/2007 #ARMurrell #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #ethics #genre-self-help  #JeffreyBrantley #JeffreyCWood #KGWilson #MatthewMcKay  #mentalhealth #musclerelaxation #overhwelmingemotions #self-regulation #self-soothing #worksheet
+#/2007 #ARMurrell #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #ethics #genre-self-help #JCOlerud  #JeffreyBrantley #JeffreyCWood #KGWilson #MatthewMcKay  #mentalhealth #musclerelaxation #overhwelmingemotions #questionnaire #resilience #self-regulation #self-soothing #worksheet
 
 #tone-instructional #tone-motivational
-
-#unfinished-notes 
-# Standard Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #musclerelaxation #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#angermanagement #crying #cutting #endorphins #ethics #isolation  #meditation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #pleasurableactivities #radicalacceptance #self-harm #sensoryawareness  #substanceuse #substanceuse-alcohol #suicidality
-
-#ARMurrell #KGWilson #theGrandCanyon
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
- #tone-motivational #tone-self-help
-
-#list #worksheet
