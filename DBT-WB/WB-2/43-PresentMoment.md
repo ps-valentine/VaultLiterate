@@ -22,7 +22,7 @@ If you're not in the present moment, refocus your attention on what's happening 
 ### **Exercise:** Listening to Now
 Another exercise to help you refocus on the present moment is the Listening to Now exercise. Dedicate at least five minutes to help yourself refocus.
 #### *Instructions*
-*Sit in a comfortable chair. Turn off any distractions, like your phone, radio, and television. Take slow, long breaths, in through your nose and out through your mouth. Feel your stomach expand each time you breathe in and feel it deflate each time you exhale. Now, as you continue to breathe, simply listen. Listen to any sounds you hear outside your home, inside your home, and inside your own body. Count each sound that you hear. When you get distacted, return your focus to listening. Maybe you hear cars, people, or airplanes outside. Perhaps you hear a clock ticking or a fan blowing inside. Or maybe you hear the sound of your own heart beating inside your body. Actively and carefully listen to your environment and count as many sounds as you can. Try this exercise for five minutes and notice how you feel afterwards....*
+*Sit in a comfortable chair. Turn off any distractions, like your phone, radio, and television. Take slow, long breaths, in through your nose and out through your mouth. Feel your stomach expand each time you breathe in and feel it deflate each time you exhale. Now, as you continue to breathe, simply listen. Listen to any sounds you hear outside your home, inside your home, and inside your own body. Count each sound that you hear. When you get distracted, return your focus to listening. Maybe you hear cars, people, or airplanes outside. Perhaps you hear a clock ticking or a fan blowing inside. Or maybe you hear the sound of your own heart beating inside your body. Actively and carefully listen to your environment and count as many sounds as you can. Try this exercise for five minutes and notice how you feel afterwards.*
 
 A variation of this listening exercise will help you stay focused on the present moment while you're in a conversation with another person. If you notice that your attention is beginning to wander and you start thinking about your past or future, focus your attention on something that the person is wearing, like a button on their shirt, a hat they're wearing, or their collar. Note to yourself what color the items is and what it looks like. Sometimes this can snap you out of your time traveling. Now continue to listen, and if your mind begins to wander again, do the same thing and try to keep listening.
 ### **Exercise:** Mindful Breathing
@@ -34,28 +34,12 @@ Read the instructions before beginning the exercise to familiarize yourself with
 
 When using this new form of breathing, many people often feel as if they become "one" with their breathing, meaning they feel a deep connection to the experience. If that happens for you, great. If not, that's okay, too. Just keep practicing. Also, some people feel light-headed when they first begin practicing this technique. This may be caused by breathing too fast, too deeply, or too slowly. Don't be alarmed. If you begin to feel light-headed, stop if you need to, or return your breathing to a normal rate and begin counting your breaths.
 #### *Instructions*
-*To begin, find a comfortable place to sit in a room where you won't be disturbed for as long as you've set your timer...*
+*To begin, find a comfortable place to sit in a room where you won't be disturbed for as long as you've set your timer. Turn off any distracting sounds. Take a few slow, long breaths and relax. Place one hand on your stomach. Now slowly breathe in through your nose and then slowly exhale through your mouth. Feel your stomach rise and fall as you breathe. Imagine your belly filling up with air as you breathe in, and then feel it deflate as you breathe out. Feel the breath moving in across your nostrils, and then feel your breath blowing out across your lips. As you breathe, notice the sensations in your body. Feel your lungs fill up with air. Notice the weight of your body resting on whatever you're sitting on. With each breath, notice how your body feels more and more relaxed.*
 
-*Now, as you continue...*
+*Now, as you continue to breathe, begin counting your breaths each time you exhale. You can count either silently to yourself or aloud. Count each exhalation until you reach "4" and then begin counting at "1" again. To begin, breathe in slowly through your nose and then exhale slowly through your mouth. Count "1." Again, breathe in slowly through your nose and slowly out through your mouth. Count "2." Repeat, breathing in slowly through your nose, and then slowly exhale. Count "3." Last time -- breathe in through your nose and out through your mouth. Count "4." Now begin counting at "1" again.*
 
-*When your mind begins to wander...*
+*When your mind begins to wander and you catch yourself thinking of something else, return your focus to counting your breaths. Try not to criticize yourself for getting distracted. Just keep taking slow breaths into your belly, in and out. Imagine filling up your belly with air like a balloon. Feel it rising with each inhalation and falling with each exhalation. Keep counting each breath, and with each exhale, feel your body relaxing, deeper and deeper.*
 
 *Keep breathing until your alarm goes off, and then slowly return your focus to the room you're in.*
 # Tags
-#/2007 #DBT #DBT-breathing #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help #grounding  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  #sensoryawareness
-
-#unfinished-notes
-# Standard Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#anatomy #angermanagement #cosmology #crying #cutting #DBT-breathing #DBT-visualization #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #pleasurableactivities #radicalacceptance #resilience #self-harm #sensoryawareness #spirituality #substanceuse #substanceuse-alcohol #suicidality
-
-#ARMurrell #JCOlerud #KGWilson #theGrandCanyon
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #meditation #questionnaire #worksheet
+#/2007 #DBT #DBT-breathing #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help #grounding  #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  #sensoryawareness
