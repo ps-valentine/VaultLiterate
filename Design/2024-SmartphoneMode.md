@@ -38,16 +38,19 @@ A CVS questionnaire combining questions and Likert scale items was used to measu
 - "It can be seen that during bright ambient light, eye fatigue is on average lower for the negative compared to the positive display polarity, while during dim ambient light, eye fatigue for positive display polarity is lower when compared to negative."
 - "When ambient light was bright, negative polarity (dark mode) led to significantly lower eye fatigue compared to positive polarity (light mode) (p = 0.004). This difference was not significant when ambient lighting was dim. Furthermore, according to the t-tests, eye fatigue did not vary significantly when comparing bright and dim ambient lighting conditions with the positive polarity display mode."
 ## Discussion
+- "According to our analysis, the effects of Display Polarity and Ambient Lighting were not significant. However, the interaction between ambient lighting and display polarity was significant. This suggests that the effect of ambient lighting could depend on display polarity, and vice versa. Indeed, post-hoc tests showed that during bright ambient light conditions, participants exhibited significantly lower levels of eye fatigue when using negative polarity (dark mode) compared to positive polarity (light mode). This occurred, however, only in bright ambient light conditions, as the effect of display polarity on eye fatigue was not significant in dim lighting. The result of lower eye fatigue in a bright environment when using a negative display polarity on a smartphone screen is novel as this question has not been addressed before in the context of interaction with a smartphone screen as the one used here."
+- "Pedersen et al. found no effect of display polarity in the daytime in terms of productivity and quantity of errors. Sethi reports higher mental demand when using positive compared to negative polarity in a bright environment and that younger adults showed higher cognitive load using when using negative polarity in a dim environment. Wang et al. found no significant effect of display polarity on eye fatigue. On the other hand, Erickson et al. found a higher preference and better overall usability, hedonic quality, and pragmatic quality for a negative display polarity in dim lighting conditions when using a see-through display. However, they did not measure eye fatigue. Xie et al. on the other hand find that negative polarity reduces eye fatigue in dim lighting conditions. We found a similar finding but not in dim but in bright ambient lighting conditions. \[Xie et al.] did not test bright lighting conditions."
+- "... we acknowledge the limitations associated with our relatively small sample size."
 ## Conclusion
+"... negative display polarity led to a significant decrease in eye fatigue in bright ambient lighting while the effect was not significant in dim ambient lighting."
 ## References
 2 Priya, D Bhanu and Murali Subramaniyam. "A Systematic Review on Visual Fatigue Induced by Tiny Screens (Smartphones)." *IOP Conference Series: Materials Science and Engineering* **912** (2020): [external link](https://www.researchgate.net/profile/Murali-Subramaniyam/publication/344251357_A_Systematic_Review_on_Visual_Fatigue_Induced_by_Tiny_Screens_Smartphones/links/5f8e5760299bf1b53e34750f/A-Systematic-Review-on-Visual-Fatigue-Induced-by-Tiny-Screens-Smartphones.pdf)
 3 Rosenfield, Mark. "Computer vision syndrome (a.k.a. digital eye strain)." *Optometry in Practice* **17**, no. 1 (2016): [external link](https://dynamic-eye.de/wp-content/uploads/2021/02/Computer-Vision-Syndrom-Studie.pdf)
 4 Zayed, Hanaa Abdelaziz Mohamed, Shimaa M. Saied, Eman Ali Younis, and Salwa A. Atlam. "Digital eye strain: prevalence and associated factors among information technology professionals, Egypt." *Environmental Science and Research Pollution* **28** (2021), 25187-25195: [external link](https://www.researchgate.net/profile/Shimaa-Saied/publication/348551749_Digital_eye_strain_prevalence_and_associated_factors_among_information_technology_professionals_Egypt/links/61ebee258d338833e3895dbd/Digital-eye-strain-prevalence-and-associated-factors-among-information-technology-professionals-Egypt.pdf)
-5 
-6 
-7 
-8 
-9 
+6 Ferrer, Josep. "Why is Dark Mode so captivating?" UX Collective. Medium. Published on March 19, 2022. [external link](https://uxdesign.cc/why-is-dark-mode-so-captivating-92f2ed4e0dc5)
+7 Sethi, Tara and Mounia Ziat. "Dark mode vogue: Do light-on-dark displays have measurable benefits to users?" *Ergonomics* **66**, no. 12 (2023), 1814-1828: [external link](https://www.researchgate.net/profile/Mounia-Ziat/publication/366414757_Dark_Mode_Vogue_Do_light-on-dark_displays_have_measurable_benefits_to_users/links/6703de65906bca2ac3ed829e/Dark-Mode-Vogue-Do-light-on-dark-displays-have-measurable-benefits-to-users.pdf)
+8 Pederen, Lasse Apalnes, Svavar Skuli Einarsson, Fredrik Arne Rikheim, and Frode Eika Sandnes. "User Interfaces in Dark Mode During Daytime - Improved Productivity or Just Cool-Looking?" Paper presented at the 22nd International HCII (International Conference on Human-Computer Interaction) Conference, Copenhagen, Denmark, July, 2020. [external link](https://link.springer.com/content/pdf/10.1007/978-3-030-49282-3_13?pdf=chapter%20toc)
+9 Eisfeld, Henriette and Felix Kristallovich. "The Rise of Dark Mode: A qualitative study of an emerging user interface design trend." .....
 10 
 11 
 12 
@@ -59,9 +62,9 @@ A CVS questionnaire combining questions and Likert scale items was used to measu
 18 
 19 
 20 
-21 
+21 Erickson, Austin, Kangsoo Kim, Alexis Lambert, Gerd Bruder, Michael P. Browne, and Gregory F. Welch. "An Extended Analysis on the Benefits of Dark Mode User Interfaces in Optical See-Through Head-Mounted Displays." *ACM Transactions on Applied Perception* **18**, no. 3 (2021): [external link](https://www.researchgate.net/profile/Austin-Erickson/publication/351866251_An_Extended_Analysis_on_the_Benefits_of_Dark_Mode_User_Interfaces_in_Optical_See-Through_Head-Mounted_Displays/links/60b11e9845851557baa6ada9/An-Extended-Analysis-on-the-Benefits-of-Dark-Mode-User-Interfaces-in-Optical-See-Through-Head-Mounted-Displays.pdf)
 22 Tian, Peiyuan, Guanghua Xu, Chengcheng Han, Xiaowei Zheng, Kai Zhang, Chenghang Du, Fan Wei, and Sicong Zhang. "Effects of Paradigm Color and Screen Brightness on Visual Fatigue in Light Environment of Night Based on Eye Tracker and EEG Acquisition Equipment." *Sensors* **22**, no. 11 (2022): [external link](https://www.mdpi.com/1424-8220/22/11/4082)
 # Tags
 #/2024 #ACHI #AMA #ambientlight #AmericanHospitalAssociation #AmericanHospitalAssociationCommunityHealthImprovement #ComputerVisionSyndrome #darkmode #digitaleyestrain #displaypolarity #eyefatigue #FathimaJubinaPathari #GeorgiosMarentakis #graphicdesign #lightmode #LivIngridAndersen #smartphones #visualfatigue #YvonneNielsen
 
-#unfinished-notes #unfinished-references #unfinished-tags
+#unfinished-references
