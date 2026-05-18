@@ -2,10 +2,14 @@ Sengsoon, Praphatson and Roongnapa Intaruk. "Immediate Effects of Light Mode and
 # Immediate Effects of Light Mode and Dark Mode Features on Visual Fatigue in Tablet Users
 ## Abstract
 ### Background
+"Prolonged tablet use can cause visual fatigue, dry eye, and changes in critical flicker frequency, affecting visual comfort and performance. While the light and dark mode features aim to reduce eye strain, their immediate effects on these issues remain unclear."
 ### Objective
+"To compare the immediate effects of light and dark mode features on visual fatigue in tablet users."
 ### Methods
+"This experimental study involved 30 female tablet users. The participants were randomly assigned using a block randomization method to use both light and dark mode features. Visual fatigue, critical flicker frequency, and dry eye symptoms were measured before and after exposure to each mode."
 ### Results
 ### Conclusions
+"Both light and dark mode features impact visual fatigue, critical flicker frequency, and dry eye symptoms. However, the dark mode may help reduce the risk of eye fatigue compared to the light mode."
 ## Introduction
 ## Materials and Methods
 ### Instruments
