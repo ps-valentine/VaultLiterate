@@ -27,7 +27,7 @@ Here is a list of some coping thoughts that many people have found to be helpful
 
 Coping thoughts can help you tolerate distressing situations by giving you strength and motivation to endure those experiences. Now that you know about coping thoughts, you can begin using them immediately. Write your five favorite coping thoughts on an index card or a sticky note and keep it with you in your wallet or purse. Or put your coping thoughts in conspicuous places where you can see them ever day, like on your refrigerator or mirror. The more you see your coping thoughts, the more quickly they will become part of your automatic though process.
 
-Use the following worksheet to record stressful situations in which you use your coping thoughts to give you strength. Make copies of the worksheet, and keep one with you so that you can record the experience as soon as it happens. Recording the experience quickly might be awkward or inconvenient for you, but doing it this way will help you remember tyo use your self-encouraging coping thoughts more often. Read the example worksheet for ideas about when coping thoughts might be helpful to you.
+Use the following worksheet to record stressful situations in which you use your coping thoughts to give you strength. Make copies of the worksheet, and keep one with you so that you can record the experience as soon as it happens. Recording the experience quickly might be awkward or inconvenient for you, but doing it this way will help you remember to use your self-encouraging coping thoughts more often. Read the example worksheet for ideas about when coping thoughts might be helpful to you.
 ### **Example:** Using Coping Thoughts
 | **Distressing Situation**                                                                                                      | **New Coping Thought**                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -56,20 +56,4 @@ Use the following worksheet to record stressful situations in which you use your
 | 10.<br><br><br>           |                                |
 | 11.<br><br><br>           |                                |
 # Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  #worksheet
-
-#unfinished-notes
-# Standard Tags
-#/2007 #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#anatomy #angermanagement #cosmology #crying #cutting #DBT-breathing #DBT-visualization #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #pleasurableactivities #radicalacceptance #resilience #self-harm #sensoryawareness #spirituality #substanceuse #substanceuse-alcohol #suicidality
-
-#ARMurrell #JCOlerud #KGWilson #theGrandCanyon
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #meditation #questionnaire #worksheet
+#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #mentalhealth-self-talk #overhwelmingemotions #self-regulation #self-soothing #tone-motivational #tone-self-help #worksheet
