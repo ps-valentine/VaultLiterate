@@ -27,20 +27,4 @@ Here are some examples of self-affirming statements. Check the ones you're willi
 
 Some people find it helpful to write their self-affirming statements on index cards and then post them throughout their homes. One woman wrote her statement on her bathroom mirror with an erasable marker so it was the first thing she saw in the morning. One man wrote his on a sticky note and kept it posted on his computer as he worked. You can choose to remind yourself of your self-affirming statement in any way that works. But choose a technique that will remind you many times throughout the day. The more often you can see the statement, the more it will help change the way you think about yourself.
 # Tags
-#/2007 #affirmations #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #mentalhealth-self-talk #overhwelmingemotions #resilience #self-regulation #self-soothing  
-
-#unfinished-notes
-# Standard Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #MatthewMcKay  #mentalhealth #overhwelmingemotions #self-regulation #self-soothing  
-
-#unfinished-notes
-# Tag Bank
-#AUD #addiction #affirmations #anatomy #angermanagement #cosmology #crying #cutting #DBT-breathing #DBT-visualization #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #pleasurableactivities #radicalacceptance #resilience #self-harm #sensoryawareness #spirituality #substanceuse #substanceuse-alcohol #suicidality
-
-#ARMurrell #JCOlerud #KGWilson #MarshaMLinehan #theGrandCanyon
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #meditation #questionnaire #worksheet
+#/2007 #affirmations #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #distresstolerance #genre-self-help  #JeffreyBrantley #JeffreyCWood #list #MatthewMcKay  #mentalhealth #mentalhealth-self-talk #overhwelmingemotions #resilience #self-regulation #self-soothing
