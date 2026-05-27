@@ -17,22 +17,10 @@ Read the instructions before beginning the exercise to familiarize yourself with
 
 *Once again, redirect your attention. This time, put your focus on your sense of smell. Notice any smells that are in the room, pleasant or otherwise. If you don't notice any smells, just become aware of the flow of air moving into your nostrils as you breathe in through your nose. Try your best to maintain your focus on your sense of smell. If you become distracted by any thoughts, return your focus to your nose. Take a minute to do this, and keep breathing.* \[Pause here for one minute if you are recording the instructions.]
 
-*When you have finished...*
+*When you have finished using your sense of smell, once again return your focus to your physical sensations. Notice any sensations that you might be feeling. Once again, scan your body from your head to your feet and become aware of any muscle tension, tingling, or other physical feelings. If your thoughts distract you, do your best to return your focus to your physical sensations. Take a minute to do this, and keep breathing slow, deep breaths.* \[Pause here for one minute if you are recording the instructions.]
 
-*Now, finally, redirect...*
+*Now, finally, redirect your attention to your sense of touch. Reach out with one of your hands to touch an object that is within reach. Or, if there is no object within reach, touch the chair you're sitting on or touch your leg. Notice what the object feels like. Notice if it's smooth or rough. Notice if it's pliable or rigid. Notice if it's soft or solid. Notice what the sensations feel like on the skin of your fingertips. If your thoughts begin to distract you, simply return your focus to the object that you're touching. Take a minute to do this, and keep breathing slow, deep breaths.* \[Pause here for one minute if you are recording the instructions.]
 
 *When you've finished, take three to five slow, long breaths and return your focus to the room.*
 # Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness #tone-instructional
-
-#unfinished-notes
-# Tag Bank
-#AUD #addiction #affirmations #anatomy #angermanagement #anxiety #bingeeating #chronicpain #cosmology #crying #cutting #DBT-breathing #DBT-visualization #depression #distresstolerance #eatingdisorder #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #overhwelmingemotions #painmanagement #perception #perception-time #pleasurableactivities #resilience #self-harm #spirituality #substanceuse #substanceuse-alcohol #suicidality #wisemind
-
-#ARMurrell #AnnOMassion #BrendanHallett #DovberPinson #JCOlerud #JMarkGWilliams #JeanLKristeller #JohnDTeasdale #JonKabat-Zinn #JudithMSoulsby #KGWilson #KennethEFletcher #LeslieLipworth #LindaGayPeterson #LoriPbert #MarkALau #MarshaMLinehan #MichaelCGemar #PirVilayatInayatKhan #RobertBurney #RuthABaer #SakiFSantorelli #theGrandCanyon #ThomasMerton #ValerieARidgeway #WSellers #WalpolaRahula #WilliamRLenderking #ZindelVSegal
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #questionnaire #worksheet
+#/2007 #copingtools #DBT #DBT-exercise #DBT-visualization #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #perception #radicalacceptance #self-regulation #self-soothing #sensoryawareness #tone-instructional
