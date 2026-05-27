@@ -9,16 +9,4 @@ See how many of your thoughts you can catch in three minutes, no matter how smal
 
 When you've finished, count the number of thoughts you had in three minutes and multiply that number by twenty to get an idea of how many thoughts you might have in an hour.
 # Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #perception #radicalacceptance #self-regulation #self-soothing #sensoryawareness #streamofconsciousness
-
-#unfinished-notes
-# Tag Bank
-#AUD #addiction #affirmations #anatomy #angermanagement #anxiety #bingeeating #chronicpain #cosmology #crying #cutting #DBT-breathing #DBT-visualization #depression #distresstolerance #eatingdisorder #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #overhwelmingemotions #painmanagement #perception #perception-time #pleasurableactivities #resilience #self-harm #spirituality #substanceuse #substanceuse-alcohol #suicidality #wisemind
-
-#ARMurrell #AnnOMassion #BrendanHallett #DovberPinson #JCOlerud #JMarkGWilliams #JeanLKristeller #JohnDTeasdale #JonKabat-Zinn #JudithMSoulsby #KGWilson #KennethEFletcher #LeslieLipworth #LindaGayPeterson #LoriPbert #MarkALau #MarshaMLinehan #MichaelCGemar #PirVilayatInayatKhan #RobertBurney #RuthABaer #SakiFSantorelli #theGrandCanyon #ThomasMerton #ValerieARidgeway #WSellers #WalpolaRahula #WilliamRLenderking #ZindelVSegal
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #questionnaire #worksheet
+#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #perception #radicalacceptance #self-regulation #self-soothing #sensoryawareness #streamofconsciousness #tone-instructional 
