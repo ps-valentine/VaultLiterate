@@ -40,7 +40,7 @@ Sengsoon, Praphatson and Roongnapa Intaruk. "Immediate Effects of Light Mode and
 ## References
 The reference section for this article is rich in resources focusing on the relation between technology, vision, and the human eye. I have omitted some of the more technical, medical resources and those not examining these interrelationships more explicitly. There were a total of 35 references listed.
 
-3 
+3 Godsgift Eni, Chinasa and Precious Uahomo. "The Effects of Excessive Use of Computer Screen on Visual Actuity among Non-academic University Staff." *Ophthalmology Research: An International Journal* **19**, no. 5 (2024), 63-76: [external link](https://www.researchgate.net/publication/385343680_The_Effects_of_Excessive_Use_of_Computer_Screen_on_Visual_Acuity_among_Non-academic_University_Staff)
 4 
 5 
 7 
