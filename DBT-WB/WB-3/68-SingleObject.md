@@ -31,4 +31,4 @@ You can photocopy the instructions if you want extra copies to refer to, or you 
 
 *Continue exploring the object with both your sight and your sense of touch. Continue to breathe comfortably. When your attention begins to wander, return your focus to the object. Keep on exploring the object until your alarm goes off or until you have fully explored all the qualities of the object.*
 # Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
+#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 

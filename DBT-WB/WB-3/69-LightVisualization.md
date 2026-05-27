@@ -14,21 +14,13 @@ As with the other exercises in this chapter, most likely your focus will being t
 - *Pay attention to the back of your head where you may be having sensations.*
 - *Notice any sensations you may be feeling in your mouth, on your tongue, or on your teeth.*
 - *Continue to watch the band of light in your imagination descend around your neck, and notice any feelings in your throat or any muscle tension on the back of your neck.*
+- *Now the band widens and begins to move down your torso, across the width of your shoulders.*
+- *Notice any sensations, muscle tension, or tingling you might be feeling in your shoulders, upper back, upper arms, and upper chest area.*
+- *As the band of light continues to descend down around your arms, notice any feelings you're aware of in your upper arms, elbows, forearms, wrists, hands, and fingers. Become aware of any tingling, itching, or tension you might be holding in those places.*
+- *Now become aware of your chest, the middle of your back, the side of your torso, your lower back, and stomach. Again, notice any tension or sensations, no matter how small they might be.*
+- *As the band continues to move down your lower body, become aware of any sensations in your pelvic region, buttocks, and upper legs.*
+- *Be sure to pay attention to the backs of your legs and notice any feelings there.*
+- *Continue to watch the band of light descend around your lower legs, around your calves, shins, feet, and toes. Notice any feelings or tension you're experiencing.*
+*Then as the band of light disappears after completing its descent, take a few more slow, long breaths, and when you feel comfortable, slowly open your eyes and return your focus to the room.*
 # Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBT-visualization #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
-
-#unfinished-notes
-# Standard Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
-
-#unfinished-notes
-# Tag Bank
-#AUD #addiction #affirmations #anatomy #angermanagement #anxiety #bingeeating #chronicpain #cosmology #crying #cutting #DBT-breathing #DBT-visualization #depression #distresstolerance #eatingdisorder #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #overhwelmingemotions #painmanagement #perception #perception-time #pleasurableactivities #resilience #self-harm #spirituality #substanceuse #substanceuse-alcohol #suicidality #wisemind
-
-#ARMurrell #AnnOMassion #BrendanHallett #DovberPinson #JCOlerud #JMarkGWilliams #JeanLKristeller #JohnDTeasdale #JonKabat-Zinn #JudithMSoulsby #KGWilson #KennethEFletcher #LeslieLipworth #LindaGayPeterson #LoriPbert #MarkALau #MarshaMLinehan #MichaelCGemar #PirVilayatInayatKhan #RobertBurney #RuthABaer #SakiFSantorelli #theGrandCanyon #ThomasMerton #ValerieARidgeway #WSellers #WalpolaRahula #WilliamRLenderking #ZindelVSegal
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #questionnaire #worksheet
+#/2007 #copingtools #DBT #DBT-exercise #DBT-visualization #DBTgreenbook #DBTworkbook #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #musclerelaxation #radicalacceptance #self-regulation #self-soothing #sensoryawareness #tone-instructional
