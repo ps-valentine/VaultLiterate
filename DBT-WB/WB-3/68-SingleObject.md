@@ -10,17 +10,25 @@ Pick a small object to focus on. Choose something that can rest on a table, is s
 Find a comfortable place to sit in a room where you won't be disturbed for a few minutes, and put the object on a table in front of you. Turn off any distracting sounds. If you have a stopwatch or an alarm clock, set the time for five minutes. Do this exercise once or twice a day for two weeks, choosing a different object to focus on each time.
 
 You can photocopy the instructions if you want extra copies to refer to, or you can record the instructions in a slow, even voice and play them while you're exploring the object.
+#### *Instructions*
+*To begin, sit comfortably and take a few slow, deep breaths. Then, without touching the object, begin looking at it and exploring its different surface with your eyes. Take your time exploring what it looks like. Then try to imagine the different qualities that the object possesses.
+- *What does the surface of the object look like?*
+- *Is it shiny or dull?*
+- *Does it look smooth or rough?*
+- *Does it look soft or hard?*
+- *Does it have multiple colors or just one color?*
+- *What else is unique about the way the object looks?*
+
+*Take your time observing the object. Now hold the object in your hand or reach out and touch the object. Begin noticing the different ways it feels.*
+- *Is it smooth or is it rough?*
+- *Does it have ridges or is it flat?*
+- *Is it soft or is it hard?*
+- *Is it bendable or is it rigid?*
+- *Does the object have areas that feel different from each other?*
+- *What does the temperature of the object feel like?*
+- *If you can hold it in your hand, notice how much it weighs.*
+- *What else do you notice about the way it feels?*
+
+*Continue exploring the object with both your sight and your sense of touch. Continue to breathe comfortably. When your attention begins to wander, return your focus to the object. Keep on exploring the object until your alarm goes off or until you have fully explored all the qualities of the object.*
 # Tags
 #/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
-
-#unfinished-notes
-# Tag Bank
-#AUD #addiction #affirmations #anatomy #angermanagement #anxiety #bingeeating #chronicpain #cosmology #crying #cutting #DBT-breathing #DBT-visualization #depression #distresstolerance #eatingdisorder #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #overhwelmingemotions #painmanagement #perception #perception-time #pleasurableactivities #resilience #self-harm #spirituality #substanceuse #substanceuse-alcohol #suicidality #wisemind
-
-#ARMurrell #AnnOMassion #BrendanHallett #DovberPinson #JCOlerud #JMarkGWilliams #JeanLKristeller #JohnDTeasdale #JonKabat-Zinn #JudithMSoulsby #KGWilson #KennethEFletcher #LeslieLipworth #LindaGayPeterson #LoriPbert #MarkALau #MarshaMLinehan #MichaelCGemar #PirVilayatInayatKhan #RobertBurney #RuthABaer #SakiFSantorelli #theGrandCanyon #ThomasMerton #ValerieARidgeway #WSellers #WalpolaRahula #WilliamRLenderking #ZindelVSegal
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #questionnaire #worksheet

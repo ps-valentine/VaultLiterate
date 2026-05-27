@@ -1,15 +1,9 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 3: Basic Mindfulness Skills</b> (p. 63-83)</h1></center>
-### **Exercise:** Band of Light
-This is the third exercise that will help you focus more fully on the present moment. It will help you become more mindful of the physical sensations in your body. Read the instructions before beginning the exercise to familiarize yourself with the process. Then you can either keep the instructions near you if you need to refer to them while you're doing the exercise, or you can record them in a slow, even voice and play them while you're observing the sensations in your body.
-
-As with the other exercises in this chapter, most likely your focus will being to wander while you're doing this exercise. That's okay. When you recognize that your focus is drifting, gently return your attention to the exercise and do your best not to criticize or judge yourself.
-#### *Instructions*
-*To begin, find a comfortable place to sit in a room where you won't be disturbed for ten minutes. Using your imagination, envision a narrow band of light circling the top of your head like a halo. As this exercise progresses, the band of light will slowly move down your body, and as it does, you will become aware of the different physical sensations you're feeling beneath the band of light.*
-
-*As you continue to breathe...*
+### **Exercise:** Inner-Outer Experience
+Now that you've practiced...
 # Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBT-visualization #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
+#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
 
 #unfinished-notes
 # Standard Tags
