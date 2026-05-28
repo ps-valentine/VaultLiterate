@@ -1,9 +1,9 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 3: Basic Mindfulness Skills</b> (p. 63-83)</h1></center>
 ### **Exercise:** Describe Your Emotion
-This is the fourth exercise that will help you recognize and focus on your thoughts, emotions, and physical sensations. So far, the exercises in this chapter...
+This is the fourth exercise that will help you recognize and focus on your thoughts, emotions, and physical sensations. So far, the exercises in this chapter have helped you learn to be more mindful of your physical sensations and thoughts. This next exercise will help you become more mindful of your emotions. As with some of the other exercises, the instructions for this exercise might sound simple, but the results can be powerful. This exercise will ask you to choose an emotion and then to describe that emotion by drawing it and exploring it.
 
-So, to begin, pick an emotion. It can...
+So, to begin, pick an emotion. It can be either a pleasant or an unpleasant emotion. Ideally, you should choose an emotion that you're feeling right now, *unless that emotion is overwhelmingly sad or self-destructive.* If it is, you should wait until you feel more in control of your emotions before beginning this exercise. On the other hand, if you can't identify what you're feeling now, choose an emotion that you were feeling recently, something that you can easily remember. But, whichever you choose, try to be specific about what that emotion is. For example, if you got into a fight with your spouse or partner recently because he or she did something to you, that's the situation, not the...
 
 To help you choose an emotion, use this list of some commonly felt emotions.
 #### List of Commonly Felt Emotions
