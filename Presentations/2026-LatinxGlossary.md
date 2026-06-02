@@ -1,3 +1,4 @@
+# Latinx Glossary Culture Connection, and Care: Rethinking Therapy with Latinx Communities
 ## [Latinx Glossary](https://drive.google.com/file/d/1_TqekSkn2uKvH342Tm8gcPiIE1S9fZHG/view?pli=1)
 ## Preface
 "Over the past four years, Kim Ganade, Edith Guilléwn Núñez, and Sal Núñez have engaged in ongoing discussions about the effects of colonialism on psychotherapy, with particular focus on Eurocentrism within academia and the behavioral health field.
@@ -11,7 +12,7 @@ In their conversations, they sought ways to foster discussions that would:
 ## Acknowledgments
 ## Latinx Glossary
 ## [Session 1 (Recording)](https://vimeo.com/1195800525)
-## Session 2
+## [Session 2 (Recording)](https://sfgov1-my.sharepoint.com/personal/michael_barack_sfdph_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmichael%5Fbarack%5Fsfdph%5Forg%2FDocuments%2FRecordings%2FLatinx%20Glossary%20Culture%2C%20Connection%2C%20and%20Care%20Rethinking%20Therapy%20with%20Latinx%20Communities%2D20260602%5F160342UTC%2DMeeting%20Recording%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebc8af15f%2D5875%2D4f91%2D9655%2Dd0b6cd6f072b&isDarkMode=true)
 ### Presenters
 Sal Núñez, PhD, MS
 Edith Guillén-Núñez, JD, LMFT
@@ -62,8 +63,12 @@ Edith Guillén-Núñez, JD, LMFT
 	- Humor as coping.
 	- Validating folks in their identities, heritages, coping mechanisms, etc.
 	- Connecting patients with *curanderas* who might have access to a *temascal* or who can provide a *limpia*, and other culturally-responsive resources.
-# Hanging Questions
-- Can authenticity alienate your client if they feel you are very different?
+	- "La cultura cura." Acknowledge traditional healing.
+	- Invalidation of identity as a first or early trauma.
+	- "Healing the unspoken" compared to Western treatments, which is talk-based and assumes you can verbally communicate your issues.
+	- Herb sacks, gardening, etc.
+		- Mints, rosemary, ruda...
+	- "What brought you to this country?" The story can often highlight or connect with patient's experiences with racism, oppression, etc. and open the door to conversation around that.
 ## Other Resources
 - [Report: Immigrants in California's Health Workforce: How Federal Policy Changes Threaten Access to Care](https://www.chcf.org/resource/immigrants-california-health-care-workforce/?utm_source=AdaptiveMailer&utm_medium=email&utm_campaign=CHCF%20Weekly%20Newsletter&org=3351&lvl=100&ite=138&lea=7244&ctr=0&par=1&trk=)
 # Tags
