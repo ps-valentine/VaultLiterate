@@ -26,4 +26,4 @@ with Sandra Fitzgerald (she/her).
 		- "Don't be offended if I have to redirect you, I just want to be sure we hear from everyone."
 - Stages of group process (time permitting)
 # Tags
-#conflictmanagement #groupfacilitation #RAMS #RichmondAreaMulti-Services #supportgroups
+#/2026 #conflictmanagement #groupfacilitation #RAMS #RichmondAreaMulti-Services #supportgroups

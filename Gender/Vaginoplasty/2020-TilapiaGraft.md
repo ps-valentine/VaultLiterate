@@ -1,4 +1,4 @@
-Rodríguez, Álvaro Hernán, et. al. "Male-to-Female Gender-Affirming Surgery Using Nile Tilapia Fish Skin as a Biocompatible Graft". *The Journal of Minimally Invasive Gynecology* **27**, no. 7 (2020): 1474-1475: https://www.jmig.org/article/S1553-4650(20)30120-5/abstract
+Rodríguez, Álvaro Hernán, et. al. "Male-to-Female Gender-Affirming Surgery Using Nile Tilapia Fish Skin as a Biocompatible Graft". *The Journal of Minimally Invasive Gynecology* **27**, no. 7 (2020): 1474-1475: [external link](https://www.jmig.org/article/S1553-4650(20)30120-5/abstract)
 ## Abstract
 ### Study Objective
 "Insufficient penile skin is common during vaginoplasty for male-to-female transition. This issue may be compensated by a scrotal skin flap, with the drawback of hair growth. In recent studies, Nile tilapia skin was successfully used for the surgical management of Mayer-Rokitansky-Küster-Hauser syndrome and vaginal stenosis. This study aims to describe a novel technique for primary vaginoplasty in male-to-female gender-affirming surgery using Nile tilapia skin as a biocompatible graft to ensure adequate vaginal depth."
