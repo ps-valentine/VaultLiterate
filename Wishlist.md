@@ -108,6 +108,7 @@
 1. "A Simple Guide for Simple Orchiectomy in Transition-Related Surgeries." *Sexual Medicine Reviews* **8**, no. 3 (2020), 492-496: https://www.sciencedirect.com/science/article/abs/pii/S2050052119301209
 2. "Current methods for assessing erogenous sensation: implications for sensory outcomes in genital gender-affirming surgery." *Sexual Medicine Reviews* **13**, no. 4 (2025), 751-763: https://academic.oup.com/smr/article-abstract/13/4/751/8214144
 3. "Sexual Functioning of Transgender Females Post-Vaginoplasty: Evaluation, Outcomes and Treatment Strategies for Sexual Dysfunction." *Sexual Medicine Reviews* **10**, no. 1 (2022), 77-90: https://academic.oup.com/smr/article-abstract/10/1/77/6880319
+4. "Vaginal self-lubrication following peritoneal, penile inversion, and colonic gender-affirming vaginoplasty: a physiologic, anatomic, and histologic review." *Sexual Medicine Reviews* **11**, no. 3 (2023), 212-223: [external link to abstract](https://academic.oup.com/smr/article-abstract/11/3/212/7146050)
 ## Sexualities
 1. "Science, Politics and Clinical Intervention: Harry Benjamin, Transsexualism and the Problem of Heteronormativity." *Sexualities* (2005): [external link to abstract](https://journals.sagepub.com/doi/abs/10.1177/1363460705049578)
 ## Sexualities, Evolution & Gender

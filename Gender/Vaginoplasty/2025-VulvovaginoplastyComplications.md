@@ -41,14 +41,14 @@ Quint, Meg and Frances Grimstad. "Management of Complications Associated with Vu
 18 Pariser, Joseph J and Nicholas Kim. "Transgender vaginoplasty: techniques and outcomes." *Translational Andrology and Urology* **8**, no. 3 (2019), 241-247: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC6626315/)
 19 Millman, Alexandra, Luca Morgantini, Ömer Acar, and Ervin Kocjancic. "Revision Clitorolabiaplasty and Urethroplasty After Gender-Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 4 (2022): [external link to article preview](https://www.sciencedirect.com/science/article/abs/pii/S1743609522002831)
 20 Blasdel, Gaines, Carmen Kloer, Augustus Parker, Elijah Castle, Rachel Bluebond-Langner, and Lee C. Zhao. "Coming Soon: Ability to Orgasm After Gender Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 5 (2022): [external link to abstract](https://academic.oup.com/jsm/article-abstract/19/5/781/6961290?redirectedFrom=fulltext&login=true)
-21
-23
-24
-27
-28
-29
-30
-31
+21 Grimstad, Frances, Hillary McLaren, and Meredith Gray. "The gynecologic examination of the transfeminine person after penile inversion vaginoplasty." *American Journal of Obstetrics and Gynecology* **224**, no. 3 (2021), 266-273: [external link](https://www.sciencedirect.com/science/article/pii/S0002937820311741) and [[2021-PostPIV-Gynecology|internal link]]
+23 O'Dwyer, Cormac, Sahil Kumar, Richard Wassersug, Amir Khorrami, Smita Mukherjee, Peter Mankowski, Krista Genoway, and Alexander G Kavanagh. "Vaginal self-lubrication following peritoneal, penile inversion, and colonic gender-affirming vaginoplasty: a physiologic, anatomic, and histologic review." *Sexual Medicine Reviews* **11**, no. 3 (2023), 212-223: [external link to abstract](https://academic.oup.com/smr/article-abstract/11/3/212/7146050)
+24 Sadeghi, Anahita, Ehsan Bahrami Hezaveh, and Ali Ali Asgari. "Ulcerative colitis in a transgender woman with a sigmoid neovagina: a case report." *International Journal of Colorectal Disease* **39**, no. 1 (2024): [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11233305/)
+27 
+28 
+29 
+30 
+31 
 # Tags
 #/2025 #ClinicalObstetricsandGynecology #FrancesGrimstad #GAS-complications #GAS-complications-clitoral #GAS-complications-cosmetics #GAS-complications-discharge #GAS-complications-fistula #GAS-complications-granulation #GAS-complications-hair #GAS-complications-hematoma #GAS-complications-hypergranulation #GAS-complications-pelvicfloor #GAS-complications-prolapse #GAS-complications-residualtissue #GAS-complications-sensation #GAS-complications-seroma #GAS-complications-sexualfunction #GAS-complications-stenosis #GAS-complications-urinary #GAS-complications-wounddehiscence #MegQuint #pelvicfloor #pelvicfloor-dysfunction #pelvicfloortherapy #post-op #scientificarticle #scientificjournal #sexuality-orgasm #trans #trans-sexuality #transgender-sexuality #transsexual-sexuality #transsexuality #vaginoplasty 
 
