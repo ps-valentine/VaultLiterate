@@ -62,7 +62,7 @@
 ## Journal of Plastic, Reconstructive & Aesthetic Surgery
 1. "Sexual reassignment surgery in female-to-male transsexuals: An algorithm for subcutaneous mastectomy." *Journal of Plastic, Reconstructive & Aesthetic Surgery* **68**, no. 2 (2015).
 ## Journal of Sexual Medicine
-1. "Ability to Orgasm After Gender Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 5 (2022): https://academic.oup.com/jsm/article-abstract/19/5/781/6961290?redirectedFrom=fulltext&login=true
+1. "Coming Soon: Ability to Orgasm After Gender Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 5 (2022): https://academic.oup.com/jsm/article-abstract/19/5/781/6961290?redirectedFrom=fulltext&login=true
 2. "Clitoral sensation and report of orgasm following vulvoplasty and vaginoplasty surgery in transgender women." *Journal of Sexual Medicine* **23**, no. 1 (2026): https://academic.oup.com/jsm/article-abstract/23/1/qdaf290/8315312
 3. "Comparison of Two Different Methods for Urethral Lengthening in Female to Male (Metoidioplasty) Surgery." *Journal of Sexual Medicine* **10**, no. 5 (2013): https://pubmed.ncbi.nlm.nih.gov/23444841/
 4. "Cutaneous Corpuscular Receptors of the Human Glans Clitoris: Descriptive Characteristics and Comparison with the Glans Penis." *The Journal of Sexual Medicine* **10**, no. 7 (2013): https://onlinelibrary.wiley.com/doi/abs/10.1111/jsm.12191
@@ -79,11 +79,12 @@
 15. "Nikolaj A. Bogoraz (1874-1952): Pioneer of Phalloplasty and Penile Implant Surgery." *The Journal of Sexual Medicine* **2**, no. 1 (2005), 139-146: https://academic.oup.com/jsm/article-abstract/2/1/139/6863025?redirectedFrom=fulltext&login=false
 16. "Outcome of Vaginoplasty in Male-to-Female Transgenders: A Systematic Review of Surgical Techniques." *The Journal of Sexual Medicine* **12**, no. 6 (2015), 1499-1512: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/25817066/)
 17. "Pelvic floor and sexual dysfunctions after genital gender-affirming surgery: a systematic review and meta-analysis." *The Journal of Sexual Medicine* **22**, no. 1 (2025), 184-195: https://academic.oup.com/jsm/article-abstract/22/1/184/7900248
-18. "Shallow-depth vaginoplasty: preoperative goals, postoperative satisfaction, and why shallow-depth vaginoplasty should be offered as a standard feminizing genital gender-affirming surgery option." *The Journal of Sexual Medicine* **20,** no. 11 (2023), 1333-1343: https://academic.oup.com/jsm/article-abstract/20/11/1333/7275762
-19. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
-20. "The Role of Pelvic Floor Physical Therapy in the Treatment of Pelvic and Genital Pain-Related Sexual Dysfunction." *The Journal of Sexual Medicine* **5**, no. 3 (2008), 513-523: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/18304280/)
-21. "Transsexualism in Serbia: A Twenty-Year Follow-Up Study." *The Journal of Sexual Medicine* **6**, no. 4 (2009), 1018-1023: [external link to article snippets](https://www.sciencedirect.com/science/article/abs/pii/S1743609515324759)
-22. "Urethral Complications After Metoidioplasty for Genital Gender Affirming Surgery." *The Journal of Sexual Medicine* **18**, no. 7 (2021), 1271-1279: [external link](https://academic.oup.com/jsm/article-abstract/18/7/1271/6956090?redirectedFrom=fulltext&login=true)
+18. "Revision Clitorolabiaplasty and Urethroplasty After Gender-Affirming Vaginoplasty." *The Journal of Sexual Medicine* **19**, no. 4 (2022): [external link to article preview](https://www.sciencedirect.com/science/article/abs/pii/S1743609522002831)
+19. "Shallow-depth vaginoplasty: preoperative goals, postoperative satisfaction, and why shallow-depth vaginoplasty should be offered as a standard feminizing genital gender-affirming surgery option." *The Journal of Sexual Medicine* **20,** no. 11 (2023), 1333-1343: https://academic.oup.com/jsm/article-abstract/20/11/1333/7275762
+20. "Subcutaneous mastectomy in female-to-male transsexuals: a retrospective cohort-analysis of 202 patients." *Journal of Sexual Medicine* **9**, no. 12 (2012): https://pubmed.ncbi.nlm.nih.gov/23035854/
+21. "The Role of Pelvic Floor Physical Therapy in the Treatment of Pelvic and Genital Pain-Related Sexual Dysfunction." *The Journal of Sexual Medicine* **5**, no. 3 (2008), 513-523: [external link to abstract](https://pubmed.ncbi.nlm.nih.gov/18304280/)
+22. "Transsexualism in Serbia: A Twenty-Year Follow-Up Study." *The Journal of Sexual Medicine* **6**, no. 4 (2009), 1018-1023: [external link to article snippets](https://www.sciencedirect.com/science/article/abs/pii/S1743609515324759)
+23. "Urethral Complications After Metoidioplasty for Genital Gender Affirming Surgery." *The Journal of Sexual Medicine* **18**, no. 7 (2021), 1271-1279: [external link](https://academic.oup.com/jsm/article-abstract/18/7/1271/6956090?redirectedFrom=fulltext&login=true)
 ## Journal of Urology
 1. "Vaginal Reconstruction Using Cecal and Sigmoid Bowel Segments in Transsexual Patients." *The Journal of Urology* **111**, no. 2 (1974), 217-219: [external link to article stub](https://www.auajournals.org/doi/abs/10.1016/S0022-5347%2817%2959931-0)
 ## Metabolism
