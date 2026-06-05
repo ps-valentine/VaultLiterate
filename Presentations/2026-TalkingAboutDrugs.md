@@ -87,4 +87,4 @@ A Harm Reduction Training Institute (HRTI) presentation by Alex Fillippelli (the
 - What do you get from using?
 - Are you aware of harm reduction practices?
 # Tags
-#/2026 #adultism #culturalhumility #harmreduction #harmreduction-youth #implicitbias
+#/2026 #adolescentdevelopment #adultism #culturalhumility #harmreduction #harmreduction-youth #implicitbias #rapport-building #substanceuse

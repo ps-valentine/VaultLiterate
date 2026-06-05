@@ -12,7 +12,8 @@ In their conversations, they sought ways to foster discussions that would:
 ## Acknowledgments
 ## Latinx Glossary
 ## [Session 1 (Recording)](https://vimeo.com/1195800525)
-## [Session 2 (Recording)](https://sfgov1-my.sharepoint.com/personal/michael_barack_sfdph_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmichael%5Fbarack%5Fsfdph%5Forg%2FDocuments%2FRecordings%2FLatinx%20Glossary%20Culture%2C%20Connection%2C%20and%20Care%20Rethinking%20Therapy%20with%20Latinx%20Communities%2D20260602%5F160342UTC%2DMeeting%20Recording%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebc8af15f%2D5875%2D4f91%2D9655%2Dd0b6cd6f072b&isDarkMode=true)
+## [Session 2 (Recording), DPH Link](https://sfgov1-my.sharepoint.com/personal/michael_barack_sfdph_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmichael%5Fbarack%5Fsfdph%5Forg%2FDocuments%2FRecordings%2FLatinx%20Glossary%20Culture%2C%20Connection%2C%20and%20Care%20Rethinking%20Therapy%20with%20Latinx%20Communities%2D20260602%5F160342UTC%2DMeeting%20Recording%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebc8af15f%2D5875%2D4f91%2D9655%2Dd0b6cd6f072b&isDarkMode=true)
+## [Session 2 (Recording), Vimeo Link](https://vimeo.com/1197875664?share=copy&fl=sv&fe=ci)
 ### Presenters
 Sal Núñez, PhD, MS
 Edith Guillén-Núñez, JD, LMFT
@@ -72,4 +73,4 @@ Edith Guillén-Núñez, JD, LMFT
 ## Other Resources
 - [Report: Immigrants in California's Health Workforce: How Federal Policy Changes Threaten Access to Care](https://www.chcf.org/resource/immigrants-california-health-care-workforce/?utm_source=AdaptiveMailer&utm_medium=email&utm_campaign=CHCF%20Weekly%20Newsletter&org=3351&lvl=100&ite=138&lea=7244&ctr=0&par=1&trk=)
 # Tags
-#/2026 #confianza #dignidad #familismo #personalismo #respeto #simpatia
+#/2026 #confianza #curandera #dignidad #EdithGuillén-Núñez #familismo #personalismo #pocho #recordings #recordings- #respeto #SálNúñez #self-disclosure #simpatia #traditionalhealing
