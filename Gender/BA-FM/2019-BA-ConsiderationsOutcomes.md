@@ -1,4 +1,4 @@
-Miller, Travis J, Stelios C Wilson, Jonathan P Massie, Shane D Morrison, and Thomas Satterwhite. "Breast augmentation in male-to-female transgender patients: Technical considerations and outcomes." *JPRAS Open* **21** (2019), 63-74: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC7061686/)
+Miller, Travis J, Stelios C Wilson, Jonathan P Massie, Shane D Morrison, and Thomas Satterwhite. "Breast augmentation in male-to-female transgender patients: Technical considerations and outcomes." *Journal of Plastic, Reconstructive & Aesthetic Surgery Open* **21** (2019), 63-74: [external link](https://pmc.ncbi.nlm.nih.gov/articles/PMC7061686/)
 # Breast augmentation in male-to-female transgender patients: Technical considerations and outcomes
 ## Abstract
 ### Introduction
@@ -15,6 +15,6 @@ Miller, Travis J, Stelios C Wilson, Jonathan P Massie, Shane D Morrison, and Tho
 ### Additional approaches and adjunctive procedures
 ## Results
 # Tags
-#/2019 #GAS-BA #GAS-FM #GAS-breastaugmentation #GAS-feminizingmammoplasty #JonathanPMassie #ShaneDMorrison #SteliosCWilson #ThomasSatterwhite #TravisJMiller
+#/2019 #GAS-BA #GAS-FM #GAS-breastaugmentation #GAS-feminizingmammoplasty #JPRASOpen  #JonathanPMassie #JournalofPlasticReconstructiveAestheticSurgery-Open #ShaneDMorrison #SteliosCWilson #ThomasSatterwhite #TravisJMiller
 
 #unfinished-notes #unfinished-references #unfinished-tags

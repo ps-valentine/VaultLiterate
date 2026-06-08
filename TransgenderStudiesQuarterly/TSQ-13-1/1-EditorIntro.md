@@ -1,6 +1,7 @@
-Galarte, Francisco J. "Executive Editor's Introduction." *TSQ: Transgender Studies Quarterly* **13**, no. 1 (2026), 1-3.
 # Trans Studies in the Long Nineteenth-Century Americas
 *TSQ: Transgender Studies Quarterly* **volume 13**, number1, February 2026, from Duke University Press.
+
+Galarte, Francisco J. "Executive Editor's Introduction." *TSQ: Transgender Studies Quarterly* **13**, no. 1 (2026), 1-3.
 ## Executive Editor's Introduction
 - "Through a myriad of conventional and unconventional forms of academic writing, this special issue stages a return to history, not to wholly counter the set of values and interests named above, but rather to complicate these values and ideals through what history reveals." (1)
 - "A transgender studies that returns to an interest in transitioning sex marks a return to embodiment and the material conditions surrounding the enterprise of transitioning sex. However, transitioning sex does not solely stand in for sex-reassignment surgeries or procedures. Instead, it returns to the body and embodiment and how embodiment interfaces with the structures of imperialism, settler colonialism, racialization, and nativism, for example." (2)
