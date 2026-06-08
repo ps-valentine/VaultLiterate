@@ -1,0 +1,6 @@
+Kaur, Manraj N., Shane D. Morrison, Shelby L. Kennedy, Tim C. van de Grift, Astrid Højgaard, Amalie Lind Jacobsen, Natasha Johnson, Margriet G. Mullender, Lotte Poulsen, Thomas Satterwhite, Richard A. Santucci, John Semple, Charlene Rae, Kinusan Savard, Jens Ahm Sørensen, Danny Young-Afat, Andrea L. Pusic, and Anne F. Klassen. "International study to develop a patient-reported outcome measure to evaluate outcomes of gender-affirming care - the GENDER-Q." *Journal of Patient-Reported outcomes* **8** (2024): [external link](https://qportfolio.org/wp-content/uploads/2024/12/Kaur-et-al.-2024_GENDER-Q-Phase-One.pdf)
+# International study to develop a patient-reported outcome measure to evaluate outcomes of gender-affirming care - the GENDER-Q
+# Tags
+#/2024 #AmalieLindJacobsen #AndreaLPusic #AneeFKlasen #AstridHøjgaard #CharleneRae #DannyYoung-Afat #GAC #gender-affirmingcare #GENDER-Q #JensAhmSørensen #JohnSemple #JournalofPatientReportedOutcomes #KinusanSavard #LottePoulsen #ManrajNKaur #MargrietGMullender #NatashaJohnson #PROM #PROMs #RichardASantucci #ShaneDMorrison #ShelbyLKennedy #ThomasSatterwhite #TimCvandeGrift #transgender
+
+#unfinished-notes #unfinished-references #unfinished-tags
