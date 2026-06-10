@@ -3,7 +3,7 @@ McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior
 ### **Exercise:** Describe Your Emotion
 This is the fourth exercise that will help you recognize and focus on your thoughts, emotions, and physical sensations. So far, the exercises in this chapter have helped you learn to be more mindful of your physical sensations and thoughts. This next exercise will help you become more mindful of your emotions. As with some of the other exercises, the instructions for this exercise might sound simple, but the results can be powerful. This exercise will ask you to choose an emotion and then to describe that emotion by drawing it and exploring it.
 
-So, to begin, pick an emotion. It can be either a pleasant or an unpleasant emotion. Ideally, you should choose an emotion that you're feeling right now, *unless that emotion is overwhelmingly sad or self-destructive.* If it is, you should wait until you feel more in control of your emotions before beginning this exercise. On the other hand, if you can't identify what you're feeling now, choose an emotion that you were feeling recently, something that you can easily remember. But, whichever you choose, try to be specific about what that emotion is. For example, if you got into a fight with your spouse or partner recently because he or she did something to you, that's the situation, not the...
+So, to begin, pick an emotion. It can be either a pleasant or an unpleasant emotion. Ideally, you should choose an emotion that you're feeling right now, *unless that emotion is overwhelmingly sad or self-destructive.* If it is, you should wait until you feel more in control of your emotions before beginning this exercise. On the other hand, if you can't identify what you're feeling now, choose an emotion that you were feeling recently, something that you can easily remember. But, whichever you choose, try to be specific about what that emotion is. For example, if you got into a fight with your spouse or partner recently because he or she did something to you, that's the situation, not the emotion. Maybe this situation made you feel angry, hurt, sad, stupid, or something else. Be specific about how you feel. Here's another example. Maybe someone recently gave you a gift. That's the situation. Your emotion would depend on how you felt about the gift. If it was something you've always wanted, you might feel elated. If the gift came from someone you don't know very well, you might feel anxious about its purpose. Be specific about how you feel.
 
 To help you choose an emotion, use this list of some commonly felt emotions.
 #### List of Commonly Felt Emotions
@@ -41,7 +41,7 @@ To help you choose an emotion, use this list of some commonly felt emotions.
 | Thrilled     | Vivacious    | Worthy     |
 When you finish identifying the emotion you want to explore, write it down at the top of the Describe Your Emotion form (on the next page) or use a blank piece of paper.
 
-Then, using your imagination, draw a picture...
+Then, using your imagination, draw a picture of what your emotion might look like. This might sound hard to do, but just do the best you can. For example, if you are feeling happy, maybe a picture of the sun expresses how you feel or maybe a picture of an ice-cream cone would do better. The picture doesn't have to make sense to anyone else but you. Just give it a try.
 
 Next, try to think...
 
