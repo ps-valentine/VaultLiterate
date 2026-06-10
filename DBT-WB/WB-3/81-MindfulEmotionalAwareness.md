@@ -1,36 +1,32 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 3: Basic Mindfulness Skills</b> (p. 63-83)</h1></center>
-### **Exercise:** Focus Shifting
-The next...
+### **Exercise:** Mindful Awareness of Emotions
+This Mindful Breathing exercise...
 
-At some...
+In order to...
 
-Before starting...
+Read the instructions...
 
-Read the...
+When using mindful...
 
-If you need to, set a time for five to ten minutes for this exercise.
+This is such a simple and powerful skill that, ideally, you should practice it every day.
 #### *Instructions*
-*To begin...*
+*Take a long, slow...*
 
-*Now close...*
+*Now turn your attention...*
 
-*Now open...*
+*Now look for words...*
 
-*When you've...*
+*Keep observing your...*
 
-*Now, keeping...*
-
-*When you have...*
-
-*Once again, redirect...*
-
-*When you have...*
-
-*Now, finally, redirect...*
-
-*When you've finished, take three...*
+*Thoughts, physical sensations, and other distractions...*
+## Conclusion
+You've now learned some basic mindfulness skills. Hopefully, you have a better understanding of how your mind works and why these skills are important to learn. You should continue using them on a daily basis. In the next chapter, you will build on these skills and learn more advanced mindfulness skills.
 # Tags
+#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood  #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
+
+#unfinished-notes
+# Standard Tags
 #/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood  #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
 
 #unfinished-notes

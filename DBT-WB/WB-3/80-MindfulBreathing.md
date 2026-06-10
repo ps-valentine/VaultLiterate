@@ -1,35 +1,27 @@
 McKay, Matthew, Jeffrey C. Wood, and Jeffrey Brantley. *The Dialectical Behavior Therapy Skills Workbook.* New Harbinger Publications, Inc., 2007. 5th edition.
 <h1><center><b> Chapter 3: Basic Mindfulness Skills</b> (p. 63-83)</h1></center>
-### **Exercise:** Focus Shifting
-The next...
+### **Exercise:** Mindful Breathing
+This Mindful Breathing exercise...
 
-At some...
+In order to...
 
-Before starting...
+Read the instructions...
 
-Read the...
+When using mindful...
 
-If you need to, set a time for five to ten minutes for this exercise.
+This is such a simple and powerful skill that, ideally, you should practice it every day.
 #### *Instructions*
 *To begin...*
 
-*Now close...*
+*To begin, take...*
 
-*Now open...*
+*Now, as you...*
 
-*When you've...*
+*This time, though, as you...*
 
-*Now, keeping...*
+*Now, lastly, begin to...*
 
-*When you have...*
-
-*Once again, redirect...*
-
-*When you have...*
-
-*Now, finally, redirect...*
-
-*When you've finished, take three...*
+*Keep breathing until your alarm goes off. Continue counting your breaths, noticing the physical sensation of your breathing and letting go of any distracting thoughts or other stimuli. Then, when your alarm goes off, slowly open your eyes and return your focus to the room.*
 # Tags
 #/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood  #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
 
