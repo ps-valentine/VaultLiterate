@@ -49,9 +49,9 @@ Then describe an action that "fits" your emotion. For example, if you are feelin
 
 The next step of this exercise it to describe the intensity of the emotion on which you're focusing. This will require some thought. Do your best to describe the strength of this emotion. Feel free to be creative and use metaphors if you need to. For example, if you are feeling very nervous, you might write that the feeling is so strong that your "heart feels like a drum at a rock concert." Or if you are only feeling a little angry, you might write that the intensity is like a "mosquito bite."
 
-After describing the intensity of the emotion, briefly describe...
+After describing the intensity of the emotion, briefly describe the overall quality of what the emotion feels like. Again, feel free to be as creative as you need to be in your description. If you are nervous, maybe it makes you feel like your "knees are made of jelly." Or if you are getting angry, it might make you feel like "water that's about to boil." Be as accurate as you can in your description and be as creative as you need to be in order to convey your feelings.
 
-Finally, add any thoughts that arise due to your emotion. But be clear that what you describe is a thought and not another emotion. For example, don't choose...
+Finally, add any thoughts that arise due to your emotion. But be clear that what you describe is a thought and not another emotion. For example, don't choose any of the words in the list above to describe your thoughts. Those are emotions, not thoughts. Your thoughts should be able to finish the following sentences: "My emotion makes me think that..." or "My emotion makes me think about..." It's important that you begin separating your thoughts and your emotions because this will give you better control over both of them in the future. Here are some examples of thoughts that can arise from emotions. If you are feeling confident, a related thought might be that you think you can ask your boss for a raise, or it makes you remember other times in your life when you felt confident and were successful. Or if you are feelin fragile, a related thought could be that you think you can't handle any more stress in your life, or it makes you think about how you're going to struggle with future problems if you don't get stronger.
 #### Describe Your Emotions
 Name the emotion: 
 
@@ -71,20 +71,4 @@ Describe the quality of the emotion:
 
 Describe thoughts related to the emotion: 
 # Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood  #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness #worksheet
-
-#unfinished-notes
-# Standard Tags
-#/2007 #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood  #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness 
-
-#unfinished-notes
-# Tags Bank
-#AUD #addiction #affirmations #anatomy #angermanagement #anxiety #bingeeating #chronicpain #cosmology #crying #cutting #DBT-breathing #DBT-visualization #depression #distresstolerance #eatingdisorder #endorphins #ethics #grounding #isolation #meditation-safeplace #mentalhealth-self-talk #musclerelaxation #overhwelmingemotions #painmanagement #perception #perception-time #pleasurableactivities #resilience #self-harm #spirituality #streamofconsciousness #substanceuse #substanceuse-alcohol #suicidality #thoughtdefusion #wisemind
-
-#ARMurrell #AnnOMassion #BrendanHallett #DovberPinson #JCOlerud #JMarkGWilliams #JeanLKristeller #JohnDTeasdale #JonKabat-Zinn #JudithMSoulsby #KGWilson #KellyGWilson #KennethEFletcher #KirkDStrosahl #LeslieLipworth #LindaGayPeterson #LoriPbert #MarkALau #MarshaMLinehan #MichaelCGemar #PemaChodron #PirVilayatInayatKhan #RobertBurney #RuthABaer #SakiFSantorelli #StevenCHayes #theGrandCanyon #ThomasMerton #ValerieARidgeway #WSellers #WalpolaRahula #WilliamRLenderking #ZindelVSegal
-
-#CW-abuse #CW-self-harm #CW-substanceabuse #CW-substancemisuse #CW-suicide
-
-#tone-instructional #tone-motivational #tone-self-help
-
-#list #questionnaire #worksheet
+#/2007 #anxiety #copingtools #DBT #DBT-exercise #DBTgreenbook #DBTworkbook #emotionalawareness #exteroception #genre-self-help #interoception #JeffreyBrantley #JeffreyCWood  #MatthewMcKay #meditation  #mentalhealth #mindfulness #radicalacceptance #self-regulation #self-soothing #sensoryawareness #worksheet
