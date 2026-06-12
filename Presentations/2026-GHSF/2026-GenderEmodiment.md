@@ -1,7 +1,7 @@
 **Presenters:** Layla Welborn (she/her) and Kelly Hansen (they/them)
 
 **Facilitators:** Jenna Rapues (she/her) and Ray Lockhart (he/they)
-# Gender embodiment conversations with GHSF
+# [[20260610-GHSF-GenderEmodiment.pdf|Gender embodiment conversations with GHSF]]
 ## Learning Goals
 1. Define gender dysphoria and gender incongruence.
 2. Use tools and strategies to explore gender identity with clients.
