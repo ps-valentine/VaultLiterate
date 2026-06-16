@@ -136,4 +136,4 @@ Edith Guillén-Núñez, JD, LMFT
 - **Valuing community-defined evidence.** Healing practices rooted in culture, lived experience, and community outcomes can be as meaningful as formal EBPs.
 - **Carrying cultural responsibility.** Clinicians often act as advocates, cultural translators, and educators within their organizations.
 # Tags
-#/2026 #confianza #curandera #dignidad #EdithGuillén-Núñez #familismo #personalismo #pocho #recordings #recordings- #respeto #SálNúñez #self-disclosure #simpatia #traditionalhealing
+#/2026 #confianza #culturalhumility #curandera #dignidad #EdithGuillén-Núñez #familismo #personalismo #pocho #recordings #recordings- #respeto #SálNúñez #self-disclosure #simpatia #traditionalhealing
