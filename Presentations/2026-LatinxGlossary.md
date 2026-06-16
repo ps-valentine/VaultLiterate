@@ -24,7 +24,7 @@ Edith Guillén-Núñez, JD, LMFT
 - Jesus Solorio
 - Metzi Henriquez
 	- de El Salvador
-#### Prompts/Questions for Panelists
+### Prompts/Questions for Panelists
 - Please discuss and provide examples of how the key Latinx cultural values are embedded in your clinical approach.
 	- Showing-up as a full human despite being a clinician (*personalismo*).
 		- Introducing himself, where your people are from, what they should know about you...
@@ -72,5 +72,68 @@ Edith Guillén-Núñez, JD, LMFT
 	- "What brought you to this country?" The story can often highlight or connect with patient's experiences with racism, oppression, etc. and open the door to conversation around that.
 ## Other Resources
 - [Report: Immigrants in California's Health Workforce: How Federal Policy Changes Threaten Access to Care](https://www.chcf.org/resource/immigrants-california-health-care-workforce/?utm_source=AdaptiveMailer&utm_medium=email&utm_campaign=CHCF%20Weekly%20Newsletter&org=3351&lvl=100&ite=138&lea=7244&ctr=0&par=1&trk=)
+## Session 3 (Recording), DPH Link
+## Session 3 (Recording), Vimeo Link
+### Presenters
+Sal Núñez, PhD, MS
+Edith Guillén-Núñez, JD, LMFT
+### Panelists
+- Carlos Disdier
+	- de Puerto Rico
+- Francisca Oropeza
+- Jesus Solorio
+- Metzi Henriquez
+	- de El Salvador
+### Building Trusting Relationship with Monolingual Spanish-Speaking Clients
+### Key Insights
+- Create a warm, welcoming space (culturally relevant décor, food, friendly greetings, orientation to clinic)
+- Foster safety by clarifying confidentiality and reassuring clients about immigration concerns
+- Review paperwork together, supporting literacy needs while preserving dignity
+- Explain the psychotherapy process to reduce stigma and increase comfort
+- Promote collaboration and empowerment; invite questions and shared decision-making
+- Explore values and worldviews (spirituality, familismo, collectivism, traditions, language use)
+- Understand family, community, and social supports as central to the client's experience
+- Use physical touch thoughtfully and only with permission; consider gender and boundaries
+- Practice culturally fluent self-disclosure to build confianza (trust) and human connection
+### Terminology & Language in Clinical Practice
+- **Build safety through clarity.** Explain confidentiality, consent, and reporting as *protección* and *seguridad*.
+- **Center the client's meaning.**
+	- Use their words first (mirroring) because they possess power to shape reality, heal, and foster harmony.
+	- Ask what symptoms mean to them, as they can be spiritually related or a sense of imbalance.
+	- Offer common sense, culturally relevant explanations.
+- **Use cultural bridges.**
+	- Metaphors support understanding and emotional expression.
+	- Honor expressions like *desahogo* or *me duele el alma*.
+- **Respect cultural language norms.**
+	- Use *usted* when appropriate.
+	- "We" language can reflect connection and shared experience.
+### Culturally Affirming Practice
+- Culturally affirming care moves beyond merely adapting established models...
+- **Centering context.**
+	- Recognizing the impact of immigration, racism, poverty and lack of basic needs on mental health.
+	- Integrating advocacy, care management, and warm access to resources with dignity and respect.
+- **Practicing flexibility.**
+	- Adapting scheduling, assessments, communication, and treatment structure.
+	- Prioritizing access and relationships over rigid protocols.
+- **Building relational trust.**
+	- Using appropriate self-disclosure, authenticity, and emotional responsiveness.
+	- Valuing *personalismo*, *familismo*, and human connection.
+- **Honoring cultural healing practices.** Incorporating spirituality, rituals, community healers, and meaningful ceremonies.
+- **Recognizing the role of food and hospitality.** Food can signal care, dignity, and connection - strengthening the therapeutic alliance.
+### Latinx Cultural Value
+- Culturally affirming therapy integrates relational and community-based values.
+- **Relationship first (*personalismo* and *confianza*).** Build warmth, trust, and human connection through conversation, appropriate self-disclosure, and humor.
+- **Family as central (familismo).**
+	- Assess well-being within family, migration, and community context.
+	- Supporting the family supports the individual.
+- **Respect and dignity (*respeto* and *dignidad*).** Use collaborative language, protect client dignity, and acknowledge power dynamics.
+- **Harmony and connection (*simpatia*).** Foster kindness, emotional attunement, and welcoming interactions.
+- **Cultural ways of knowing.** Use *dichos*, storytelling, spirituality, and shared narratives to build meaning and engagement.
+### Other Themes in Cultural Affirming Practice
+- Tensions and unique responsibilities clinicians navigate...
+- **Seeking validation of culturally grounded practice.** Cultural and traditional healing may be primary for clients, even if seen as "alternative" in Western models.
+- **Navigating documentation demands.** Clinical notes often require translating or "code-switching" culturally responsive work into Western terminology.
+- **Valuing community-defined evidence.** Healing practices rooted in culture, lived experience, and community outcomes can be as meaningful as formal EBPs.
+- **Carrying cultural responsibility.** Clinicians often act as advocates, cultural translators, and educators within their organizations.
 # Tags
 #/2026 #confianza #curandera #dignidad #EdithGuillén-Núñez #familismo #personalismo #pocho #recordings #recordings- #respeto #SálNúñez #self-disclosure #simpatia #traditionalhealing
