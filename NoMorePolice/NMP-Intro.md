@@ -3,6 +3,7 @@ Kaba, Mariame and Andrea J. Ritchie. *No More Police. A Case for Abolition*. The
 ## Introduction
 
 # Tags
+#/2022 #abolition #abolition-police #abolition-prison #abolitionistethics #AndreaJRitchie #MariameKaba 
 
 # Standard Tags
 #/2022 #abolition #abolition-police #abolition-prison #abolitionistethics #AndreaJRitchie #MariameKaba
