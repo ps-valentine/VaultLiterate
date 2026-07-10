@@ -1,0 +1,14 @@
+Riveira, Sylvia and Marsha P. Johnson. *Street Transvestite Action Revolutionaries: Survival, Revolt and Queer Antagonist Struggle*, edited by Ehn Nothing. Untorelli Press, 2013: [external link](https://transreads.org/wp-content/uploads/2019/03/2019-03-17_5c8dc8507f026_STARcopy.pdf)
+# Street Transvestite Action Revolutionaries: Survival, Revolt and Queer Antagonist Struggle
+## Introduction: Queens Against Society
+*by Ehn Nothing*
+- "It seems obvious that the study of history is a necessary element of continued wat against the present world. There are tools lying in every failed insurrection, every temporarily-established zone of free play, every campaign of sabotage that ended in a jail cell or shootout. To ignore these lessons is to forfeit valuable weaponry and strategic insight. History is a weapon.
+  
+  Additionally, creating a narrative of revolt against the constraints of civilizations gives us a lineage to draw motivation from, to keep us warm when we feel broken under the weight of this miserable world. By understanding ourselves as part of an ongoing war that has been raging for 12,000 years, we dynamite a history that would keep us as either spectators or pawns in a theater created by bosses, politicians, and police. History is a compass" (3)
+- "As individuals who would like to see the entire tradition of managed revolution go up in flames, it is not for us to establish the dead as heroic martyrs, but rather to understand them as individuals like us, exemplary in the context of pacified contentment, but flawed nonetheless. To "honor our dead," then, cannot take the form it takes for the religious purists (whether they be Catholic or Leninist in nature), but can only exist as sustained attack against society and the proliferation of spaces and relationships from which that attack can be realized." (3)
+- "Underlying these attacks is an ecology of revolt that extends far beyond any specific smashed window, glued lock, or torched police car. Our relationships of support, our solidarity with imprisoned comrades, our criminal intimacies, our squats, our syntheses of survival and attack are the materials from which our insurrectional practice springs forth." (3)
+- "It is with this in mind that I wish to critically engage with STAR (Street Transvestite Action Revolutionaries) and its activities in the post-Stonewall gay liberation movement... the failures and limits of STAR are of more interest to me than mythologized stories of Sylvia Riveira throwing shoes or bricks or Molotov cocktails at police during the Stonewall riots. I hope to engage STAR as a historical weapon and as a precedent of contemporary queer insurrectional projects." (3-4)
+# Tags
+#/2013 #EhnNothing #MarshaJohnson #queer-history #STAR #StreetTransvestiteActionRevolutionaries #SylviaRiveira #UntorelliPress
+
+#unfinished-notes #unfinished-references
