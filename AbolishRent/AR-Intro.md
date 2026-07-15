@@ -1,0 +1,12 @@
+Rosenthal, Tracy and Leonardo Vilchis. *Abolish Rent: How Tenants Can End the Housing Crisis*. Haymarket Books, 2024.
+# Abolish Rent: How Tenants Can End the Housing Crisis
+## Introduction (p. 1-8)
+- "Los Angeles often shows us the future of the whole country. As the Untied States incorporated LA's territory, annexing Mexico and ethnically cleansing the Tongva people -- for whom the land was home for seven thousands years -- the city innovated legal settlement and subjugation. More than half a century before land values became a central business of urban centers everywhere, LA's boosters were divvying downtown parcels to flip, inspiring a literary and film genre -- noir -- to describe real estate's political influence." (1)
+- "In 1980, LA earned the title of 'homeless capital of America.' We still claim the largest number of unsheltered people." (2)
+- "Disproportionately shut out of homeownership or included only under predatory terms, people of color and immigrants have long found themselves exploited and oppressed within the US property regime -- shunted into the subordinate status of tenants, segregated, and subject to price gouging. But that status has expanded. Intergenerational wealth transfers, rather than income, have become the determining factor of access to owning a home. Millennials can count themselves as the first generation whose relationship to housing has been shaped by this new American order." (2)
+- "We met in 2012 in a warehouse-turned-community gallery in Cypress Park. The space was both a symptom of and a response to a process we discussed that day, often euphemized as "neighborhood change,"but better known as gentrification." (2-3)
+- "Alongside a small, multiracial and -generational group, we helped form School of Echoes. Our collective spent a few years listening: to STAY in Echo Park, where a gang injunction meant youth of color could be jailed just for sitting together outside; to residents of Frogtown, where a new public park arrived after half of all neighborhood properties had changed hands in three years; to Needle Exchange in Hollywood, where harm reduction operations had to keep up with stepped-up encampment sweeps; to Union de Vecinos, a Boyle Heights union of neighbors Leo had cofounded in 1996 to fight the demolition of more than nine hundred public apartments." (3)
+# Tags
+#/1980 #/1996 #/2012 #/2024 #HaymarketBooks #housing #LeonardoVilchis #landlords #LosAngeles #noir #rent #Tongva #TracyRosenthal
+
+#unfinished-notes #unfinished-tags
